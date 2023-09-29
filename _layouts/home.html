@@ -8,22 +8,28 @@ layout: default
       <h1>{{ site.title }}</h1>
     </div>
   </div>
-  <div class="row">
-    <div class="col">
-      <ol class="p-0">
-        {% for object in site.objects %}
-        <li>
-          <a href="{{ object.url }}">{{ object.title }}</a> by 
+  <div class="row mt-5">
+    {% for object_page in site.objects %}
+    <div class="col-xl-3 col-lg-4 mb-3">
+          <a href="{{ object_page.url }}">{{ object_page.title }}</a> 
+          <p class="mt-2">
+          <br/>written by 
             <!-- loop over project autors using people id -->
-            {% for author in object.authors %}
-              {% assign person = site.people | where: "slug", author | first %}
-              {{ person.title }}
+            {% for author in object_page.authors %}
+              {% include author_name.html %}
               {% if forloop.first %} {% else %}, {% endif %}
             {% endfor %}
-        </li>
-        {% endfor %}
-      </ul>
-
+          <br/>
+          {% if object_page.date %}{{ object_page.date | date: "%B %-d, %Y" }}{% endif %}
+        </p>
+          <blockquote class="mt-2">
+            {{ object_page.abstract }}
+          </blockquote>
+      
+      </div>
+      {% endfor %}
+      </div>
+      <div class="row">
 {{ page.content }}
 
     </div>

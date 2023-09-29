@@ -1,11 +1,23 @@
 ---
 title: The Timeless Elegance of the Gramophone
+abstract: The Gramophone, an iconic symbol of bygone eras, holds a special place in the annals of music history.
 authors:
   - daniele-guido
+  - frederic-reis
 
-event_human_date: October/November 1877
-event_start_date: 1877-10-01
-event_end_date: 1877-11-30
+date: 2020-01-01
+
+object_date: October/November 1877
+object_start_date: 1877-10-01
+object_end_date: 1877-11-30
+object_wikidata_id: Q7112808
+
+cover:
+  src: /assets/images/gramophone.jpg
+  alt: Gramophone
+  caption: Gramophone
+  license: Public Domain
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c0/Graphophone1901.jpg
 ---
 
 ## A Glimpse into History
