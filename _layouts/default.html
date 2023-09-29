@@ -2,7 +2,7 @@
 <html lang="{{ page.lang }}">
   <head>
     <meta charset="utf-8" />
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }} {{ site.title}}</title>
     <meta name="description" content="{{ page.description }}" />
     <link
       href="https://api.fontshare.com/css?f[]=melodrama&display=swap"
@@ -21,19 +21,41 @@
       body {
         --bs-body-bg: #fcedda;
       }
-      h1 {
+      h1,
+      h2,
+      h3 {
         font-family: 'Melodrama', serif;
         /* this is a variable font */
-        font-weight: 375;
+        font-weight: 700;
 
-        font-variation-settings: 'wght' 375;
+        font-variation-settings: 'wght' 700;
 
-        font-size: 20vh;
+        font-size: 5rem;
         color: #ee4e34;
         line-height: 1em;
       }
       body.home h1 {
         max-width: 400px;
+      }
+
+      h2,
+      h3 {
+        color: inherit;
+        font-weight: 575;
+
+        font-variation-settings: 'wght' 5375;
+        font-size: 2rem;
+        line-height: 1em;
+        padding-bottom: 1rem;
+        padding-top: 2rem;
+      }
+
+      p {
+        line-height: 1.5em;
+      }
+      ul {
+        list-style: none;
+        padding: 0;
       }
     </style>
   </head>
