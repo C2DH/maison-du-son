@@ -20,6 +20,7 @@
       }
       body {
         --bs-body-bg: #fcedda;
+        background-color: var(--bs-body-bg);
       }
       h1,
       h2,
@@ -27,7 +28,6 @@
         font-family: 'Melodrama', serif;
         /* this is a variable font */
         font-weight: 700;
-
         font-variation-settings: 'wght' 700;
 
         font-size: 5rem;
@@ -43,7 +43,7 @@
         color: inherit;
         font-weight: 575;
 
-        font-variation-settings: 'wght' 5375;
+        font-variation-settings: 'wght' 575;
         font-size: 2rem;
         line-height: 1em;
         padding-bottom: 1rem;
@@ -57,9 +57,30 @@
         list-style: none;
         padding: 0;
       }
+      body {
+        display: flex;
+      }
+      body > aside {
+        flex-shrink: 1;
+        padding: 2rem;
+      }
+      body > main {
+        flex-grow: 1;
+        padding: 2rem;
+      }
+      body > aside > h1 {
+        font-size: 1.3em;
+        font-weight: 575;
+        margin-bottom: 2rem;
+        font-variation-settings: 'wght' 575;
+      }
+      body > aside > ul > li {
+        padding: 0 0 0.5rem;
+      }
     </style>
   </head>
   <body class="{{page.layout}}">
-    {{content}}
+    <aside>{% include menu.html %}</aside>
+    <main>{{content}}</main>
   </body>
 </html>
