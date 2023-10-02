@@ -1,6 +1,10 @@
 ---
 title: this is the Telefunken Universal Super with Radio Luxemburg button
 abstract: "This radio is an icon of radio history as it had the green Radio Luxemburg button to immediately tune into one of the most popular radio stations in Europe."
+author:
+  -andreas-fickers
+
+date: 2022.01.12
 ---
 
 **Per Knopfdruck nach Luxemburg**
