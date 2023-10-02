@@ -75,7 +75,7 @@ date: 2020-01-01
 object_start_date: 1877-10-01
 object_end_date: 1877-11-30
 object_date: October/November 1877
-
+object_wikidata_id: Q7112808
 ---
 ```
 
