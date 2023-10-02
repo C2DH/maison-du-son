@@ -2,4 +2,4 @@
 title : Célia Hamissi
 ---
 
-I am Célia Hamissi...  [this is my link](https://github.com/celiahamissi)
+Célia Hamissi is a student at the University of Luxembourg in Master Histoire Européenne Contemporaine.[this is my link](https://github.com/celiahamissi)
