@@ -17,7 +17,9 @@
     <meta property="og:type" content="{{ page.type }}" />
     <!-- add twitter card  -->
     <meta name="twitter:card" content="summary" />
-    {%if page.date %}
+    <meta name="twitter:image" content="{% if page.cover %}{{ page.cover.src |
+    absolute_url}}{% else %}{{ "/assets/images/maison-du-son.png" |
+    absolute_url}}{% endif %}" /> {%if page.date %}
     <meta name="twitter:label1" content="Date" />
     <meta name="twitter:data1" content="{{ page.date | date: "%B %-d, %Y" }}" />
     {% endif %} {% if page.authors %}
