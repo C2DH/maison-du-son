@@ -1,6 +1,6 @@
 ---
 title: luca uhrig 
 ---
-aaaaaaaa
+I am a student at the University of Luxembourg and specialize in economic history. This is my first time working on such a subject.
 ---
---- Philipps *mignon* [not a radio/https://www.google.com/search?q=brackets&rlz=1CACNAW_enLU939LU939&oq=bracket&aqs=chrome.0.0i512j69i57j0i512l8.1728j0j1&sourceid=chrome&ie=UTF-8]
+ <a href = "https://twitter.com/elhotzo/status/1708828716506190175"> this is not important </a>
