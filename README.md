@@ -11,9 +11,10 @@ template: page
 
 This Jekyll project is a collection of biographies of objects, written in a creative and engaging way, using a variety of media.
 
-To work together, we use GitHub, a web-based platform for version control and collaboration. It is a place to store, manage, and track changes to files, including code and documents. It is used by developers, researchers, and many other professionals.
 
-## Why use Github for this project?
+## Why do we use Github for this project?
+
+To work together, we use GitHub, a web-based platform for version control and collaboration. It is a place to store, manage, and track changes to files, including code and documents:
 
 **Collaboration**: Historians and scholars can work together on this research projects and see who did what at a glance.
 
@@ -21,15 +22,35 @@ To work together, we use GitHub, a web-based platform for version control and co
 
 **Documentation**: Detailed commit messages provide context for changes and give better understanding of the project and its evolution.
 
+**simpler markup**: with Markdown "a lightweight markup language for creating formatted text using a plain-text editor." See [Markdown page on Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+
 **Hosting**: any _push_ to master branch modify the website [Maison du Son](https://maison-du-son.netlify.app). Any _pull request_ to master branch publish a version of Maison du SOn website available to everyone to test your recent changes.
 
-## How to add an object
+Relevant documentation:
+- introduciton on git and GitHub by [SwCarpentry: Version Control with Git](https://swcarpentry.github.io/git-novice/) 
+- a now retired version of [Programming Historians: Getting Started with Github Desktop](https://programminghistorian.org/en/lessons/retired/getting-started-with-github-desktop)
+- a [Markdown cheatsheet for Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## How to join the project
+Join the [C2DH/maison-du-son/discussions](https://github.com/C2DH/maison-du-son/discussions) thread to be added as project members, or feel free to clone this repository and do a pull request from your own version.
+
+## How to add a person bio
+The authors are identified by their file name in the `_people` folder, without the extension. For example, if the author is "Alexander Grimm", the file name should be "alexander-grimm.md".
+The minimal version of an author markdown file:
+
+```md
+---
+title: Alexander Grimm
+---
+```
+
+
+## How to add an object
 In `_objects` folder, create a new file with the name of the object, in lowercase, with dashes instead of spaces and use `md`as extension. For example, if the object is a "Gramophone", the file name should be "gramophone.md".
 
 In the file, add the following front matter:
 
-```
+```md
 ---
 title: "Gramophone"
 authors:
@@ -37,11 +58,10 @@ authors:
 ---
 ```
 
-The `title` is the name of the object, the `authors` is a list of the authors of the object biography. The authors are identified by their file name in the `_people` folder, without the extension. For example, if the author is "Alexander Grimm", the file name should be "alexander-grimm.md".
-
+The `title` is the name of the object, the `authors` is a list of the authors of the object biography, identified by their file name in the `_people` folder (see above).
 There are additional metadata that can be added to the front matter:
 
-```
+```md
 ---
 title: "Gramophone"
 authors:
@@ -56,7 +76,7 @@ object_start_date: 1877-10-01
 object_end_date: 1877-11-30
 object_date: October/November 1877
 
-
-
 ---
 ```
+
+
