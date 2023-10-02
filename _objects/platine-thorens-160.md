@@ -4,3 +4,17 @@ abstract: The Platine Thorens 160 is one of most iconic object of the 70s, and s
 authors:
   - celia-hamissi
 ---
+
+
+
+# Introduction
+blablabla
+
+## More Title 
+blablabla
+
+### Final Title (hopefully) 
+blablabla
+
+#### conclusion
+THE END.
