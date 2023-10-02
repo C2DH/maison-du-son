@@ -5,4 +5,4 @@ authors:
  - benjamin-juchem
 ---
 
-The Bush TR82 is one of the iconic vintage radio receivers. Initially produced in 1959 in U.K, This portable radio quickly became popular, thanks in particular to its advertising slogan "Be the Girl with the Bush".
+The Bush TR82 is one of the iconic vintage radio receivers. Initially produced in 1959 in U.K., this portable radio quickly became popular, thanks in particular to its advertising slogan "Be the Girl with the Bush".
