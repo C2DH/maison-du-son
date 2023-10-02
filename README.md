@@ -21,7 +21,7 @@ To work together, we use GitHub, a web-based platform for version control and co
 
 **Documentation**: Detailed commit messages provide context for changes and give better understanding of the project and its evolution.
 
-**simpler markup**: with Markdown "a lightweight markup language for creating formatted text using a plain-text editor." See [Markdown page on Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+**Simpler markup**: Every webpage is written in Markdown, "a lightweight markup language for creating formatted text using a plain-text editor." See [Markdown page on Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 
 **Hosting**: any _push_ to master branch modify the website [Maison du Son](https://maison-du-son.netlify.app). Any _pull request_ to master branch publish a version of Maison du SOn website available to everyone to test your recent changes.
 
@@ -78,6 +78,7 @@ There are additional metadata that can be added to the front matter:
 ```md
 ---
 title: 'Gramophone'
+abstract: The Gramophone, an iconic symbol of bygone eras, holds a special place in the annals of music history.
 authors:
   - alexander-grimm
 editors:
@@ -91,4 +92,10 @@ object_end_date: 1877-11-30
 object_date: October/November 1877
 object_wikidata_id: Q7112808
 ---
+
+A nice introduction to your object.
+
+## Your first Subheading
+
 ```
+
