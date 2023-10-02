@@ -2,9 +2,12 @@
 layout: page
 title: How to ...
 permalink: /readme
+template: page
 ---
 
-# maison-du-son
+# Maison du Son
+
+<!-- more -->
 
 This Jekyll project is a collection of biographies of objects, written in a creative and engaging way, using a variety of media.
 
