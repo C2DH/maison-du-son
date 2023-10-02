@@ -9,10 +9,8 @@ layout: default
       <div class="my-5">
         written by: {% for author in page.authors %}<b
           >{% include author_name.html %}</b
-        >
-
-        {% endfor %} &mdash; {% if page.date %}{{ page.date | date: "%B %-d, %Y"
-        }}{% endif %}
+        >{% if forloop.last %}{% else %}, {% endif %}{% endfor %} &mdash; {% if
+        page.date %}{{ page.date | date: "%B %-d, %Y" }}{% endif %}
       </div>
 
       <section class="Object__metadata">

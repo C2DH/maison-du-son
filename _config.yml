@@ -37,6 +37,8 @@ collections:
     output: true
     permalink: /objects/:slug/
   people:
+    output: true
+    permalink: /people/:slug/
 
 defaults:
   - scope:
@@ -44,6 +46,11 @@ defaults:
       type: 'objects'
     values:
       layout: 'object'
+  - scope:
+      path: ''
+      type: 'people'
+    values:
+      layout: 'person'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
