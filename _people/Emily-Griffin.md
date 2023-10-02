@@ -1,4 +1,4 @@
 ---
-title : Emily Griffin bio
+title : Emily Griffin
 ---
-I am Emily Griffin. {https://memesboy.com/19-very-funny-cats-meme-that-make-you-smile/}
+I am Emily Griffin. 
