@@ -1,6 +1,24 @@
+---
+layout: page
+title: How to ...
+permalink: /readme/
+---
+
 # maison-du-son
 
 This Jekyll project is a collection of biographies of objects, written in a creative and engaging way, using a variety of media.
+
+To work together, we use GitHub, a web-based platform for version control and collaboration. It is a place to store, manage, and track changes to files, including code and documents. It is used by developers, researchers, and many other professionals.
+
+## Why use Github for this project?
+
+**Collaboration**: Historians and scholars can work together on this research projects and see who did what at a glance.
+
+**Version Control**: Track changes of any files and revert to previous versions.
+
+**Documentation**: Detailed commit messages provide context for changes and give better understanding of the project and its evolution.
+
+**Hosting**: any _push_ to master branch modify the website [Maison du Son](https://maison-du-son.netlify.app). Any _pull request_ to master branch publish a version of Maison du SOn website available to everyone to test your recent changes.
 
 ## How to add an object
 
@@ -30,17 +48,12 @@ editors:
 translators:
   - jacob-ludwig-karl-grimm
 date: 2020-01-01
-event_start_date: 1877-10-01
-event_end_date: 1877-11-30
-event_human_date: October/November 1877
+
+object_start_date: 1877-10-01
+object_end_date: 1877-11-30
+object_date: October/November 1877
 
 
 
 ---
-```
-
-## For developers
-
-```
-
 ```

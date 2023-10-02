@@ -24,14 +24,15 @@
       <td>end date</td>
       <td>{{ page.object_end_date | date: "%B %-d, %Y"}}</td>
     </tr>
-    {% endif %} {% if page.object_wikipedia_id %}
+    {% endif %}
+    {% if page.object_wikidata_id %}
     <tr>
-      <td>wikipedia id</td>
+      <td>WIKIDATA id</td>
       <td>
         <a
-          href="https://www.wikidata.org/wiki/{{ page.object_wikipedia_id }}"
+          href="https://www.wikidata.org/wiki/{{ page.object_wikidata_id }}"
           target="_blank"
-          >{{ page.object_wikipedia_id }}</a
+          >{{ page.object_wikidata_id }}</a
         >
       </td>
     </tr>
