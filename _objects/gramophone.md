@@ -3,6 +3,7 @@ title: The Timeless Elegance of the Gramophone
 abstract: The Gramophone, an iconic symbol of bygone eras, holds a special place in the annals of music history.
 authors:
   - daniele-guido
+  - kirill-mitsurov
   - frederic-reis
 
 date: 2020-01-01
