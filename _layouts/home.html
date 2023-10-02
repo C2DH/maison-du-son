@@ -16,8 +16,8 @@ layout: default
           <br/>written by 
             <!-- loop over project autors using people id -->
             {% for author in object_page.authors %}
-              {% include author_name.html %}
-              {% if forloop.first %} {% else %}, {% endif %}
+              {% include author_link.html %}
+              {% if forloop.last %}{% else %}, {% endif %}
             {% endfor %}
           <br/>
           {% if object_page.date %}{{ object_page.date | date: "%B %-d, %Y" }}{% endif %}

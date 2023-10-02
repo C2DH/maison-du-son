@@ -6,7 +6,7 @@ authors:
   - kirill-mitsurov
   - frederic-reis
 
-date: 2020-01-01
+date: 2023-09-01
 
 object_date: October/November 1877
 object_start_date: 1877-10-01
