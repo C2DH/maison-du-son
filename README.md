@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to ...
-permalink: /readme/
+permalink: /readme
 ---
 
 # maison-du-son
