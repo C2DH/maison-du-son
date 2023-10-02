@@ -7,14 +7,14 @@ authors:
 
 
 
-# Introduction
+# Title of the article
 blablabla
 
-## More Title 
+## PART ONE
 blablabla
 
-### Final Title (hopefully) 
+### PART TWO
 blablabla
 
-#### conclusion
-THE END.
+#### THE END
+THEY LIVED HAPPILY EVER AFTER
