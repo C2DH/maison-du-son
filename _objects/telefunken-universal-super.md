@@ -1,7 +1,7 @@
 ---
 title: Telefunken Partner Universal 501
 abstract: "This radio is an icon of radio history as it had the green Radio Luxemburg button to immediately tune into one of the most popular radio stations in Europe."
-author:
+authors:
   - andreas-fickers
 
 date: 2022-01-12
