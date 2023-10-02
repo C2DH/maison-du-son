@@ -1,10 +1,7 @@
 --- 
 title: Laura Steil
 Laura Steil is postotdoctoral researcher at the C2DH. She holds a PhD in cultural anthropology from the Ecole Pratique des Hautes Etudes, Paris, France (2015). At the Centre for Contemporary and Digital History (C²DH), she is part of the PopKult60 team, and examines bals (dance parties) in the Minett, with a microhistorical focus on the neighbourhood of the "Grenz" in Esch-sur-Alzette. Her work focuses on popular dance practices and environments, which she approaches from an embodied ethnographic and historiographic perspective. 
-
 She is particularly interested in the construction of cultural memory, and looks at contexts in which generational, social, or spatial ruptures have complicated traditional modes of nurturing community remembrance. She also investigates how experiential “sites”, such as bals, nightclubs, videoclips or social media stories, may act as technologies of memory, suturing individuals into larger collective histories and producing deeply felt recollections about pasts they did not necessarily experience. Her research project at the C2DH will include reenacting a 1950s dancing, a space and time where people dance to live orchestra music, after socializing contemporary Escher publics to old dances and musics via digital and transmedia participations.
-
 Laura’s PhD thesis focused on the (re)mediations and appropriations of “afro dance” by the diasporic sons and daughters of African immigrants in the Paris region. Her attention to the negotiations of memory in a mass mediated world later led her to work on a critical dance history curriculum in French hip-hop dance education. Laura remains active in the non-profit sector of popular dance circuits, working as youth mentor and events’ coordinator 
-
 [this is my link](https://www.c2dh.uni.lu/de/people/laura-steil)
 ---
