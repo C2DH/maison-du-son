@@ -2,5 +2,5 @@
 title: Morgane Denozi
 ---
 
-I am Morgane **Denozi**. [this is my github link](https://github.com/MoDzi0907).
-I am a student in the Master in European Contemporary History. My main interest lies in women's history from the Middle Ages to today. 
+**Morgane Denozi** is a Master's student of European Contemporary History at the University of Luxembourg. Her main interest lies in women's history from the Middle Ages to today. 
+[this is my GitHub link](https://github.com/MoDzi0907).
