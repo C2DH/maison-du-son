@@ -16,4 +16,4 @@ cover:
 
 The Philips 156 UBV was produced since 1942 in the dutch Philips factories that were under german control. It was used by the Wehrmacht during World War II at the front, but not for military purposes, but to supply soldiers with news from home or entertainment. There were radio stations that were explicitly directed towards soldiers, the most known one is Radio Belgrad. With these radio stations and its entertainment the idea was to keep the spirits of the soldiers high.
 
-<iframe src=/assets/images/Philips156UBVPicture.png
+<iframe src: /assets/images/Philips156UBVPicture.png
