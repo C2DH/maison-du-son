@@ -7,6 +7,9 @@ authors:
 date: 2023-10-02
 
 object_date: 1942
+
+cover:
+  src: /assets/images/Philips156UBV.png
 ---
 
 ## History 
