@@ -9,7 +9,7 @@ date: 2023-10-02
 object_date: 1942
 
 cover:
-  src: /assets/images/Philips156UBV.png
+  src: /assets/images/Philips156UBVPicture.png
 ---
 
 ## History 
