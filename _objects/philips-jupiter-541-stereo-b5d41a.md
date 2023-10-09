@@ -4,7 +4,7 @@ abstract: The Philips radio "Jupiter 541 Stereo" with the type designation "B5D4
 authors:
   - christelle-timis
 
-date: 2023-10-02
+date: 2023-10-09
 
 object_date: 1964/1967
 object_start_date: 1964
