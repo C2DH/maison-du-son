@@ -1,5 +1,4 @@
 ---
 title: Alice Pinho Reis
 ---
-Hello, I am Alice Pinho Reis.
-I love chocolate and animals.
+Alice Pinho Reis is currently doing her Master in European Contemporary History in Luxembourg.
