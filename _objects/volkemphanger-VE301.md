@@ -1,9 +1,9 @@
 ---
 title: Volkemphänger VE 301 
 abstract: Created by Otto Griessing in the company Seibt, upon Goebbels’ demand, this radio was presented to the public for the first time in August 1933.  
-authors: emily-griffin
----
-Introduction 
+authors: 
+  - emily-griffin
+ 
 --- 
 In the context of the creation of other propaganda objects : a TV, a fridge, flats : Volkswohnung, the radio was the only one to gain mass success and therefore mass production. The aim behind this object was to get one in each household, as a way to get nazi ideals in each home.
 Because of the cheap price of the radio, other smaller companies went bankrupt because they could no longer compete with the prices which led the government to have monopole over the radio production market. The radio could get short and medium length waves, and should have only been limited to national nazi radio and another national station in the whole of Germany. It was commonly thought that the VE could not get foreign stations but it has since been proven that the machine could very much get access to over-the-border radio stations, creating a massive fault in the propaganda objective of exclusivity to nazi dominated stations.
