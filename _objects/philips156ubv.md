@@ -26,3 +26,6 @@ I do not know much about the device, which was called Philips 156 UBV. He  disap
 
 **Unknown date in 1942 in Eindhoven:**
 So, I'm supposed to contribute to the war? What exactly my mission is and where I will be sent is not yet clear to me. However, I don't think it will be a particularly important role, my appearance is too plain for that. I'm just a wooden box with buttons. I cannot deny a certain jealousy towards the Volksempfänger or the Torn.E.b.. Both have been in service much longer and already from their appearance, you can see their importance. One is a metal field radio with various connections, buttons, and displays, suitable for field use. The other, on the other hand, is a simple piece of furniture that has its importance on the home front. It's hard to know my place and the meaning of my existence in this whole situation
+
+**A few days later:**
+Today I was finally enlightened about what my mission is. I almost blew my loudspeaker; I actually have to go to the front. I am supposed to ensure that the morale of the soldiers at the front is kept up. In addition, it is important for the further course of the war to form a fighting community. I'm supposed to be responsible for these tasks, but I only get more precise details when I'm at the front.
