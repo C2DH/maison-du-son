@@ -67,7 +67,6 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 ## Picture of the radio:
 
-<a title="Philips 156 UBV, Public domain, via doctfs.com" href="https://thumbs.worthpoint.com/zoom/images2/1/0612/17/philips-156-ubv-wwii-german-wehrmacht_1_c720b3fe04d0f2b7cb49f06dea18a573.jpg"><img width="512" alt="Example" src="https://thumbs.worthpoint.com/zoom/images2/1/0612/17/philips-156-ubv-wwii-german-wehrmacht_1_c720b3fe04d0f2b7cb49f06dea18a573.jpg"></a>
 
 
 ## Bibliography:
