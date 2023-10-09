@@ -64,3 +64,34 @@ In the last few days, many radios left the warehouse. There seems to be a great 
 
 **One day later:**
 Where do I begin, dear diary? Last night was extremely eventful. It all started when I was taken away from the storage facility. I was firmly convinced that the store owner had finally had enough of me and wanted to make room for a radio with a higher chance of being sold. I could not even blame him for this, I would probably have done the same. I had accepted my fate; I was put down on a table and fell asleep. To my surprise, I woke up. I was standing in front of a windowpane and couldn't believe my eyes when I looked into the reflection. The ugly grey box turned into a dark brown radio with new buttons. I looked like a radio meant to be used in the living room. Furthermore, my circuitry was converted to common types of tubes, and a power cable was attached. Through all the excitement about my appearance, I had not even noticed which window it was at all that I was looking at myself in. It was the shop window.
+
+## Bibliography:
+ALEAZ, Bonita, Community Radio and Empowerment, in: Economic and Political Weekly 45/16 (2010), p. 39-32.
+
+BALFOUR, Michael, In Retrospect: Britain’s Policy of “Re-Education”, in: PRONAY, Nicholas/WILSON, Keith (ed.), The Political Re-Education of Germany and her Allies after World War II, London/Sydney : Croom Helm, 1985, p. 139-150.
+
+BARNOUW, Erik, Propaganda at Radio Luxembourg : 1944-1945, in: SHORT, Kenneth (ed.), Film & Radio Propaganda in World War II (Routledge Library Editions : WW2, 9), London : Routledge, 1983, p. 192-197.
+
+BIRDSALL, Carolyn, Nazi Soundscapes, Sound, Technology and Urban Space in Germany, 1933-1945, Amsterdam : Amsterdam University Press, 2012.
+
+BONACKER, Max, Goebbels’ Mann beim Radio. Der NS-Propagandist Hans Fritzsche (1900-1953) (Schriftenreihe der Vierteljahrshefte für Zeitgeschichte, 94), München : Oldenbourg Verlag, 2007.
+
+CAMPBELL, Bruce, The Radio Hobby, Private Associations, and the Challenge of Modernity in Germany (Palgrave Studies in the History of Science and Technology), Hampshire : Palgrave Macmillan, 2019. 
+
+CHIGNELL, Hugh, Key concepts in radio studies, Los Angeles : SAGE, 2009. 
+
+JURRIËNS, Edwin, Radio komunitas and the imagination of community, in: JURRIËNS, Edwin (ed.), From Monologue to Dialogue. Radio and Reform in Indonesia, Leiden : Brill, 2009, p. 141-158.
+
+MARßOLEK, Inge, Radio in Deutschland 1923-1969. Zur Sozialgeschichte eines Mediums, in: Geschichte und Gesellschaft 27/2 (2001), p. 207-239.
+
+METSU, Pierre, Les matériels radio de la Wehrmacht : 1935-1945, Bayeux : Heimdal, 2004. (Musée nationale d’histoire militaire, not borrowable).
+
+PATNODE, Randall, “What These People Need Is Radio”. New Technology, the Press, and Otherness in 1920s America, in: Technology and Culture 44/2 (2003), p. 285-305.
+
+ROSS, Corey, Media and the Making of Modern Germany. Mass Communications, Society, and Politics from the Empire to the Reich, Oxford : Oxford University Press, 2008.
+
+THOMPSON, Willie, Imagined Communities. Signs and Symbols, Identities and Nations, in: THOMPSON, Willie (ed.), Work, Sex and Power. The Forces that Shaped our History, London : Pluto Press, 2015, p. 145-163.
+
+VESELY, Alois/KORÁN, Frantisek, Wireless for Wehrmacht. German Radio Equipment in World War II, Prague : RAK, 1999. (Musée nationale d’histoire militaire, not borrowable). 
+
+WELCH, David, Nazi Propaganda and the Volksgemeinschaft. Constructing a People’s Community, in: Journal of Contemporary History 39/2 (2004), p. 213-238
