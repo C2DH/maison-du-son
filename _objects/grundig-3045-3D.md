@@ -47,12 +47,14 @@ Voilà, maintenant, vous savez tout de mon excellente vie et de mon parcours. Bi
 ---
 Schémas
 ---
+
 ![image](https://github.com/C2DH/maison-du-son/assets/145685621/e6e4d2e0-8089-472b-ab28-6ec6f48f4196)
 ![image](https://github.com/C2DH/maison-du-son/assets/145685621/84c3cfdf-a956-4f35-945f-f783084f05fb)
 
 ---
 Bibliographie
 ---
+
 ‘3045W/3D Radio Grundig Radio-Vertrieb, RVF, Radiowerke, Build | Radiomuseum’ <https://www.radiomuseum.org/r/grundig_3045w3d.html> [accessed 19 June 2023]
 
 ‘Die Unternehmenshistorie von Grundig’ <https://www.grundig.com/de-de/ueber-grundig/unternehmen/unternehmensgeschichte> [accessed 20 June 2023]
