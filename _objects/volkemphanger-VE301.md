@@ -2,7 +2,7 @@
 title: Volkemphänger VE 301 
 abstract: Created by Otto Griessing in the company Seibt, upon Goebbels’ demand, this radio was presented to the public for the first time in August 1933.  
 authors: emily-griffin
-
+---
 Introduction 
 --- 
 In the context of the creation of other propaganda objects : a TV, a fridge, flats : Volkswohnung, the radio was the only one to gain mass success and therefore mass production. The aim behind this object was to get one in each household, as a way to get nazi ideals in each home.
