@@ -75,8 +75,10 @@ Jupiter starts playing a song recording, leaving Colossus speechless of the powe
 “Thank you, Jupiter, for telling me so much about you. I really appreciate it! It was really fun exploring all these concepts with you and seeing how much things will change in the future. Safe travels!” 
 
 
-After spending the day together, Colossus and Jupiter say their goodbyes as it is time for Jupiter to continue his journey to a new destination. It will remain an unforgettable experience for both of them and after learning so much about sound, Colossus’ perception of hearing is changed forever. During the time travel back home, Jupiter breaks and gets lost. Fifty-five years later, however, a radio collector finds him at an auction and acquires him in order to restore the radio. After some modification, Jupiter can even be connected to an iPad, playing all kinds of music and videos. What a full circle moment.  
-2.	Sources
+After spending the day together, Colossus and Jupiter say their goodbyes as it is time for Jupiter to continue his journey to a new destination. It will remain an unforgettable experience for both of them and after learning so much about sound, Colossus’ perception of hearing is changed forever. During the time travel back home, Jupiter breaks and gets lost. Fifty-five years later, however, a radio collector finds him at an auction and acquires him in order to restore the radio. After some modification, Jupiter can even be connected to an iPad, playing all kinds of music and videos. What a full circle moment. 
+
+Sources
+
 Jupiter 541 Stereo B5D41A. Radiomuseum, URL: www.radiomuseum.org/r/philips_jupiter_stereo_b5d41a_b_5.html. (Accessed June 21st, 2023)
 “Philips Jupiter 541”. YouTube, uploaded by Dast, 6 Jun. 2020, www.youtube.com/watch?v=HTH2bf5ScsM&t=3s. (Accessed June 21st, 2023)
 “Philips Jupiter 541 Stereo”. YouTube, uploaded by Сергей Здор, 1 Sep. 2017, www.youtube.com/watch?v=pdYbG_juSic&t=4s. (Accessed June 21st, 2023)
@@ -87,7 +89,8 @@ www.europeana.eu/item/192/item_S7ZRH25LXBY6MBQENZAXJACZFWVPJI64. (Accessed June 
 “Röhrenradio Philips "Jupiter 541 Stereo"”. museum-digital:rheinland-pfalz, URL: rlp.museum-digital.de/object/34475. (Accessed June 21st, 2023)  
 Wolter, Albert. “Philips Jupiter 541 Stereo”. Private Archives.
  
-3.	Bibliography 
+Bibliography 
+
 Birdsall, Carolyn. “Mobilizing Sound for a Nation at War”. The Nazi Soundscape. Sound, Technology, and Urban Space in Germany 1933-1945. Amsterdam University Press, 2012, pp. 103 – 139.
 Bull, Michael. “Chapter 9. Thinking about Sound, Proximity, and Distance in Western Experience: The Case of Odysseus’s Walkman“. Hearing Cultures. Essays on Sound, Listening, and Modernity, edited by Veit Erlmann. Bloomsbury Academic, 2004, pp. 173 – 190. Bloomsbury Collections, DOI: 10.5040/9781474214865.ch-009. 
 Corbin, Alain. “Identity, Bells, and the 19th Century”. Hearing History. A Reader, edited by Mark Smith. University of Georgia Press, 2004, pp. 184 – 203.
