@@ -43,3 +43,43 @@ En parlant de meurtre, je suis presque décédée par manque d’intérêt, huff
 Dorénavant, je me retrouve devant vous pour vous raconter mon histoire. Prenez le temps de m’admirer. 
 
 Voilà, maintenant, vous savez tout de mon excellente vie et de mon parcours. Bien sûr, vous ne savez pas tout, car une dame a toujours ses secrets. À présent, n’oubliez pas de me prendre en photo et rendre les autres vieilles radios vertes de jalousie, mwahahaha. 
+
+
+---
+Bibliographie
+---
+‘3045W/3D Radio Grundig Radio-Vertrieb, RVF, Radiowerke, Build | Radiomuseum’ <https://www.radiomuseum.org/r/grundig_3045w3d.html> [accessed 19 June 2023]
+
+‘Die Unternehmenshistorie von Grundig’ <https://www.grundig.com/de-de/ueber-grundig/unternehmen/unternehmensgeschichte> [accessed 20 June 2023]
+
+‘Grundig - 3045 W 3D radio’, Doctsf.com <https://www.doctsf.com/grundig-3045-w-3d-radio/f21844> [accessed 20 June 2023]
+
+‘Grundig 3D-Revue 1955’ <https://www.hifi-archiv.info/Grundig/1955-Revue/> [accessed 19 June 2023], p. 7.
+
+‘GRUNDIG Type 3045 W/3D’ <http://www.egrund.de/e3045w3d.html> [accessed 21 June 2023]
+
+‘Magnetbandmuseum - Sie Sind Im Bereich: Die “Grundig Revue”’ <http://www.magnetbandmuseum.info/grundig-revue.html> [accessed 20 June 2023]
+
+‘Spotlight On - Max Grundig | Grundig UK’ <https://www.grundig.co.uk/stories/max-grundig> [accessed 20 June 2023]
+
+‘Tonbandmuseum - Sie Sind Im Bereich: Grundig Biografie 5b’ <http://www.tonbandmuseum.info/grundig-biografie-05b.html> [accessed 20 June 2023]
+
+‘Tonbandmuseum - Sie Sind Im Bereich: Grundig Biografie 5g (Chronik)’ <http://www.tonbandmuseum.info/grundig-biografie-05g.html> [accessed 20 June 2023]
+
+Archives, L. A. Times, ‘Max Grundig; Radio, Television Pioneer’, Los Angeles Times, 1989 <https://www.latimes.com/archives/la-xpm-1989-12-15-mn-128-story.html> [accessed 20 June 2023]
+
+Barthes, Roland, ‘L’effet de réel’, Communications, 11.1 (1968), 84–89 <https://doi.org/10.3406/comm.1968.1158>
+Denuziere, Maurice, ‘MAX GRUNDIG ET SON EMPIRE ÉLECTRONIQUE : UN LOUP DANS LE TRÈFLE’, Le Monde.fr, 14 October 1970 <https://www.lemonde.fr/archives/article/1970/10/14/max-grundig-et-son-empire-electronique-un-loup-dans-le-trefle_2660222_1819218.html> [accessed 20 June 2023]
+
+Drakakis, John, ‘Introduction’, in British Radio Drama (Cambridge: Cambridge University Press, 1981), pp. 1–36, p. 1.
+
+Hand, Richard J., and Mary Traynor, The Radio Drama Handbook: Audio Drama in Context and Practice (A&C Black, 2011)
+hoerspielundfeature.de, ‘Mitternachtskrimi - Die Jagd nach dem Täter (15): Hochzeit mit dem Tode’, Hörspielportal <https://www.hoerspielundfeature.de/mitternachtskrimi-die-jagd-nach-dem-taeter-15-hochzeit-mit-100.html> [accessed 22 June 2023]
+
+Kirpal, Alfred, ‘Radiobasteln in Deutschland: Zwischen Wirtschaftlichem Druck Und Freizeitvergnügen’, Dresdener Beiträge Zur Geschichte Der Technikwissenschaften, 31, 2006, 25–47.
+
+Michelsen, Morten, ‘Radio Imaginaries: Music, Space and Broadcasting in the 1950s’, in The Oxford Handbook of Sound and Imagination (New York: Oxford University Press, 2019), i, 377–400.
+
+Niebur, Louis, Special Sound: The Creation and Legacy of the BBC Radiophonic Workshop (Oxford: Oxford University Press, 2010).
+
+Tilo, ‘Grundig 3045 W /3D | Meine Röhrenradios aus den 50er Jahren’, 2011 <https://www.bastel-radio.de/2011/grundig-3045-w-3d/> [accessed 21 June 2023]
