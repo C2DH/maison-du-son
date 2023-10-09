@@ -3,6 +3,11 @@ titel: Philips 2514 Paladin
 abstract: "La radio Philips 2514, aussi appelée Paladin, a été commercialisée en 1928 comme un des premiers modèles à fonctionner avec une prise."
 authors: 
   - laurence-harf
+date: 2023-10-09
+
+object_start_date: 1928-10-01
+object_end_date: 2023-11-30
+object_date: October/November 1931
 ---
 
 ## Introduction 
