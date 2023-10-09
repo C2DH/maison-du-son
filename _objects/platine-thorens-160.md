@@ -38,7 +38,7 @@ Je vois que vous voulez aborder aussi les choses pas très... Joyeuses *(rire ne
 
 *Les vinyles reviennent à la mode cependant n’est-ce pas ?*
 
-Les vinyles et les tourne-disques, l’un ne va pas sans l’autre vous savez ! On nous avait prononcé morts dès les années 80/90 mais à partir des années 2000 on a remarqué un véritable rebond dans les ventes de vinyles et de tourne-disques. L’exemple le plus parlant est probablement le nombre de tourne-disques vendus entre 2006 et 2007 ; en 2006 on comptait seulement 275 000 à 500 000 en 20077.
+Les vinyles et les tourne-disques, l’un ne va pas sans l’autre vous savez ! On nous avait prononcé morts dès les années 80/90 mais à partir des années 2000 on a remarqué un véritable rebond dans les ventes de vinyles et de tourne-disques. L’exemple le plus parlant est probablement le nombre de tourne-disques vendus entre 2006 et 2007 ; en 2006 on comptait seulement 275 000 à 500 000 en 2007.
 
 *Comment expliquez-vous ce retour en grâce ?*
 
