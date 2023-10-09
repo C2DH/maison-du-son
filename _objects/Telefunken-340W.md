@@ -1,6 +1,6 @@
 ---
-title: Radio Grundig 3045/3D
-abstract: "Radio created by Grundig in 1954."
+title: Telefunken 340W
+abstract: Radio referred to as Katzenkopf.
 authors:
-  - Alice-PR
+  - Cathy-Collard
 ---
