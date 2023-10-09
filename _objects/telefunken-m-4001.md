@@ -10,7 +10,7 @@ authors:
 **Objektbiografie eines Tonaufnahmegeräts**
 
 Objekte, sind leblose Gegenstände. So wird es jedenfalls immer behauptet. Lediglich für den Gebrauch durch den Menschen werden sie produziert. Benutzt werden sie, bis sie kaputt sind, oder der Mensch sie nicht mehr „stylisch“ findet. Später fliegen sie dann weg. Wenn es gut geht auf den Wertstoffhoff zum Recycling. Habe aber auch schon gehört, dass es in die Mülltonne gehen kann. Oder einfach in die Natur. Eine Seele sollen Objekte ja keine besitzen. So wird es jedenfalls immer behauptet. Sie fragen sich nun sicherlich, wer ich bin? Telefunken 4001 M  9 Tranistor ist mein Name, hauptberuflich Tonaufnahme- und Tonabspielgerät. Moment, ich zeig ihnen mal mein Passfoto, damit sie sich ein Bild von mir machen können.
-<figure><img src="/assets/images/Telefunken M 4001 BilD.png"><figcaption></figcaption>Telefunken 4001 M</figure>
+<figure><img src="/assets/images/Telefunken M 4001 BIlD.png"><figcaption></figcaption>Telefunken 4001 M</figure>
 
 Schön, nicht wahr? Aber wo war ich vorhin stehen geblieben? Ach ja! Die seelenlosen Objekte. Ich sag ihnen dies ist Nonsens, erfunden von der Konsummgeilheit des Menschen. Gesteht man Objekten keine Seele zu, ist es einfacherer ein noch funktionierendes Objekt sinnlos wegzuwerfen, um sich das neuste Objekt mit den exakt gleichen Funktionen zu kaufen.  Dieser Faust, weiß nicht, ob sie den kennen, der soll ja gesagt haben er habe zwei Seelen. Ich zeig ihnen jetzt mal, wieviel Seelen ich habe! Da kann dieser Faust doch einpacken!
 
