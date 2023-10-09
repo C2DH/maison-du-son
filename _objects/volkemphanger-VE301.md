@@ -11,7 +11,7 @@ Goebbels, aware of the limit of the VE in terms of propaganda tool and its poten
 According to war correspondent Howard K. Smith, the nazi authorities issued a little orange cardboard disk with a hole to make sure the radio frequencies were the nazi one and that the radio had not been tampered with to get foreign stations, which goes to show how difficult it was to ensure the radio didn’t allow the population to go beyond its borders in terms of access to content.
 
 Volksemphänger, a short play
-
+---
 Characters in order of appearance : 
 
 The Narrator
