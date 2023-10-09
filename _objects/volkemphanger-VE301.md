@@ -13,10 +13,15 @@ According to war correspondent Howard K. Smith, the nazi authorities issued a li
 Volksemphänger, a short play
 
 Characters in order of appearance : 
+
 The Narrator
+
 Volksemphänger, the grandfather of Smartphone
+
 Smartphone, the grandson of Volksemphänger
+
 Décor described by the Narrator : 
+
 The sound of people on the street, cars on the road that fade gradually as the listener enters the room.  
 On the first floor, the sun shines brightly through two windows into the cozy living room. A beam of light hits two objects, both geometric in shape, one square and brown, the other, a flatter black rectangle of glass. An ordinary living room of the 21st century, in which the flat’s owner’s 1930s radio is the center piece of the room. A treasured box with three dials on the front and a large round, almost mouthlike, speaker. It is a sunny Sunday and as their usual routine, the grandfather and the grandson are out for a walk in the park. A radio and a smartphone are left by their owners on a chest of drawers. The grandson’s forgotten smartphone, abandoned on the chest of drawers next to the grandfather’s radio seems small and fragile next to the robust wooden looking box. The grandfather’s Körting VE 301 and the grandson’s smartphone, two generations of communication tools left to their own devices by their respective owners. Little do they know about the talkative personalities of their cherished little magical boxes. 
 ![image](https://github.com/C2DH/maison-du-son/assets/146073524/9f4f8f01-5d56-4167-88ab-d39839b7e62d)
