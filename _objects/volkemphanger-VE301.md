@@ -3,7 +3,6 @@ title: Volkemphänger VE 301
 abstract: Created by Otto Griessing in the company Seibt, upon Goebbels’ demand, this radio was presented to the public for the first time in August 1933. 
 authors:
   - emily-griffin
----
 
 Introduction 
 --- 
