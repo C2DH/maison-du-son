@@ -44,6 +44,11 @@ Dorénavant, je me retrouve devant vous pour vous raconter mon histoire. Prenez 
 
 Voilà, maintenant, vous savez tout de mon excellente vie et de mon parcours. Bien sûr, vous ne savez pas tout, car une dame a toujours ses secrets. À présent, n’oubliez pas de me prendre en photo et rendre les autres vieilles radios vertes de jalousie, mwahahaha. 
 
+---
+Schémas
+---
+![image](https://github.com/C2DH/maison-du-son/assets/145685621/e6e4d2e0-8089-472b-ab28-6ec6f48f4196)
+![image](https://github.com/C2DH/maison-du-son/assets/145685621/84c3cfdf-a956-4f35-945f-f783084f05fb)
 
 ---
 Bibliographie
