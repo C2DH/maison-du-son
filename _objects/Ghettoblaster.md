@@ -19,7 +19,7 @@ insert the main information here
 -	Funk- und Fernseharchiv. (2022, October 13). DeutschlandRadio Berlin - Nachrichten (Fragment vermutlich Mitte Oktober 2000) [Video]. YouTube. https://www.youtube.com/watch?v=G3A4f8L6EQ4. 
 -	Philips AZ 1040 Handbuch (Seite 44 von 54) | ManualsLib. (n.d.). https://www.manualslib.de/manual/449600/Philips-Az-1040.html?page=44#manual
 -	WOLTER, A. „Philips Ghettoblaster AZ1040/00“. Katalog 3, Privatarchiv. 
-![image](https://github.com/C2DH/maison-du-son/assets/145359036/edea2ad7-c16b-45a2-9da7-b89510f7f347)
+
 
 
 **Literature**: 
@@ -38,4 +38,4 @@ https://en.wikipedia.org/wiki/Around_the_World_(La_La_La_La_La)#:~:text=Backgrou
 -	Wikipedia-Autoren. (2006). Oops! . . . I Did It Again. de.wikipedia.org. https://de.wikipedia.org/wiki/Oops!_%E2%80%A6_I_Did_It_Again
 -	Wikipedia-Autoren. (2019). Hey! Baby. de.wikipedia.org. https://de.wikipedia.org/wiki/Hey!_Baby. 
 -	ZIEGLER, F. E. U. W. (2022). Geschichte der Tonträger: Compact Disc. Planet Wissen. https://www.planet-wissen.de/kultur/musik/geschichte_der_tontraeger/pwiecompactdisc100.html#:~:text=Der%20Laserstrahl%20eines%20CD%20%2DPlayers,Reflexionen%20in%20elektrische%20Signale%20um. 
-![image](https://github.com/C2DH/maison-du-son/assets/145359036/ff83c71f-89cb-4b59-afe2-a6e9dbf38f7e)
+
