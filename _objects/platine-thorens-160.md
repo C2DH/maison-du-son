@@ -59,3 +59,32 @@ Le fait de pouvoir assister à la vie de quelqu’un et d’être témoin de cha
 *Merci pour cet interview, un dernier mot ?*
 
 Je suis heureux d’avoir pu faire partie de cette manière ou d’une autre de votre histoire et d’avoir pu partager vos expériences à travers quelques notes. Merci de me donner la chance de m’exprimer aujourd’hui, n’hésitez pas à m’écouter de nouveau !
+
+---
+Bibliographie
+---
+
+- Anniss Matt, Fuller Patrick, Vinyle, Eyrolles, Paris, 2018.
+- Boden Larry, Basic Disc Mastering, Glendale, California, 1980.
+- Boym Svetlana, The Future of Nostalgia, New-York, Basic Books, 2001.
+- Bung Joachim, The Story of the Thorens TD124 and Other Classic Turntables, Swiss
+Precision, Schmitten, 2007.
+- Burgess Richard J., The History of Music Production, Oxford University Press, New-
+York, 2014.
+- Cunningham Mark, Good Vibrations: A History of Record Production, Sanctuary
+Publishing, London, 1998.
+- Garofalo Reebe, “From Music Publishing to MP3: Music and Industry in the Twentieth
+Century” in American Music, vol. 17, n°3, 1999, p. 318-354.
+- Gronow Pekka, “The Record Industry: The Growth of a Mass Medium” in Popular
+Music, vol.3, 1983, p. 53-75.
+- Osborne Richard, Vinyl: A History of the Analog Record, Ashgate, Farnham, 2012.
+- Hoose Shane, “Turning Tables: Engineering The Vinyl Revival” in College Music
+Symposium, Vol. 58, n°2, 2018, p. 1-24.
+- Schwartz Gideon, Revolution: the history of turntable design, Phaidon Press, London,
+2022.
+- Schicke C.A, Revolution in sound: A biography of the recording industry, Little Brown,
+Boston, 2016.
+- Shuker Roy, Wax Trash and Vinyl Treasures: Record Collecting as a Social Practice,
+Ashgate, Farnham, 2010.
+- WINTERS Paul, Vinyl Records and Analog Culture in the Digital Age: Pressing
+Matters, Lanham, Lexington Books, 2016.
