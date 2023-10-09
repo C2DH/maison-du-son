@@ -2,14 +2,14 @@
 title: Seerbug jukebox
 ---
 abstract: "This jukebox changed history! In the 1950s, it nearly put all other manufacturers out of business"
+
 authors:
  - laura-steil
-
 date: 2023-10-02
 
 **Seerbug jukebox**
 ---
----
+
 *The jukebox that changed history!* 
 ---
 "Seeburg was one of the first manufacturers of a multi-select jukebox with the introduction of the "Audiophone" in 1928. This wide-body, eight-selection box had pneumatic control valves making it half nickelodeon and half phonograph. This model was a reasonable success, but sales never reached huge numbers. By the 1930s other manufacturers had entered the market and were actually selling more jukeboxes than Seeburg. The next model, the Selectophone, was an engineering disaster. Warped spindles made operators mad and this mistake almost put the company under.
