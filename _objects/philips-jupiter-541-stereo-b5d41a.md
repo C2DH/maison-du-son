@@ -10,8 +10,9 @@ object_date: 1964/1967
 object_start_date: 1964
 object_end_date: 1967
 object_wikidate_id:
+---
+Object Biography: 
 
-object biography: 
 Jupiter, a Philips Jupiter 541 Stereo B5D41A radio, finds himself on a journey across time and space after getting his hands on a time machine. When the machine travels back around 2000 years, landing in Rome, Jupiter visits the Colosseum and grasps that the infrastructure is alive as well. It turns out that Colossus, the name of the stone infrastructure, is quite intrigued by his new little friend, so Jupiter decides it’s best to play a game to try to explain who and what he is. Consequently, realising they actually share their love for creating sound, Colossus and Jupiter go on a ride exploring different concepts of hearing and sound.  
 
 To follow the dialogue between the two easier, Jupiter is marked in black, while Colossus is marked in blue.
