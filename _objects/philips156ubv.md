@@ -67,7 +67,7 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 ## Picture of the radio:
 
-<a title="Philips 156 UBV, Public domain, via doctfs.com" href="https://thumbs.worthpoint.com/zoom/images2/1/0612/17/philips-156-ubv-wwii-german-wehrmacht_1_c720b3fe04d0f2b7cb49f06dea18a573.jpg"><img width="512" alt="Example" src="https://thumbs.worthpoint.com/zoom/images2/1/0612/17/philips-156-ubv-wwii-german-wehrmacht_1_c720b3fe04d0f2b7cb49f06dea18a573.jpg"></a>
+<figure><img width="560" height="315" src="/assets/images/PXL_Philips156UBVPicture.png"><figcaption>
 
 ## Bibliography:
 ALEAZ, Bonita, Community Radio and Empowerment, in: Economic and Political Weekly 45/16 (2010), p. 39-32.
