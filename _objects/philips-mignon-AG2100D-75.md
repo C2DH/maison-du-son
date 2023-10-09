@@ -2,6 +2,9 @@
 title: Philipps Mignon-AG2100D-75 (1959)
 abstract: "A cute little vinyl player, that brought about the era of 7-inch 45's vinyls, which hides a lot more than just looking cute." 
 authors: luca-uhrig
+
+cover:
+  src: /assets/images/PXL_20230619_142730733 (cropped).jpg
 ---
 
 Want to hear me? 
