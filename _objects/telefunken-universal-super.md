@@ -28,18 +28,18 @@ Mit der Umbenennung der CLR in Compagnie Luxembourgeoise de Télédiffusion (CLT
 Andreas Fickers
 
 **Literatur**
-Katja BERG, Grenzenlose Unterhaltung. Radio Luxemburg in der Bundesrepublik 1957-1980. Göttingen 2021
-David DOMINGUEZ-MULLER, Radio Luxembourg. Histoire d’un média privé d’envergure européenne. Paris 2007
-Fernand FEHLEN, Radio zwischen Kultur und Kommerz. Die Anfänge des Luxemburger Rundfunkwesens, in: forum 75-76 (1984), S. 18-24
-Andreas FICKERS, Design als ‚mediating interface‘. Zur Zeugen- und Zeichenhaftigkeit des Radioapparates, in: Berichte zur Wissenschaftsgeschichte 30/3 (2007), S. 199-213
-Andreas FICKERS, Visibly audible. The radio dial as mediating interface, in: Trevor PINCH / Karin BIJSTERVELD (Hrg.), The Oxford Handbook of Sound Studies, Oxford 2012, S. 411-439
-Andreas FICKERS / Pascal GRISET, Communicating Europe. Technologies, Information, Events, London 2019
-Anna JEHLE, Welle der Konsumgesellschaft. Radio Luxemburg in Frankreich 1945-1975, Göttingen 2018
-Richard LEGAY, Commercial radio stations and their dispositif. Transnational and intermedial perspectives on Radio Luxembourg and Europe n°1 in the long 1960s., PhD Diss. University of Luxembourg 2020
-Denis MARÉCHAL, Radio Luxembourg 1933-1993. Un média au coeur de l’Europe, Nancy 1994
-Richard NICHOLS, Radio Luxembourg. The Station of the Stars. An Affectionate History of 50 Years of Broadcasting, London 1983
-RTL Group (Hg.), Always Close to the Audience. The History of RTL Group, Hamburg 2014
-Jannifer SPOHRER, Ruling the Airwaves. Radio Luxembourg and the Origins of European National Broadcasting (1929-1950), PhD Diss. Columbia University, New York 2008
-Loll k, Das Luxemburger Rundfunkorchester. Eine dokumentarische Studie, Luxemburg 1993
+Katja BERG, Grenzenlose Unterhaltung. Radio Luxemburg in der Bundesrepublik 1957-1980. Göttingen 2021  
+David DOMINGUEZ-MULLER, Radio Luxembourg. Histoire d’un média privé d’envergure européenne. Paris 2007  
+Fernand FEHLEN, Radio zwischen Kultur und Kommerz. Die Anfänge des Luxemburger Rundfunkwesens, in: forum 75-76 (1984), S. 18-24  
+Andreas FICKERS, Design als ‚mediating interface‘. Zur Zeugen- und Zeichenhaftigkeit des Radioapparates, in: Berichte zur Wissenschaftsgeschichte 30/3 (2007), S. 199-213  
+Andreas FICKERS, Visibly audible. The radio dial as mediating interface, in: Trevor PINCH / Karin BIJSTERVELD (Hrg.), The Oxford Handbook of Sound Studies, Oxford 2012, S. 411-439  
+Andreas FICKERS / Pascal GRISET, Communicating Europe. Technologies, Information, Events, London 2019  
+Anna JEHLE, Welle der Konsumgesellschaft. Radio Luxemburg in Frankreich 1945-1975, Göttingen 2018  
+Richard LEGAY, Commercial radio stations and their dispositif. Transnational and intermedial perspectives on Radio Luxembourg and Europe n°1 in the long 1960s., PhD Diss. University of Luxembourg 2020  
+Denis MARÉCHAL, Radio Luxembourg 1933-1993. Un média au coeur de l’Europe, Nancy 1994  
+Richard NICHOLS, Radio Luxembourg. The Station of the Stars. An Affectionate History of 50 Years of Broadcasting, London 1983  
+RTL Group (Hg.), Always Close to the Audience. The History of RTL Group, Hamburg 2014  
+Jannifer SPOHRER, Ruling the Airwaves. Radio Luxembourg and the Origins of European National Broadcasting (1929-1950), PhD Diss. Columbia University, New York 2008  
+Loll k, Das Luxemburger Rundfunkorchester. Eine dokumentarische Studie, Luxemburg 1993  
 
  
