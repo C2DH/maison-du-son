@@ -1,6 +1,6 @@
 ---
 title: Seerbug jukebox
-abstract: "This jukebox changed history!In the 1950s, it nearly put all other manufacturers out of business"
+abstract: "This jukebox changed history! In the 1950s, it nearly put all other manufacturers out of business"
 authors:
  - laura-steil
 ---
