@@ -67,7 +67,7 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 ## Picture of the radio:
 
-<figure><img width="560" height="315" src="/assets/images/PXL_Philips156UBVPicture.png"><figcaption>
+<figure><img width="560" height="315" src="/assets/images/PXL_Philips156UBVPicture.png">
 
 ## Bibliography:
 ALEAZ, Bonita, Community Radio and Empowerment, in: Economic and Political Weekly 45/16 (2010), p. 39-32.
