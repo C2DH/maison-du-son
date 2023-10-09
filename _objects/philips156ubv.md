@@ -24,5 +24,5 @@ I do not know much about the device, which was called Philips 156 UBV. He  disap
 
 **War Diary of the Philips 156 UBV**
 
-Unknown date in 1942 in Eindhoven:
+**Unknown date in 1942 in Eindhoven:**
 So, I'm supposed to contribute to the war? What exactly my mission is and where I will be sent is not yet clear to me. However, I don't think it will be a particularly important role, my appearance is too plain for that. I'm just a wooden box with buttons. I cannot deny a certain jealousy towards the Volksempfänger or the Torn.E.b.. Both have been in service much longer and already from their appearance, you can see their importance. One is a metal field radio with various connections, buttons, and displays, suitable for field use. The other, on the other hand, is a simple piece of furniture that has its importance on the home front. It's hard to know my place and the meaning of my existence in this whole situation
