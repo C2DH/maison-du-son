@@ -8,4 +8,4 @@ date: 2023-10-02
 
 The Philips Andante BA 391U was manufactured between 1949-50 in Vienna, Austria.
 
-[Audiofile] (https://github.com/C2DH/maison-du-son/blob/master/assets/images/Philips%20Andante.mp3)
+[Audiofile](https://github.com/C2DH/maison-du-son/blob/master/assets/images/Philips%20Andante.mp3)
