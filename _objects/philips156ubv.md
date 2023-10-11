@@ -67,7 +67,6 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 ## Picture of the radio:
 
-<figure><img width="560" height="315" src="/assets/images/PXL_Philips156UBVPicture.png">
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBVPicture.png"><figcaption>This is a pic of me :)</figcaption></figure>
 
