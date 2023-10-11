@@ -69,7 +69,11 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="560" height="315" src="/assets/images/PXL_Philips156UBVPicture.png">
 
+<figure><img width="560" height="580" src="/assets/images/PXL_20230619_142730733 (cropped).jpg"><figcaption>This is a pic of me :)</figcaption></figure>
+
+
 ## Bibliography:
+
 ALEAZ, Bonita, Community Radio and Empowerment, in: Economic and Political Weekly 45/16 (2010), p. 39-32.
 
 BALFOUR, Michael, In Retrospect: Britain’s Policy of “Re-Education”, in: PRONAY, Nicholas/WILSON, Keith (ed.), The Political Re-Education of Germany and her Allies after World War II, London/Sydney : Croom Helm, 1985, p. 139-150.
