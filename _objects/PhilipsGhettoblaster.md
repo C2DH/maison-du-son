@@ -109,11 +109,14 @@ Ich bin gespannt, was ich noch alles erleben werde und wie alt ich noch werde.*
 
 
 
-## similar radio:
+
+## Similar radio:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M0rqPM4YTOI?si=MX7_7qdz7Ukp0_4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Sources**: 
+
+
+## Sources: 
 -	RAQRAQXOX. (2013, 3. Februar). The Fresh Prince Of Bel Air Theme Song (Full) [Video]. YouTube. https://www.youtube.com/watch?v=1nCqRmx3Dnw. In Sekunde 39-41 ist der Ghettoblaster zu sehen.
 -	Philips Kataloge und Anleitungen. Katalog „Philips Magazine NL 1999“.  https://www.hifi-archiv.info/philips.html. 
 -	Philps Kataloge und Anleitungen. Katalog „Philips Magazine 1998 TV-Video-Audio“.  https://www.hifi-archiv.info/philips.html.  
