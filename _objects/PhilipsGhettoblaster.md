@@ -6,7 +6,7 @@ authors:
     
 date: 2023-10-12
 ---
-title: Object Biography
+## Object Biography
 
 This object biography is about the Ghettoblaster AZ1040/00 by Philips. The action takes place in the year 2000, as the radio was produced from 1995 onwards. 
 The story is about Tommy, who grew up in Germany and is a 16-year-old teenager in the year 2000. He desperately wants a radio for his 17th birthday, preferably the popular Ghettoblaster he knows from the music clips of American rappers. 
