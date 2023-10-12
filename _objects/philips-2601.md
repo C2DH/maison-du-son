@@ -43,6 +43,7 @@ Even though, I am at least 90 years old, I still sound good, don’t you think? 
 
 ---
 https://www.vintageradio.nl/radio's/philips_2511_engels.htm
+
 ---
 
 Wow that was great. Now that we’ve talked a lot about our appearances, we can finally reveal to our audience how you came to exist in the first place.”
@@ -78,6 +79,7 @@ Wow that was great. Now that we’ve talked a lot about our appearances, we can 
 ---
 Literature:
 ---
+
 BERKER, Thomas/HARTMANN, Maren/PUNIE, Yves/WARD, Katie (ed.), Domestication of Media and Technology. Maidenhead: Open University Press, 2005.
 
 BIRAUD, Guy, Les Radios PHILIPS de Collection. 1928-1948, Vol. 1, Fontenay-le-Comte : Edition CVR, 1983.
