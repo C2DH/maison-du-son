@@ -6,10 +6,10 @@ date: 2023-06-22
 ---
 
  **The monologue of the Philips Mignon 2100D-75 embodied by Saturn as portrayed in Francisco de Goya's painting from 1820-23**
-<img width="380" height="420" src="/assets/images/PXL_20230619_142730733 (cropped).jpg"> 
+<img width="380" height="460" src="/assets/images/PXL_20230619_142730733 (cropped).jpg"> 
 <img align="right" width="380" height="460" src="/assets/images/Francisco-de-Goya-Saturno.jpg">
 
-## <div style="text-align: left"> Script: </div>
+##  Script: 
 <div style="text-align: justify">
  ...mumbling<br>
   Saturn: (silently) It’s been so long, I’ve almost forgotten the feeling. When? -pause- Who? –pause- How?<br> 
@@ -57,9 +57,9 @@ date: 2023-06-22
   S: You know, I’m glad you came along and listened to what I had to say. Honestly, I called out to you to have someone to talk to. You might think that I only wanted to display my superiority, but in reality I was starting to lose my mind. The pressure of always performing at your best, of being trapped in an automatic process that you can’t really control, hell even having to swallow your own children. (sigh) All of it is exhausting.<br>
   S: But. You showed me that it is worth it. That there is someone who listens to you, who accepts you the way you are. Who is interested in what you say even if at one point all you might still do is collect dust in dark storage space.<br>
   S: At least it won’t be in vain, because now all of this has become a part of your memory. And though this physical form of mine might rust, decompose or wither away one day. In your memory I remain in my ideal form and will continue to live as long as you remember me. After all, I have done my best to make an impression that is worthy of earning a place in the palace that is your memory.<br> <div></div>
+ <br>
  
- ## Bibliography and Footnotes:<br>
-  
+ ## Bibliography and Footnotes:
   **Bibliography** <br>
   
 <div style="text-align: justify">  
