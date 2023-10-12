@@ -25,7 +25,7 @@ Environ vingt jours après mon arrivée, Mr Hoffmann m’a vendu à Mr Gustav. M
 
 Mais son père a eu raison environ dix ans plus tard ! A l’âge de 14 ans, Arnold me voyait et me dit : _« Il faut seulement que tu me transmettes les programmes sur le culturisme. Je vais alors devenir le champion de bodybuilding le plus titré de tous les temps !»_
 
-C’est ainsi que le lendemain, je me suis mis à transmettre «_ Daily Dozen_» de Walter Camps.[^3]
+C’est ainsi que le lendemain, je me suis mis à transmettre « _Daily Dozen_ » de Walter Camps[^3].
 
 [^3]: [The Daily Dozen Workout - Vintage 1920s Exercise Routine](https://www.youtube.com/watch?v=dMlFgjcf7ho).
 
@@ -37,7 +37,7 @@ Si je me rappelle bien, c’est le père d’Arnold qui lui a raconté le progra
 
 [^4]: On how early broadcasting promoted Health Education, [see Donna Helper's article](<https://www.thebdr.net/exercise-and-expertise-how-early-broadcasting-promoted-health-education/>).
 
-Arnold a alors commencé à s’entraîner deux fois par jour. Pour moi c’était une grande joie ! Finalement que je me sentais utile ! Ainsi, je transmettais deux fois par jour le programme sportif de Walter Camps. Lorsque Arnold a commencé à s’entraîner dans une salle de gym, je pensais que je serais inutile pour lui. Faux ! Arnold me prenait tous les jours avec lui. "Mais pourquoi ?", dites-vous. Oui, je pèse quand même cinq kilos et c’est exactement pour cette raison qu’Arnold me prenait. J’étais une partie importante de son entrainement. De plus, il écoutait le programme de Camps dans la salle de gym afin de s’échauffer. 
+Arnold a alors commencé à s’entraîner deux fois par jour. Pour moi c’était une grande joie ! Finalement que je me sentais utile ! Ainsi, je transmettais deux fois par jour le programme sportif de Walter Camps. Lorsque Arnold a commencé à s’entraîner dans une salle de gym, je pensais que je serais inutile pour lui. Faux ! Arnold me prenait tous les jours avec lui. "_Mais pourquoi ?_", dites-vous. Oui, je pèse quand même cinq kilos et c’est exactement pour cette raison qu’Arnold me prenait. J’étais une partie importante de son entrainement. De plus, il écoutait le programme de Camps dans la salle de gym afin de s’échauffer. 
 
 Au fur et à mesure du temps, Arnold est devenu l’homme le plus fort et musclé de Graz. Il a commencé à donner des cours particuliers et même là je le rejoignais. Il expliquait à ses clients que c’est grâce à moi et à Camps qu’il a commencé son parcours de culturiste. Ainsi, j’étais aussi le point de départ pour tous ses clients. 
 
@@ -47,17 +47,16 @@ Nous sommes partis à Los Angeles...
 
 #### Are you enjoying? Then [click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_2.mp3) to open the page to download the second part of the audiofile - Click aftwerwards on 'View Raw'
 
-Nous étions seuls dans cette métropole. Aux États-Unis tout était différent. La première fois qu’Arnold m’a pris avec lui dans la salle de gym, les Américains se demandaient : _« Pourquoi apportes-tu une radio ? En plus, c’est une vieille radio. Elle ne va sûrement pas t’aider à grandir tes muscles. »_ Mais Arnold me défendait : _« C’est grâce à elle que j’ai connu le monde du culturisme. Elle est mon porte-bonheur! »_ Bien qu’en Amérique des programmes sur le culturisme n’étaient pas énormément diffusés sur la radio, Arnold ne m’a jamais laissé tomber en désuétude. Je suis vraiment devenu, comme il a dit, son _« son porte-bonheur »_. Tous les soirs, il aimait écouter des programmes en allemand. J’étais alors son seul moyen pour qu’il écoute sa langue maternelle. Mon rôle avait alors changé : de coach de culturisme vers une radio qui évoque des sentiments nostalgiques à son propriétaire.[^5] 
+
+Nous étions seuls dans cette métropole. Aux États-Unis tout était différent. La première fois qu’Arnold m’a pris avec lui dans la salle de gym, les Américains se demandaient : _« Pourquoi apportes-tu une radio ? En plus, c’est une vieille radio. Elle ne va sûrement pas t’aider à grandir tes muscles. »_ Mais Arnold me défendait : _« C’est grâce à elle que j’ai connu le monde du culturisme. Elle est mon porte-bonheur! »_ Bien qu’en Amérique des programmes sur le culturisme n’étaient pas énormément diffusés sur la radio, Arnold ne m’a jamais laissé tomber en désuétude. Je suis vraiment devenu, comme il a dit, son _« son porte-bonheur »_. Tous les soirs, il aimait écouter des programmes en allemand. J’étais alors son seul moyen pour qu’il écoute sa langue maternelle. Mon rôle avait alors changé : de coach de culturisme vers une radio qui évoque des sentiments nostalgiques à son propriétaire[^5]. 
 
 [^5]: On the different roles of objects, [see this article on projektado](https://projektado.com/the-role-of-objects/).
 
 C’est ainsi que jusqu’à la fin des années 1970, j’accompagnais Arnold lorsqu’il fait ses shows de culturisme à travers le pays. Comme il avait prévu en 1966, il est vraiment devenu le champion le plus titré de tous les temps.
 
-Un jour, il a décidé d’arrêter sa carrière. J’ai fallu mourir ! _« Mais pourquoi ? C’est maintenant que tu vas oublier que j’existe. Je ne te serais plus utile »_ dis-je. Arnold disait_« Calme Andante. Tu m’as aidé une fois, tu m’aideras une deuxième fois. »_
+Un jour, il a décidé d’arrêter sa carrière. J’ai fallu mourir ! _« Mais pourquoi ? C’est maintenant que tu vas oublier que j’existe. Je ne te serais plus utile »_ dis-je. Arnold disait « _Calme Andante. Tu m’as aidé une fois, tu m’aideras une deuxième fois._ »
 
-Arnold écoutait alors des cours d’anglais afin de perfectionner son anglais. Son accent était très fort à l’époque et il n’avait qu’un lexique d’environ 200 mots. Je ne comprenais pas vraiment pourquoi je transmettais des cours d’anglais, mais au moins je restais actif ! Il ne se gênait pas d’écouter la BBC Radio School qui à la base était pour des enfants :
-
-_Lesson 1: 'Five past ten. They’ve gone now. Let alone at last. I have the whole night ahead of me and I won’t waste a single moment of it. I shouln’t sleep it away and I won’t dream it eather.'_[^6]
+Arnold écoutait alors des cours d’anglais afin de perfectionner son anglais. Son accent était très fort à l’époque et il n’avait qu’un lexique d’environ 200 mots. Je ne comprenais pas vraiment pourquoi je transmettais des cours d’anglais, mais au moins je restais actif ! Il ne se gênait pas d’écouter la BBC Radio School qui à la base était pour des enfants : _Lesson 1: 'Five past ten. They’ve gone now. Let alone at last. I have the whole night ahead of me and I won’t waste a single moment of it. I shouln’t sleep it away and I won’t dream it eather.'_[^6]
 
 [^6]: Extrait de la [première lesson](https://www.bbc.co.uk/teach/school-radio/english-private-peaceful-episode-1/z6jnxyc) de la BBC School 'Private Peacuful'.
 
