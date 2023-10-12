@@ -5,7 +5,7 @@ authors: luca-uhrig
 date: 2023-06-22
 
 ---
-# **The monologue of the Philips Mignon 2100D-75 (1959) embodied by Saturn as portrayed in Francisco de Goya's painting from 1820-23**
+ **The monologue of the Philips Mignon 2100D-75 (1959) embodied by Saturn as portrayed in Francisco de Goya's painting from 1820-23**
 <img width="560" height="580" src="/assets/images/PXL_20230619_142730733 (cropped).jpg"> 
 <img align="right" width="420" height="580" src="/assets/images/Francisco-de-Goya-Saturno.jpg">
 
