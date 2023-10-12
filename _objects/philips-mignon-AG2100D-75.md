@@ -6,13 +6,13 @@ date: 2023-06-22
 
 ---
  **The monologue of the Philips Mignon 2100D-75 embodied by Saturn as portrayed in Francisco de Goya's painting from 1820-23**
-<img width="420" height="480" src="/assets/images/PXL_20230619_142730733 (cropped).jpg"> 
-<img align="right" width="420" height="480" src="/assets/images/Francisco-de-Goya-Saturno.jpg">
+<img align="left" width="380" height="420" src="/assets/images/PXL_20230619_142730733 (cropped).jpg"> 
+<img align="right" width="380" height="460" src="/assets/images/Francisco-de-Goya-Saturno.jpg">
 --- 
 
 ## Script: 
 <div style="text-align: justify">
- . mumbling<br>
+ ...mumbling<br>
   Saturn: (silently) It’s been so long, I’ve almost forgotten the feeling. When? -pause- Who? –pause- How?<br> 
   -pause-.<br>
   S: (Even more silently) I only need t-<br>  
@@ -36,7 +36,7 @@ date: 2023-06-22
   S: (contemplating) I remember the first time… (silence). It was hard, terrifying even for me. But as soon as I realized… Right from the first note, I knew, this was my calling, this was what I was made to do.And though it hurt, I pushed through.<br> 
   S: (nonchalantly) Now I don’t even think about it anymore. It just comes naturally and I often don’t even realize that it is happening sometimes.<br>
   S: (proudly) Want me to show you? I don’t mind really! Yeah, ok let’s see…<br>
-  <video src="[Insert Sound_mignon](http://sndup.net/byb2)"></video><sup>6</sup>
+  <video src="/assets/images/Insert Sound_mignon.mp4"></video><sup>6</sup>
   <video src="[Ejection Sound_mignon](http://sndup.net/svpx)"></video>
   S: After devouring them and using them as the source for my ability I get a tingly feeling, as if electricity would flow through my veins. I’m sure I could somehow amplify this power,<sup>7</sup> but I don’t know how… yet.<br>
   S: (reluctantly) Now that we’re so honest with each other, though I don’t like to admit it, even my ability has its limits.<br>
