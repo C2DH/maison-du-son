@@ -14,6 +14,11 @@ object_date: 1959
 
 Bush was a British consumer electronics company founded in the 30s. The company produced televisions and other electronic devices such as radios. In 1959, it launched the TR82 transistor radio, which proved a huge success. The fact that it was portable made it particularly appealing to teenagers. The design was created in 1954 by Ogle Design, a company based in Hertfordshire, and quickly became synonymous with the transistor radios of the early 60s. This model features a wooden cabinet, a rounded front panel and a unique speaker grille. Beyond its visual appeal, the TR82 was recognised for its durability and reliability. 
 
+## Picture example
+
+<a title="Unknown photographer, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Be_the_girl_with_the_BUSH.jpg)"><img width="512" alt="1920s street gramophone player" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1920s_street_gramophone_player.jpg/512px-1920s_street_gramophone_player.jpg"></a>---
+
+
 ## The BUSH TR82 BLU : A vintage radio with modern features
 
 With the immense popularity of the TR82, particularly among young people, The TR82 series of Bush radios have become a design classic. They decided then set about producing modern reproductions of the TR82 several years after its release, such as the TR82 BLU. This special edition, released in 2002 to mark the 45th anniversary of the reign of Queen Elizabeth II, adopts the classic aesthetic of the TR82 model with modern features. By introducing Bluetooth connectivity, it allowed users to stream music wirelessly from their modern devices, creating a harmonious bridge between the past and the present. 
