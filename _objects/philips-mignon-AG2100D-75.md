@@ -6,10 +6,10 @@ date: 2023-06-22
 ---
 
 ## **The monologue of the Philips Mignon 2100D-75 embodied by Saturn as portrayed in Francisco de Goya's painting from 1820-23**
-<img align="left" width="380" height="420" src="/assets/images/PXL_20230619_142730733 (cropped).jpg"> 
+<img width="380" height="420" src="/assets/images/PXL_20230619_142730733 (cropped).jpg"> 
 <img align="right" width="380" height="460" src="/assets/images/Francisco-de-Goya-Saturno.jpg">
 
-<div style="text-align: left">## Script: 
+<div style="text-align: left">## Script: </div>
 <div style="text-align: justify">
  ...mumbling<br>
   Saturn: (silently) It’s been so long, I’ve almost forgotten the feeling. When? -pause- Who? –pause- How?<br> 
@@ -35,8 +35,8 @@ date: 2023-06-22
   S: (contemplating) I remember the first time… (silence). It was hard, terrifying even for me. But as soon as I realized… Right from the first note, I knew, this was my calling, this was what I was made to do.And though it hurt, I pushed through.<br> 
   S: (nonchalantly) Now I don’t even think about it anymore. It just comes naturally and I often don’t even realize that it is happening sometimes.<br>
   S: (proudly) Want me to show you? I don’t mind really! Yeah, ok let’s see…<br>
-  <video src="/assets/images/Insert Sound_mignon.mp4"></video><sup>6</sup>
-  <video src="[Ejection Sound_mignon](http://sndup.net/svpx)"></video>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/0LA1fUNx7qo?si=0BDy8eLpce2bV9F3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/qP2EgcfTnUs?si=GRHHJkUAQ1AczX1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><sup>6</sup>
   S: After devouring them and using them as the source for my ability I get a tingly feeling, as if electricity would flow through my veins. I’m sure I could somehow amplify this power,<sup>7</sup> but I don’t know how… yet.<br>
   S: (reluctantly) Now that we’re so honest with each other, though I don’t like to admit it, even my ability has its limits.<br>
   S: Maybe I’m not powerful<sup>8</sup> enough or maybe my children are just too imperfect<sup>9</sup>.<br>
@@ -48,15 +48,15 @@ date: 2023-06-22
   S: I could continue about how fine the distinction between real and copy has become over the years. But my main point is, that aiming for a realistic reproduction, is not to come as close as possible to the source. But to transmit the joy, sound can generate in someone. If I reproduce a song for example, I am not displaying the absolute best performance everyone has ever seen just because it should come close to the original.<br>
   S: (interjection): I do it to boast yeah. But!<br>
   S: Aside from wanting to boast, I do it because I want to reproduce the things that bring joy to the ones listening. Be that something they never heard, but come to like due to various reasons, or a melody that evokes a kind of nostalgia, familiarity or even feeling of home. I mean, what even is an original authentic sound? Isn’t your larynx just a device made out of flesh to copy sound? Sorry, sorry for going off on a tangent here, what I’m trying to say is that high-fidelity in sound should be measured by the impact on the listener and not on its evaluated degree of perfection. Enough about tha-<br>
-  <video src="[Insert Sound_mignon](http://sndup.net/byb2)"></video>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/0LA1fUNx7qo?si=0BDy8eLpce2bV9F3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_94p5UFiuNw?si=JnQ3Tm9CIoSnU_Vo&amp;start=41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><sup>16</sup>
-  <video src="[Ejection Sound_mignon](http://sndup.net/svpx)"></video>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/qP2EgcfTnUs?si=GRHHJkUAQ1AczX1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   S: (confused) I’m sorry.<br>
   -pause-<br>
   S: Sometimes I have the feeling a higher power forces me to swallow another one of my children. I’m glad that, though I don’t have the power to stop the process from starting, that I can at least interrupt it at any moment.<sup>17</sup> Even I’ve come to enjoy the occasional time off, don't wanna break due to overworking, right?<br>
   S: You know, I’m glad you came along and listened to what I had to say. Honestly, I called out to you to have someone to talk to. You might think that I only wanted to display my superiority, but in reality I was starting to lose my mind. The pressure of always performing at your best, of being trapped in an automatic process that you can’t really control, hell even having to swallow your own children. (sigh) All of it is exhausting.<br>
   S: But. You showed me that it is worth it. That there is someone who listens to you, who accepts you the way you are. Who is interested in what you say even if at one point all you might still do is collect dust in dark storage space.<br>
-  S: At least it won’t be in vain, because now all of this has become a part of your memory. And though this physical form of mine might rust, decompose or wither away one day. In your memory I remain in my ideal form and will continue to live as long as you remember me. After all, I have done my best to make an impression that is worthy of earning a place in the palace that is your memory.<br> <div></div><div></div>
+  S: At least it won’t be in vain, because now all of this has become a part of your memory. And though this physical form of mine might rust, decompose or wither away one day. In your memory I remain in my ideal form and will continue to live as long as you remember me. After all, I have done my best to make an impression that is worthy of earning a place in the palace that is your memory.<br> <div></div>
  
   ### Bibliography and Footnotes:<br>
   
