@@ -8,7 +8,7 @@ date: 2023-10-02
 **This a French Object Biography of the Philips Andante BA 391U**
 ## **La radio inconnue qui voyage le monde**
 
-# [Click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_1.mp3) to open the page to download the first part of the audiofile - Click aftwerwards on 'View Raw'
+#### [Click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_1.mp3) to open the page to download the first part of the audiofile - Click aftwerwards on 'View Raw'
 
 _Ceci est l’histoire d’une radio peu connue et peu commercialisée. Pourtant, le parcours de sa vie est indubitablement curieux, particulier et même spectaculaire. Voici l’histoire._
 
@@ -45,7 +45,7 @@ Arnold acquiert une grande notoriété dans le monde du culturisme et nous somme
 
 Nous sommes partis à Los Angeles...
 
-# Are you enjoying? Then [click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_2.mp3) to open the page to download the second part of the audiofile - Click aftwerwards on 'View Raw'
+#### Are you enjoying? Then [click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_2.mp3) to open the page to download the second part of the audiofile - Click aftwerwards on 'View Raw'
 
 Nous étions seuls dans cette métropole. Aux États-Unis tout était différent. La première fois qu’Arnold m’a pris avec lui dans la salle de gym, les Américains se demandaient : _« Pourquoi apportes-tu une radio ? En plus, c’est une vieille radio. Elle ne va sûrement pas t’aider à grandir tes muscles. »_ Mais Arnold me défendait : _« C’est grâce à elle que j’ai connu le monde du culturisme. Elle est mon porte-bonheur! »_ Bien qu’en Amérique des programmes sur le culturisme n’étaient pas énormément diffusés sur la radio, Arnold ne m’a jamais laissé tomber en désuétude. Je suis vraiment devenu, comme il a dit, son _« son porte-bonheur »_. Tous les soirs, il aimait écouter des programmes en allemand. J’étais alors son seul moyen pour qu’il écoute sa langue maternelle. Mon rôle avait alors changé : de coach de culturisme vers une radio qui évoque des sentiments nostalgiques à son propriétaire.[^5] 
 
