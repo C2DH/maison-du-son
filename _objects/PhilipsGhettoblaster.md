@@ -101,7 +101,7 @@ Ich bin gl√ºcklich, ein Teil dieser Familie zu sein und vor allem, Tommy zu geh√
 Ich bin gespannt, was ich noch alles erleben werde und wie alt ich noch werde.*
 
 
-**Images**: 
+## Images: 
 
 <img width="405" alt="image" src="https://github.com/C2DH/maison-du-son/assets/145359036/7aebef47-a686-4492-b052-9594b81992f8">
 
@@ -109,7 +109,7 @@ Ich bin gespannt, was ich noch alles erleben werde und wie alt ich noch werde.*
 
 
 
-**similar radio**:
+## similar radio:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M0rqPM4YTOI?si=MX7_7qdz7Ukp0_4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -124,7 +124,7 @@ Ich bin gespannt, was ich noch alles erleben werde und wie alt ich noch werde.*
 
 
 
-**Literature**: 
+## Literature: 
 -	25 Jahre Playstation: Die Geschichte der Sony-Konsole. (o. D.). Die Presse. https://www.diepresse.com/4609966/25-jahre-playstation-die-geschichte-der-sony-konsole. 
 -	ERXLEBEN, C. (2019). Das waren noch Zeiten! Was wir aus den 90ern und 2000ern vermissen. BASIC thinking. https://www.basicthinking.de/blog/2019/08/17/90er-2000er-nostalgie/9/
 -	European Central Bank. (2022, 7. Dezember). Unser Geld.https://www.ecb.europa.eu/euro/intro/html/index.de.html#:~:text=B.,Franc%20oder%20der%20Deutschen%20Mark.    
