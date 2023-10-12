@@ -2,7 +2,7 @@
 title: Philipps Mignon-AG2100D-75 (1959)
 abstract: A cute little vinyl player, also known as the "Disc-eater" that brought about the era of 7-inch 45's vinyls and dissapearance of visible audio formats.
 authors: luca-uhrig
-date: 2023-06-22
+date: 2023-10-12
 ---
 
  **The monologue of the Philips Mignon 2100D-75 embodied by Saturn as portrayed in Francisco de Goya's painting**
