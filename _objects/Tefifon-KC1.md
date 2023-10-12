@@ -1,8 +1,10 @@
---- 
-Title: Tefifon Kc1
-Abstract: A german device from the 1950's meant to compete with the long-player format
-Authors: Ceman Armin
 ---
+title: Tefifon KC1
+abstract: A german device from the 1950's meant to compete with the long-player format
+authors: Armin-ceman
+date: 2023-10-12
+---
+
 Dear visitor, I am the Tefifon KC1, I suppose you have not heard from me and even if you have, I hope to give you a better understanding of who I am and who I was as these two things are very different from one another. Depending on your age I may represent to you an object evoking the concept of Nostalgia, or if you are younger, you may see me as an ancient artefact already. 
 To begin with, I will give you my backstory and the person which I can thank for my existence. Dr. Karl Daniel, a German entrepreneur who was born in 1905 in Rheinland-Pfalz and died in 1977 in Cologne, was the person who invented me. I made my first public appearance in 1950 on the “Düsseldorfer Funkaustellung” where I was presented to the world by Dr. Karl Daniel, my inventor.  The main reason for my invention, was for me to become a concurrence for the predominant Long-player phonograph record, which was an analog sound storage medium which dominated the market in the time of my invention. My main selling point, was the fact that I could store and play sounds for much longer than a Long-player, as at the time an LP could typically play 9 minutes of sound, whereas my new method allowed me to play sounds for an hour with my general cartridges, or up to 4 hours on the longer version of my cartridges.  If you ask yourself what cartridges I am talking about, well my audio playback format functioned by using cartridges with an endlessly looped reel of plastic tape.  Those cartridges existed in three different variations, short, medium and long. A short cartridge typically allowed me to play up to 18 minutes of audio, the medium cartridges up to an hour and the long cartridge lasted up to 4 hours.  If I am to believe my contemporaries, the sound quality I produced was also better than 78 rpm records but unfortunately not as good as the quality produced by Long playing vinyl records. These cartridges I just talked about, which I needed for my audio playback, were called “Tefi” and they were named after the production company which invented me and belonged to Dr. Karl Daniel.  I was finally released in 1956, which I didn’t mention yet, and I was invented in the same city where my inventor died, Cologne, Germany.
 In the context of audio playback formats, I can be viewed as a combination between a tape recorder and a phonograph record. Therefore, I find myself in the middle between the analog era of sound recording and the magnetic era of sound recording. 
