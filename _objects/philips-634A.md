@@ -1,7 +1,7 @@
 ---
 title: 'Philips-634A'
-authors:
-  - Liliana-Horta-Coelho -
+authors: liliana-horta-coelho
+date: 2023-10-12
 ---
 
 Biographie
