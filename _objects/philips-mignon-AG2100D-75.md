@@ -60,8 +60,9 @@ date: 2023-06-22
   S: At least it won’t be in vain, because now all of this has become a part of your memory. And though this physical form of mine might rust, decompose or wither away one day. In your memory I remain in my ideal form and will continue to live as long as you remember me. After all, I have done my best to make an impression that is worthy of earning a place in the palace that is your memory.<br> <div></div>
  <br>
  
- ### _Bibliography and Footnotes:_
-  _Bibliography_
+ 
+ **_Bibliography and Footnotes:_**
+  **_Bibliography_**
   
 Akrich, M. (1992), The De-Scription of Technical Objects, in:  ShapingTechnology, Building Society: Studies in Sociotechnical Change, Bijker, W. & and Law, J. (Eds.), P. 205-224, Cambridge.<br>
 Beardsley, R. & Leech-Wilkinson, D. (2009), A brief History of Recording to ca. 1950, online from: https://www.charm.rhul.ac.uk/history/p20_4_1.html.<br>
@@ -81,7 +82,7 @@ Sterne, J. (2012), MP3: The Meaning of a Format, Durham, online from: https://do
 The sound of Vinyl (online), What is a 7-Inch Record?, online from: https://thesoundofvinyl.us/blogs/vinyl-101/7-inch-record.<br>
 <br>
  
-_Footnotes_
+**_Footnotes_**
  
  <br>
 1. Referring to a predecessor model such as the Philips AG 2102 A for example, see Deutsche Digitale Bibliothek (online), Philips AG 2102 A, online from: https://www.deutsche-digitale-bibliothek.de/item/RK4QI2RSSLRK4OV4ETNFSMFQOBFRLE4F.<br>
@@ -102,7 +103,7 @@ _Footnotes_
 16.  Chosen by Playback.fm to be the most popular song of 1959, the Mignon’s release year. Played on a 7-inch 45 in mono. Cf. https://playback.fm/charts/top-100-songs/1959. Audio extract courtesy of Brian Richmond (online), Bobby Darin - Mack the Knife ((Mono)) 1959 [Video], online under: https://youtu.be/_94p5UFiuNw?t=30.<br>
 17.   The Mignon has only one interface button, which is the ejection button. Can be seen used, cf. Chorzów Music and Picture Art Gallery (online), Philips Mignon AG - 2100 D - 75 [Video], translation by authoourser, 7:20-7:22, online from: https://www.youtube.com/watch?v=waUmmlWnxWs.<br>
 
-#### Picture Annexe (Copyright Luca Uhrig, Courtesy of M. Albert Wolter):
+**_Picture Annexe (Copyright Luca Uhrig, Courtesy of M. Albert Wolter):_**
 <img src="/assets/images/Mignon-Ex1.png">
 <img src="/assets/images/Mignon-Ex2.png">
 <img src="/assets/images/Mignon-Ex3.png">
