@@ -16,7 +16,7 @@ Bush was a British consumer electronics company founded in the 30s. The company 
 
 ## Be the Girl with the Bush
 
-"Be the Girl with the Bush" was an advertising slogan used by Bush Radio for their TR82 transistor radio model. This slogan was part of their marketing campaign to appeal to a younger, trendier audience, particularly targeting young women. It's worth noting that this slogan was used in the context of its time, and today it may be interpreted differently.
+The slogan "Be the Girl with Bush" was an iconic Bush Radio advertising campaign to promote their TR82 model. It was used in the 1960s to specifically target a young, female audience. The slogan aimed to associate the product, the TR82 radio, with a modern lifestyle and the freedom of the times. The use of the word 'Girl' in the slogan was intended to create a connection with the young women of the time, inviting them to identify with the product and make it an integral part of their daily lives. By associating the product with a sense of individuality and modernity, the slogan aimed to position the TR82 radio as an essential accessory for the trendy youth of the time. It was a clever marketing campaign that capitalized on the trends and aspirations for emancipation of the youth of the 1960s.
 
 <a title="Unknown photographer, Public domain, via Wikimedia Commons" 
 href="https://commons.wikimedia.org/wiki/File:Be_the_girl_with_the_BUSH.jpg"><img width="312" alt="Advertising slogan used by Bush Radio for their TR82 transistor radio model" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Be_the_girl_with_the_BUSH.jpg"></a>---
@@ -28,10 +28,6 @@ With the immense popularity of the TR82, particularly among young people, The TR
 <a title="Unknown photographer, Public domain, via Wikimedia Commons" 
 href="https://commons.wikimedia.org/wiki/File:Bush_TR82_Halogen_Highlight.JPG"><img width="312" alt="Reproduction Bush TR82 transistor radio" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Bush_TR82_Halogen_Highlight.JPG"></a>---
 
-## Video example
+## Want to find out more about this radio station? 
 
-<div style="padding:88.31% 0 0 0;position:relative;background:black"><iframe src="https://player.vimeo.com/video/853299729?h=88d15b5832&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DigitalLandscape - test - Aug 10 2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-
-s.a., ‘A brief history of the home workout’, _Radio 4 in Four_, s.d., [Link](https://www.bbc.co.uk/programmes/articles/XZ8mBqwtmY18Xj62W5rG2V/a-brief-history-of-the-home-workout#:~:text=Radio%20broadcast%20home%20workouts%20first,promote%20fitness%20and%20weight%20loss).
+#### [Click here] (https://github.com/Benji1610/maison-du-son/blob/master/_objects/Bush TR82BLU.mp4) to Download the ZIP file below to listen to an object biography of Bush radios TR82 and the TR82 BLU
