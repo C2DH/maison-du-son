@@ -113,7 +113,7 @@ s.a., ‘Z359U‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/zer
 
 s.a., ‘Private Peaceful – Episode 1’, BBC School Radio, [Link](https://www.bbc.co.uk/teach/school-radio/english-private-peaceful-episode-1/z6jnxycY).
 
-## Bibliographie
+## Bibliography
 
 Berndt Schulz, _Arnold Schwarzenegger_, (Vienne : Zsolnay, 1993).
 
