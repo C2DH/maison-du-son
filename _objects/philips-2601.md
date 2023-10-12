@@ -75,3 +75,32 @@ Wow that was great. Now that we’ve talked a lot about our appearances, we can 
 
 “Bye!” 
 
+---
+Literature:
+---
+BERKER, Thomas/HARTMANN, Maren/PUNIE, Yves/WARD, Katie (ed.), Domestication of Media and Technology. Maidenhead: Open University Press, 2005.
+
+BIRAUD, Guy, Les Radios PHILIPS de Collection. 1928-1948, Vol. 1, Fontenay-le-Comte : Edition CVR, 1983.
+
+DAHL, Peter, Radio. Sozialgeschichte des Rundfunks für Sender und Empfänger, Hamburg: Rowohlt, 1983.
+
+DANNEHL, Karin, Object biographies: from production to consumption. In: HARVEY, Karen (ed.), History and Material Culture. A Student’s Guide to approaching alternative sources, London: Routledge, 2009, p. 171-186.
+
+FRIEMERT, Chup, Radiowelten. Objektgeschichte und Hörformen, in: Ruppert, Wolfgang (ed.), Chiffren des Alltags. Erkundungen zur Geschichte der industriellen Massenkultur, Marburg: Jonas Verlag, 1993. 
+
+LENK, Carsten, Die Erscheinung des Rundfunks. Einführung und Nutzung eines neuen Mediums 1923-1932 (Konzeption Empirische Literaturwissenschaft, 20), Wiesbaden: Verlag für Sozialwissenschaften, 1996. 
+
+MOORES, Shaun, Media and Everyday Life in Modern Society. Edinburgh: Edinburgh University Press, 2000.
+
+MOORES, Shaun, ‘The box on the dresser’: memories of early radio and everyday life. In: Media, Culture & Society 10 (1988), p. 23-40.
+
+MÜSKE, Johannes/FÖLLMER, Golo/HENGARTNER, Thomas/LEIMGRUBER, Walter (ed.), Radio und Identitätspolitiken. Kulturwissenschaftliche Perspektiven (Studien zur Popularmusik), Bielefeld: transcript Verlag, 2019.
+
+WALZ, Rüdiger, Einstieg von Philips in den Radio- und Röhrenmarkt. (22.05.2023), in: Radiomuseum, URL: https://www.radiomuseum.org/forum/einstieg_von_philips_in_den_radio_und_roehrenmarkt.html#1 (last accessed 23.06.2023).
+
+WALZ, Rüdiger, Philips 2601. Restaurationsbeschreibung (14.12.2015), in: Radiomuseum, URL: https://www.radiomuseum.org/forum/philips_philips_2601_restaurationsbeschreibung.html (last accessed: 23.06.2023).
+
+WALZ, Rüdiger, Philips 636 A – Teil 1. In: Funkgeschichte Fachmagazin für Interessierte der Geschichte des Funkwesens 46/268 (2023), p. 82-88.
+
+WALZ, Rüdiger, Philips 636 A – Teil 2. In: Funkgeschichte Fachmagazin für Interessierte der Geschichte des Funkwesens 46/269 (2023), p. 134-139. 
+
