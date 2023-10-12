@@ -50,3 +50,41 @@ Eh bien, il se peut qu'il y ait une chance pour moi de revivre une nouvelle fois
 En effet, un projet de Maison du Son se prépare et j'ai été choisi pour faire partie de la collection d'exposition.
 
 D'ailleurs, j'ai su qu'il existait encore des passionnés qui aiment réparer les anciens postes de radio. Il y a un passionné de réparation en tout genre en Allemagne, qui a réparé un de mes congénères il y a 2 ans . Et non seulement il l'a remis en marche, mais il a également rajouté un système Bluetooth qui permet de diffuser la musique ou tout autre fichier audio avec son téléphone portable avec le Philips 634A. Je garde espoir que les vieux postes radio qui, jadis, ont façonnés le paysage sonore du quotidien de milliers de gens, puissent reprendre un 2e souffle et refaire vibrer leur haut-parleur. Je vous remercie d'avoir écouté mon histoire et je vous laisse avec un son merveilleux qui renvoie à la nostalgie sonore des années 1930.
+
+https://youtu.be/mi0rQCfjES8
+
+Bibliographie et sources pour la présentations de vidéo du poste radio Philips 634A
+
+Bibliographie 
+
+-	Dominguez Muller, David, Die A(h)nen des Rundfunks, Ons Stad, vol. 106, no 11 13, 2014, in : onsstad.vdl, URL: https://onsstad.vdl.lu/fileadmin/uploads/media/ons_stad_106-2014_10-13.pdf (consulté le 20.06.2023).
+-	Douglas, Susan J., Listening In : Radio and the American Imagination, University of Minnesota Press, 2004, in:  ProQuest Ebook Central, URL: https://ebookcentral.proquest.com/lib/unilu-ebooks/detail.action?docID=310845 (consulté le 20.06.2023).
+-	Hugh Chignell, "Audience." Key Concepts in Radio Studies, Sage UK, 1st edition, 2009, in:  Credo Reference, URL:  http://proxy.bnl.lu/login?qurl=https%3A%2F%2Fsearch.credoreference.com%2Fcontent%2Fentry%2Fsageukrs%2Faudience%2F0%3FinstitutionId%3D219 (consulté le 20.06.2023).
+-	Hugh Chignell, "Reception." Key Concepts in Radio Studies, Sage UK, 1st edition, 2009, in:  Credo Reference, URL: http://proxy.bnl.lu/login?qurl=https%3A%2F%2Fsearch.credoreference.com%2Fcontent%2Fentry%2Fsageukrs%2Freception%2F0%3FinstitutionId%3D219 (consulté le 20.06.2023).
+-	Hugh Chignell, “Transmission.” Key Concepts in Radio Studies, Sage UK, 1st edition, 2009, in:  Credo Reference, URL: http://proxy.bnl.lu/login?qurl=https%3A%2F%2Fsearch.credoreference.com%2Fcontent%2Fentry%2Fsageukrs%2Ftransmission%2F0%3FinstitutionId%3D219 (consulté le 20.06.2023).
+-	La fin d’une époque: RTL a arrêté d’émettre sur les grandes ondes, 02.02.2023, in : rtl.lu, URL : https://infos.rtl.lu/actu/frontieres/a/2011331.html (consulté le 20.06.2023).
+
+Sources
+
+-	100 ans de Radio, Radio Luxembourg, année 1925, in : 100ansderadio, URL : http://100ansderadio.free.fr/HistoiredelaRadio/Radio-Luxembourg/RadioLuxembourg-1925.html (consulté le 20.06.2023).
+-	Aus der Radio-Indusrtie, Escher Tageblatt, 03.08.1934, in : eLuxemburgensia, URL : https://viewer.eluxemburgensia.lu/ark:70795/vz8gf1/pages/6/articles/DTL96?search=%20Radio%20Philips (consulté le 20.06.2023).
+-	BAKÉLITE : Définition de BAKÉLITE, Centre National de Ressources Textuelles et Lexicales, in : cnrtl.fr, URL : https://www.cnrtl.fr/definition/bak%C3%A9lite (consulté le 21.06.2023).
+-	Die neue Serie des Philips Apparate, Escher Tageblatt, 02.09.1933, in : eluxemburgensia, URL : https://viewer.eluxemburgensia.lu/ark:70795/v7pqd3/pages/13/articles/DTL611?search=%20Radio%20Philips (consulté le 21.06.2023).
+-	La fin d’une époque : RTL a arrêté d’émettre sur les grandes ondes, 02.01.2023, in : RTL.lu, URL : https://infos.rtl.lu/actu/frontieres/a/2011331.html (consulté le 20.06.2023).
+-	Le nouveau poste de « Radio Luxembourg », Escher Tageblatt, 25.09.1929, in: eluxemburgensia.lu, URL: https://viewer.eluxemburgensia.lu/ark:70795/9ngr99/pages/6/articles/DTL85?search=%20Radio (consulté le 21.06.2023).
+-	Litz wire, in : thevalvepage.com, URL :  https://www.thevalvepage.com/radios/philips/634a/litz.htm (consulté le 21.06.2023).
+-	Perfect restored 1934 - Philips 634A Superinductance - a high quality European 5- tube receiver ! Réalisé par ART & TECHNIQUE, 2022, in : YouTube, URL : https://www.youtube.com/watch?v=_SltRUkc-PM (consulté le 20.06.2023).
+-	Philiphs 634A Trader service sheet revised 1943, in: nzvrshome.com, URL: https://nzvrshome.files.wordpress.com/2018/12/Philips-634A-Trader-service-sheet-revised-1943.pdf (consulté le 21.06.2023).
+-	Philips 634A Engels, 03.09.2022, in: vintageradio.nl, URL: https://www.vintageradio.nl/radio%27s/philips_634a_engels.htm (consulté le 21.06.2023).
+-	Philips 634A, 29.10.2023, in : thevalvepage.com, URL : https://www.thevalvepage.com/radios/philips/634a/634a.html (consulté le 21 juin 2023).
+-	Philips Super Inductance, Escher Tageblatt, 20.12.1933, in: eLuxemburgensia, URL : https://viewer.eluxemburgensia.lu/ark:70795/qdp8df/pages/7/articles/DTL489?search=%20Radio%20Philips (consulté le 21.06.2023).
+-	Publicité Londres Philips 634A, in : thevalvepage.com, URL : https://www.thevalvepage.com/radios/philips/634a/advert.jpg (consulté le 21.06.2023).
+-	Publicité Philips, De Gukuk, 29.04.1933, in : eLuxemburgensia, URL : https://viewer.eluxemburgensia.lu/ark:70795/3j5rt9vcq/pages/4/articles/DTL249?search=%20Radio%20Philips (consulté le 21.06.2023).
+-	Publicité Philips, L’indépendance luxembourgeoise, 02.11.1933, in:  eLuxemburgensia, URL : https://viewer.eluxemburgensia.lu/ark:70795/dqjbgz/pages/4/articles/DTL257?search=%20Radio%20Philips (consulté le 21.06.2023).
+-	Publicités anciennes, in :TSFsepelliere44, URL :  http://tsfsepelliere44.e-monsite.com/pages/pubs-anciennes.html (consulté le 20.06.2023).
+-	Radios Anen – Luxembourg, D’Industriegeschicht D'Industriegeschicht vu Lëtzebuerg an doriwwer eraus in : industrie.lu, URL : https://www.industrie.lu/anenluxembourg.html (consulté le 21.06 2023).
+-	Röhrenradio Philips 634 A von 1932-1934 restaurieren und Bluetooth einbauen. Réalisé par Studio Osterhenne, 2021, in : YouTube, URL : https://www.youtube.com/watch?v=nQy41sIN4ic (consulté le 20.06.2023).
+-	Service manual, eprom result list | Elektrotanya, in: elektrotanya.com, URL: https://elektrotanya.com/showresult?what=Philips+634A&kategoria=All&kat2=All (consulté le 19.06.2023).
+-	TSF et Radios - Sélection des années 30, Philips 634A, in : tsfetradio.com, URL : https://tsf-et-radio.com/catal30.php (consulté le 21.06.2023).
+-	TSF-Radio: Fiche Détail, in : tsf-radio.org, URL : http://tsf-radio.org/coldet.php?tub=506 (consulté le 21.06.2023).
+
