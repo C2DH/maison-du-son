@@ -1,16 +1,16 @@
 ---
 title: Telefunken 340W
-abstract: Radio referred to as Katzenkopf.
+abstract: The radio, first produced in 1931 by Telefunken, was often referred to as a Katzenkopf due to the catlike shape of it's scale cover.
 authors: cathy-collard
 ---
 
-1. Vorwort
+Vorwort
 
 Wie Coupaye schreibt, können technische Objekte als physische und/oder sensorische Vermittler beschrieben werden, die im Zentrum des Austauschs zwischen Menschen und ihren Milieus stehen. Objekte können ihre eigenen Milieus schaffen auf Art und Weisen, die soziale Beziehungen reproduzieren und/oder bekräftigen und darüber entscheiden, welcher Platz in diesem Kontext dem menschlichen Subjekt zukommt.  Die Untersuchung des sozialen Lebens von technischen Objekten anhand einer Objektbiografie kann somit wichtige soziale Zustände eines bestimmten Objekts aufdecken, dessen Beziehungen mit Menschen analysieren und das Objekt nicht nur in Bezug auf Zeit und Raum, sondern auch in der menschlichen Welt einen Sinn geben. 
 
 Die folgende Objektbiografie erzählt die Geschichte des Radios Telefunken 340 W (im Volksmund als „Katzenkopf“  bezeichnet), das ab 1931 von der deutschen Firma Telefunken produziert wurde. Die Objektbiografie orientiert sich am Vorbild der Radiosammlung von Albert Wolter. Sie wird sich nicht mit dem konkreten Radio aus dessen Katalog befassen, da die Quellenbasis für dieses weitgehend unbekannt ist. Die Geschichte wird sich daher auf das Telefunken 340 W als Radio im Allgemeinen konzentrieren. Als konzeptionelle Grundlage wird diese Objektbiografie Katrin van Es Arbeit über Liveness übernehmen. Laut Es kann man Liveness als eine Konstruktion aus Technologien, Institutionen und Nutzern ( „constellations of liveness“) verstehen.  Während sich das Buch hauptsächlich auf die Liveness von Fernsehprogrammen konzentriert, kann man die Eigenschaften der Liveness auch auf das Radio übertragen. Die vorliegende Objektbiografie ist von Es dreifachen Konstellation inspiriert und konzentriert sich hauptsächlich auf zwei dieser Perspektiven. Sie wird die Geschichte des Telefunken 340 W mit der technischen Perspektive verbinden, indem sie sich auf die technischen Aspekte des Objekts selbst konzentriert. Die Perspektive der Nutzer wird in einem zweiten Teil wiedergegeben, um auch den sozialen Aspekt eines Objektes zu behandeln. Während sich die erste Perspektive auf die Details der Produktion des Radios konzentriert („behind the object”), übernimmt die zweite Perspektive an dem Zeitpunkt, an dem das Radio bereits auf dem Markt ist („in front of the object”). 
 
-2. Der Telefunken 340 W - Eine Objektbiografie
+Der Telefunken 340 W - Eine Objektbiografie
 
 Die Idee der Telefunken 340er Reihe kam auf, als man sich, hier im Hauptquartier von Telefunken, bewusst wurde, dass es an der Zeit war, ein neues Typisierungssystem der Radioapparate einzuführen. Wenngleich vor ein paar Jahren die Röhrenanzahl, also die Verstärkung, ausschlaggebend für die Beurteilung von guten Radios war , so dachten sich unsere Elektroingenieure und Physiker, dass die Abstimmschärfe mindestens genauso wichtig sei. Indem man die Zahl der Abstimmkreise und Röhren anpasst, kann man garantieren, dass die neue Station Radio-Luxemburg  überall empfangen werden kann, da alle Sendestationen ohne Problem getrennt werden und selbst die störenden Ortssender ausgeschaltet werden können. Durch die perfekte Anzahl an drei Kreisen und vier Röhren  entsteht so Telefunkens 340er Serie. Eine Sensation, wenn man uns fragt! Aber das ist noch lange nicht alles: Um die Trennschärfe zu verbessern, wurden ein bis zwei Schirmgitterröhren  eingesetzt, da diese eine hohe Anzahl an Stationen empfangen lässt. Wir können garantieren, dass das weit mehr ist, wie als alltägliche Radionutzer eigentlich braucht. 
 
