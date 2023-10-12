@@ -4,9 +4,8 @@ abstract: "The Bush TR82 is a classic transistor portable radio.Manufactured by 
 authors:
  - benjamin-juchem
 date: 2023-10-03
----
-
 object_date: 1959
+---
 
 ---
 
