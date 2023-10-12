@@ -33,7 +33,7 @@ _Exercise number one : The grind. Stretch the arms straight out sideways from th
  
 Arnold me dit : «_Heureusement que papa t’a acheté un jour... C’est grâce à toi que je commence à comprendre les concepts du culturisme._» 
 
-Si je me rappelle bien, c’est le père d’Arnold qui lui a raconté le programme de Walter Camps. «_Lorsque j’avais ton âge, il a inspiré notre génération à aller à la salle de gym et développer notre santé physique et mentale._»[^4]
+Si je me rappelle bien, c’est le père d’Arnold qui lui a raconté le programme de Walter Camps. «_Lorsque j’avais ton âge, il a inspiré notre génération à aller à la salle de gym et développer notre santé physique et mentale_»[^4].
 
 [^4]: On how early broadcasting promoted Health Education, [see Donna Helper's article](<https://www.thebdr.net/exercise-and-expertise-how-early-broadcasting-promoted-health-education/>).
 
