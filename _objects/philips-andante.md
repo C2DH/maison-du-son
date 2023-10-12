@@ -65,7 +65,7 @@ Arnold me disait : « _Je sais que je ne suis pas le seul à écouter ces cours 
 
 «_Arnold est devenu complètement fou_ » disais-je. Mais vous savez quoi ? Il est vraiment devenu une star du cinéma à l’échelle mondiale ! Et il avait raison : de toute cette _listening community_[^7]  des étudiants de la langue anglaise, il est fort probablement le seul qui est devenu une star d’Hollywood.
 
-[^7]: Hugh Chignell, ‘Imagined Community’, in Key Concepts in Radio Studies, éd. par Hugh Chignell. ([s.l.]: Sage UK, 2009).
+[^7]: Hugh Chignell, ‘Imagined Community’, in Key Concepts in Radio Studies, éd. par Hugh Chignell. (s.l.: Sage UK, 2009).
 
 Grâce à sa notoriété à l’échelle mondiale, j’ai parcouru le monde avec Arnold. Il me considérait toujours son « porte-bonheur ». Que ce soit à Tokyo, à Milan ou à Cannes, je l’accompagnais toujours. Oui, une radio peut aussi explorer le monde ! Arnold est devenu incroyablement riche et c’est ainsi que quelquefois j’habitais à Los Angeles, à New York ou à Paris. Je peux bien dire que je fais partie de la _migrations of objects_[^8] : j’ai parcouru le monde et émmigré dans des divers pays. Ainsi se sont passées les années 1990.
 
@@ -75,7 +75,7 @@ Au début de 2003, Arnold a une carrière cinématique de grand succès. Il me d
 
 Pendant sa campagne politique, Arnold a étudié les questions essentielles afin de pouvoir participer confortablement aux débats politiques. Vous savez qui l’a alors aidé ? _Bingo !_ Comme le professeur de Broadcasting Studies Andrew Crisell, Arnold croyait toujours que la télévision s’intéresse principalement au sensationnel visuel[^9]. A l’inverse, la radio a une approche plus abstraite et plus concernée par les questions et généralités dans les domaines de l’actualité. 
 
-[^9]: Hugh Chignell, ‘Journalism’, in Key Concepts in Radio Studies, éd. par Hugh Chignell. ([s.l.]: Sage UK, 2009).
+[^9]: Hugh Chignell, ‘Journalism’, in Key Concepts in Radio Studies, éd. par Hugh Chignell. (s.l.: Sage UK, 2009).
 
 Ainsi, Arnold a gouverné pendant plusieurs années. Peu à peu, j’ai pris ma retraite. Arnold me racontait parfois : «_Andante, tu as tout vécu avec moi. Tu fais partie de mon identité même si personne ne te connait vraiment. Maintenant tu mérites bien ta pension comme moi._» 
 
