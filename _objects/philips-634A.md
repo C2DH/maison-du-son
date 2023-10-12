@@ -29,8 +29,15 @@ Ce qu'il y a de particuliers avec moi, c'est que mes commandes sont simples. Il 
 L'échelle d'accord est l'une des caractéristiques les plus importantes des récepteurs Philips, et cela est tout à fait unique. Elle consiste en 2 échelles distinctes qui tournent ensemble mais à des vitesses différentes. Sur un 3e cercle concentrique, les longueurs d'ondes de 200 à 600 M sont indiquées en utilisant dans ce cas des divisions de 50 M.
 Grâce à ce système, les relevés de cadran de n'importe quelles stations peuvent être enregistrés avec une extrême précision. 
 Pour faciliter la localisation des stations, les fabricants fournissent avec le récepteur, une carte indiquant la position du cadran de plus d'une centaine de stations. La carte s'insère très facilement dans une glissière formée entre les 2 pieds de la base de l'appareil. Elle est normalement hors de vue, mais elle peut être retirée en une seconde au moyen d'un cordon de soie qui y est attaché. 
+
+![Philips 634A 1933 (station identification chart 1)](https://github.com/C2DH/maison-du-son/assets/145777187/6e0157b6-61d8-47f4-9512-ef0c8d562c6d)
+
+![Philips 634A 1933 (station identification chart 2)](https://github.com/C2DH/maison-du-son/assets/145777187/a622fa8b-cb5a-464b-841f-908541cb48e3)
+
+
 Tout était fait pour que je sois une pièce décorative faite pour s'accorder à la décoration intérieure. Ici nous pouvons apercevoir le Manuel de service avec le circuit électrique en diagramme sur le bas de la page. 
 
+<img width="1132" alt="Capture d’écran 2023-06-21 à 19 14 31" src="https://github.com/C2DH/maison-du-son/assets/145777187/2b609e67-533a-4a9a-a7f7-88f03984fb6b">
 
 
 Mais avec tout cela, je ne vous ai pas encore fait écouter le merveilleux son que mon haut-parleur produisait. Naturellement avec la réception, il n'y avait pas que la musique ou bien les programmes de parole. En effet, avec saison diffusés, d'autres bruits s'y ajoutaient. Les grésillements pouvaient être dus à une mauvaise réception ou peut-être à une mauvaise qualité d'enregistrement. Toujours est-il que ces bruits commencèrent à faire partie du paysage audio . Écoutons donc un morceau qui fut enregistré les 23 et 24 mai 1933 à Londres. Il s'agit de l'orchestre The Ramblers . 
