@@ -60,7 +60,7 @@ date: 2023-06-22
  <br>
  
  
- #### **_Bibliography and Footnotes:_**
+  **_Bibliography and Footnotes:_**
   **_Bibliography_**
 <div style="text-align: justify">  
 Akrich, M. (1992), The De-Scription of Technical Objects, in:  ShapingTechnology, Building Society: Studies in Sociotechnical Change, Bijker, W. & and Law, J. (Eds.), P. 205-224, Cambridge.<br>
@@ -81,7 +81,7 @@ Sterne, J. (2012), MP3: The Meaning of a Format, Durham, online from: https://do
 The sound of Vinyl (online), What is a 7-Inch Record?, online from: https://thesoundofvinyl.us/blogs/vinyl-101/7-inch-record.<br>
 <br>
  
-**_Footnotes_**
+Footnotes: <br>
 1. Referring to a predecessor model such as the Philips AG 2102 A for example, see Deutsche Digitale Bibliothek (online), Philips AG 2102 A, online from: https://www.deutsche-digitale-bibliothek.de/item/RK4QI2RSSLRK4OV4ETNFSMFQOBFRLE4F.<br>
 2. Life cycle of technology as shown in: Course Sidekick (online), Technology and Innovation, online from: https://www.coursesidekick.com/management/study-guides/boundless-management/technology-and-innovation.<br>
 3. Picture retrieved from RadioWiki (online), Philips Mignon AG2100, online from: https://www.radiomuseum-bocket.de/wiki/index.php?title=Datei:Philips_ag2100_mignon_werbung_001.jpg.<br>
