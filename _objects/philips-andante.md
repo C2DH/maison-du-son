@@ -7,7 +7,7 @@ date: 2023-10-02
 ---
 **This a French Object Biography of the Philips Andante BA 391U**
 ## **La radio inconnue qui voyage le monde**
-> [Click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_1.mp3) to open the page to download the first part of the audiofile - Click aftwerwards on 'View Raw'
+> XX[Click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_1.mp3) to open the page to download the first part of the audiofile - Click aftwerwards on 'View Raw'
 
 _Ceci est l’histoire d’une radio peu connue et peu commercialisée. Pourtant le parcours de sa vie est indubitablement curieux, particulier et même spectaculaire. Voici l’histoire._
 
