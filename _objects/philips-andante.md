@@ -25,13 +25,17 @@ Environ vingt jours après mon arrivée, Mr Hoffmann m’a vendu à Mr Gustav. M
 
 Mais son père a eu raison environ dix ans plus tard ! A l’âge de 14 ans, Arnold me voyait et me dis : _« Il faut seulement que tu me transmets les programmes sur le culturisme. Je vais alors devenir le champion de bodybuilding le plus titré de tous les temps ! »_
 
-C’est ainsi que le lendemain, je me suis mis à transmettre «_ Daily Dozen_» de Walter Camps.[^3] 
+C’est ainsi que le lendemain, je me suis mis à transmettre «_ Daily Dozen_» de Walter Camps.[^3]
+
+[^3]: [The Daily Dozen Workout - Vintage 1920s Exercise Routine](https://www.youtube.com/watch?v=dMlFgjcf7ho)
 
 _Exercise number one : The grind. Stretch the arms straight out sideways from the shoulders. Turn your palms upwards and force the shoulders back. Now make twelve inch circles with your arms, circling from the shoulders and keeping your elbows stiff_
  
 Arnold me dit : _« Heureusement que papa t’a acheté un jour.. C’est grâce à toi que je commence à comprendre les concepts du culturisme. »_ 
 
 Si je me rappelle bien, c’est le père d’Arnold qui lui a raconté le programme de Walter Camps. _« Lorsque j’avais ton âge, il a inspiré notre génération à aller à la salle de gym et développer notre santé physique et mentale. »_[^4]
+
+[^4]: On how early broadcasting promoted Health Education, [see Donna Helper's article](<https://www.thebdr.net/exercise-and-expertise-how-early-broadcasting-promoted-health-education/>)
 
 Arnold a alors commencé à s’entraîner deux fois par jour. Pour moi c’était une grande joie ! Finalement que je me sentais utile ! Ainsi, je transmettais deux fois par jour le programme sportif de Walter Camps. Lorsque Arnold a commencé à s’entraîner dans une salle de gym, je pensais que je serais inutile pour lui. Faux ! Arnold me prenait tous les jours avec lui. "Mais pourquoi ?", dites-vous. Oui, je pèse quand-même cinq kilos et c’est exactement pour cette raison qu’Arnold me prenait. J’étais une partie importante de son entrainement. De plus, il écoutait le programme de Camps dans la salle de gym afin de s’échauffer. 
 
@@ -44,6 +48,8 @@ Nous sommes partis à Los Angeles...
 > Are you enjoying? Then [click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_2.mp3) to open the page to download the second part of the audiofile - Click aftwerwards on 'View Raw'
 
 Nous étions seuls dans cette métropole. Aux Etats-Unis tout était différent. La première fois qu’Arnold m’a pris avec lui dans la salle de gym, les Américains se demandaient : _« Pourquoi apportes-tu une radio ? En plus, c’est une vielle radio. Elle ne va sûrement pas t’aider à grandir tes muscles. »_ Mais Arnold me défendait : _« C’est grâce à elle que j’ai connu le monde du culturisme. Elle est mon porte-bonheur! »_ Bien qu’en Amérique des programmes sur le culturisme n’étaient pas énormément diffusés sur la radio, Arnold m’a jamais laissé tomber en désuétude. Je suis vraiment devenu, comme il a dit, son _« son porte-bonheur »_. Tous les soirs, il aimait écouter des programmes en allemand. J’étais alors son seul moyen pour qu’il écoute sa langue maternelle. Mon rôle avait alors changé : de coach de culturisme vers une radio qui évoque des sentiments nostalgiques à son propriétaire.[^5] 
+
+[^5]: On the different roles of objects, [see this article on projektado](https://projektado.com/the-role-of-objects/)
 
 C’est ainsi que jusqu’à la fin des années 1970, j’accompagnais Arnold lorsqu’il fait ses shows de culturisme à travers le pays. Comme il avait prévu en 1966, il est vraiment devenu le champion le plus titré de tous les temps.
 
