@@ -60,7 +60,7 @@ date: 2023-06-22
  <br>
  
  
- ### **_Bibliography and Footnotes:_**
+ #### **_Bibliography and Footnotes:_**
   **_Bibliography_**
 <div style="text-align: justify">  
 Akrich, M. (1992), The De-Scription of Technical Objects, in:  ShapingTechnology, Building Society: Studies in Sociotechnical Change, Bijker, W. & and Law, J. (Eds.), P. 205-224, Cambridge.<br>
@@ -82,8 +82,6 @@ The sound of Vinyl (online), What is a 7-Inch Record?, online from: https://thes
 <br>
  
 **_Footnotes_**
- 
- <br>
 1. Referring to a predecessor model such as the Philips AG 2102 A for example, see Deutsche Digitale Bibliothek (online), Philips AG 2102 A, online from: https://www.deutsche-digitale-bibliothek.de/item/RK4QI2RSSLRK4OV4ETNFSMFQOBFRLE4F.<br>
 2. Life cycle of technology as shown in: Course Sidekick (online), Technology and Innovation, online from: https://www.coursesidekick.com/management/study-guides/boundless-management/technology-and-innovation.<br>
 3. Picture retrieved from RadioWiki (online), Philips Mignon AG2100, online from: https://www.radiomuseum-bocket.de/wiki/index.php?title=Datei:Philips_ag2100_mignon_werbung_001.jpg.<br>
@@ -101,8 +99,9 @@ The sound of Vinyl (online), What is a 7-Inch Record?, online from: https://thes
 15. Ibid., P. 222-223.<br>
 16.  Chosen by Playback.fm to be the most popular song of 1959, the Mignon’s release year. Played on a 7-inch 45 in mono. Cf. https://playback.fm/charts/top-100-songs/1959. Audio extract courtesy of Brian Richmond (online), Bobby Darin - Mack the Knife ((Mono)) 1959 [Video], online under: https://youtu.be/_94p5UFiuNw?t=30.<br>
 17.   The Mignon has only one interface button, which is the ejection button. Can be seen used, cf. Chorzów Music and Picture Art Gallery (online), Philips Mignon AG - 2100 D - 75 [Video], translation by authoourser, 7:20-7:22, online from: https://www.youtube.com/watch?v=waUmmlWnxWs.<br> </div>
+<br>
 
-#### **_Picture Annexe (Copyright Luca Uhrig, Courtesy of M. Albert Wolter):_**
+##### **_Picture Annexe (Copyright Luca Uhrig, Courtesy of M. Albert Wolter):_**
 <img src="/assets/images/Mignon-Ex1.png">
 <img src="/assets/images/Mignon-Ex2.png">
 <img src="/assets/images/Mignon-Ex3.png">
