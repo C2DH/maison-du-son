@@ -1,8 +1,7 @@
 ---
 title: Telefunken 340W
 abstract: Radio referred to as Katzenkopf.
-authors:
-  - Cathy-Collard
+authors: cathy-collard
 ---
 
 1. Vorwort
