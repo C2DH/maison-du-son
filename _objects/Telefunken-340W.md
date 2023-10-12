@@ -37,3 +37,11 @@ Und so dauerte es keine zwei Wochen, bis das Gerät in Annas Wohnzimmer installi
 Da jedes Telefunken 340 W Gerät individuell nach Anschluss im Haus geeichtet  wurde, konnten die Sendestationen nach Geschmack der Familie eingestellt werden. Davon war Anna, die ja die meiste Zeit im Haushalt verbrachte, begeistert. Sie musste sich um nichts kümmern und konnte bequem alle Radiosender nach belieben empfangen. So freute sie sich besonders auf das live-übertragenen Programm der „National Nights“ welches seit 1926 durch die IBU ausgestrahlt wurde. Besonders daran war, dass man monatlich überall in Europa am gleichen Tag und zur gleichen Zeit, dasselbe, dreisprachige Programm hören konnte . Durch die unglaublich gute Trennschärfe  des Telefunken 340 W konnte sie das Programm ohne Probleme empfangen und sogar so laut stellen, dass sie es in der Küche hören konnte. Die Qualität der übertragenen Musik war so gut , dass man den Kauf des Radios kaum bedauern konnte. Für Anna waren die live Gottesdienste genauso wichtig, die zum Beispiel aus Mühlacker oder Straßburg sonntags übertragen  wurden und so von der ganzen Familie gehört werden konnten. Peter interessierte sich am meisten für die Station Radio Luxemburg, die dank des Telefunkens 340 W trennscharf übertragen wurde.  
 
 Das Telefunken 340 W blieb einige Jahre im Gebrauch der Familie, bevor es 1939 durch das Telefunken D 750 GWK ersetzt wurde. Danach dauerte es mehrere Jahrzehnte, bis es in die Hände eines Radioenthusiasten im Süden des Großherzogtums fiel. 
+
+<img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/5120d40a-4b77-400a-b29c-a63e788f527f">
+<img width="226" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/510bf6c8-64b9-4893-8341-32082be06fab">
+<img width="211" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/0779c018-7ed7-434a-bfda-90be39bd6e5c">
+<img width="219" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/cb9cd63f-2714-4426-8983-e4538512df1c">
+
+
+
