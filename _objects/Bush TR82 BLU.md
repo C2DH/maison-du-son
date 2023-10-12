@@ -14,15 +14,19 @@ object_date: 1959
 
 Bush was a British consumer electronics company founded in the 30s. The company produced televisions and other electronic devices such as radios. In 1959, it launched the TR82 transistor radio, which proved a huge success. The fact that it was portable made it particularly appealing to teenagers. The design was created in 1954 by Ogle Design, a company based in Hertfordshire, and quickly became synonymous with the transistor radios of the early 60s. This model features a wooden cabinet, a rounded front panel and a unique speaker grille. Beyond its visual appeal, the TR82 was recognised for its durability and reliability. 
 
-## Picture example
+## Be the Girl with the Bush
+
+"Be the Girl with the Bush" was an advertising slogan used by Bush Radio for their TR82 transistor radio model. This slogan was part of their marketing campaign to appeal to a younger, trendier audience, particularly targeting young women. It's worth noting that this slogan was used in the context of its time, and today it may be interpreted differently.
 
 <a title="Unknown photographer, Public domain, via Wikimedia Commons" 
-href="https://commons.wikimedia.org/wiki/File:Be_the_girl_with_the_BUSH.jpg"><img width="512" alt="advertising slogan used by Bush Radio for their TR82 transistor radio model" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Be_the_girl_with_the_BUSH.jpg"></a>---
-
+href="https://commons.wikimedia.org/wiki/File:Be_the_girl_with_the_BUSH.jpg"><img width="312" alt="Advertising slogan used by Bush Radio for their TR82 transistor radio model" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Be_the_girl_with_the_BUSH.jpg"></a>---
 
 ## The BUSH TR82 BLU : A vintage radio with modern features
 
 With the immense popularity of the TR82, particularly among young people, The TR82 series of Bush radios have become a design classic. They decided then set about producing modern reproductions of the TR82 several years after its release, such as the TR82 BLU. This special edition, released in 2002 to mark the 45th anniversary of the reign of Queen Elizabeth II, adopts the classic aesthetic of the TR82 model with modern features. By introducing Bluetooth connectivity, it allowed users to stream music wirelessly from their modern devices, creating a harmonious bridge between the past and the present. 
+
+<a title="Unknown photographer, Public domain, via Wikimedia Commons" 
+href="https://commons.wikimedia.org/wiki/File:Bush_TR82_Halogen_Highlight.JPG"><img width="312" alt="Reproduction Bush TR82 transistor radio" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Bush_TR82_Halogen_Highlight.JPG"></a>---
 
 ## Video example
 
