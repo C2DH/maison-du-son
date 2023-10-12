@@ -90,7 +90,7 @@ Honnêtement, je ne pensais jamais que j’allais quitter Arnold. Toutefois, en 
 
 Voilà comment je suis arrivé au Luxembourg. Maintenant je suis une donation du père de la ministre au Musée du Son à Lamadeleine. Je sais que je ne suis pas une radio qui était à la mode. Les agences de publicité ne m’ont jamais donné trop d’attention. Pourtant, j’ai eu une vie très dynamique : de coach sportive, professeure d’anglais et conseillère politique, je suis maintenant une radio fière de son parcours et qui a le plaisir de partager avec vous sa vie.
 
-Fin.
+_Fin._
 
 ## Sources
 
@@ -104,15 +104,15 @@ Martine Huberty, Dieschbourg: Lux environment minister met Arnold Schwarzenegger
 
 Radium American (canal YouTube), _The Daily Dozen Workout – Vintage 1920s Exercise Routine_, [Link](https://www.youtube.com/watch?v=dMlFgjcf7ho), YouTube, 11 septembre 2022.
 
-s.a.,‘Die Geschichte von Philipps Österreich‘, _Tecbil_, s.d., [Link](https://tecbil.com).
+s.a., ‘Die Geschichte von Philipps Österreich‘, _Tecbil_, s.d., [Link](https://tecbil.com).
 
-s.a.,‘Andante BA391 U‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/philips_andante_ba391u.html). 
+s.a., ‘Andante BA391 U‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/philips_andante_ba391u.html). 
 
-s.a.,‘Carmen W359U‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/hornyphon_carmen_w_w359u.html).
+s.a., ‘Carmen W359U‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/hornyphon_carmen_w_w359u.html).
 
-s.a.,‘Z359U‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/zerdik_z359u.html#a).
+s.a., ‘Z359U‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/zerdik_z359u.html#a).
 
-s.a.,‘Private Peaceful – Episode 1’, BBC School Radio, [Link](https://www.bbc.co.uk/teach/school-radio/english-private-peaceful-episode-1/z6jnxycY).
+s.a., ‘Private Peaceful – Episode 1’, BBC School Radio, [Link](https://www.bbc.co.uk/teach/school-radio/english-private-peaceful-episode-1/z6jnxycY).
 
 ## Bibliographie
 
