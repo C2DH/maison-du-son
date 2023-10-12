@@ -13,8 +13,7 @@ _Ceci est l’histoire d’une radio peu connue et peu commercialisée. Pourtant
 
 Oh la pluie et les oiseaux ! Je suis au Luxembourg depuis peu de temps, mais je pense que c’est assez normal la pluie ici non ? En tout cas, j’aime bien le bruit de la pluie et de la nature.
 
-Alors j’avoue que vous êtes unes des premières personnes à vouloir entendre mon histoire de vie. Je m’appelle Andante. Philips Andante BA391U. J’ai été créé dans une des grandes usines de Philips à Vienne[^1] 
-[^1]: [On the history of Philips in Austria](https://tecbil.com) entre 1949 et 1950. Je suis fait en bois et je dispose de cinq tubes. Je n’ai que 38 cm d’hauteur, 27cm de largeur et 20 cm de longueur. Cependant, je suis bien costaud et je pèse 5 kg. Mes jumeaux, qui techniquement et esthétiquement sont identiques à moi, s’appellent Hornyphon Carmen W359 U et Zerdik Z359U[^2]. 
+Alors j’avoue que vous êtes unes des premières personnes à vouloir entendre mon histoire de vie. Je m’appelle Andante. Philips Andante BA391U. J’ai été créé dans une des grandes usines de Philips à Vienne[^1]entre 1949 et 1950. Je suis fait en bois et je dispose de cinq tubes. Je n’ai que 38 cm d’hauteur, 27cm de largeur et 20 cm de longueur. Cependant, je suis bien costaud et je pèse 5 kg. Mes jumeaux, qui techniquement et esthétiquement sont identiques à moi, s’appellent Hornyphon Carmen W359 U et Zerdik Z359U[^2]. 
 
 Lorsque je suis sorti de Vienne, j’ai rejoint Mr Hoffmann dans son magasin de d’appareils électroniques à Graz. Je savais davantage qu’il s’agissait d’une étape avant d’arriver à ma famille d’accueil. Toutefois, je dois remercier à Mr Hoffmann de m’avoir traité avec tout le soin nécessaire. Il enlevait la poussière sur mon corps chaque jour à 7h du matin avant d’ouvrir son magasin. Chaque troisième jour, il testait mes deux boutons noirs afin de vérifier que j’étais en bonne santé. 
 
