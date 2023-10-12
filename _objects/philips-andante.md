@@ -8,13 +8,13 @@ date: 2023-10-02
 **This a French Object Biography of the Philips Andante BA 391U**
 # **La radio inconnue qui voyage le monde**
 
-[Click here to open the page to download the Audiofile - Click aftwerwards on 'View Raw'](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_1.mp3)
+>[Click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_1.mp3) to open the page to download the first part of the audiofile - Click aftwerwards on 'View Raw'
 
 _Ceci est l’histoire d’une radio peu connue et peu commercialisée. Pourtant le parcours de sa vie est indubitablement curieux, particulier et même spectaculaire. Voici l’histoire._
 
 Oh la pluie et les oiseaux ! Je suis au Luxembourg depuis peu de temps, mais je pense que c’est assez normal la pluie ici non ? En tout cas, j’aime bien le bruit de la pluie et de la nature.
 
-Alors j’avoue que vous êtes unes des premières personnes à vouloir entendre mon histoire de vie. Je m’appelle Andante. Philips Andante BA391U. J’ai été créé dans une des grandes usines de Philips à Vienne [^1] entre 1949 et 1950. Je suis fait en bois et je dispose de cinq tubes. Je n’ai que 38 cm d’hauteur, 27cm de largeur et 20 cm de longueur. Cependant, je suis bien costaud et je pèse 5 kg. Mes jumeaux, qui techniquement et esthétiquement sont identiques à moi, s’appellent Hornyphon Carmen W359 U et Zerdik Z359U [^2]. 
+Alors j’avoue que vous êtes unes des premières personnes à vouloir entendre mon histoire de vie. Je m’appelle Andante. Philips Andante BA391U. J’ai été créé dans une des grandes usines de Philips à Vienne[^1] entre 1949 et 1950. Je suis fait en bois et je dispose de cinq tubes. Je n’ai que 38 cm d’hauteur, 27cm de largeur et 20 cm de longueur. Cependant, je suis bien costaud et je pèse 5 kg. Mes jumeaux, qui techniquement et esthétiquement sont identiques à moi, s’appellent Hornyphon Carmen W359 U et Zerdik Z359U[^2]. 
 
 Lorsque je suis sorti de Vienne, j’ai rejoint Mr Hoffmann dans son magasin de d’appareils électroniques à Graz. Je savais davantage qu’il s’agissait d’une étape avant d’arriver à ma famille d’accueil. Toutefois, je dois remercier à Mr Hoffmann de m’avoir traité avec tout le soin nécessaire. Il enlevait la poussière sur mon corps chaque jour à 7h du matin avant d’ouvrir son magasin. Chaque troisième jour, il testait mes deux boutons noirs afin de vérifier que j’étais en bonne santé. 
 
@@ -22,7 +22,7 @@ Environ vingt jours après mon arrivée, Mr Hoffmann m’a vendu à Mr Gustav. M
 
 Mais son père a eu raison environ dix ans plus tard ! A l’âge de 14 ans, Arnold me voyait et me dis : _« Il faut seulement que tu me transmets les programmes sur le culturisme. Je vais alors devenir le champion de bodybuilding le plus titré de tous les temps ! »_
 
-C’est ainsi que le lendemain, je me suis mis à transmettre «_ Daily Dozen_» de Walter Camps. [^3] 
+C’est ainsi que le lendemain, je me suis mis à transmettre «_ Daily Dozen_» de Walter Camps.[^3] 
 
 _Exercise number one : The grind. Stretch the arms straight out sideways from the shoulders. Turn your palms upwards and force the shoulders back. Now make twelve inch circles with your arms, circling from the shoulders and keeping your elbows stiff_
  
@@ -36,7 +36,11 @@ Au fur et à mesure du temps, Arnold est devenu l’homme le plus fort et muscl�
 
 Arnold acquiert une grande notoriété dans le monde du culturisme et nous sommes partis en 1966 à Londres pour son premier concours international. _Guess what ?_ Il a gagné ! A l’âge de 19 ans il est devenu Mr. Universe. Je me rappelle bien qu’il était joyeux comme je ne l’avais jamais vu. _« Mon chère Andante »_ dit-il _« je n’oublie pas que tu m’as toujours accompagné dès le début ! Maintenant, il faut conquérir l’Amérique et j’aurais certainement besoin de ton aide ! »_
 
-Nous sommes partis à Los Angeles. Nous étions seuls dans cette métropole. Aux Etats-Unis tout était différent. La première fois qu’Arnold m’a pris avec lui dans la salle de gym, les Américains se demandaient : _« Pourquoi apportes-tu une radio ? En plus, c’est une vielle radio. Elle ne va sûrement pas t’aider à grandir tes muscles. »_ Mais Arnold me défendait : _« C’est grâce à elle que j’ai connu le monde du culturisme. Elle est mon porte-bonheur! »_ Bien qu’en Amérique des programmes sur le culturisme n’étaient pas énormément diffusés sur la radio, Arnold m’a jamais laissé tomber en désuétude. Je suis vraiment devenu, comme il a dit, son _« son porte-bonheur »_. Tous les soirs, il aimait écouter des programmes en allemand. J’étais alors son seul moyen pour qu’il écoute sa langue maternelle. Mon rôle avait alors changé : de coach de culturisme vers une radio qui évoque des sentiments nostalgiques à son propriétaire. [^5] 
+Nous sommes partis à Los Angeles...
+
+>Are you enjoying? Then [click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_2.mp3) to open the page to download the second part of the audiofile - Click aftwerwards on 'View Raw'
+
+Nous étions seuls dans cette métropole. Aux Etats-Unis tout était différent. La première fois qu’Arnold m’a pris avec lui dans la salle de gym, les Américains se demandaient : _« Pourquoi apportes-tu une radio ? En plus, c’est une vielle radio. Elle ne va sûrement pas t’aider à grandir tes muscles. »_ Mais Arnold me défendait : _« C’est grâce à elle que j’ai connu le monde du culturisme. Elle est mon porte-bonheur! »_ Bien qu’en Amérique des programmes sur le culturisme n’étaient pas énormément diffusés sur la radio, Arnold m’a jamais laissé tomber en désuétude. Je suis vraiment devenu, comme il a dit, son _« son porte-bonheur »_. Tous les soirs, il aimait écouter des programmes en allemand. J’étais alors son seul moyen pour qu’il écoute sa langue maternelle. Mon rôle avait alors changé : de coach de culturisme vers une radio qui évoque des sentiments nostalgiques à son propriétaire.[^5] 
 
 C’est ainsi que jusqu’à la fin des années 1970, j’accompagnais Arnold lorsqu’il fait ses shows de culturisme à travers le pays. Comme il avait prévu en 1966, il est vraiment devenu le champion le plus titré de tous les temps.
 
