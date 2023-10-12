@@ -70,7 +70,7 @@ _« Arnold est devenu complètement fou »_ disais-je. Mais vous savez quoi ? Il
 
 Grâce à sa notoriété à l’échelle mondiale, j’ai parcouru le monde avec Arnold. Il me considérait toujours son « porte-bonheur ». Que ce soit à Tokyo, à Milan ou à Cannes, je l’accompagnais toujours. Oui, une radio peut aussi explorer le monde ! Arnold est devenu incroyablement riche et c’est ainsi que quelquefois j’habitais à Los Angeles, à New York ou à Paris. Je peux bien dire que je fais partie de la _migrations of objects_[^8] : j’ai parcouru le monde et émmigré dans des divers pays. Ainsi se sont passées les années 1990.
 
-[^8]: [s.a.], ‘The Migration of Objects’, Significant Objects, 28 novembre 2011, [Signifant Objects webpage](https://significantobjects.com/2011/11/28/the-migration-of-objects/).
+[^8]: s.a., ‘The Migration of Objects’, _Significant Objects_, 28 novembre 2011, [Signifant Objects webpage](https://significantobjects.com/2011/11/28/the-migration-of-objects/).
 
 Au début de 2003, Arnold a une carrière cinématique de grand succès. Il me dit alors un jour : « _Tu sais Andante, probablement tu ne me vas pas trop aider dans cette nouvelle étape, mais je ne te tournerais pas le dos lorsque je vais devenir le premier austro-américain à devenir gouverneur d’un État américain._ » « _Arnold est devenu complètement fou !_ » je me disais à nouveau. Mais _guess what ?_ Il à nouveau réussi. Et j’avoue avec une grande fierté que j’ai fait quand même partie de son parcours !
 
@@ -83,7 +83,7 @@ Ainsi, Arnold a gouverné pendant plusieurs années. Peu à peu, j’ai pris ma 
 
 Honnêtement, je ne pensais jamais que j’allais quitter Arnold. Toutefois, en 2017 il a rencontré une ministre luxembourgeoise . Quand la ministre m’a vu, elle s’est exclamée : « _Oh, un Andante Philips ! Vous savez Mr. Arnold, quand mon père était jeune, il avait la même radio ! Un jour, son radio a été volée… Il y a encore des jours où il parle avec une certaine nostalgie de son Andante._ » [^10]
 
-[^10]: Martine Huberty, Dieschbourg: Lux environment minister met Arnold Schwarzenegger, Delano, 15 novembre 2018, [journal en ligne](https://delano.lu/article/delano_lux-environment-minister-met-arnold-schwarzenegger). 
+[^10]: Martine Huberty, Dieschbourg: Lux environment minister met Arnold Schwarzenegger, Delano, 15 novembre 2018, [Link](https://delano.lu/article/delano_lux-environment-minister-met-arnold-schwarzenegger). 
 
 « _Madame la ministre, vous savez quoi ? Cette radio m’a accompagné toute ma vie. Dès le début jusqu’à aujourd’hui. Toutefois, il y a toujours une fin. Je crois que votre père sera ravi d’avoir à nouveau un Andante Philips._ » C’est à ce moment-là que je me suis séparé d’Arnold. Je suis honnête : j’étais choquée et je n’attendais pas cette attitude de Arnold. Il a dit alors : « _Mon chèr Andante, c’est difficile de me séparer de toi. Mais je crois qu’au Luxembourg, tu auras encore la joie de pouvoir transmettre du son._ »
 
@@ -91,3 +91,50 @@ Honnêtement, je ne pensais jamais que j’allais quitter Arnold. Toutefois, en 
 Voilà comment je suis arrivé au Luxembourg. Maintenant je suis une donation du père de la ministre au Musée du Son à Lamadeleine. Je sais que je ne suis pas une radio qui était à la mode. Les agences de publicité ne m’ont jamais donné trop d’attention. Pourtant, j’ai eu une vie très dynamique : de coach sportive, professeure d’anglais et conseillère politique, je suis maintenant une radio fière de son parcours et qui a le plaisir de partager avec vous sa vie.
 
 Fin.
+
+## Sources
+
+_Arnold_, dir. par Netflix (Netflix, 2023).
+
+Ernst Erb, _Radios von Gestern: Das Sachbuch für Sammler und Radio-Amateure_, (s.l.: Ernst Erb, 1998).
+
+Ernst Erb, _Radio-Katalog: Band II_, (s.l.: Ernst Erb, 2021).
+
+Martine Huberty, Dieschbourg: Lux environment minister met Arnold Schwarzenegger, Delano, 15 novembre 2018, [Link](https://delano.lu/article/delano_lux-environment-minister-met-arnold-schwarzenegger). 
+
+Radium American (canal YouTube), _The Daily Dozen Workout – Vintage 1920s Exercise Routine_, [Link](https://www.youtube.com/watch?v=dMlFgjcf7ho), YouTube, 11 septembre 2022.
+
+s.a.,‘Die Geschichte von Philipps Österreich‘, _Tecbil_, s.d., [Link](https://tecbil.com).
+
+s.a.,‘Andante BA391 U‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/philips_andante_ba391u.html). 
+
+s.a.,‘Carmen W359U‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/hornyphon_carmen_w_w359u.html).
+
+s.a.,‘Z359U‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/zerdik_z359u.html#a).
+
+s.a.,‘Private Peaceful – Episode 1’, BBC School Radio, [Link](https://www.bbc.co.uk/teach/school-radio/english-private-peaceful-episode-1/z6jnxycY).
+
+## Bibliographie
+
+Berndt Schulz, _Arnold Schwarzenegger_, (Vienne : Zsolnay, 1993).
+
+Donna Helper, ‘Exercise and Expertise: How Early Broadcasting Promoted Health Education’, _The Broadcasters’s Desktop Resource_,[Link](https://www.thebdr.net/exercise-and-expertise-how-early-broadcasting-promoted-health-education).
+
+Franz Mathis, Erfolg und Misserfolg der österreichischen Großunternehmen im 20. Jahrhundert, _Zeitschrift für Unternehmensgeschichte/Journal of Business History_, 37 (1992), 1-18.
+
+Hugh Chignell, _Key Concepts in Radio Studies_, (s.l.: Sage UK, 2009).
+
+Hugh Chignell, ‘Journalism’, in _Key Concepts in Radio Studies_, éd. par Hugh Chignell. (s.l.: Sage UK, 2009).
+
+Hugh Chignell, ‘Imagined Community’, in _Key Concepts in Radio Studies_, éd. par Hugh Chignell. (s.l.: Sage UK, 2009).
+
+MacGuffin and Röhsska Museum of Design and Craft, _Migration: The Journey of Objects_, (Stockholm: Röhsska Museum, 2021).
+
+Thierry Bonnot, La biographie d’objets : études de cas, méthode et cadre théorique (Thierry Bonnot), [Link](https://videos.ahp-numerique.fr/w/p/smgWdk2sU59tR87pLSFLPV), Vidéos des Archives Henri-Poincaré, 20 avril 2020.
+
+s.a., ‘the role of objects’, projektado, mai 2021, [Link](https://projektado.com/the-role-of-objects/)-
+
+s.a., ‘The Migration of Objects’, _Significant Objects:, 28 novembre 2011, [Signifant Objects webpage](https://significantobjects.com/2011/11/28/the-migration-of-objects/).
+
+s.a., ‘A brief history of the home workout’, _Radio 4 in Four_, s.d., [Link](https://www.bbc.co.uk/programmes/articles/XZ8mBqwtmY18Xj62W5rG2V/a-brief-history-of-the-home-workout#:~:text=Radio%20broadcast%20home%20workouts%20first,promote%20fitness%20and%20weight%20loss).
+
