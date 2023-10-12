@@ -28,9 +28,6 @@ With the immense popularity of the TR82, particularly among young people, The TR
 
 <div style="padding:88.31% 0 0 0;position:relative;background:black"><iframe src="https://player.vimeo.com/video/853299729?h=88d15b5832&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DigitalLandscape - test - Aug 10 2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## Picture example
-
-<a title="Unknown photographer, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:1920s_street_gramophone_player.jpg"><img width="512" alt="1920s street gramophone player" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1920s_street_gramophone_player.jpg/512px-1920s_street_gramophone_player.jpg"></a>---
 
 
 s.a., ‘A brief history of the home workout’, _Radio 4 in Four_, s.d., [Link](https://www.bbc.co.uk/programmes/articles/XZ8mBqwtmY18Xj62W5rG2V/a-brief-history-of-the-home-workout#:~:text=Radio%20broadcast%20home%20workouts%20first,promote%20fitness%20and%20weight%20loss).
