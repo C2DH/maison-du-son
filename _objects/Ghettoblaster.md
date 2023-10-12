@@ -6,6 +6,11 @@ authors:
     
 date: 2023-10-02
 ---
+This object biography is about the Ghettoblaster AZ1040/00 by Philips. The action takes place in the year 2000, as the radio was produced from 1995 onwards. 
+The story is about Tommy, who grew up in Germany and is a 16-year-old teenager in the year 2000. He desperately wants a radio for his 17th birthday, preferably the popular Ghettoblaster he knows from the music clips of American rappers. 
+
+But will there be such a radio for Tommy? Will the AZ1040/00 ghetto blaster from Philips find its way to him? 
+
 **21. Juni 2000**
 
 Es ist 18:45 Uhr, meine Eltern sind mit meiner kleinen Schwester bei den Nachbarn, denn sie grillen das erste Mal für dieses Jahr. Die Familie Müller, meine Nachbarn, waren schon immer Angeber. Zumindest behauptet das meine Mutter. Immer haben sie ein besseres Auto als wir, einen schöneren Garten und Frau Gerta Müller übertrifft immer die Kuchenrezepte meiner Mutter. Trotzdem gehen wir immer wieder zu ihnen, um sie zu besuchen. Mit meinen 16 Jahren bin ich allerdings mit anderen Dingen beschäftigt, gerade lese ich ein Comic-Heft. Plötzlich höre ich laute Musik, das Lied „Around the World“ von ATC ist zu hören. Ich liebe dieses Lied, ich habe es erst vorgestern mit meinem besten Freund Hans auf dem Schulhof gehört. Dieses Lied ist seit Mai in den Charts und ein echter Ohrwurm.  
@@ -19,7 +24,7 @@ Zuhause haben wir nur einen Fernseher. Dort schaue ich mir immer die Musikvideos
 
 **30. Juni 2000**
 
-*Nun stehe ich schon seit zwei Jahren hier im Laden. Ich bin das letzte Radio in der Regalreihe und ich hoffe, dass mich bald jemand kauft. Ich wurde 1995 in den Niederlanden hergestellt  und dann in das Fachgeschäft für Haushaltsgeräte von Herrn Bräuer gebracht. Ich bin eines von vielen, doch eigentlich will ich nur jemanden mit meinen vielfältigen Funktionen glücklich machen. Ich kann nicht nur über 30 Radiosender abspielen, sondern man kann auch eine CD abspielen lassen, Kassetten hören, den Bass mit der DBB-Taste (Dynamic Bass Boost) einstellen und Kopfhörer an mich anschließen.  Ich funktioniere ganz normal mit Kabel am Stromnetz, aber noch praktischer ist, dass man Batterien einstecken und das Radio ohne Kabel mitnehmen kann – egal ob in den Garten oder mit zu Freunden in den Park. Man braucht nur Radioempfang wenn man Radio hören möchte. Für FM muss man die Teleskopantenne ausziehen. Mit meinen vielen Tasten kann man beispielsweise Musik zurückspulen lassen, aufnehmen oder Titel einer CD überspringen . Ich bin also sehr vielfältig! Wieso kauft denn niemand mich?
+*Nun stehe ich schon seit zwei Jahren hier im Laden. Ich bin das letzte Radio in der Regalreihe und ich hoffe, dass mich bald jemand kauft. Ich wurde 1995 in den Niederlanden hergestellt  und dann in das Fachgeschäft für Haushaltsgeräte von Herrn Bräuer gebracht. Ich bin eines von vielen, doch eigentlich will ich nur jemanden mit meinen vielfältigen Funktionen glücklich machen. Ich kann nicht nur über 30 Radiosender abspielen, sondern man kann auch eine CD abspielen lassen, Kassetten hören, den Bass mit der DBB-Taste (Dynamic Bass Boost) einstellen und Kopfhörer an mich anschließen.  Ich funktioniere ganz normal mit Kabel am Stromnetz, aber noch praktischer ist, dass man Batterien einstecken und das Radio ohne Kabel mitnehmen kann – egal ob in den Garten oder mit zu Freunden in den Park. Man braucht nur Radioempfang wenn man Radio hören möchte. Für FM muss man die Teleskopantenne ausziehen. Mit meinen vielen Tasten kann man beispielsweise Musik zurückspulen lassen, aufnehmen oder Titel einer CD überspringen. Ich bin also sehr vielfältig! Wieso kauft denn niemand mich?
 Oh! Herr Bräuer stellt gerade die Bügeleisen um, vielleicht werde ich auch umgestellt. Hoffentlich stehe ich dann ganz vorne, damit ich endlich gekauft werde.*
 
 Endlich habe ich es geschafft Vater zu überreden mir den Ghettoblaster zu kaufen. Ich freue mich schon darauf, meinen Freunden meine neue Errungenschaft zu zeigen und damit der Coolste in der Klasse zu sein.  
@@ -97,6 +102,9 @@ Ich bin gespannt, was ich noch alles erleben werde und wie alt ich noch werde.*
 **Images**: 
 
 <img width="405" alt="image" src="https://github.com/C2DH/maison-du-son/assets/145359036/7aebef47-a686-4492-b052-9594b81992f8">
+
+<img width="414" alt="image" src="https://github.com/C2DH/maison-du-son/assets/145359036/9eaee1b2-8678-4597-99ed-a75655143f93">
+
 
 
 **similar radio**:
