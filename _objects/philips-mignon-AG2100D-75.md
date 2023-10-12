@@ -101,3 +101,9 @@ _Footnotes_
 15. Ibid., P. 222-223.<br>
 16.  Chosen by Playback.fm to be the most popular song of 1959, the Mignon’s release year. Played on a 7-inch 45 in mono. Cf. https://playback.fm/charts/top-100-songs/1959. Audio extract courtesy of Brian Richmond (online), Bobby Darin - Mack the Knife ((Mono)) 1959 [Video], online under: https://youtu.be/_94p5UFiuNw?t=30.<br>
 17.   The Mignon has only one interface button, which is the ejection button. Can be seen used, cf. Chorzów Music and Picture Art Gallery (online), Philips Mignon AG - 2100 D - 75 [Video], translation by authoourser, 7:20-7:22, online from: https://www.youtube.com/watch?v=waUmmlWnxWs.<br>
+
+#### Picture Annexe (Copyright Luca Uhrig, Courtesy of M. Albert Wolter):
+<img src="/assets/images/Mignon-Ex1.png">
+<img src="/assets/images/Mignon-Ex2.png">
+<img src="/assets/images/Mignon-Ex3.png">
+
