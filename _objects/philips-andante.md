@@ -7,7 +7,6 @@ date: 2023-10-02
 ---
 **This a French Object Biography of the Philips Andante BA 391U**
 ## **La radio inconnue qui voyage le monde**
-
 > [Click here](https://github.com/1AndreRamos/maison-du-son/blob/master/_objects/Philips%20Andante_out_1.mp3) to open the page to download the first part of the audiofile - Click aftwerwards on 'View Raw'
 
 _Ceci est l’histoire d’une radio peu connue et peu commercialisée. Pourtant le parcours de sa vie est indubitablement curieux, particulier et même spectaculaire. Voici l’histoire._
@@ -23,7 +22,7 @@ Lorsque je suis sorti de Vienne, j’ai rejoint Mr Hoffmann dans son magasin de 
 
 Environ vingt jours après mon arrivée, Mr Hoffmann m’a vendu à Mr Gustav. Malheureusement je ne me souviens plus de son nom de famille. Il m’a prévenu : _"Tu es un cadeau d’anniversaire de mon petit Arnold. Il fête demain son 4e anniversaire et je pense qu’il te va bien aimer !"_ Mais Arnold ne m’a pas aimé au début. A cet âge-là, il aimait la nature et les sports. Il n’a pas de patience de m’allumer et entendre tout ce que je peux transmettre.
 
-Mais son père a eu raison environ dix ans plus tard ! A l’âge de 14 ans, Arnold me voyait et me dis : _« Il faut seulement que tu me transmets les programmes sur le culturisme. Je vais alors devenir le champion de bodybuilding le plus titré de tous les temps ! »_
+Mais son père a eu raison environ dix ans plus tard ! A l’âge de 14 ans, Arnold me voyait et me dis : _« Il faut seulement que tu me transmets les programmes sur le culturisme. Je vais alors devenir le champion de bodybuilding le plus titré de tous les temps !»_
 
 C’est ainsi que le lendemain, je me suis mis à transmettre «_ Daily Dozen_» de Walter Camps.[^3]
 
