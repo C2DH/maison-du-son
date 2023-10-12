@@ -39,17 +39,14 @@ Tout était fait pour que je sois une pièce décorative faite pour s'accorder �
 
 <img width="1132" alt="Capture d’écran 2023-06-21 à 19 14 31" src="https://github.com/C2DH/maison-du-son/assets/145777187/2b609e67-533a-4a9a-a7f7-88f03984fb6b">
 
-
 Mais avec tout cela, je ne vous ai pas encore fait écouter le merveilleux son que mon haut-parleur produisait. Naturellement avec la réception, il n'y avait pas que la musique ou bien les programmes de parole. En effet, avec saison diffusés, d'autres bruits s'y ajoutaient. Les grésillements pouvaient être dus à une mauvaise réception ou peut-être à une mauvaise qualité d'enregistrement. Toujours est-il que ces bruits commencèrent à faire partie du paysage audio . Écoutons donc un morceau qui fut enregistré les 23 et 24 mai 1933 à Londres. Il s'agit de l'orchestre The Ramblers . 
 
 Et à présent, que va-t-il advenir de moi ? 
 
-Nous sommes à une époque où les gens n'écoutent leur musique avec leurs téléphones portables. Ils emportent leur musique partout. Se créent leur propre paysage sonore. Mais dites-moi donc, qui voudraient encore m'écouter. D'autant plus que depuis le 1 janvier 2023, je ne peux plus capter les ondes qui faisaient vibrer mon haut-parleur. 
+Nous sommes à une époque où les gens écoutent leur musique avec leurs téléphones portables. Ils emportent leur musique partout... Se créent leur propre paysage sonore. Mais dites-moi donc, qui voudraient encore m'écouter? D'autant plus que depuis le 1 janvier 2023, je ne peux plus capter les ondes qui faisaient vibrer mon haut-parleur. 
 Vais-je finir par disparaître dans un coin sombre d'un grenier ? 
 
-Eh bien, il se peut qu'il y ait une chance pour moi de revivre une nouvelle fois. En effet, un projet de musée du son se prépare et j'ai été choisi pour faire partie de la collection d'exposition. 
-D'ailleurs, j'ai su qu'il existait encore des passionnés qui aimeraient réparer les anciens postes de radio. Or, il y a un passionné de réparation en tout genre en Allemagne qui a réparé un de mes congénères il y a 2 ans . Et non seulement il l'a remis en marche, mais il a également rajouté un système Bluetooth qui permet de diffuser la musique ou tout autre fichier audio avec son téléphone portable. Avec le Philips 634A. Je garde espoir que les vieux postes radio qui, jadis, ont façonnés le paysage sonore du quotidien de 1000000 de gens puissent reprendre un 2e souffle et refaire vibrer leur haut-parleur. Je vous remercie d'avoir écouté mon histoire et je vous laisse avec un son merveilleux qui renvoie à la nostalgie sonore des années 1930.
+Eh bien, il se peut qu'il y ait une chance pour moi de revivre une nouvelle fois... 
+En effet, un projet de Maison du Son se prépare et j'ai été choisi pour faire partie de la collection d'exposition.
 
-(son audio repris de la video youtube , mais nettoyée avec une application internet pour enlever la voix du commentateur).
-
-
+D'ailleurs, j'ai su qu'il existait encore des passionnés qui aiment réparer les anciens postes de radio. Il y a un passionné de réparation en tout genre en Allemagne, qui a réparé un de mes congénères il y a 2 ans . Et non seulement il l'a remis en marche, mais il a également rajouté un système Bluetooth qui permet de diffuser la musique ou tout autre fichier audio avec son téléphone portable avec le Philips 634A. Je garde espoir que les vieux postes radio qui, jadis, ont façonnés le paysage sonore du quotidien de milliers de gens, puissent reprendre un 2e souffle et refaire vibrer leur haut-parleur. Je vous remercie d'avoir écouté mon histoire et je vous laisse avec un son merveilleux qui renvoie à la nostalgie sonore des années 1930.
