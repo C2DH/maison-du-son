@@ -16,7 +16,8 @@ Bush was a British consumer electronics company founded in the 30s. The company 
 
 ## Picture example
 
-<a title="Unknown photographer, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Be_the_girl_with_the_BUSH.jpg)"><img width="512" alt="1920s street gramophone player" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1920s_street_gramophone_player.jpg/512px-1920s_street_gramophone_player.jpg"></a>---
+<a title="Unknown photographer, Public domain, via Wikimedia Commons" 
+href="https://commons.wikimedia.org/wiki/File:Be_the_girl_with_the_BUSH.jpg"><img width="512" alt="advertising slogan used by Bush Radio for their TR82 transistor radio model" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Be_the_girl_with_the_BUSH.jpg"></a>---
 
 
 ## The BUSH TR82 BLU : A vintage radio with modern features
