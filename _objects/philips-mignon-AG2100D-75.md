@@ -3,7 +3,6 @@ title: Philipps Mignon-AG2100D-75 (1959)
 abstract: A cute little vinyl player, also known as the "Disc-eater" that brought about the era of 7-inch 45's vinyls and dissapearance of visible audio formats.
 authors: luca-uhrig
 date: 2023-06-22
-
 ---
 
  **The monologue of the Philips Mignon 2100D-75 embodied by Saturn as portrayed in Francisco de Goya's painting**
@@ -57,13 +56,13 @@ date: 2023-06-22
   S: Sometimes I have the feeling a higher power forces me to swallow another one of my children. I’m glad that, though I don’t have the power to stop the process from starting, that I can at least interrupt it at any moment.<sup>17</sup> Even I’ve come to enjoy the occasional time off, don't wanna break due to overworking, right?<br>
   S: You know, I’m glad you came along and listened to what I had to say. Honestly, I called out to you to have someone to talk to. You might think that I only wanted to display my superiority, but in reality I was starting to lose my mind. The pressure of always performing at your best, of being trapped in an automatic process that you can’t really control, hell even having to swallow your own children. (sigh) All of it is exhausting.<br>
   S: But. You showed me that it is worth it. That there is someone who listens to you, who accepts you the way you are. Who is interested in what you say even if at one point all you might still do is collect dust in dark storage space.<br>
-  S: At least it won’t be in vain, because now all of this has become a part of your memory. And though this physical form of mine might rust, decompose or wither away one day. In your memory I remain in my ideal form and will continue to live as long as you remember me. After all, I have done my best to make an impression that is worthy of earning a place in the palace that is your memory.<br> <div></div>
+  S: At least it won’t be in vain, because now all of this has become a part of your memory. And though this physical form of mine might rust, decompose or wither away one day. In your memory I remain in my ideal form and will continue to live as long as you remember me. After all, I have done my best to make an impression that is worthy of earning a place in the palace that is your memory.<br> </div>
  <br>
  
  
- **_Bibliography and Footnotes:_**
+ ### **_Bibliography and Footnotes:_**
   **_Bibliography_**
-  
+<div style="text-align: justify">  
 Akrich, M. (1992), The De-Scription of Technical Objects, in:  ShapingTechnology, Building Society: Studies in Sociotechnical Change, Bijker, W. & and Law, J. (Eds.), P. 205-224, Cambridge.<br>
 Beardsley, R. & Leech-Wilkinson, D. (2009), A brief History of Recording to ca. 1950, online from: https://www.charm.rhul.ac.uk/history/p20_4_1.html.<br>
 Course Sidekick (online), Technology and Innovation, online from: https://www.coursesidekick.com/management/study-guides/boundless-management/technology-and-innovation.<br>
@@ -101,9 +100,9 @@ The sound of Vinyl (online), What is a 7-Inch Record?, online from: https://thes
 14.    Sterne, J. (2003), The Audible Past: Cultural Origins of Sound Reproduction, Durham, P.220.<br>
 15. Ibid., P. 222-223.<br>
 16.  Chosen by Playback.fm to be the most popular song of 1959, the Mignon’s release year. Played on a 7-inch 45 in mono. Cf. https://playback.fm/charts/top-100-songs/1959. Audio extract courtesy of Brian Richmond (online), Bobby Darin - Mack the Knife ((Mono)) 1959 [Video], online under: https://youtu.be/_94p5UFiuNw?t=30.<br>
-17.   The Mignon has only one interface button, which is the ejection button. Can be seen used, cf. Chorzów Music and Picture Art Gallery (online), Philips Mignon AG - 2100 D - 75 [Video], translation by authoourser, 7:20-7:22, online from: https://www.youtube.com/watch?v=waUmmlWnxWs.<br>
+17.   The Mignon has only one interface button, which is the ejection button. Can be seen used, cf. Chorzów Music and Picture Art Gallery (online), Philips Mignon AG - 2100 D - 75 [Video], translation by authoourser, 7:20-7:22, online from: https://www.youtube.com/watch?v=waUmmlWnxWs.<br> </div>
 
-**_Picture Annexe (Copyright Luca Uhrig, Courtesy of M. Albert Wolter):_**
+#### **_Picture Annexe (Copyright Luca Uhrig, Courtesy of M. Albert Wolter):_**
 <img src="/assets/images/Mignon-Ex1.png">
 <img src="/assets/images/Mignon-Ex2.png">
 <img src="/assets/images/Mignon-Ex3.png">
