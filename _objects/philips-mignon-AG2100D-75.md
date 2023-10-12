@@ -5,11 +5,11 @@ authors: luca-uhrig
 date: 2023-06-22
 ---
 
-## **The monologue of the Philips Mignon 2100D-75 embodied by Saturn as portrayed in Francisco de Goya's painting from 1820-23**
+ **The monologue of the Philips Mignon 2100D-75 embodied by Saturn as portrayed in Francisco de Goya's painting from 1820-23**
 <img width="380" height="420" src="/assets/images/PXL_20230619_142730733 (cropped).jpg"> 
 <img align="right" width="380" height="460" src="/assets/images/Francisco-de-Goya-Saturno.jpg">
 
-<div style="text-align: left">## Script: </div>
+## <div style="text-align: left"> Script: </div>
 <div style="text-align: justify">
  ...mumbling<br>
   Saturn: (silently) It’s been so long, I’ve almost forgotten the feeling. When? -pause- Who? –pause- How?<br> 
@@ -36,7 +36,7 @@ date: 2023-06-22
   S: (nonchalantly) Now I don’t even think about it anymore. It just comes naturally and I often don’t even realize that it is happening sometimes.<br>
   S: (proudly) Want me to show you? I don’t mind really! Yeah, ok let’s see…<br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/0LA1fUNx7qo?si=0BDy8eLpce2bV9F3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/qP2EgcfTnUs?si=GRHHJkUAQ1AczX1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><sup>6</sup>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/qP2EgcfTnUs?si=GRHHJkUAQ1AczX1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><sup>6</sup><br>
   S: After devouring them and using them as the source for my ability I get a tingly feeling, as if electricity would flow through my veins. I’m sure I could somehow amplify this power,<sup>7</sup> but I don’t know how… yet.<br>
   S: (reluctantly) Now that we’re so honest with each other, though I don’t like to admit it, even my ability has its limits.<br>
   S: Maybe I’m not powerful<sup>8</sup> enough or maybe my children are just too imperfect<sup>9</sup>.<br>
@@ -50,7 +50,7 @@ date: 2023-06-22
   S: Aside from wanting to boast, I do it because I want to reproduce the things that bring joy to the ones listening. Be that something they never heard, but come to like due to various reasons, or a melody that evokes a kind of nostalgia, familiarity or even feeling of home. I mean, what even is an original authentic sound? Isn’t your larynx just a device made out of flesh to copy sound? Sorry, sorry for going off on a tangent here, what I’m trying to say is that high-fidelity in sound should be measured by the impact on the listener and not on its evaluated degree of perfection. Enough about tha-<br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/0LA1fUNx7qo?si=0BDy8eLpce2bV9F3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_94p5UFiuNw?si=JnQ3Tm9CIoSnU_Vo&amp;start=41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><sup>16</sup>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/qP2EgcfTnUs?si=GRHHJkUAQ1AczX1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/qP2EgcfTnUs?si=GRHHJkUAQ1AczX1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
   S: (confused) I’m sorry.<br>
   -pause-<br>
   S: Sometimes I have the feeling a higher power forces me to swallow another one of my children. I’m glad that, though I don’t have the power to stop the process from starting, that I can at least interrupt it at any moment.<sup>17</sup> Even I’ve come to enjoy the occasional time off, don't wanna break due to overworking, right?<br>
@@ -58,9 +58,10 @@ date: 2023-06-22
   S: But. You showed me that it is worth it. That there is someone who listens to you, who accepts you the way you are. Who is interested in what you say even if at one point all you might still do is collect dust in dark storage space.<br>
   S: At least it won’t be in vain, because now all of this has become a part of your memory. And though this physical form of mine might rust, decompose or wither away one day. In your memory I remain in my ideal form and will continue to live as long as you remember me. After all, I have done my best to make an impression that is worthy of earning a place in the palace that is your memory.<br> <div></div>
  
-  ### Bibliography and Footnotes:<br>
+ ## Bibliography and Footnotes:<br>
   
-  **Bibliography**<br>
+  **Bibliography** <br>
+  
 <div style="text-align: justify">  
 Akrich, M. (1992), The De-Scription of Technical Objects, in:  ShapingTechnology, Building Society: Studies in Sociotechnical Change, Bijker, W. & and Law, J. (Eds.), P. 205-224, Cambridge.<br>
 Beardsley, R. & Leech-Wilkinson, D. (2009), A brief History of Recording to ca. 1950, online from: https://www.charm.rhul.ac.uk/history/p20_4_1.html.<br>
