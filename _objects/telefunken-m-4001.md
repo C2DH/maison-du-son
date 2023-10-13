@@ -42,53 +42,53 @@ Die Victor Talking Machine Company wirbt für ihre Produkte mit der Ansage, dass
 
 Entschuldigung, aber wie lange reden wir nun schon miteinander? Ich denke ich habe ihnen nun genug mit auf den Weg gegeben. Hoffentlich sehen sie nun, wie viele Seelen so ein Objekt in sich hat, wie viele Geschichten es zu zählen hat! Ich hoffe, dass sie dadurch die zahlreichen Objekte in ihrem Leben zu wertschätzen gelernt haben oder es in Zukunft mindestens probieren. Ich hoffe, dass sie aber auch gesehen haben, dass diese Seelen auch negative Aspekte haben kann und dass diese negativen Seelen auch dort präsent sind, wo man sie gar nicht vermutet. Ich bitte sie, schauen sie immer über den Horizont und bleiben sie nicht beim einfachen Bild eines jeden Objektes stehen. Fühlen sie, was andere fühlen könnten und seien sie doch bitte immer neugierig für neue Perspektiven. Bevor ich sie nun in Ruhe lasse, noch ein kleiner Tipp! Sehen sie die Welt doch auch einmal mit ihren Ohren!
 
-**Referenzen**
-(1) Vgl.: FRIEDWALD, Michael, Telefunken und der Schiffsfunk 1903-1914, in: Journal of Business History 46/1 (2001), S.28-29.
-(2) Vgl.: FRIEDWALD, Telefunken und der Schiffsfunk; S.29.
-(3) Vgl.: GÖTZ, Georg, Remembering the Battle of Jutland in Post-War Wilhelmshaven, in: NIVEN, Bill., PAVER, Chloe (Hrsg.), Memorialization in Germany since 1945, London 2010, S.360-368.
+**Referenzen** <br>
+(1) Vgl.: FRIEDWALD, Michael, Telefunken und der Schiffsfunk 1903-1914, in: Journal of Business History 46/1 (2001), S.28-29. <br>
+(2) Vgl.: FRIEDWALD, Telefunken und der Schiffsfunk; S.29. <br>
+(3) Vgl.: GÖTZ, Georg, Remembering the Battle of Jutland in Post-War Wilhelmshaven, in: NIVEN, Bill., PAVER, Chloe (Hrsg.), Memorialization in Germany since 1945, London 2010, S.360-368. <br>
 (4) Vgl.: TELEFUNKEN, Telefunken History, in: telefunken.com, URL: https://telefunken.com/company/?anchor=history (Gesehen: 21.06.2023).
-(5) Vgl.: TELEFUNKEN, Telefunken History (Gesehen: 21.06.2023). 
-(6) Was Telefunken in den Jahren des Zweiten Weltkriegs wirklich tat: vgl.: SIETMAN, Richard, Synergien zerbröselt (05.04.2004), in: heise online, URL: https://www.heise.de/news/Synergien-zerbroeselt-289306.html (Gesehen: 22.06.2023).
-(7) Vgl.: TELEFUNKEN, Telefunken History (Gesehen: 21.06.2023).
-(8) Vgl.: ANONYM, Deutsche Unternehmen und ihre Rolle in der NS-Zeit (20.11.207); in: Süddeutsche Zeitung, URL: https://www.sueddeutsche.de/wirtschaft/bildstrecke-deutsche-unternehmen-und-ihre-rolle-in-der-ns-zeit-1.333501 (Gesehen: 21.06.2023); LANGELS, Otto, Bahlsen, Flick und Co. Wie  Familienunternehmen NS-Zwangsarbeit aufarbeiten, in: Deutschland Funk, URL: https://www.deutschlandfunk.de/bahlsen-flick-und-co-wie-familienunternehmen-ns-100.html#:~:text=Auch%20bekannte%20Unternehmerdynastien%20wie%20die,mit%20Ihrer%20Vergangenheit%20zu%20besch%C3%A4ftigen. (Gesehen: 21.06.2023).
-(9) Vgl.: ITZEL, Telefunken, in: telefunken-sendersysteme.de, URL.: https://www.telefunken-sendersysteme.de/telefunken/ (Gesehen: 22.06.2023).
-(10) Cassette Player Sound Effect, Youtube, hochgeladen von: SOUND EFFECTS, (08.02.1918), URL: https://www.youtube.com/watch?v=Yspaw2vScHs&ab_channel=SoundEffects (Gesehen: 21.06.2023).
-(11) Vgl.: GRAEME, Thomson, The mystery and romance of the cassette tape. To generations raised on the iPod, it’s hard to articulate just what a liberation the cassette represented (20.03.2021), in: The Spectator, URL.: https://www.spectator.co.uk/article/the-mystery-and-romance-of-the-cassette-tape/ (Gesehen: 21.06.2023).
-(12) EARGLE, John, Handbook of Recording Engineering (4. Aufl.), Los Angeles 2002, S.154.
-(13)Vgl.: ENGEL, Friedrich; KUPER, Gerhard; BELL, Frank, Zeitschichten: Magnetbandtechnik als Kulturgut. Erfinderbiografien und Erfindungen (4.Aufl.), Potsdam 2008, S.389.
-(14) Vgl.: ENGEL; KUPER; BELL, Zeitschichten: Magnetbandtechnik als Kulturgut, S.390.
-(15) Vgl.: ENGEL; KUPER; BELL, Zeitschichten: Magnetbandtechnik als Kulturgut, S.393.
-(16) Vgl: OGOREK, Alexej C., Eine Kurze Geschichte der Tonaufzeichnung, in: Digital Audio Systeme, URL:  https://digital-audio-systems.com/eine-kurze-geschichte-der-tonaufzeichnung/ (Gesehen: 21.06.2023).
-(17) Vgl.: OGOREK, Eine Kurze Geschichte der Tonaufzeichnung.
-(18) Vgl.: OGOREK, Eine Kurze Geschichte der Tonaufzeichnung.
-(19) Als ein Beispiel kann gesehen werden: EDINBURGH COLLEGE OF ART, Women in Sound, Women on Sound, in: The University of Edinburgh, URL: https://www.eca.ed.ac.uk/research/women-sound-women-sound (Gesehen: 21.06.2023).
-(20) Als Beispiel wird genutzt: FARRELL, Gerry, The early days of the gramophone industry in India: Historical, social and musical perspectives, in: British Journal of Ethnomusciology 2/1 (1993), S. 31-53. 
-(21) Vgl.: OGOREK, Eine Kurze Geschichte der Tonaufzeichnung; MILLARD, Andre, America on Record. A History of Recorded Sound, Cambridge 2005; SMART, James R., Emile Berliner and Nineteenth-Century Disc Recordings, in: The Quarterly Journal of the Library of Congress 37/ 3;4 (1980), S. 422-440
+(5) Vgl.: TELEFUNKEN, Telefunken History (Gesehen: 21.06.2023). <br>
+(6) Was Telefunken in den Jahren des Zweiten Weltkriegs wirklich tat: vgl.: SIETMAN, Richard, Synergien zerbröselt (05.04.2004), in: heise online, URL: https://www.heise.de/news/Synergien-zerbroeselt-289306.html (Gesehen: 22.06.2023). <br>
+(7) Vgl.: TELEFUNKEN, Telefunken History (Gesehen: 21.06.2023). <br>
+(8) Vgl.: ANONYM, Deutsche Unternehmen und ihre Rolle in der NS-Zeit (20.11.207); in: Süddeutsche Zeitung, URL: https://www.sueddeutsche.de/wirtschaft/bildstrecke-deutsche-unternehmen-und-ihre-rolle-in-der-ns-zeit-1.333501 (Gesehen: 21.06.2023); LANGELS, Otto, Bahlsen, Flick und Co. Wie  Familienunternehmen NS-Zwangsarbeit aufarbeiten, in: Deutschland Funk, URL: https://www.deutschlandfunk.de/bahlsen-flick-und-co-wie-familienunternehmen-ns-100.html#:~:text=Auch%20bekannte%20Unternehmerdynastien%20wie%20die,mit%20Ihrer%20Vergangenheit%20zu%20besch%C3%A4ftigen. (Gesehen: 21.06.2023). <br>
+(9) Vgl.: ITZEL, Telefunken, in: telefunken-sendersysteme.de, URL.: https://www.telefunken-sendersysteme.de/telefunken/ (Gesehen: 22.06.2023). <br>
+(10) Cassette Player Sound Effect, Youtube, hochgeladen von: SOUND EFFECTS, (08.02.1918), URL: https://www.youtube.com/watch?v=Yspaw2vScHs&ab_channel=SoundEffects (Gesehen: 21.06.2023). <br>
+(11) Vgl.: GRAEME, Thomson, The mystery and romance of the cassette tape. To generations raised on the iPod, it’s hard to articulate just what a liberation the cassette represented (20.03.2021), in: The Spectator, URL.: https://www.spectator.co.uk/article/the-mystery-and-romance-of-the-cassette-tape/ (Gesehen: 21.06.2023). <br>
+(12) EARGLE, John, Handbook of Recording Engineering (4. Aufl.), Los Angeles 2002, S.154. <br>
+(13)Vgl.: ENGEL, Friedrich; KUPER, Gerhard; BELL, Frank, Zeitschichten: Magnetbandtechnik als Kulturgut. Erfinderbiografien und Erfindungen (4.Aufl.), Potsdam 2008, S.389. <br>
+(14) Vgl.: ENGEL; KUPER; BELL, Zeitschichten: Magnetbandtechnik als Kulturgut, S.390. <br>
+(15) Vgl.: ENGEL; KUPER; BELL, Zeitschichten: Magnetbandtechnik als Kulturgut, S.393. <br>
+(16) Vgl: OGOREK, Alexej C., Eine Kurze Geschichte der Tonaufzeichnung, in: Digital Audio Systeme, URL:  https://digital-audio-systems.com/eine-kurze-geschichte-der-tonaufzeichnung/ (Gesehen: 21.06.2023). <br>
+(17) Vgl.: OGOREK, Eine Kurze Geschichte der Tonaufzeichnung. <br>
+(18) Vgl.: OGOREK, Eine Kurze Geschichte der Tonaufzeichnung. <br>
+(19) Als ein Beispiel kann gesehen werden: EDINBURGH COLLEGE OF ART, Women in Sound, Women on Sound, in: The University of Edinburgh, URL: https://www.eca.ed.ac.uk/research/women-sound-women-sound (Gesehen: 21.06.2023). <br>
+(20) Als Beispiel wird genutzt: FARRELL, Gerry, The early days of the gramophone industry in India: Historical, social and musical perspectives, in: British Journal of Ethnomusciology 2/1 (1993), S. 31-53.  <br>
+(21) Vgl.: OGOREK, Eine Kurze Geschichte der Tonaufzeichnung; MILLARD, Andre, America on Record. A History of Recorded Sound, Cambridge 2005; SMART, James R., Emile Berliner and Nineteenth-Century Disc Recordings, in: The Quarterly Journal of the Library of Congress 37/ 3;4 (1980), S. 422-440. <br>
 (22) Vgl.: LASTRA, James, “Chapter 4: Sound Theory”, in: Sound Technology and the American Cinema: Perception, Representation, Modernity, 2000, S.138-139.
-(23) Vgl.: LASTRA, “Chapter 4: Sound Theory”, S.139.
-(24) Vgl.: LASTRA, “Chapter 4: Sound Theory”, S.139.
-(25) Vgl.: STERN, Jonathan, The Audible Past. Cultural Origins of Sound Reproduction, Durham 2003, S.218.
-(26) Vgl.: STERN, The Audible Past, S.217; 282.
-(27) Vgl.: STERN, The Audible Past, S.217; 275.
+(23) Vgl.: LASTRA, “Chapter 4: Sound Theory”, S.139. <br>
+(24) Vgl.: LASTRA, “Chapter 4: Sound Theory”, S.139. <br>
+(25) Vgl.: STERN, Jonathan, The Audible Past. Cultural Origins of Sound Reproduction, Durham 2003, S.218. <br>
+(26) Vgl.: STERN, The Audible Past, S.217; 282. <br>
+(27) Vgl.: STERN, The Audible Past, S.217; 275. <br>
 
 **Bibliografie**
-•	ANONYM, Deutsche Unternehmen und ihre Rolle in der NS-Zeit (20.11.207); in: Süddeutsche Zeitung, URL: https://www.sueddeutsche.de/wirtschaft/bildstrecke-deutsche-unternehmen-und-ihre-rolle-in-der-ns-zeit-1.333501 (Gesehen: 21.06.2023).
-•	EDINBURGH COLLEGE OF ART, Women in Sound, Women on Sound, in: The University of Edinburgh, URL: https://www.eca.ed.ac.uk/research/women-sound-women-sound (Gesehen: 21.06.2023).
-•	EARGLE, John, Handbook of Recording Engineering (4. Aufl.), Los Angeles 2002.
-•	ENGEL, Friedrich; KUPER, Gerhard; BELL, Frank, Zeitschichten: Magnetbandtechnik als Kulturgut. Erfinderbiografien und Erfindungen (4.Aufl.), Potsdam 2008, S.389.
-•	FARRELL, Gerry, The early days of the gramophone industry in India: Historical, social and musical perspectives, in: British Journal of Ethnomusciology 2/1 (1993), S. 31-53.
-•	FRIEDWALD, Michael, Telefunken und der Schiffsfunk 1903-1914, in: Journal of Business History 46/1 (2001), S.27-57.
-•	GÖTZ, Georg, Remembering the Battle of Jutland in Post-War Wilhelmshaven, in: NIVEN, Bill., PAVER, Chloe (Hrsg.), Memorialization in Germany since 1945, London 2010, S.360-368.
-•	GRAEME, Thomson, The mystery and romance of the cassette tape. To generations raised on the iPod, it’s hard to articulate just what a liberation the cassette represented (20.03.2021), in: The Spectator, URL.: https://www.spectator.co.uk/article/the-mystery-and-romance-of-the-cassette-tape/ (Gesehen: 21.06.2023).
-•	ITZEL, Telefunken, in: telefunken-sendersysteme.de, URL.: https://www.telefunken-sendersysteme.de/telefunken/ (Gesehen: 22.06.2023).
-•	LANGELS, Otto, Bahlsen, Flick und Co. Wie Familienunternehmen NS-Zwangsarbeit aufarbeiten, in: Deutschland Funk, URL: https://www.deutschlandfunk.de/bahlsen-flick-und-co-wie-familienunternehmen-ns-100.html#:~:text=Auch%20bekannte%20Unternehmerdynastien%20wie%20die,mit%20Ihrer%20Vergangenheit%20zu%20besch%C3%A4ftigen. (Gesehen: 21.06.2023).
-•	LASTRA, James, “Chapter 4: Sound Theory”, in: Sound Technology and the American Cinema: Perception, Representation, Modernity, 2000, S.123-153.
-•	MILLARD, Andre, America on Record. A History of Recorded Sound, Cambridge 2005.
-•	OGOREK, Alexej C., Eine Kurze Geschichte der Tonaufzeichnung, in: Digital Audio Systeme, URL:  https://digital-audio-systems.com/eine-kurze-geschichte-der-tonaufzeichnung/ (Gesehen: 21.06.2023).
-•	SIETMAN, Richard, Synergien zerbröselt (05.04.2004), in: heise online, URL: https://www.heise.de/news/Synergien-zerbroeselt-289306.html (Gesehen: 22.06.2023).
+•	ANONYM, Deutsche Unternehmen und ihre Rolle in der NS-Zeit (20.11.207); in: Süddeutsche Zeitung, URL: https://www.sueddeutsche.de/wirtschaft/bildstrecke-deutsche-unternehmen-und-ihre-rolle-in-der-ns-zeit-1.333501 (Gesehen: 21.06.2023). <br>
+•	EDINBURGH COLLEGE OF ART, Women in Sound, Women on Sound, in: The University of Edinburgh, URL: https://www.eca.ed.ac.uk/research/women-sound-women-sound (Gesehen: 21.06.2023). <br>
+•	EARGLE, John, Handbook of Recording Engineering (4. Aufl.), Los Angeles 2002. <br>
+•	ENGEL, Friedrich; KUPER, Gerhard; BELL, Frank, Zeitschichten: Magnetbandtechnik als Kulturgut. Erfinderbiografien und Erfindungen (4.Aufl.), Potsdam 2008, S.389. <br>
+•	FARRELL, Gerry, The early days of the gramophone industry in India: Historical, social and musical perspectives, in: British Journal of Ethnomusciology 2/1 (1993), S. 31-53. <br>
+•	FRIEDWALD, Michael, Telefunken und der Schiffsfunk 1903-1914, in: Journal of Business History 46/1 (2001), S.27-57. <br>
+•	GÖTZ, Georg, Remembering the Battle of Jutland in Post-War Wilhelmshaven, in: NIVEN, Bill., PAVER, Chloe (Hrsg.), Memorialization in Germany since 1945, London 2010, S.360-368. <br>
+•	GRAEME, Thomson, The mystery and romance of the cassette tape. To generations raised on the iPod, it’s hard to articulate just what a liberation the cassette represented (20.03.2021), in: The Spectator, URL.: https://www.spectator.co.uk/article/the-mystery-and-romance-of-the-cassette-tape/ (Gesehen: 21.06.2023). <br>
+•	ITZEL, Telefunken, in: telefunken-sendersysteme.de, URL.: https://www.telefunken-sendersysteme.de/telefunken/ (Gesehen: 22.06.2023). <br>
+•	LANGELS, Otto, Bahlsen, Flick und Co. Wie Familienunternehmen NS-Zwangsarbeit aufarbeiten, in: Deutschland Funk, URL: https://www.deutschlandfunk.de/bahlsen-flick-und-co-wie-familienunternehmen-ns 100.html#:~:text=Auch%20bekannte%20Unternehmerdynastien%20wie%20die,mit%20Ihrer%20Vergangenheit%20zu%20besch%C3%A4ftigen. (Gesehen: 21.06.2023). <br>
+•	LASTRA, James, “Chapter 4: Sound Theory”, in: Sound Technology and the American Cinema: Perception, Representation, Modernity, 2000, S.123-153. <br>
+•	MILLARD, Andre, America on Record. A History of Recorded Sound, Cambridge 2005. <br>
+•	OGOREK, Alexej C., Eine Kurze Geschichte der Tonaufzeichnung, in: Digital Audio Systeme, URL:  https://digital-audio-systems.com/eine-kurze-geschichte-der-tonaufzeichnung/ (Gesehen: 21.06.2023). <br>
+•	SIETMAN, Richard, Synergien zerbröselt (05.04.2004), in: heise online, URL: https://www.heise.de/news/Synergien-zerbroeselt-289306.html (Gesehen: 22.06.2023). <br>
 •	SMART, James R., Emile Berliner and Nineteenth-Century Disc Recordings, in: The Quarterly Journal of the Library of Congress 37/ 3;4 (1980), S. 422-440.
-•	STERN, Jonathan, The Audible Past. Cultural Origins of Sound Reproduction, Durham 2003.
-•	TELEFUNKEN, Telefunken History, in: telefunken.com, URL: https://telefunken.com/company/?anchor=history (Gesehen: 21.06.2023).
+•	STERN, Jonathan, The Audible Past. Cultural Origins of Sound Reproduction, Durham 2003. <br>
+•	TELEFUNKEN, Telefunken History, in: telefunken.com, URL: https://telefunken.com/company/?anchor=history (Gesehen: 21.06.2023). <br>
 
 
 
