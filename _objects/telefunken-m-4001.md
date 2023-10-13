@@ -71,7 +71,7 @@ Entschuldigung, aber wie lange reden wir nun schon miteinander? Ich denke ich ha
 (26) Vgl.: STERN, The Audible Past, S.217; 282. <br>
 (27) Vgl.: STERN, The Audible Past, S.217; 275. <br>
 
-**Bibliografie**
+**Bibliografie** <br>
 •	ANONYM, Deutsche Unternehmen und ihre Rolle in der NS-Zeit (20.11.207); in: Süddeutsche Zeitung, URL: https://www.sueddeutsche.de/wirtschaft/bildstrecke-deutsche-unternehmen-und-ihre-rolle-in-der-ns-zeit-1.333501 (Gesehen: 21.06.2023). <br>
 •	EDINBURGH COLLEGE OF ART, Women in Sound, Women on Sound, in: The University of Edinburgh, URL: https://www.eca.ed.ac.uk/research/women-sound-women-sound (Gesehen: 21.06.2023). <br>
 •	EARGLE, John, Handbook of Recording Engineering (4. Aufl.), Los Angeles 2002. <br>
