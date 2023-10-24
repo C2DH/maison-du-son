@@ -41,7 +41,7 @@ Schémas
 Bibliographie
 ---
 
-‘3045W/3D Radio Grundig Radio-Vertrieb, RVF, Radiowerke, Build | Radiomuseum’, *Radiomuseum*, URL: <https://www.radiomuseum.org/r/grundig_3045w3d.html> [accessed 19 June 2023]
+‘3045W/3D Radio Grundig Radio-Vertrieb, RVF, Radiowerke, Build’, *Radiomuseum*, URL: <https://www.radiomuseum.org/r/grundig_3045w3d.html> [accessed 19 June 2023]
 
 ‘Die Unternehmenshistorie von Grundig’, *grundig*, URL: <https://www.grundig.com/de-de/ueber-grundig/unternehmen/unternehmensgeschichte> [accessed 20 June 2023]
 
