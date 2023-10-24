@@ -6,11 +6,11 @@ authors:
 ---
 ![image](https://github.com/C2DH/maison-du-son/assets/145685621/7181f3ab-4b23-49fc-997c-0c0bce81ee10)
 
-Voix off :
+**Voix off :**
 
 Chers visiteurs, voici l'histoire de la radio Grundig 3045W/3D racontée par le radio elle-même. Cependant, je vous informe qu'il s'agit d'une dame âgée et arrogante qui se sent supérieure à tout le monde. Donc, écoutez ceci à vos risques et périls.
 
-Grundig 3045W/3D :
+**Grundig 3045W/3D :**
 
 Bonjour mes chers supporters, je suis ravie que vous soyez nombreux. Je suis la meilleure actrice que vous ayez vue et écoutée. Vous êtes sûrement curieux par mon histoire. Je vais vous la raconter : le tout a commencé avec ma formation  dans mon agence , l’agence Grundig.
 Le patron de l’agence était à l’époque Max Grundig, né vers 1908 en Allemagne et malheureusement décédé en 1989. Dans les années 1930, monsieur Grundig avait ouvert une boutique de radios et vendait des produits liés aux sons. Après la Deuxième Guerre Mondiale, le patron s’est déplacé à Fürth où il a créé sa propre usine produisant des pièces pour radios , puisque nombreuses radios devaient être réparées.  Déjà en 1948, mon agence était un des grands fabricants de radios en Allemagne de l’Ouest.  Son logo est un trèfle à trois feuilles, tout comme le blason de la ville Fürth.  Le but du patron Grundig était de créer des radios pour tout le monde, peu importe la classe sociale ou le revenu de la famille.  Bien sûr, tout le monde méritait d’écouter ma belle voix, fufufu. En 1952, peu avant ma formation, Monsieur Grundig avait créé une des premières télévisions.  C’est ce machin-là avec des images qui tuent la créativité et l’imagination et qui ne permettent pas de créer des mondes fictifs.  J’ai entendu que les affaires ne se sont pas bien passées par la suite, puisque, plusieurs usines ont dû fermer.  Le patron aurait dû continuer avec mes fabrications. C’est moi qui se trouve ici devant vous, et pas ces boites à images. C’est sa perte. Mwahaha. 
