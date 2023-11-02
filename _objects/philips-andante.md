@@ -137,3 +137,7 @@ s.a., ‘The Migration of Objects’, _Significant Objects:, 28 novembre 2011, [
 
 s.a., ‘A brief history of the home workout’, _Radio 4 in Four_, s.d., [Link](https://www.bbc.co.uk/programmes/articles/XZ8mBqwtmY18Xj62W5rG2V/a-brief-history-of-the-home-workout#:~:text=Radio%20broadcast%20home%20workouts%20first,promote%20fitness%20and%20weight%20loss).
 
+## Further sources used for the Catalogue assignment
+
+
+<figure><img width="500" height="400" src="assets/images/Philips Andante BA 391 U.png"><figcaption>Philips Andante BA391 U </figcaption></figure>
