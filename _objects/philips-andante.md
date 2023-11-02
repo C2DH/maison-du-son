@@ -141,3 +141,4 @@ s.a., ‘A brief history of the home workout’, _Radio 4 in Four_, s.d., [Link]
 
 
 <figure><img width="500" height="400" src="assets/images/Philips Andante BA 391 U.png"><figcaption>Philips Andante BA391 U </figcaption></figure>
+<figure><img src="assets/images/Philips Andante BA 391 U.png"><figcaption> Philips Andante Ba 391 U </figcaption></figure>
