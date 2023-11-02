@@ -137,8 +137,33 @@ s.a., ‘The Migration of Objects’, _Significant Objects:, 28 novembre 2011, [
 
 s.a., ‘A brief history of the home workout’, _Radio 4 in Four_, s.d., [Link](https://www.bbc.co.uk/programmes/articles/XZ8mBqwtmY18Xj62W5rG2V/a-brief-history-of-the-home-workout#:~:text=Radio%20broadcast%20home%20workouts%20first,promote%20fitness%20and%20weight%20loss).
 
-## Further sources used for the Catalogue assignment
+## Further sources and bibliography used for the Catalogue assignment
 
+### Sources
+1. Andante BA391 U, [Link](https://www.radiomuseum.org/r/philips_andante_ba391u.html) [Consulté le 30 octobre 2023].
 
-<figure><img width="500" height="400" src="assets/images/Philips Andante BA 391 U.png"><figcaption>Philips Andante BA391 U </figcaption></figure>
-<figure><img src="assets/images/Philips Andante BA 391 U.png"><figcaption> Philips Andante Ba 391 U </figcaption></figure>
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/Philips%20Andante%20BA%20391%20U.png?raw=true)
+
+2. The “Daily Dozen ». Universally Recognized as the Standard and Most Beneficial of Health Building Exercises’, Health Builders, 15 août 1922, p.81, [Link]([https://www.worldradiohistory.com/hd2/IDX-Business/Music/Archive-Talking-Machine-IDX/IDX/20s/Talking-Machine-1922-08-OCR-Page-0085.pdf#search=%22daily%20dozen%22%3E) [Consulté le 30 octobre 2023].
+
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/Andante%20Daily%20Dozen%20smaller.png?raw=true)
+
+3. Firmenprotokollierungen, Wiener Zeitung, 09.02.1926, p.10. [Link](https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19260209&zoom=33) [consulté le 30 octobre 2023]
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/Wiener_Zeitung_09_02_1926_Philips.png)
+
+4. Banque Centrale Européenne, « L’échange de la monnaie fiduciaire nationale. Autriche », ecb.europa.eu, [Link](https://www.ecb.europa.eu/euro/exchange/au/html/index.fr.html#:~:text=1%20euro%20%3D%20ATS%2013%2C7603%20(schillings%20autrichiens)&text=Pourquoi%20%3F) [consulté le 30 octobre 2023].
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/Andante_Schilling_euro.png?raw=true)
+
+5. Wirtschaftskammer Österreich, « Pro-Kopf-Einkommen der Arbeitnehmer », novembre 2022, [Link](https://www.wko.at/statistik/extranet/langzeit/lang-einkommen.pdf) [consulté le 30 octobre 2023].
+
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/AUT_Salaire_net_mensuel_1954_2021.png?raw=true)
+
+6. J'ai encore contacté Peter Eigner de l'Université de Vienne (Institut de l'histoire économique et sociale) qui a été le tuteur de la thèse "85 Jahre Philips in Österreich. Die Geschichte eines Unternehmens im Spannungsfeld zwischen der Eigenständigkeit und dem Zentralismus eines Weltkonzerns » (thèse de doctorat pas publiée, Université de Vienne, 2011)" de Walter Riegler. Je lui ai demandé s'il était encore en contact avec Riegler. Malheureusement, il ne m'a pas pu aider. [J'avais l'espoir que Riegler me pourrait encore aider à trouver des sources primaires sur la radio Philips Andante BA391 U]. Voici un _screenhot_ du mail envoyé à Eigner et sa réponse.
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/Andante_Contact_Peter_Eigner.png?raw=true)
+
+### Bibliography
+Franz Mathis, Erfolg und Misserfolg der österreichischen Großunternehmen im 20. Jahrhundert, dans Zeitschrift für Unternehmensgeschichte/Journal of Business History, 37 (1992), 1-18.
+
+Walter Riegler, « 85 Jahre Philips in Österreich. Die Geschichte eines Unternehmens im Spannungsfeld zwischen der Eigenständigkeit und dem Zentralismus eines Weltkonzerns » (thèse de doctorat pas publiée, Université de Vienne, 2011).
+
+Xiudian Dai, Corporate Strategy, Public Policy And New Technologies, Oxford, 1996.
