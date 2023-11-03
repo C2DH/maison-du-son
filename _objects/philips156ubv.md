@@ -21,6 +21,7 @@ The Philips 156 UBV was produced since 1942 in the dutch Philips factories that 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xeWupXK2-Ww?si=iVnTs7PlUtOgVFY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Soldatensender Belgrad (Soldiers Radio Belgrade, Yugoslavia, 1941), in: youtube.com, URL: https://www.youtube.com/watch?v=xeWupXK2-Ww&t=7 (last accessed: 03.11.2023).
 
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption>The new version </figcaption></figure>
 There are other sources available (Ringsendungen, Konzerte für die Wehrmacht etc.). I contactes the Deutsches Rundfunkarchiv, to get access.
 
 ## Object Biography 
