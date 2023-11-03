@@ -1,6 +1,6 @@
 ---
 title: Philips Philetta
-abstract: The Philips Philetta arguably constitutes Philips most iconic radio.
+abstract: Produced since the 1940s, the Philips Philetta arguably constitutes Philips most iconic radio.
 authors:
  - caroline-resch
 date: 2023-11-03 
