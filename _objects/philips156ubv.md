@@ -110,8 +110,15 @@ All of these pictures were taken by me. The documents are in possession of Alber
 
 ## Sources:
 
-
 ‘156 UBV‘, _Radiomuseum.org_, [Link](https://www.radiomuseum.org/r/philips_156ubv_156_ubv.html#).
+
+‘156 UBV‘, _Radiomuseum.org_, [Link](https://www.radiomuseum.org/r/philips_156ubv156_ub.html).
+
+‘PHILIPS 156 UBV - WWII GERMAN WEHRMACHT OFFICER RADIO‘, _worthpoint.com_, [Link](https://www.radiomuseum.org/r/philips_156ubv156_ub.html).
+
+‘Philips-Empfänger : Typenschlüssel der Betriebsarten Versorgungsarten Betriebsspannungen‘, _gfgf.org_, [Link](https://www.gfgf.org/Forum/index.php?t=msg&th=3013&start=0&).
+
+‘Philips 156 UBV‘, _doctsf.com_, [Link](https://www.doctsf.com/156-ubv/f11076).
 
 
 ## Bibliography:
