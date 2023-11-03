@@ -47,7 +47,7 @@ I love to reminisce about those times. Thanks to my durability, we spent almost 
 My legacy lives on, however. Not only do I think I’m iconic, Philips and the consumers think so too. In October 2012, my brand Philips continued the Philetta series with a highly modern alternative inspired by the 255 from 1955, mainly meant to please collectors.[9]
  
  
-
+**Footnotes**
 
 [1] Die Philetta Rundfunkgerätserie, eine Legende der Funkgeschichte, Arbeitsgruppe Sammlung Technikgeschichte im NDR, NDR, p. 3.
 
