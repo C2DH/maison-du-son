@@ -108,6 +108,8 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Schematics.png"><figcaption> </figcaption></figure>
 All of these pictures were taken by me. The documents are in possession of Albert Wolter
 
+## Sources:
+
 ## Bibliography:
 
 ALEAZ, Bonita, Community Radio and Empowerment, in: Economic and Political Weekly 45/16 (2010), p. 39-32.
