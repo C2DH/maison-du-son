@@ -110,6 +110,10 @@ All of these pictures were taken by me. The documents are in possession of Alber
 
 ## Sources:
 
+
+s.a., ‘156 UBV‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/philips_156ubv_156_ubv.html#).
+
+
 ## Bibliography:
 
 ALEAZ, Bonita, Community Radio and Empowerment, in: Economic and Political Weekly 45/16 (2010), p. 39-32.
