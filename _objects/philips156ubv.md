@@ -27,10 +27,12 @@ There are several other snippets on youtube (Ringsendungen, Konzerte für die We
 ## Contemporary Pictures
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Cover-Wunschkonzert.png"><figcaption> </figcaption></figure>
+Title cover of the book for the ‘Request Show for the Wehrmacht’, 1940. The picture was used in: ROSS, Corey, Media and the Making of Modern Germany. Mass Communications, Society, and Politics from the Empire to the Reich, Oxford : Oxford University Press, 2008. The author indicates bpk Berlin as sources. I found the picture on their website for sale (https://www.bpk-bildagentur.de/shop)
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_SoldatensenderBelgrad(1941).jpg"><figcaption> </figcaption></figure>
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_BildSoldatensenderMail.png"><figcaption> </figcaption></figure>
+I found that picture only on pinterest, but there was no indication on the source of the picture, so I contacted the person on pinterest.
 
 ## Contemporary Articles
 
@@ -96,7 +98,6 @@ In the last few days, many radios left the warehouse. There seems to be a great 
 Where do I begin, dear diary? Last night was extremely eventful. It all started when I was taken away from the storage facility. I was firmly convinced that the store owner had finally had enough of me and wanted to make room for a radio with a higher chance of being sold. I could not even blame him for this, I would probably have done the same. I had accepted my fate; I was put down on a table and fell asleep. To my surprise, I woke up. I was standing in front of a windowpane and couldn't believe my eyes when I looked into the reflection. The ugly grey box turned into a dark brown radio with new buttons. I looked like a radio meant to be used in the living room. Furthermore, my circuitry was converted to common types of tubes, and a power cable was attached. Through all the excitement about my appearance, I had not even noticed which window it was at all that I was looking at myself in. It was the shop window.
 
 ## Picture of the radio:
-
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBVPicture.png"><figcaption>The old version</figcaption></figure>
 
