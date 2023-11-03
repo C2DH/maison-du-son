@@ -111,7 +111,7 @@ All of these pictures were taken by me. The documents are in possession of Alber
 ## Sources:
 
 
-s.a., ‘156 UBV‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/philips_156ubv_156_ubv.html#).
+‘156 UBV‘, _Radiomuseum.org_, [Link](https://www.radiomuseum.org/r/philips_156ubv_156_ubv.html#).
 
 
 ## Bibliography:
