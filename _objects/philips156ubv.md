@@ -24,6 +24,10 @@ Soldatensender Belgrad (Soldiers Radio Belgrade, Yugoslavia, 1941), in: youtube.
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
 There are other sources available (Ringsendungen, Konzerte für die Wehrmacht etc.). I contacted the Deutsches Rundfunkarchiv to get access.
 
+## Contemporary Literatur
+
+
+
 ## Object Biography 
 
 **1. Prologue**
