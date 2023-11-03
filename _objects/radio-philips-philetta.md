@@ -56,6 +56,13 @@ My legacy lives on, however. Not only do I think I’m iconic, Philips and the c
 
 [9] ‘Philetta der 50er Jahre ist zurück: Philips präsentiert das Original Radio’, Philips, URL: https://www.philips.de/a-w/about/news/archive/standard/news/consumerlifestyle/20120828_Philips_praesentiert_das_OriginalRadio.html  [accessed 20 June 2023]
 
+**Visuals**
+--
+Fig. 1: The Philetta B2D13A from 1961. Source: https://www.welt-der-alten-radios.de/h--p-philetta-radios-454.html 
+
+Fig. 2: Inside of the 213. Source : https://www.radiomuseum-bocket.de/wiki/index.php/Philips_Philetta_213_B2D13A#/media/Datei:Philips_Philetta_B2D13A_Andreas_Reuther_2018_(7).JPG 
+
+
 **Bibliography**
 --
 Auslander, Philip, Liveness: Performance in a Mediatized Culture, 2nd ed (London New York: Routledge, 2008)
