@@ -28,6 +28,10 @@ There are other sources available (Ringsendungen, Konzerte für die Wehrmacht et
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Weihnachtsringsendung.png"><figcaption> </figcaption></figure>
 
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_10Jahre_Rundfunk.png"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_10JahreRundfunk2.png"><figcaption> </figcaption></figure>
+
 
 ## Object Biography 
 
