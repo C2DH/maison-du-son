@@ -78,6 +78,55 @@ Scannell, Paddy, ‘The Brains Trust: A Historical Study of the Management of Li
 A number of books could be relevant but were unfortunately not available. These include:
 Oeyenhausen, Wilhelm von, 30 Jahre „Philips-Philetta“- Rundfunkgeräteserie 1940-1970 (Idstein: Walz, 2001).
 -   	This book dedicates 90 pages to the Philetta and would therefore be highly recommendable. The book is available in some German libraries.
+
+  **Sources**
+--
+Albert Wolter’s personal accounts.
+
+Advertisement in L’Express, 2.11.1956, p. 7. URL: https://impresso-project.ch/app/issue/EXP-1956-11-02-a/view?sq=CgIYAgoYEAIYByABKhBwaGlsaXBzIHBoaWxldHRh&p=7&articleId=i0154
+
+Advertisement in L‘Impartial, 21.12.1956, p. 4. URL: https://impresso-project.ch/app/issue/IMP-1956-12-21-a/view?sq=CgIYAgoYEAIYByABKhBwaGlsaXBzIHBoaWxldHRh&p=4&articleId=i0045
+
+Die Geschichte der legendären Philetta, in: Marts Dampfradio, URL: http://www.marts-dampfradio.de/images/Philips/philetta.htm (accessed 20.6.2023)
+
+Die Rundfunkgeräteserie Philetta von Philips: Der Kassenschlager eines Vierteljahrhunderts, in: 50er Radios, URL: http://www.50er-radios.de/philetta.htm (accessed 20.6.2023)
+
+Ehrhard, Dietmar, Reparatur einer Philips Philetta B2D23A, in: Radioklinik, URL: https://radioklinik.de/philetta-mit-geschichten/ (accessed 20.6.2023)
+
+Funk-Technik Nr. 19/1949, p. 565, URL: https://worldradiohistory.com/INTERNATIONAL/Funktechnik/Funktechnik-1949-19.pdf#search=%22philips%20philetta%22
+
+Funkschau 1959/ Heft 21, p. 521, URL: https://worldradiohistory.com/INTERNATIONAL/Funkschau/1959/Funkschau-1959-21.pdf#search=%22philips%20philetta%22
+-   	Reviews like Funk-Technik or Funkschau could be highly relevant to the research on specific radio models. Funktechnik for instance appeared twice a month from 1946 to 1986 in Western Germany and discusses radio-, audio-, hifi-and television technology, but is unfortunately not fully available online. Funkschau is a German publication for technically interested radio listeners and electronics hobbyists as well and a large part of its collection is freely available on Internet Archive (https://archive.org/details/hifi-archiv-funkschau )
   
+Philips Philetta BD 273 U, in : Deutsche Digitale Bibliothek URL : https://www.deutsche-digitale-bibliothek.de/item/DFJSY2K2F5S7FAWHET3QA3KFIUCYEJNG (accessed 20.6.2023)
+
+Philips BD273U "Philetta" Bakelite Radio (1957), Phil’s Old Radio, in: Antique Radio, URL: https://antiqueradio.org/phil05.htm (accessed 19.6.2023)
+
+Philips Firmengeschichte, in: Ralf’s Antik-Radio Seiten, URL: https://antik-radio.de/radio/philips.htm (accessed 19.6.2023)
+
+Philips, Philetta B2D23A, in : Pauls Röhren, URL: http://www.pauls-roehren.de/radios/philips%20philetta%20b2d23a/Philetta_B2D23A.php (accessed 20.6.2023)
+
+Philetta B2D23A, in: Radiomuseum, URL: https://www.radiomuseum.org/r/philips_philetta_b2d23a_b_2_d_23.html (accessed 21.6.2023)
+
+Philips Philetta 213, in : Viel Radio, URL: https://www.viehl-radio.de/homeda/philips.html (accessed 21.6.2023)
+
+Radios der Philips Philetta-Serie, in: Wumpus Welt der Radios, URL: https://www.welt-der-alten-radios.de/h--p-philetta-radios-454.html (accessed 18.6.2023)
+
+RKF 454 2021: Tischradio Philips Philetta 283 (1958), in: Freilichtmuseum Roscheider Hof, URL: https://rlp.museum-digital.de/object/74907  (accessed 20.6.2023)
+
+User Manual of the Philips Philetta B2D13A. URL: https://www.radiomuseum-bocket.de/wiki/images/pdf/Philips/PhilipsPhiletta_213_B2D13A_2018.pdf
+
+User Manual of the Philips Philetta 223 (B2D23A) found via: https://elektrotanya.com/cgi-bin/download2.cgi?dk=kjl9wcrq6eaq55wktb9bvm5svicfn8jm1cmm2sj5bqvkohsu&fid=331523&file=philips_philetta_223_b2d23a_sm.pdf
+
+
+**Audio sources**
+
+Sounds of brown Bakelite Philetta B2D23A: https://www.youtube.com/watch?v=nQEuYHIcCfs
+ 
+Sounds of ivory Philetta B2D13A: https://www.youtube.com/watch?v=eItyhwzZUyk
+https://www.youtube.com/watch?v=UZbRa6NMKVE
+
+Oral history: interview with an owner of a Philetta. Mp3 file.
+
 Der Radiobote.
 Der Radiobote is a reference publication published 6 times a year. Over 28 pages this publication lists useful information regarding historic radios and targets collectors. This might be relevant for further information on the Philetta. It is however only available when ordered from the publisher. URL:  https://www.sammeln.at/sammlerliteratur/der-radiobote--5009.html
