@@ -26,6 +26,7 @@ There are other sources available (Ringsendungen, Konzerte für die Wehrmacht et
 
 ## Contemporary Literatur
 
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Weihnachtsringsendung.png"><figcaption> </figcaption></figure>
 
 
 ## Object Biography 
