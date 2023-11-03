@@ -28,7 +28,7 @@ There are several other snippets on youtube (Ringsendungen, Konzerte für die We
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Cover-Wunschkonzert.png"><figcaption> </figcaption></figure>
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_SoldatensenderBelgrad(1941).png"><figcaption> </figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_SoldatensenderBelgrad(1941).jpg"><figcaption> </figcaption></figure>
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_BildSoldatensenderMail.png"><figcaption> </figcaption></figure>
 
