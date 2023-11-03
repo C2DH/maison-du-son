@@ -90,9 +90,9 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 ## Picture of the radio:
 
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBVPicture.png"><figcaption>The old version </figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/Philips156UBVPicture.png"><figcaption>The old version</figcaption></figure>
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBVNew.JPG"><figcaption>The new version </figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/Philips156UBVNew.JPG"><figcaption>The new version</figcaption></figure>
 
 ## Bibliography:
 
