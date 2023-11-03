@@ -103,6 +103,11 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBVNew.JPG"><figcaption>The new version</figcaption></figure>
 
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Technical.png"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Schematics.png"><figcaption> </figcaption></figure>
+All of these pictures were taken by me. The documents are in possession of Albert Wolter
+
 ## Bibliography:
 
 ALEAZ, Bonita, Community Radio and Empowerment, in: Economic and Political Weekly 45/16 (2010), p. 39-32.
@@ -126,6 +131,8 @@ MARßOLEK, Inge, Radio in Deutschland 1923-1969. Zur Sozialgeschichte eines Medi
 METSU, Pierre, Les matériels radio de la Wehrmacht : 1935-1945, Bayeux : Heimdal, 2004. (Musée nationale d’histoire militaire, not borrowable).
 
 PATNODE, Randall, “What These People Need Is Radio”. New Technology, the Press, and Otherness in 1920s America, in: Technology and Culture 44/2 (2003), p. 285-305.
+
+RIEGLER, Thomas, Meilensteine des Rundfunks. Daten und Fakten zur Entwicklung des Radios und Fernsehens, Meckenheim : Siebel, 2009.
 
 ROSS, Corey, Media and the Making of Modern Germany. Mass Communications, Society, and Politics from the Empire to the Reich, Oxford : Oxford University Press, 2008.
 
