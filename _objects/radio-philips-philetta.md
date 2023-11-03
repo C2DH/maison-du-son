@@ -37,6 +37,10 @@ Even when the television arrived, I still had a foothold, because I had so much 
 
 Oh, the fun we used to have together. I used to be so central to their daily life. Especially Hubert was always so amazed by me. When he was little, he used to push and turn on my buttons. You should have seen me in my glory. With my soft glow, I used to enchant the kitchen. My owners adored the atmosphere I created, especially when dawn began to break. Pit and Lotty loved to turn me on when they had one of their romantic dinner nights. My yellowish lights would give the impression of candlelight, perfectly fitting the occasion. With my variety of available programs, they would also always find a sweet tune to play and even slow dance to.
 
+![image](https://github.com/C2DH/maison-du-son/assets/146004906/2e5335ba-4b74-46ec-92eb-10715cbd468a)
+
+Fig. 4. The Philetta's soft glow.
+
 I love to reminisce about those times. Thanks to my durability, we spent almost 20 years together. But all good things come to an end at some point. Even though the Philetta series is the longest-built series of a European manufacturer, my personal technology became outdated. Transistor radio took over in 1967 when the last tube radio was released. Transistor technology allowed the production of smaller and more portable devices, such as the Philetta 22RB292 from 1970, which significantly shrunk in size and therefore also changed in design. Additionally, television gained a hand making me more and more redundant. Eventually, I was retired. Now my resting place is in the attic, where I’m collecting dust and waiting for a restoration.
 
 My legacy lives on, however. Not only do I think I’m iconic, Philips and the consumers think so too. In October 2012, my brand Philips continued the Philetta series with a highly modern alternative inspired by the 255 from 1955, mainly meant to please collectors.[9]
@@ -70,6 +74,7 @@ Fig. 2: Inside of the 213. Source : https://www.radiomuseum-bocket.de/wiki/index
 
 Fig. 3: The first Philetta, produced in 1941, also called “Kommisbrot”. Source: http://www.marts-dampfradio.de/images/Philips/philetta.htm
 
+Fig. 4: The Philetta B2D13A by night showing off its soft glow. Source: https://www.welt-der-alten-radios.de/h--p-philetta-radios-454.html  
 
 **Bibliography**
 --
