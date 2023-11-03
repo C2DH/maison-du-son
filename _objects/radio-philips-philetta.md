@@ -47,3 +47,37 @@ My legacy lives on, however. Not only do I think I’m iconic, Philips and the c
 [8] Michele Hilmes, Radio Voices: American Broadcasting, 1922-1952. (U of Minnesota Press, 1997)
 
 [9] ‘Philetta der 50er Jahre ist zurück: Philips präsentiert das Original Radio’, Philips, URL: https://www.philips.de/a-w/about/news/archive/standard/news/consumerlifestyle/20120828_Philips_praesentiert_das_OriginalRadio.html  [accessed 20 June 2023]
+
+**Bibliography**
+--
+Auslander, Philip, Liveness: Performance in a Mediatized Culture, 2nd ed (London New York: Routledge, 2008)
+
+Die Philetta Rundfunkgerätserie, eine Legende der Funkgeschichte, Arbeitsgruppe Sammlung Technikgeschichte im NDR, NDR. URL: https://www.ndr.de/der_ndr/unternehmen/chronik/technik237.pdf
+
+Erb, Ernst, “Philips” in Radiokatalog Band 1 (Deutschland: BoD, 2022), URL: https://www.google.de/books/edition/Radiokatalog_Band_1/0C1jEAAAQBAJ?hl=de&gbpv=1&dq=philips+philetta&pg=PA235&printsec=frontcover&bshm=ncc/1 [accessed 18 June 2023]
+
+Es, Karin van, and Judith Keilbach, ‘Keeping Up the Live: Recorded Television as Live Experience’, 7.13 (2018), 60-68.
+
+Es, Karin van, The Future of Live (Cambridge, UK: Polity Press, 2017).
+
+ETZ: Elektrotechnische Zeitschrift: Ausg. A.. (Deutschland: VDE-Verlag, 1949), URL: https://www.google.de/books/edition/ETZ_Elektrotechnische_Zeitschrift/A1I7AAAAMAAJ?hl=de&gbpv=0&bshm=ncc/1&kptab=editions [accessed 17 June 2023]
+
+Hilmes, Michele. Radio Voices: American Broadcasting, 1922-1952. (U of Minnesota Press, 1997).
+
+Lee, David, Hundert Jahre Radio: Ein techniklastiger Rückblick ‘Hundert Jahre Radio: Ein techniklastiger Rückblick’, Galaxus, 2018 <https://www.galaxus.de/de/page/hundert-jahre-radio-ein-techniklastiger-rueckblick-8895> [accessed 20 June 2023]
+
+Loubere, Philip, A History of Communication Technology (New York: Routledge, 2021) https://doi.org/10.4324/9780429265723 
+
+Philetta der 50er Jahre ist zurück: Philips präsentiert das Original Radio’, Philips, URL: https://www.philips.de/a-w/about/news/archive/standard/news/consumerlifestyle/20120828_Philips_praesentiert_das_OriginalRadio.html [accessed 20 June 2023]
+
+Scannell, Paddy, Television and the Meaning of “Live”: An Enquiry into the Human Situation. (N.p.: Polity, 2014).
+
+Scannell, Paddy, ‘The Brains Trust: A Historical Study of the Management of Liveness on Radio’, in Media Organisation and Production (London: SAGE Publications Ltd, 2003), pp. 99–112 <https://doi.org/10.4135/9781446221587>
+
+ 
+A number of books could be relevant but were unfortunately not available. These include:
+Oeyenhausen, Wilhelm von, 30 Jahre „Philips-Philetta“- Rundfunkgeräteserie 1940-1970 (Idstein: Walz, 2001).
+-   	This book dedicates 90 pages to the Philetta and would therefore be highly recommendable. The book is available in some German libraries.
+  
+Der Radiobote.
+Der Radiobote is a reference publication published 6 times a year. Over 28 pages this publication lists useful information regarding historic radios and targets collectors. This might be relevant for further information on the Philetta. It is however only available when ordered from the publisher. URL:  https://www.sammeln.at/sammlerliteratur/der-radiobote--5009.html
