@@ -7,8 +7,8 @@ authors:
 date: 2023-10-09
 
 object_date: 1964/1967
-object_start_date: 1964
-object_end_date: 1967
+object_start_date: 01/01/1964
+object_end_date: 31/12/1967
 object_wikidate_id:
 ---
 Object Biography: 
