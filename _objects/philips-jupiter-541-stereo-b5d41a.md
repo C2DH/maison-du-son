@@ -98,10 +98,11 @@ Photographs from Albert Wolter's collection: The Philips Jupiter 514 Stereo B5D4
 
 <img width="695" alt="Screenshot 2023-10-30 at 14 00 31" src="https://github.com/C2DH/maison-du-son/assets/106602384/b41812f9-64d3-4b10-a58c-50da3df6ce60">
 
-Photograph of Röhrenradio Philips "Jupiter 541 Stereo" - Freilichtmuseum Roscheider Hof, Germany - CC0. *europeana*, URL: 
-www.europeana.eu/item/192/item_S7ZRH25LXBY6MBQENZAXJACZFWVPJI64. (Accessed June 21st, 2023)
+Photograph of Röhrenradio Philips "Jupiter 541 Stereo" - Freilichtmuseum Roscheider Hof, Germany - CC0. 
 
 <img width="842" alt="Screenshot 2023-10-30 at 14 03 04" src="https://github.com/C2DH/maison-du-son/assets/106602384/51871f33-66a4-48da-86b6-ed2588aa90a9">
+
+URL: www.europeana.eu/item/192/item_S7ZRH25LXBY6MBQENZAXJACZFWVPJI64. (Accessed June 21st, 2023)
 
 Documents on technical data of the Philips Jupiter 514 Stereo B5D41A from Albert Wolter's collection:
 
