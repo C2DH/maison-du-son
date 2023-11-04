@@ -91,11 +91,13 @@ After spending the day together, Colossus and Jupiter say their goodbyes as it i
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esOoke07Bjg?si=pLd7lsBnu73ZC8Qu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Visual Material**:
+
 Photographs from Albert Wolter's collection:
 
 <img width="399" alt="Bildschirmfoto 2023-04-24 um 15 50 07 Kopie" src="https://github.com/C2DH/maison-du-son/assets/106602384/3ce39197-61fa-45a0-86bb-45869a13aa0d">
 
 <img width="695" alt="Screenshot 2023-10-30 at 14 00 31" src="https://github.com/C2DH/maison-du-son/assets/106602384/b41812f9-64d3-4b10-a58c-50da3df6ce60">
+
 
 Documents on technical data of the Philips Jupiter 514 Stereo B5D41A from Albert Wolter's collection:
 
@@ -118,6 +120,7 @@ Documents on technical data of the Philips Jupiter 514 Stereo B5D41A from Albert
 <img width="1148" alt="Philips Jupiter B5D41A Albert Wolter - 9" src="https://github.com/C2DH/maison-du-son/assets/106602384/71ec25cc-0d62-418b-9e6b-6eb14f6d7e1e">
 
 <img width="1145" alt="Philips Jupiter B5D41A Albert Wolter - 10" src="https://github.com/C2DH/maison-du-son/assets/106602384/4d18b29d-e75f-4c82-b87b-6e528ab2b0bd">
+
 
 Pdf. documents on the Philips Rundfunk Stereophonie from Albert Wolter's collection:
 
