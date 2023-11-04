@@ -127,6 +127,13 @@ Pdf. documents on the Philips Rundfunk Stereophonie from Albert Wolter's collect
 
 [philips04.pdf](https://github.com/C2DH/maison-du-son/files/13257696/philips04.pdf)
 
+**N.B.**
+
+In order to ensure more source material, I sent a request to the Philips Company Archives. I am still waiting to hear back from them.
+
+<img width="916" alt="Screenshot 2023-11-04 at 22 02 24" src="https://github.com/C2DH/maison-du-son/assets/106602384/17a6f917-0cb0-41c9-b528-2a1d417c13eb">
+
+
 **Sources**
 
 Jupiter 541 Stereo B5D41A. Radiomuseum, URL: www.radiomuseum.org/r/philips_jupiter_stereo_b5d41a_b_5.html. (Accessed June 21st, 2023)
@@ -146,7 +153,7 @@ www.europeana.eu/item/192/item_S7ZRH25LXBY6MBQENZAXJACZFWVPJI64. (Accessed June 
 
 Wolter, Albert. “Philips Jupiter 541 Stereo”. Private Archives.
  
-Bibliography 
+**Bibliography**
 
 Birdsall, Carolyn. “Mobilizing Sound for a Nation at War”. The Nazi Soundscape. Sound, Technology, and Urban Space in Germany 1933-1945. Amsterdam University Press, 2012, pp. 103 – 139.
 
