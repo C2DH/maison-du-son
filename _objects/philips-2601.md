@@ -100,6 +100,9 @@ This document comes from the Philips company archives. For the moment, only the 
 [811.211 Philips receiving set Model 2601 - Instructions for use (1930).pdf](https://github.com/C2DH/maison-du-son/files/13256689/811.211.Philips.receiving.set.Model.2601.-.Instructions.for.use.1930.pdf)
 This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
+![ad 18 01 1936 lux wort](https://github.com/C2DH/maison-du-son/assets/146642433/38eed959-a5aa-4881-b76e-888b724306d5)
+Advertisement from the Luxemburger Wort, 18 January 1936, p. 8: https://viewer.eluxemburgensia.lu/ark:70795/n0qts5/pages/8/articles/DTL567?search=Philips%202511 
+
 
 ---
 Literature:
