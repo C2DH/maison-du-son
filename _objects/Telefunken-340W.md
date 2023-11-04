@@ -71,3 +71,32 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 [34] Um einen Eindruck der Trennschärfe und Empfangsgüte des Telefunken 340 W zu bekommen, siehe: Telefunken 340W ‘Katzenkopf, Baujahr 1931 im Betrieb, in: YouTube, URL: https://www.youtube.com/watch?v=L_mMAF52Ws4&t=88s (Stand: 22.06.2023). Weitere Verweise auf Tonaufnahmen von YouTube befinden sich im Bild- und Tonmaterial auf S. 13. <br>
 [35] Radio Programm für Sonntag, in: Luxemburger Wort (10.10.1931), S. 8. <br>
 [36] Mitteilung des Telefunken-Service (Anm. 1), S. 3. <br>
+***
+
+***Sources***
+
+• Das Schaufenster. Einzel-berichte über käufliche Radiogeräte und Lautsprecher, in: Funkschau 45 (08.11.1931), S. 356-360. <br>
+• Der Architekt hat das Wort, in: Funkschau 45 (08.11.1931), S. 354-356.<br>
+• Die Telefunken-Mehrkreis-Empfänger, Dr. Nr. 709, A. 831. M. AP. M. <br>
+• Kurze Gebrauchs- und Bedienungsanleitung. Telefunken 340 W mit Auto-Skala, Dr. Nr. 657, S. 1-8. <br>
+• Mitteilung des Telefunken-Service. Das neue Telefunken-Programm 1931-1932, Luxemburg, S. 1-4. <br>
+• Radioteile werden gepreßt. Pressmaterial, ein wichtiger Baustein der Radioindustrie, in: Funkschau 42 (18.10.1931), S. 331. <br>
+• Telefunken Mehrkreis-Empfänger mit Auto-Skala, Dr Nr. 609/C, 10. 31. E. JPPM, in: Technikmuseum Findbuch, URL: https://www.technikmuseum.findbuch.net/php/main.php#492e322e30363020502d54666bx1868 <br>
+• Telefunken 340 W (Katzenkopf), in: Wumpus Welt der Radios, URL: https://www.welt-der-alten-radios.de/ausstellung-roehrenradios-1-232.html (Stand: 21.06.2023). <br>
+• Telefunken: 340W mit Auto-Skala. Gebrauchs- und Bedienungsanleitung, Dr. Nr. 657/A.731.11.J.B.M, in: Technikmuseum Findbuch, URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e746572696dx14094 (Stand: 01.11.2023). <br>
+• Volkstümliche Netzempfänge auf der Berliner Funkaustellung, in: Funkschau 37 (13.09.1931), S. 290-293. <br>
+• Radio Programm für Sonntag, in: Luxemburger Wort (10.10.1931), S. 8. <br>
+• Telefunken Werbung, in: Escher Tageblatt. Le Journal d’Esch (10.10.1931), S. 8. <br>
+• Telefunken Werbung, in: Freiburger Nachrichten (22.10.1931), S. 6. <br>
+• Telefunken Werbung, in: Freiburger Nachrichten (29.10.1931), S. 6. <br>
+• Telefunken Werbung, in: Freiburger Nachrichten (06.11.1931), S. 6. <br>
+• Telefunken Werbung, in: Freiburger Nachrichten (17.11.1931), S. 6. <br>
+• Telefunken Werbung, in: Journal de Genève (4.12.1931), S. 8. <br>
+• Telefunken Werbung, in: L’Express (13.11.1931), S. 2. <br>
+• Telefunken Werbung, in: L’Express (06.11.1931), S. 5. <br>
+• Telefunken Werbung, in: L’Express (08.11.193), S. 3. <br>
+• Telefunken Werbung, in: Luxemburger Wort (10.10.1931), S. 12. <br>
+• Telefunken Werbung, in: Luxemburger Wort (26.11.1931), S. 8. <br>
+• Telefunken Werbung: in: Neue Zürcher Zeitung (28.11.1931), S. 3. <br>
+
+***Literature***
