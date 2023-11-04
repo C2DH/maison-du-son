@@ -97,7 +97,35 @@ Photographs from Albert Wolter's collection:
 
 <img width="695" alt="Screenshot 2023-10-30 at 14 00 31" src="https://github.com/C2DH/maison-du-son/assets/106602384/b41812f9-64d3-4b10-a58c-50da3df6ce60">
 
+Documents on technical data of the Philips Jupiter 514 Stereo B5D41A from Albert Wolter's collection:
 
+<img width="653" alt="Philips Jupiter B5D41A Albert Wolter - 1" src="https://github.com/C2DH/maison-du-son/assets/106602384/095a2941-a3ad-4364-85ab-85aa7b9ee16b">
+
+<img width="656" alt="Philips Jupiter B5D41A Albert Wolter - 2" src="https://github.com/C2DH/maison-du-son/assets/106602384/34f5d0de-b703-479c-a7a8-a1ab2d9d4ef7">
+
+<img width="652" alt="Philips Jupiter B5D41A Albert Wolter - 3" src="https://github.com/C2DH/maison-du-son/assets/106602384/f4dfedf9-4479-432c-841f-16d4148e9830">
+
+<img width="651" alt="Philips Jupiter B5D41A Albert Wolter - 4" src="https://github.com/C2DH/maison-du-son/assets/106602384/2aa88f94-e5e4-46a3-905d-27a2c6572a4b">
+
+<img width="655" alt="Philips Jupiter B5D41A Albert Wolter - 5" src="https://github.com/C2DH/maison-du-son/assets/106602384/d5db03a9-2f79-43a7-a31a-63c9c17fc87d">
+
+<img width="649" alt="Philips Jupiter B5D41A Albert Wolter - 6" src="https://github.com/C2DH/maison-du-son/assets/106602384/81fc6a64-ea3c-4b72-bd98-15147b944b1e">
+
+<img width="648" alt="Philips Jupiter B5D41A Albert Wolter - 7" src="https://github.com/C2DH/maison-du-son/assets/106602384/e07cb03c-c185-4cb3-9b0f-6f061ac76e8a">
+
+<img width="648" alt="Philips Jupiter B5D41A Albert Wolter - 8" src="https://github.com/C2DH/maison-du-son/assets/106602384/cf199f53-1cea-4cca-8b3a-82ba18d9f1f7">
+
+<img width="1148" alt="Philips Jupiter B5D41A Albert Wolter - 9" src="https://github.com/C2DH/maison-du-son/assets/106602384/71ec25cc-0d62-418b-9e6b-6eb14f6d7e1e">
+
+<img width="1145" alt="Philips Jupiter B5D41A Albert Wolter - 10" src="https://github.com/C2DH/maison-du-son/assets/106602384/4d18b29d-e75f-4c82-b87b-6e528ab2b0bd">
+
+Pdf. documents on the Philips Rundfunk Stereophonie from Albert Wolter's collection:
+
+[philips02.pdf](https://github.com/C2DH/maison-du-son/files/13257694/philips02.pdf)
+
+[philips03.pdf](https://github.com/C2DH/maison-du-son/files/13257695/philips03.pdf)
+
+[philips04.pdf](https://github.com/C2DH/maison-du-son/files/13257696/philips04.pdf)
 
 **Sources**
 
