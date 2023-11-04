@@ -6,10 +6,10 @@ authors:
 ---
 
 
+Object Biography: the “Edison Standard Phonograph”
+
 <figure><img src="/assets/images/Edison standard image.png"><figcaption> </figcaption></figure>
 
-
-Object Biography: the “Edison Standard Phonograph”
 
 Introduction 
 “The Miracle of the 19th Century”, “The Talking Wonder”, that can enunciate and pronounce speech “in every known language”, this is how the predecessor of the object was introduced in an advertisement to the public in 1878.
