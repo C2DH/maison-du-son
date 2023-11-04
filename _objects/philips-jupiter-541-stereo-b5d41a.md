@@ -90,9 +90,10 @@ After spending the day together, Colossus and Jupiter say their goodbyes as it i
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esOoke07Bjg?si=pLd7lsBnu73ZC8Qu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 **Visual Material**:
 
-Photographs from Albert Wolter's collection:
+Photographs from Albert Wolter's collection: The Philips Jupiter 514 Stereo B5D41A
 
 <img width="399" alt="Bildschirmfoto 2023-04-24 um 15 50 07 Kopie" src="https://github.com/C2DH/maison-du-son/assets/106602384/3ce39197-61fa-45a0-86bb-45869a13aa0d">
 
