@@ -8,6 +8,8 @@ authors:
 
 Object Biography: the “Edison Standard Phonograph”
 
+
+
 <figure><img src="/assets/images/Edison standard image.png"><figcaption> </figcaption></figure>
 
 
