@@ -11,7 +11,7 @@ object_start_date: 01/01/1964
 object_end_date: 31/12/1967
 object_wikidate_id:
 ---
-Background:
+**Background**:
 
 The Philips Jupiter 541 Stereo B5D41A radio has a built-in stereo decoder and amplifier, which are covered by a wooden case. It is, in fact, a tube radio with nine tubes and four transistors, which can thus operate on several wave bands: broadcast, long-wave, short-wave, FM (frequency modulation or UHF (ultra-high frequency).
 
@@ -79,7 +79,18 @@ Jupiter starts playing a song recording, leaving Colossus speechless of the powe
 
 After spending the day together, Colossus and Jupiter say their goodbyes as it is time for Jupiter to continue his journey to a new destination. It will remain an unforgettable experience for both of them and after learning so much about sound, Colossus’ perception of hearing is changed forever. During the time travel back home, Jupiter breaks and gets lost. Fifty-five years later, however, a radio collector finds him at an auction and acquires him in order to restore the radio. After some modification, Jupiter can even be connected to an iPad, playing all kinds of music and videos. What a full circle moment. 
 
-Sources
+---
+**Audio/Video** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/20CZWLfMq8o?si=pzVva7aGI9ULrOtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pdYbG_juSic?si=e6RpDSOpiQsi2CHS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HTH2bf5ScsM?si=d7l0G-SrIPsE1oNl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/esOoke07Bjg?si=pLd7lsBnu73ZC8Qu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**Sources**
 
 Jupiter 541 Stereo B5D41A. Radiomuseum, URL: www.radiomuseum.org/r/philips_jupiter_stereo_b5d41a_b_5.html. (Accessed June 21st, 2023)
 
@@ -123,20 +134,3 @@ Sterne, Jonathan. “2. Techniques of Listening”. The Audible Past. Cultural O
 The Poetry of Radio. The Colour of Sound, by Sean Street. Routledge, URL: www.routledge.com/The-Poetry-of-Radio-The-Colour-of-Sound/Street/p/book/9780415715430. (Accessed December 12th, 2022)
 
 “The Science Behind the Incredible Acoustics of Ancient Amphitheaters”. Auralex acoustics, 10 May 2023, URL: auralex.com/blog/the-science-behind-the-incredible-acoustics-of-ancient-amphitheaters/.  (Accessed June 21, 2023)
-
-
-cover:
- src: 
- alt:
- caption:
- license:
- url: 
----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/20CZWLfMq8o?si=pzVva7aGI9ULrOtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pdYbG_juSic?si=e6RpDSOpiQsi2CHS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HTH2bf5ScsM?si=d7l0G-SrIPsE1oNl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/esOoke07Bjg?si=pLd7lsBnu73ZC8Qu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
