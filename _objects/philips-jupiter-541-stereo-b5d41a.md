@@ -90,8 +90,7 @@ After spending the day together, Colossus and Jupiter say their goodbyes as it i
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esOoke07Bjg?si=pLd7lsBnu73ZC8Qu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
+---
 **Visual Material**:
 
 Photographs from Albert Wolter's collection: The Philips Jupiter 514 Stereo B5D41A
@@ -138,7 +137,7 @@ In order to ensure more source material, I sent a request to the Philips Company
 
 <img width="916" alt="Screenshot 2023-11-04 at 22 02 24" src="https://github.com/C2DH/maison-du-son/assets/106602384/17a6f917-0cb0-41c9-b528-2a1d417c13eb">
 
-
+---
 **Sources**
 
 Jupiter 541 Stereo B5D41A. Radiomuseum, URL: www.radiomuseum.org/r/philips_jupiter_stereo_b5d41a_b_5.html. (Accessed June 21st, 2023)
@@ -157,7 +156,8 @@ www.europeana.eu/item/192/item_S7ZRH25LXBY6MBQENZAXJACZFWVPJI64. (Accessed June 
 “Röhrenradio Philips "Jupiter 541 Stereo"”. museum-digital:rheinland-pfalz, URL: rlp.museum-digital.de/object/34475. (Accessed June 21st, 2023)  
 
 Wolter, Albert. “Philips Jupiter 541 Stereo”. Private Archives.
- 
+
+---
 **Bibliography**
 
 Birdsall, Carolyn. “Mobilizing Sound for a Nation at War”. The Nazi Soundscape. Sound, Technology, and Urban Space in Germany 1933-1945. Amsterdam University Press, 2012, pp. 103 – 139.
