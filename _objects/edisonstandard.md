@@ -74,3 +74,80 @@ However, while of course imagined by Thomas Edison at the beginning around the i
 The End
 
 In 1908 Edison changed the wax cylinder format by doubling the groove density. The usual playing time by cylinders was extended to four minutes and were advertised under the name "Amberol“. From 1912, Edison discontinued the production of two-minute cylinders and manufactured four-minute cylinders made of celluloid under the name "Blue Amberol Records". But in the meantime, the discs had steadily grown in popularity and dominated the recording market.  In the fall of 1929, Edison had to abandon all phonogram production as a result of the world economic crisis, thus ending the era of the phonograph as an entertainment device. However, dictation phonographs remained on the market in the U.S. for office use until the 1950s.
+
+
+
+
+
+
+
+Source material
+
+
+A band records a wax cylinder.
+The Red Hook Ramblers recording a wax cylinder at The Edison National Historic site. - YouTube
+
+A brief guide to Edison Standard Phonographs
+https://www.tnt-audio.com/vintage/edison_cylinders2_e.html
+
+History of the cylinder phonograph
+History of Edison Sound Recordings  |  Articles and Essays  |  Inventing Entertainment: The Early Motion Pictures and Sound Recordings of the Edison Companies  |  Digital Collections  |  Library of Congress (loc.gov)
+
+Demonstration video of recording on a historic 1903 Edison Standard Phonograph
+https://www.youtube.com/watch?v=wRTgl0qx6wE&pp=ygUhdGhvbWFzIGVkaXNvbiBzdGFuZGFyZCBwaG9ub2dyYXBo
+
+Edison’s first recording with his new invention.
+https://upload.wikimedia.org/wikipedia/commons/6/63/Thomas_Edison_Mary_had_lamb.ogg
+
+Edison T. A. (1903) Edison Phonographs. The Phonograph. An introduction. National Phonograph Company, Orange N.J.
+https://static1.squarespace.com/static/50073340e4b077c0b1bd2e53/t/559ac694e4b04ab9f76a05af/1436206740490/Edison_Phonographs_1903_Catalog.pdf
+
+
+Exhibit of Edison Phonograph. (1888). Scientific American, 58(21), 328–328. http://www.jstor.org/stable/26095550
+
+
+Kauper, Martin. Spotter’s Guide to the Edison Standard Phonograph
+https://apsblobdeve.blob.core.windows.net/article-pdf/Article_Intro_Edison-Standard.pdf
+
+THE PHONOGRAPH. 1877 thru 1896. In “Scientific American” July 25, 1896.
+https://web.archive.org/web/20091202084044/http://www.machine-history.com/The%20Phonograph.%201877%20thru%201896
+
+The stenographer's friend, or, What was accomplished by an Edison business phonograph | Library of Congress (loc.gov) Thomas A. Edison, Inc - Edison Collection (Library of Congress), Date 1910-01-01
+
+Tewksbury, G. E. (1897). A complete Manuel of the Edison Phonograph. G. L. Frow, 92p.
+
+Video where the functioning of the Edison phonograph is explained.
+https://www.youtube.com/watch?v=4koqcfAzSCQ
+
+
+
+
+
+Bibliography
+
+
+Butler, R.P. (2012). Thomas Edison Speculates on the Uses of the Phonograph. TECHTRENDS TECH TRENDS56, 8. https://doi.org/10.1007/s11528-012-0579-z
+
+
+Camlot, J. (2003). Early Talking Books: Spoken Recordings and Recitation Anthologies, 1880-1920. Book History, 6, 147–173. http://www.jstor.org/stable/30227346
+
+
+Darrell, R. D. (1933). Mr. Edison’s Phonograph: A Post-Mortem. The Sewanee Review, 41(1), 91–103. http://www.jstor.org/stable/27534846
+
+DeGraaf, L. (1995). Confronting the Mass Market: Thomas Edison and the Entertainment Phonograph. Business and Economic History, 24(1), 88–96. http://www.jstor.org/stable/23703274
+
+
+DEVINE, K. (2013). Imperfect sound forever: loudness wars, listening formations and the history of sound reproduction. Popular Music, 32(2), 159–176. http://www.jstor.org/stable/24736755
+
+Edison, T. A. (1878). The Phonograph and Its Future. The North American Review, 126(262), 527–536. http://www.jstor.org/stable/25110210
+
+
+Read, O. (1949). The recording ad reproduction of sound. H.W. Sams. 364p.
+
+Rehding, A. (2005). Wax Cylinder Revolutions. The Musical Quarterly, 88(1), 123–160. http://www.jstor.org/stable/3601015
+
+
+Thompson, E.  Machines, Music, and the Quest for Fidelity: Marketing the Edison Phonograph in America, 1877-1925.  The Musical Quarterly, Vol. 79, No. 1 (Spring, 1995), pp. 131-171. Oxford University Press. 134p.
+
+Webster, P. (2002). Historical Perspectives on Technology and Music. Music Educators Journal, 89(1), 38–54. https://doi.org/10.2307/3399883
+
