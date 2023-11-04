@@ -4,7 +4,7 @@ abstract: The radio, first produced in 1931 by Telefunken, was often referred to
 authors: cathy-collard
 ---
 
-***Der Telefunken 340 W - Eine Objektbiografie[1]***
+**Der Telefunken 340 W - Eine Objektbiografie[1]**
 
 Die Idee der Telefunken 340er Reihe kam auf, als man sich, hier im Hauptquartier von Telefunken, bewusstwurde, dass es an der Zeit war, ein neues Typisierungssystem der Radioapparate einzuführen. Wenngleich vor ein paar Jahren die Röhrenanzahl, also die Verstärkung, ausschlaggebend für die Beurteilung von guten Radios war[2], so dachten sich unsere Elektroingenieure und Physiker, dass die Abstimmschärfe mindestens genauso wichtig sei. Indem man die Zahl der Abstimmkreise und Röhren anpasst, kann man garantieren, dass die neue Station Radio-Luxemburg[3] überall empfangen werden kann, da alle Sendestationen ohne Problem getrennt werden und selbst die störenden Ortssender ausgeschaltet werden können. Durch die perfekte Anzahl an drei Kreisen und vier Röhren[4] entsteht so Telefunkens 340er Serie. Eine Sensation, wenn man uns fragt! Aber das ist noch lange nicht alles: Um die Trennschärfe zu verbessern, wurden ein bis zwei Schirmgitterröhren[5] eingesetzt, da diese eine hohe Anzahl an Stationen empfangen lässt - weit mehr als der alltägliche Radionutzer eigentlich braucht. 
  
@@ -73,7 +73,7 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 [36] Mitteilung des Telefunken-Service (Anm. 1), S. 3. <br>
 
 
-***Sources***
+**Sources**
 
 • Das Schaufenster. Einzel-berichte über käufliche Radiogeräte und Lautsprecher, in: Funkschau 45 (08.11.1931), S. 356-360. <br>
 • Der Architekt hat das Wort, in: Funkschau 45 (08.11.1931), S. 354-356.<br>
@@ -99,7 +99,7 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 • Telefunken Werbung, in: Luxemburger Wort (26.11.1931), S. 8. <br>
 • Telefunken Werbung: in: Neue Zürcher Zeitung (28.11.1931), S. 3. <br>
 
-***Literature***
+**Literature**
 
 CZITROM, Daniel J., Media and the American Mind: from Morse to McLuhan, Chapel Hill 1982. <br>
 BAILEY, Michael, Narrating Media History. New York 2009. <br>
