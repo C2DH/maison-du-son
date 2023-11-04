@@ -82,6 +82,12 @@ Sources:
 ![900409-11-30, Radio 2511 and Meesterzanger (Master Singer) loudspeaker, 1929](https://github.com/C2DH/maison-du-son/assets/146642433/54fe008f-c92b-4b73-a03a-ace283c4f8f5)
 This picture comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
+![B3102, Packaging of radio 2601, 1931](https://github.com/C2DH/maison-du-son/assets/146642433/bca311e7-5322-41e7-b805-4620e4b5aaab)
+This picture comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
+
+[811.211 Brochure Philips 2511 (1931).pdf](https://github.com/C2DH/maison-du-son/files/13256679/811.211.Brochure.Philips.2511.1931.pdf)
+This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
+
 
 ---
 Literature:
