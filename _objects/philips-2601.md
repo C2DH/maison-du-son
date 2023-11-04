@@ -80,7 +80,7 @@ Wow that was great. Now that we’ve talked a lot about our appearances, we can 
 Sources (first submission):
 ---
 
-> ![900409-11-30, Radio 2511 and Meesterzanger (Master Singer) loudspeaker, 1929](https://github.com/C2DH/maison-du-son/assets/146642433/54fe008f-c92b-4b73-a03a-ace283c4f8f5)
+![900409-11-30, Radio 2511 and Meesterzanger (Master Singer) loudspeaker, 1929](https://github.com/C2DH/maison-du-son/assets/146642433/54fe008f-c92b-4b73-a03a-ace283c4f8f5)
 This picture comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
 
@@ -141,6 +141,21 @@ Advertisement from the Het Nieuws, 4 January 1929, p. 183, https://www.archieven
 ![1929](https://github.com/C2DH/maison-du-son/assets/146642433/e03af026-599a-41a4-b6f5-d05ea84cc123)
 Advertisement from the Het Nieuws, 4 January 1929, p. 1014, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2511&mistart=4 
 
+
+![ad 2511](https://github.com/C2DH/maison-du-son/assets/146642433/a3568d25-dc00-4375-8d98-77a9400f796b)
+Advertisement from the end of the 1920s (difficult because of the watermark) http://bachybouzouk.free.fr/souvenirs/radio/philips_13.html 
+
+
+[Philips - Ontvangtoestel type 2511 gebruiksaanwijzing.pdf](https://github.com/C2DH/maison-du-son/files/13256810/Philips.-.Ontvangtoestel.type.2511.gebruiksaanwijzing.pdf)
+Instruction manual of the Philips 2511, received from Dr. Rüdiger Walz, curator of the Gesellschaft der Freunde der Geschichte des Funkwesens (GFGF) 
+
+
+[nl_philips_2601_man_01-merged.pdf](https://github.com/C2DH/maison-du-son/files/13256826/nl_philips_2601_man_01-merged.pdf)
+Instruction manual of the Philips 2601, received from Dr. Rüdiger Walz, curator of the Gesellschaft der Freunde der Geschichte des Funkwesens (GFGF) 
+
+
+[SKM_C224e23060512170.pdf](https://github.com/C2DH/maison-du-son/files/13256816/SKM_C224e23060512170.pdf)
+Excerpt of the general Philips catalogue from 1931, received from Albert Wolter
 
 ---
 Literature:
