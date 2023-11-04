@@ -31,7 +31,9 @@ Maintenant que j’évoque mes compétences, je vais vous expliquer ce dont je s
 
 Pour m’allumer, il faut appuyer le sixième bouton blanc de mon clavier. Hem hem (raclement de gorge) permettez-moi de vous faire une démonstration de ma belle voix en action : [GRUNDIG 3045W-3D / Röhrenradio (lien YouTube)](https://www.youtube.com/watch?v=n6Ue8a3Zy-U). Avec le bouton rond de droite, vous pouvez changer de chaîne. Si la chaine est de « bonne qualité » la lumière en haut à droite s’illumine complètement en vert. Le bouton rond à gauche vous permet d’augmenter ou de diminuer le volume général. Avec les petits disques en bas, vous pouvez modifier individuellement le volume des haut-parleurs des côtés. Pour m’éteindre, ce qui me déplait, vous n’avez qu’à appuyer sur la première touche du clavier.[^20]
 
-Je peux être installé dans n’importe quelle pièce de la maison. De préférence, j’adore être posé sur un meuble qui aille avec ma couleur. En effet, idéalement un meuble de bois de bonne qualité et de couleur brun foncé et avec des petites décorations qui vont avec. ![image](https://github.com/C2DH/maison-du-son/assets/145685621/df46c087-9194-4838-8db1-4fbc2ce105d9)[^21]
+Je peux être installé dans n’importe quelle pièce de la maison. De préférence, j’adore être posé sur un meuble qui aille avec ma couleur. En effet, idéalement un meuble de bois de bonne qualité et de couleur brun foncé et avec des petites décorations qui vont avec. 
+
+![image](https://github.com/C2DH/maison-du-son/assets/145685621/df46c087-9194-4838-8db1-4fbc2ce105d9)[^21]
 
 De temps en temps, on me faisait déménager. Ups, j’ai oublié de mentionner que je fus l’actrice principale d’un jeune couple avec deux enfants. Ils me plaçaient toujours de manière à pouvoir toucher les boutons et clavier et de manière que ma voix soit bien dispersée dans la pièce. Bien sûr, ils voulaient pouvoir bien m’entendre. Je préférais quand c’était Madame qui me déplaçait. Le Monsieur me tenait n’importe comment et ne faisait pas attention s’il me faisait mal, huff. Or, pourquoi fallait-il bien m’entendre ? Parce que je suis capable de tout faire : chanter, rapporter l’actualité, tenir des messes, etc.
 
