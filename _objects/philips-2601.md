@@ -108,6 +108,24 @@ Italian advertisment from 1930 for the Philips 2601, in: Hagley ID, Box/folder n
 The website contains an email-address to ask about the copyright. 
 https://digital.hagley.org/AVDJOPN2014_philips-italia-bw 
 
+![dutch ad](https://github.com/C2DH/maison-du-son/assets/146642433/33ece32b-b52c-4033-afe3-1a4e5647797e)
+Advertisement from Overveluwsch Weekblad/Harderwijker Courant, 11 October 1930, p. 3, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601
+
+![other dutch ad](https://github.com/C2DH/maison-du-son/assets/146642433/d007b6b2-62e7-4809-b28f-d125c1324138)
+Advertisement from the Schilder’s nieuws-en advertentieblad, 18 October 1930, p. 4, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4 
+
+![24 november 1930](https://github.com/C2DH/maison-du-son/assets/146642433/125c6569-4666-4935-b2a1-6b5a6d9e069f)
+Advertisement from the Utrechtsch Nieuwsblad, 24 November 1930, p. 12, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4 
+
+![19 december 1930](https://github.com/C2DH/maison-du-son/assets/146642433/d4fecd02-ce54-414b-9d7a-69f65a5ada1f)
+Advertisement from the Utrechtsch Nieuwsblad, 19 December 1930, p. 15, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4
+
+![2511 1929](https://github.com/C2DH/maison-du-son/assets/146642433/76808493-70d2-433f-9ce2-ad1a62cde91c)
+Advertisement from the Het Nieuws, 4 January 1929, p. 183, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2511
+
+![1929](https://github.com/C2DH/maison-du-son/assets/146642433/e03af026-599a-41a4-b6f5-d05ea84cc123)
+Advertisement from the Het Nieuws, 4 January 1929, p. 1014, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2511&mistart=4 
+
 
 ---
 Literature:
