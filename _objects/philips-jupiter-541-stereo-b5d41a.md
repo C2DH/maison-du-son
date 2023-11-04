@@ -15,7 +15,7 @@ object_wikidate_id:
 
 The Philips Jupiter 541 Stereo B5D41A radio has a built-in stereo decoder and amplifier, which are covered by a wooden case. It is, in fact, a tube radio with nine tubes and four transistors, which can thus operate on several wave bands: broadcast, long-wave, short-wave, FM (frequency modulation or UHF (ultra-high frequency).
 
-Object Biography: 
+**Object Biography**: 
 
 Jupiter, a Philips Jupiter 541 Stereo B5D41A radio, finds himself on a journey across time and space after getting his hands on a time machine. When the machine travels back around 2000 years, landing in Rome, Jupiter visits the Colosseum and grasps that the infrastructure is alive as well. It turns out that Colossus, the name of the stone infrastructure, is quite intrigued by his new little friend, so Jupiter decides it’s best to play a game to try to explain who and what he is. Consequently, realising they actually share their love for creating sound, Colossus and Jupiter go on a ride exploring different concepts of hearing and sound.  
 
@@ -81,6 +81,7 @@ After spending the day together, Colossus and Jupiter say their goodbyes as it i
 
 ---
 **Audio/Video** 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/20CZWLfMq8o?si=pzVva7aGI9ULrOtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdYbG_juSic?si=e6RpDSOpiQsi2CHS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -88,6 +89,14 @@ After spending the day together, Colossus and Jupiter say their goodbyes as it i
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HTH2bf5ScsM?si=d7l0G-SrIPsE1oNl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esOoke07Bjg?si=pLd7lsBnu73ZC8Qu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Visual Material**:
+Photographs from Albert Wolter's collection:
+
+<img width="399" alt="Bildschirmfoto 2023-04-24 um 15 50 07 Kopie" src="https://github.com/C2DH/maison-du-son/assets/106602384/3ce39197-61fa-45a0-86bb-45869a13aa0d">
+
+<img width="695" alt="Screenshot 2023-10-30 at 14 00 31" src="https://github.com/C2DH/maison-du-son/assets/106602384/b41812f9-64d3-4b10-a58c-50da3df6ce60">
+
 
 
 **Sources**
