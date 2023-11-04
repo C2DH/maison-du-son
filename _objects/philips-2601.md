@@ -77,6 +77,12 @@ Wow that was great. Now that we’ve talked a lot about our appearances, we can 
 “Bye!” 
 
 ---
+Sources:
+---
+![900409-11-30, Radio 2511 and Meesterzanger (Master Singer) loudspeaker, 1929](https://github.com/C2DH/maison-du-son/assets/146642433/54fe008f-c92b-4b73-a03a-ace283c4f8f5)
+
+
+---
 Literature:
 ---
 
