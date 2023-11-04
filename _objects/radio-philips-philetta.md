@@ -158,16 +158,17 @@ Asset link: assets/images/philips_philetta_223_b2d23a_sm.pdf
 **Audio sources**
 
 Sounds of brown Bakelite Philetta B2D23A: https://www.youtube.com/watch?v=nQEuYHIcCfs
----
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nQEuYHIcCfs?si=xgvinmBZMhjh1NZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
----
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UZbRa6NMKVE?si=tmrZCNirR2YvG9KA&amp;start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
----
+
  
 Sounds of ivory Philetta B2D13A: https://www.youtube.com/watch?v=eItyhwzZUyk
----
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eItyhwzZUyk?si=2aImMHNwtyoGVE1J&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
----
+
 
 Oral history: interview with an owner of a Philetta. Mp3 file.
 
