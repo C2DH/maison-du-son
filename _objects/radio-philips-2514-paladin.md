@@ -82,7 +82,7 @@ RadioScope-Le forum - Histoire de Radio Luxembourg et d'RTL https://radioscope.f
 
 RTL en 1978-79 une journée á l'écoute avec les animateurs et les indicatifs (10 minutes) https://www.youtube.com/watch?v=dF4cuUdT-lQ Consulté le 4 novembre 2023
 
-_Sur la chaîne Youtube Mieuhen RADIOS RETRO : réclames Radio cultes, indicatifs, grands animateurs. Mieuhen a rejoint la plateforme Youtube en 2011 et se présente comme "la chaine de ceux qui écoutaient la TSF, Radio Luxembourg, RTL, Europe N°1...France Inter, Radio Monte-Carlo dans les années 1950 à 1990."_
+Sur la chaîne Youtube Mieuhen RADIOS RETRO : réclames Radio cultes, indicatifs, grands animateurs. _Mieuhen a rejoint la plateforme Youtube en 2011 et se présente comme "la chaine de ceux qui écoutaient la TSF, Radio Luxembourg, RTL, Europe N°1...France Inter, Radio Monte-Carlo dans les années 1950 à 1990."_
 
 ZAPPY MAX SUR RADIO LUXEMBOURG ET RADIO MONTE CARLO RMC RADIOS RETRO ANNEES 50 à 80 https://www.youtube.com/watch?v=HNd5MOnoeKk Consulté le 4 novembre 2023
 
