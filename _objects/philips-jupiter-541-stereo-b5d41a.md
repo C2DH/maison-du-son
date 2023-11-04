@@ -80,28 +80,46 @@ After spending the day together, Colossus and Jupiter say their goodbyes as it i
 Sources
 
 Jupiter 541 Stereo B5D41A. Radiomuseum, URL: www.radiomuseum.org/r/philips_jupiter_stereo_b5d41a_b_5.html. (Accessed June 21st, 2023)
+
 “Philips Jupiter 541”. YouTube, uploaded by Dast, 6 Jun. 2020, www.youtube.com/watch?v=HTH2bf5ScsM&t=3s. (Accessed June 21st, 2023)
+
 “Philips Jupiter 541 Stereo”. YouTube, uploaded by Сергей Здор, 1 Sep. 2017, www.youtube.com/watch?v=pdYbG_juSic&t=4s. (Accessed June 21st, 2023)
+
 “Philips Jupiter 541 stereo nach Reparatur…” YouTube, uploaded by FritzKaputt, 7 Feb. 2020,  www.youtube.com/watch?v=20CZWLfMq8o&t=3s. (Accessed June 21st, 2023)
+
 “Philips Jupiter 541 Stereo & Audion Box 4680”. YouTube, uploaded by Сергей Здор, 27 May 2021, www.youtube.com/watch?v=esOoke07Bjg&t=4s. (Accessed June 21st, 2023)
+
 Röhrenradio Philips "Jupiter 541 Stereo" - Freilichtmuseum Roscheider Hof, Germany - CC0. europeana, URL: 
 www.europeana.eu/item/192/item_S7ZRH25LXBY6MBQENZAXJACZFWVPJI64. (Accessed June 21st, 2023)
+
 “Röhrenradio Philips "Jupiter 541 Stereo"”. museum-digital:rheinland-pfalz, URL: rlp.museum-digital.de/object/34475. (Accessed June 21st, 2023)  
+
 Wolter, Albert. “Philips Jupiter 541 Stereo”. Private Archives.
  
 Bibliography 
 
 Birdsall, Carolyn. “Mobilizing Sound for a Nation at War”. The Nazi Soundscape. Sound, Technology, and Urban Space in Germany 1933-1945. Amsterdam University Press, 2012, pp. 103 – 139.
+
 Bull, Michael. “Chapter 9. Thinking about Sound, Proximity, and Distance in Western Experience: The Case of Odysseus’s Walkman“. Hearing Cultures. Essays on Sound, Listening, and Modernity, edited by Veit Erlmann. Bloomsbury Academic, 2004, pp. 173 – 190. Bloomsbury Collections, DOI: 10.5040/9781474214865.ch-009. 
+
 Corbin, Alain. “Identity, Bells, and the 19th Century”. Hearing History. A Reader, edited by Mark Smith. University of Georgia Press, 2004, pp. 184 – 203.
+
 Frie, Ewald, et. al., editor. Dynamics of Social Change and Perceptions of Threat. Mohr Siebeck, 2019. 
+
 Klar, Laura S. “Theater and Amphitheater in the Roman World. Heilbrunn Timeline of Art History – Essays”. The Metropolitan Museum of Art, October 2006, URL: https://www.metmuseum.org/toah/hd/tham/hd_tham.htm#:~:text=The%20first%20securely%20datable%2C%20stone,in%2029%20B.C.%20by%20T. (Accessed June 21, 2023)
+
 Lenk, Carsten. “Prozesse der Verortung”. Die Erscheinung des Rundfunks. Einführung und Nutzung eines neuen Mediums (1923-1932). Westdeutscher Verlag, 1997, pp. 57-85.
+
 “Radio”. Merriam-Webster, URL: https://www.merriam-webster.com/dictionary/radio. (Accessed June 23rd, 2023)
+
 Schafer, Murray. “The Soundscape”. The Sound Studies Reader, edited by Jonathan Sterne, Routledge, 2021, pp. 95-104. 
+
 Street, Seàn. The Poetry of Radio. The Colour of Sound. Routledge, 2012. Taylor & Francis Online, DOI: doi.org/10.4324/9780203143483. 
+
 Sterne, Jonathan. “2. Techniques of Listening”. The Audible Past. Cultural Origins of Sound Reproduction. Duke University Press, 2003, pp. 87 – 136.  
+
 The Poetry of Radio. The Colour of Sound, by Sean Street. Routledge, URL: www.routledge.com/The-Poetry-of-Radio-The-Colour-of-Sound/Street/p/book/9780415715430. (Accessed December 12th, 2022)
+
 “The Science Behind the Incredible Acoustics of Ancient Amphitheaters”. Auralex acoustics, 10 May 2023, URL: auralex.com/blog/the-science-behind-the-incredible-acoustics-of-ancient-amphitheaters/.  (Accessed June 21, 2023)
 
 
@@ -117,3 +135,6 @@ cover:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdYbG_juSic?si=e6RpDSOpiQsi2CHS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HTH2bf5ScsM?si=d7l0G-SrIPsE1oNl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/esOoke07Bjg?si=pLd7lsBnu73ZC8Qu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
