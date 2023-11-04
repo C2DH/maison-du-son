@@ -77,7 +77,7 @@ Wow that was great. Now that we’ve talked a lot about our appearances, we can 
 “Bye!” 
 
 ---
-Sources:
+Sources (first submission):
 ---
 ![900409-11-30, Radio 2511 and Meesterzanger (Master Singer) loudspeaker, 1929](https://github.com/C2DH/maison-du-son/assets/146642433/54fe008f-c92b-4b73-a03a-ace283c4f8f5)
 This picture comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
@@ -86,6 +86,18 @@ This picture comes from the Philips company archives. For the moment, only the u
 This picture comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
 [811.211 Brochure Philips 2511 (1931).pdf](https://github.com/C2DH/maison-du-son/files/13256679/811.211.Brochure.Philips.2511.1931.pdf)
+This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
+
+[811.211 Brochure Philips Luxusempfanger 2511 (1930).pdf](https://github.com/C2DH/maison-du-son/files/13256686/811.211.Brochure.Philips.Luxusempfanger.2511.1930.pdf)
+This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
+
+[811.211 Brochure Philips type 2601 (1931).pdf](https://github.com/C2DH/maison-du-son/files/13256687/811.211.Brochure.Philips.type.2601.1931.pdf)
+This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
+
+[811.211 Ontvangtoestel Type 2511 (1929).pdf](https://github.com/C2DH/maison-du-son/files/13256688/811.211.Ontvangtoestel.Type.2511.1929.pdf)
+This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
+
+[811.211 Philips receiving set Model 2601 - Instructions for use (1930).pdf](https://github.com/C2DH/maison-du-son/files/13256689/811.211.Philips.receiving.set.Model.2601.-.Instructions.for.use.1930.pdf)
 This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
 
