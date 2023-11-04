@@ -103,6 +103,11 @@ This document comes from the Philips company archives. For the moment, only the 
 ![ad 18 01 1936 lux wort](https://github.com/C2DH/maison-du-son/assets/146642433/38eed959-a5aa-4881-b76e-888b724306d5)
 Advertisement from the Luxemburger Wort, 18 January 1936, p. 8: https://viewer.eluxemburgensia.lu/ark:70795/n0qts5/pages/8/articles/DTL567?search=Philips%202511 
 
+![italian ad](https://github.com/C2DH/maison-du-son/assets/146642433/7d6d68b8-0fb1-4488-a22a-4467e8fbe903)
+Italian advertisment from 1930 for the Philips 2601, in: Hagley ID, Box/folder number, John Okolowicz collection of publications and advertising on radio and consumer electronics (Accession 2014.277), Audiovisual Collections and Digital Initiatives Department, Hagley Museum and Library, Wilmington, DE 19807. 
+The website contains an email-address to ask about the copyright. 
+https://digital.hagley.org/AVDJOPN2014_philips-italia-bw 
+
 
 ---
 Literature:
