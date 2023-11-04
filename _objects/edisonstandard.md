@@ -85,10 +85,9 @@ Source material
 
 
 A band records a wax cylinder.
-[
-](https://www.youtube.com/watch?v=NoQRFgEZLjc)
-
+The Red Hook Ramblers recording a wax cylinder at The Edison National Historic site. - YouTube
 A brief guide to Edison Standard Phonographs
+
 https://www.tnt-audio.com/vintage/edison_cylinders2_e.html
 
 History of the cylinder phonograph
