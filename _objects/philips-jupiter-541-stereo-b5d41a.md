@@ -11,6 +11,10 @@ object_start_date: 01/01/1964
 object_end_date: 31/12/1967
 object_wikidate_id:
 ---
+Background:
+
+The Philips Jupiter 541 Stereo B5D41A radio has a built-in stereo decoder and amplifier, which are covered by a wooden case. It is, in fact, a tube radio with nine tubes and four transistors, which can thus operate on several wave bands: broadcast, long-wave, short-wave, FM (frequency modulation or UHF (ultra-high frequency).
+
 Object Biography: 
 
 Jupiter, a Philips Jupiter 541 Stereo B5D41A radio, finds himself on a journey across time and space after getting his hands on a time machine. When the machine travels back around 2000 years, landing in Rome, Jupiter visits the Colosseum and grasps that the infrastructure is alive as well. It turns out that Colossus, the name of the stone infrastructure, is quite intrigued by his new little friend, so Jupiter decides it’s best to play a game to try to explain who and what he is. Consequently, realising they actually share their love for creating sound, Colossus and Jupiter go on a ride exploring different concepts of hearing and sound.  
