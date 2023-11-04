@@ -118,6 +118,9 @@ Assets link: https://github.com/C2DH/maison-du-son/blob/master/assets/images/Adv
 Advertisement in L‘Impartial, 21.12.1956, p. 4. URL: https://impresso-project.ch/app/issue/IMP-1956-12-21-a/view?sq=CgIYAgoYEAIYByABKhBwaGlsaXBzIHBoaWxldHRh&p=4&articleId=i0045
 Assets link: https://github.com/C2DH/maison-du-son/blob/5c0962bf8ab8b58b4cbea4dde1837098acf79e9a/assets/images/Advertisement%20in%20L%E2%80%98Impartial%2C%2021.12.1956%2C%20p.%204.png 
 
+Der Radiobote.
+Der Radiobote is a reference publication published 6 times a year. Over 28 pages this publication lists useful information regarding historic radios and targets collectors. This might be relevant for further information on the Philetta. It is however only available when ordered from the publisher. URL:  https://www.sammeln.at/sammlerliteratur/der-radiobote--5009.html
+
 Die Geschichte der legendären Philetta, in: Marts Dampfradio, URL: http://www.marts-dampfradio.de/images/Philips/philetta.htm (accessed 20.6.2023)
 
 Die Rundfunkgeräteserie Philetta von Philips: Der Kassenschlager eines Vierteljahrhunderts, in: 50er Radios, URL: http://www.50er-radios.de/philetta.htm (accessed 20.6.2023)
@@ -162,5 +165,4 @@ https://www.youtube.com/watch?v=UZbRa6NMKVE
 
 Oral history: interview with an owner of a Philetta. Mp3 file.
 
-Der Radiobote.
-Der Radiobote is a reference publication published 6 times a year. Over 28 pages this publication lists useful information regarding historic radios and targets collectors. This might be relevant for further information on the Philetta. It is however only available when ordered from the publisher. URL:  https://www.sammeln.at/sammlerliteratur/der-radiobote--5009.html
+
