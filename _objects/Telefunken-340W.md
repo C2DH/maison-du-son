@@ -71,7 +71,7 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 [34] Um einen Eindruck der Trennschärfe und Empfangsgüte des Telefunken 340 W zu bekommen, siehe: Telefunken 340W ‘Katzenkopf, Baujahr 1931 im Betrieb, in: YouTube, URL: https://www.youtube.com/watch?v=L_mMAF52Ws4&t=88s (Stand: 22.06.2023). Weitere Verweise auf Tonaufnahmen von YouTube befinden sich im Bild- und Tonmaterial auf S. 13. <br>
 [35] Radio Programm für Sonntag, in: Luxemburger Wort (10.10.1931), S. 8. <br>
 [36] Mitteilung des Telefunken-Service (Anm. 1), S. 3. <br>
-***
+
 
 ***Sources***
 
@@ -100,3 +100,24 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 • Telefunken Werbung: in: Neue Zürcher Zeitung (28.11.1931), S. 3. <br>
 
 ***Literature***
+
+CZITROM, Daniel J., Media and the American Mind: from Morse to McLuhan, Chapel Hill 1982. <br>
+BAILEY, Michael, Narrating Media History. New York 2009. <br>
+BATHGATE, Gordon, Radio Broadcasting: A History of the Airwaves, Yorkshire und Philadelphia 2020. <br>
+DAYAN, Daniel/KATZ, Elihu, Media Events: The Live Broadcasting of History, Cambridge 1992. <br>
+DOUGLAS, Susan J. Listening In: Radio and the American Imagination, 2013. <br>
+ERB, Ernst, Radios von Gestern, Luzern 2020. <br>
+ERB, Ernst, Radiokatalog (Band 1), Luzern 2022. <br>
+FALKENBERG, Karin. Radiohören. Zu einer Bewußtseinsgeschichte. 1933 bis 1950, Haßfurt und Nürnberg 2005.<br>
+FICKERS, Andreas, Design als ‘mediating Interface’. Zur Zeugen- und Zeichenhaftigkeit des Radioapparates, in: Berichte zur Wissenschaftsgeschichte 30/3 (2007), S. 199-213. <br>
+FRIEDEWALD, Michael, Telefunken und der Deutsche Schiffsfunk 1903-1914, in: Zeitschrift Für Unternehmensgeschichte / Journal of Business History 46/1 (2001), S. 27-57. <br>
+HILMES, Michele, Radio Voices: American Broadcasting, 1922-1952, Minneapolis und London 1997. <br>
+KLEJNOWSKI, Markus. ‘Innovative Radios der 1920er Jahre aus der Rundfunksammlung des TECHNOSEUM‘, in: KULTEC 2 (2022). <br>
+LENK, Carsten. Die Erscheinung des Rundfunks: Einführung und Nutzung eines neuen Mediums 1923 – 1932, Opladen 1997. <br>
+LERSCH, Edgar/ SCHANZE, Helmut, Die Idee des Radios. Von den Anfängen in Europa und den USA bis 1933, Konstanz 2004. <br>
+LOMMERS, Suzanne, Europe - On Air: Interwar Projects for Radio Broadcasting, Amsterdam 2012. <br>
+Russo, Alexander, Defensive Transcriptions: Radio Networks, Sound-on-Disc Recording, and the Meaning of Live Broadcasting, in: The Velvet Light Trap 54 (2004), S. 4-17. <br>
+Scannell, Paddy, Television and the Meaning of “Live”: An Enquiry into the Human Situation, Cambridge: Polity, 2014.<br>
+Van Es, Karin. The Future of Live, Cambridge und Malden 2016.<br>
+Van Es, Karin/ Keilbach, Judith, ‘Keeping Up the Live: Recorded Television as Live Experience’, in: VIEW Journal of European Television History and Culture 7/13 (2018), S. 60-68.<br>
+
