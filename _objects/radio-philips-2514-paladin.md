@@ -84,13 +84,13 @@ RTL en 1978-79 une journée á l'écoute avec les animateurs et les indicatifs (
 
 Sur la chaîne Youtube Mieuhen RADIOS RETRO : réclames Radio cultes, indicatifs, grands animateurs. _Mieuhen a rejoint la plateforme Youtube en 2011 et se présente comme "la chaine de ceux qui écoutaient la TSF, Radio Luxembourg, RTL, Europe N°1...France Inter, Radio Monte-Carlo dans les années 1950 à 1990."_
 
-ZAPPY MAX SUR RADIO LUXEMBOURG ET RADIO MONTE CARLO RMC RADIOS RETRO ANNEES 50 à 80 https://www.youtube.com/watch?v=HNd5MOnoeKk Consulté le 4 novembre 2023
+- ZAPPY MAX SUR RADIO LUXEMBOURG ET RADIO MONTE CARLO RMC RADIOS RETRO ANNEES 50 à 80 https://www.youtube.com/watch?v=HNd5MOnoeKk Consulté le 4 novembre 2023
 
-MAX MEYNIER SUR RTL LES ROUTIERS SONT SYMPAS EN 1979 https://www.youtube.com/watch?v=Gj8OtNmBzuY  Consulté le 4 novembre 2023
+- MAX MEYNIER SUR RTL LES ROUTIERS SONT SYMPAS EN 1979 https://www.youtube.com/watch?v=Gj8OtNmBzuY  Consulté le 4 novembre 2023
 
-MENIE GREGOIRE SUR RTL ALLO MENIE DE 1967 à 1982 https://www.youtube.com/watch?v=X1CIT_uviKI  Consulté le 4 novembre 2023
+- MENIE GREGOIRE SUR RTL ALLO MENIE DE 1967 à 1982 https://www.youtube.com/watch?v=X1CIT_uviKI  Consulté le 4 novembre 2023
 
-BONJOUR LES AMIS de RADIO LUXEMBOURG MARCHE OFFICIELLE INDICATIF 1955 ANNEES 50 https://www.youtube.com/watch?v=u-HcbNZ0F4U  Consulté le 4 novembre 2023
+- BONJOUR LES AMIS de RADIO LUXEMBOURG MARCHE OFFICIELLE INDICATIF 1955 ANNEES 50 https://www.youtube.com/watch?v=u-HcbNZ0F4U  Consulté le 4 novembre 2023
 
 90 ans de RTL : revivez les extraits les plus mythiques de la valise RTL https://www.rtl.fr/culture/medias-people/90-ans-de-rtl-revivez-les-extraits-les-plus-mythiques-de-la-valise-rtl-7900244743 Consulté le 4 novembre 2023
 
