@@ -61,21 +61,38 @@ Dans deux ou trois ans, sa collection déménagera à quelques rues de chez lui,
 ## Sources*
 # Philips 2514 #
 Blog d’Olga Novel et Michel Terrier http://www.michelterrier.fr/radiocol/detail2009/philips-2514.htm  Consulté le 4 novembre 2023
+
 CPF Radio – site d’entraide entre bricoleurs passionnés de radios TSF et vieilles TV http://www.cfp-radio.com/restaurations/philips-2514/philips-2514-01.html Consulté le 4 novembre 2023
+
 Radiomuseum - Musée virtuel de la radio - Catalogue de modèles de TSF etc. et forum https://www.radiomuseum.org/r/philips_2514_2.html Consulté le 4 novembre 2023
+
 www.schoop.fr – la mémoire de la FM : histoire, sons, logos, publicités, photos. Consulté le 4 novembre 2023
+
 Victoria and Albert Museum https://collections.vam.ac.uk/item/O321100/philips-no-2514-radio-receiver-kalff-louis-christiaan/ Consulté le 4 novembre 2023
+
 Louis Kalff Instituut Eindhoven https://www.louiskalffinstituut.nl/en/louis-c-kalff/  Consulté le 4 novembre 2023
+
 #Programmes Radio Luxembourg et RTL#
+
 Programmes de Radio Luxembourg (1964-1965 est la seule année non disponible) www.radioscope.fr Consulté le 4 novembre 2023
+
 RadioScope-Le forum - Histoire de Radio Luxembourg et d'RTL https://radioscope.forumactif.com/t1823-histoire-de-radio-luxembourg-et-d-rtl Consulté le 4 novembre 2023
+
 # Sources sonores #
-RTL en 1978-79 une journée á l'écoute avec les animateurs et les indicatifs (10 minutes) https://www.youtube.com/watch?v=dF4cuUdT-lQ Consulté le 4 novembre 2023
-Sur la chaîne Youtube Mieuhen RADIOS RETRO : réclames Radio cultes, indicatifs, grands animateurs. Mieuhen a rejoint la plateforme Youtube en 2011 et se présente comme "la chaine de ceux qui écoutaient la TSF, Radio Luxembourg, RTL, Europe N°1...France Inter, Radio Monte-Carlo dans les années 1950 à 1990."
-https://www.youtube.com/watch?v=HNd5MOnoeKk ZAPPY MAX SUR RADIO LUXEMBOURG ET RADIO MONTE CARLO RMC RADIOS RETRO ANNEES 50 à 80 Consulté le 4 novembre 2023
+
+[RTL en 1978-79 une journée á l'écoute avec les animateurs et les indicatifs (10 minutes)] (https://www.youtube.com/watch?v=dF4cuUdT-lQ) Consulté le 4 novembre 2023
+
+_Sur la chaîne Youtube Mieuhen RADIOS RETRO : réclames Radio cultes, indicatifs, grands animateurs. Mieuhen a rejoint la plateforme Youtube en 2011 et se présente comme "la chaine de ceux qui écoutaient la TSF, Radio Luxembourg, RTL, Europe N°1...France Inter, Radio Monte-Carlo dans les années 1950 à 1990."_
+
+[ ZAPPY MAX SUR RADIO LUXEMBOURG ET RADIO MONTE CARLO RMC RADIOS RETRO ANNEES 50 à 80 ] (https://www.youtube.com/watch?v=HNd5MOnoeKk) Consulté le 4 novembre 2023
+
 https://www.youtube.com/watch?v=Gj8OtNmBzuY MAX MEYNIER SUR RTL LES ROUTIERS SONT SYMPAS EN 1979 Consulté le 4 novembre 2023
+
 https://www.youtube.com/watch?v=X1CIT_uviKI MENIE GREGOIRE SUR RTL ALLO MENIE DE 1967 à 1982 Consulté le 4 novembre 2023
+
 https://www.youtube.com/watch?v=u-HcbNZ0F4U BONJOUR LES AMIS de RADIO LUXEMBOURG MARCHE OFFICIELLE INDICATIF 1955 ANNEES 50 Consulté le 4 novembre 2023
+
 90 ans de RTL : revivez les extraits les plus mythiques de la valise RTL https://www.rtl.fr/culture/medias-people/90-ans-de-rtl-revivez-les-extraits-les-plus-mythiques-de-la-valise-rtl-7900244743 Consulté le 4 novembre 2023
+
 * Les autorisations pour utiliser les documents en ligne dans la conception de la Maison du son n'ont pas encore été demandées, mais j'ai rassemblé les adresses à contacter, le cas échéant. 
 
