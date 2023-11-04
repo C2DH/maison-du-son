@@ -4,7 +4,7 @@ abstract: "The Edison Standard Phonograph was invented by Thomas Edison."
 authors:
  - Philippe-Hein
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4koqcfAzSCQ?si=iVnTs7PlUtOgVFY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <figure><img src="/assets/images/Edison standard image.png"><figcaption> </figcaption></figure>
 
@@ -117,8 +117,7 @@ The stenographer's friend, or, What was accomplished by an Edison business phono
 Tewksbury, G. E. (1897). A complete Manuel of the Edison Phonograph. G. L. Frow, 92p.
 
 Video where the functioning of the Edison phonograph is explained.
-https://www.youtube.com/watch?v=4koqcfAzSCQ
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4koqcfAzSCQ?si=iVnTs7PlUtOgVFY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
