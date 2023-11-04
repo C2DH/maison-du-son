@@ -113,8 +113,10 @@ Oeyenhausen, Wilhelm von, 30 Jahre „Philips-Philetta“- Rundfunkgeräteserie 
 Albert Wolter’s personal accounts.
 
 Advertisement in L’Express, 2.11.1956, p. 7. URL: https://impresso-project.ch/app/issue/EXP-1956-11-02-a/view?sq=CgIYAgoYEAIYByABKhBwaGlsaXBzIHBoaWxldHRh&p=7&articleId=i0154
+Assets link: 
 
 Advertisement in L‘Impartial, 21.12.1956, p. 4. URL: https://impresso-project.ch/app/issue/IMP-1956-12-21-a/view?sq=CgIYAgoYEAIYByABKhBwaGlsaXBzIHBoaWxldHRh&p=4&articleId=i0045
+Assets link: https://github.com/C2DH/maison-du-son/blob/5c0962bf8ab8b58b4cbea4dde1837098acf79e9a/assets/images/Advertisement%20in%20L%E2%80%98Impartial%2C%2021.12.1956%2C%20p.%204.png 
 
 Die Geschichte der legendären Philetta, in: Marts Dampfradio, URL: http://www.marts-dampfradio.de/images/Philips/philetta.htm (accessed 20.6.2023)
 
