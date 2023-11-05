@@ -168,8 +168,7 @@ Sounds of brown Bakelite Philetta B2D23A: https://www.youtube.com/watch?v=nQEuYH
 Sounds of ivory Philetta B2D13A: https://www.youtube.com/watch?v=eItyhwzZUyk
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eItyhwzZUyk?si=2aImMHNwtyoGVE1J&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-
+--- 
 
 Oral history: interview with an owner of a Philetta. Mp3 file.
 Assets link: https://github.com/C2DH/maison-du-son/blob/master/assets/images/Interview%20Philetta%20JM%20Resch.m4a 
