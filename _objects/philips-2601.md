@@ -80,83 +80,71 @@ Wow that was great. Now that we’ve talked a lot about our appearances, we can 
 Sources (first submission):
 ---
 
-1.
+1. Picture of the Philips 2511
 ![900409-11-30, Radio 2511 and Meesterzanger (Master Singer) loudspeaker, 1929](https://github.com/C2DH/maison-du-son/assets/146642433/54fe008f-c92b-4b73-a03a-ace283c4f8f5)
 This picture comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
-2. 
+2. Picture of the Philips 2601 in packaging
 ![B3102, Packaging of radio 2601, 1931](https://github.com/C2DH/maison-du-son/assets/146642433/bca311e7-5322-41e7-b805-4620e4b5aaab)
 This picture comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
-
+3. Brochure Philips 2511 from 1931
 [811.211 Brochure Philips 2511 (1931).pdf](https://github.com/C2DH/maison-du-son/files/13256679/811.211.Brochure.Philips.2511.1931.pdf)
 This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
-
+4. Brochure Philips 2511 from 1930
 [811.211 Brochure Philips Luxusempfanger 2511 (1930).pdf](https://github.com/C2DH/maison-du-son/files/13256686/811.211.Brochure.Philips.Luxusempfanger.2511.1930.pdf)
 This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
-
+5. Brochure Philips 2601 from 1931
 [811.211 Brochure Philips type 2601 (1931).pdf](https://github.com/C2DH/maison-du-son/files/13256687/811.211.Brochure.Philips.type.2601.1931.pdf)
 This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
-
+6. Instruction manual Philips 2511 from 1929
 [811.211 Ontvangtoestel Type 2511 (1929).pdf](https://github.com/C2DH/maison-du-son/files/13256688/811.211.Ontvangtoestel.Type.2511.1929.pdf)
 This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
-
+7. Instruction manual Philips 2601 from 1930
 [811.211 Philips receiving set Model 2601 - Instructions for use (1930).pdf](https://github.com/C2DH/maison-du-son/files/13256689/811.211.Philips.receiving.set.Model.2601.-.Instructions.for.use.1930.pdf)
 This document comes from the Philips company archives. For the moment, only the use for the object biographies is allowed by them. It has to be referenced as follows: Royal Philips / Company Archives.
 
-
+8. Advertisement from the Luxemburger Wort, 18 January 1936, p. 8: https://viewer.eluxemburgensia.lu/ark:70795/n0qts5/pages/8/articles/DTL567?search=Philips%202511 
 ![ad 18 01 1936 lux wort](https://github.com/C2DH/maison-du-son/assets/146642433/38eed959-a5aa-4881-b76e-888b724306d5)
-Advertisement from the Luxemburger Wort, 18 January 1936, p. 8: https://viewer.eluxemburgensia.lu/ark:70795/n0qts5/pages/8/articles/DTL567?search=Philips%202511 
 
-
-![italian ad](https://github.com/C2DH/maison-du-son/assets/146642433/7d6d68b8-0fb1-4488-a22a-4467e8fbe903)
-Italian advertisment from 1930 for the Philips 2601, in: Hagley ID, Box/folder number, John Okolowicz collection of publications and advertising on radio and consumer electronics (Accession 2014.277), Audiovisual Collections and Digital Initiatives Department, Hagley Museum and Library, Wilmington, DE 19807. 
+9. Italian advertisement from 1930 for the Philips 2601, in: Hagley ID, Box/folder number, John Okolowicz collection of publications and advertising on radio and consumer electronics (Accession 2014.277), Audiovisual Collections and Digital Initiatives Department, Hagley Museum and Library, Wilmington, DE 19807. 
 The website contains an email-address to ask about the copyright. 
-https://digital.hagley.org/AVDJOPN2014_philips-italia-bw 
+https://digital.hagley.org/AVDJOPN2014_philips-italia-bw
+![italian ad](https://github.com/C2DH/maison-du-son/assets/146642433/7d6d68b8-0fb1-4488-a22a-4467e8fbe903)
 
-
+10. Advertisement from Overveluwsch Weekblad/Harderwijker Courant, 11 October 1930, p. 3, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601
 ![dutch ad](https://github.com/C2DH/maison-du-son/assets/146642433/33ece32b-b52c-4033-afe3-1a4e5647797e)
-Advertisement from Overveluwsch Weekblad/Harderwijker Courant, 11 October 1930, p. 3, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601
 
-
+11. Advertisement from the Schilder’s nieuws-en advertentieblad, 18 October 1930, p. 4, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4 
 ![other dutch ad](https://github.com/C2DH/maison-du-son/assets/146642433/d007b6b2-62e7-4809-b28f-d125c1324138)
-Advertisement from the Schilder’s nieuws-en advertentieblad, 18 October 1930, p. 4, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4 
 
+12. Advertisement from the Utrechtsch Nieuwsblad, 24 November 1930, p. 12, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4
+![24 november 1930](https://github.com/C2DH/maison-du-son/assets/146642433/125c6569-4666-4935-b2a1-6b5a6d9e069f) 
 
-![24 november 1930](https://github.com/C2DH/maison-du-son/assets/146642433/125c6569-4666-4935-b2a1-6b5a6d9e069f)
-Advertisement from the Utrechtsch Nieuwsblad, 24 November 1930, p. 12, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4 
-
-
+13. Advertisement from the Utrechtsch Nieuwsblad, 19 December 1930, p. 15, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4
 ![19 december 1930](https://github.com/C2DH/maison-du-son/assets/146642433/d4fecd02-ce54-414b-9d7a-69f65a5ada1f)
-Advertisement from the Utrechtsch Nieuwsblad, 19 December 1930, p. 15, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4
 
-
+14. Advertisement from the Het Nieuws, 4 January 1929, p. 183, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2511
 ![2511 1929](https://github.com/C2DH/maison-du-son/assets/146642433/76808493-70d2-433f-9ce2-ad1a62cde91c)
-Advertisement from the Het Nieuws, 4 January 1929, p. 183, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2511
 
-
+15. Advertisement from the Het Nieuws, 4 January 1929, p. 1014, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2511&mistart=4 
 ![1929](https://github.com/C2DH/maison-du-son/assets/146642433/e03af026-599a-41a4-b6f5-d05ea84cc123)
-Advertisement from the Het Nieuws, 4 January 1929, p. 1014, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2511&mistart=4 
 
+16. Advertisement from the end of the 1920s: http://bachybouzouk.free.fr/souvenirs/radio/philips_13.html
+![ad 2511](https://github.com/C2DH/maison-du-son/assets/146642433/a3568d25-dc00-4375-8d98-77a9400f796b) 
 
-![ad 2511](https://github.com/C2DH/maison-du-son/assets/146642433/a3568d25-dc00-4375-8d98-77a9400f796b)
-Advertisement from the end of the 1920s (difficult because of the watermark) http://bachybouzouk.free.fr/souvenirs/radio/philips_13.html 
-
-
+17. Instruction manual of the Philips 2511, received from Dr. Rüdiger Walz, curator of the Gesellschaft der Freunde der Geschichte des Funkwesens (GFGF) 
 [Philips - Ontvangtoestel type 2511 gebruiksaanwijzing.pdf](https://github.com/C2DH/maison-du-son/files/13256810/Philips.-.Ontvangtoestel.type.2511.gebruiksaanwijzing.pdf)
-Instruction manual of the Philips 2511, received from Dr. Rüdiger Walz, curator of the Gesellschaft der Freunde der Geschichte des Funkwesens (GFGF) 
 
+18. Instruction manual of the Philips 2601, received from Dr. Rüdiger Walz, curator of the Gesellschaft der Freunde der Geschichte des Funkwesens (GFGF)
+[nl_philips_2601_man_01-merged.pdf](https://github.com/C2DH/maison-du-son/files/13256826/nl_philips_2601_man_01-merged.pdf) 
 
-[nl_philips_2601_man_01-merged.pdf](https://github.com/C2DH/maison-du-son/files/13256826/nl_philips_2601_man_01-merged.pdf)
-Instruction manual of the Philips 2601, received from Dr. Rüdiger Walz, curator of the Gesellschaft der Freunde der Geschichte des Funkwesens (GFGF) 
-
-
+19. Excerpt of the general Philips catalogue from 1931, received from Albert Wolter
 [SKM_C224e23060512170.pdf](https://github.com/C2DH/maison-du-son/files/13256816/SKM_C224e23060512170.pdf)
-Excerpt of the general Philips catalogue from 1931, received from Albert Wolter
 
 ---
 Literature:
