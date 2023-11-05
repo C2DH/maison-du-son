@@ -74,10 +74,10 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 
 
 **Sources**
-
 • Das Schaufenster. Einzel-berichte über käufliche Radiogeräte und Lautsprecher, in: Funkschau 45 (08.11.1931), S. 356-360. <br>
 • Der Architekt hat das Wort, in: Funkschau 45 (08.11.1931), S. 354-356.<br>
 • Die Telefunken-Mehrkreis-Empfänger, Dr. Nr. 709, A. 831. M. AP. M. <br>
+• Enchères publiques de liqueurs, mobilier et créances, in: L'Express (08.11.1933), S. 3. <br>
 • Kurze Gebrauchs- und Bedienungsanleitung. Telefunken 340 W mit Auto-Skala, Dr. Nr. 657, S. 1-8. <br>
 • Mitteilung des Telefunken-Service. Das neue Telefunken-Programm 1931-1932, Luxemburg, S. 1-4. <br>
 • Radioteile werden gepreßt. Pressmaterial, ein wichtiger Baustein der Radioindustrie, in: Funkschau 42 (18.10.1931), S. 331. <br>
@@ -91,6 +91,8 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 • Telefunken Werbung, in: Freiburger Nachrichten (29.10.1931), S. 6. <br>
 • Telefunken Werbung, in: Freiburger Nachrichten (06.11.1931), S. 6. <br>
 • Telefunken Werbung, in: Freiburger Nachrichten (17.11.1931), S. 6. <br>
+• Telefunken Werbung, in: Freiburger Nachrichten (17.12.1931). <br>
+• Telefunken Werbung, in: Journal de Genève (27.10.1931), S. 6. <br> 
 • Telefunken Werbung, in: Journal de Genève (4.12.1931), S. 8. <br>
 • Telefunken Werbung, in: L’Express (13.11.1931), S. 2. <br>
 • Telefunken Werbung, in: L’Express (06.11.1931), S. 5. <br>
@@ -104,6 +106,7 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 CZITROM, Daniel J., Media and the American Mind: from Morse to McLuhan, Chapel Hill 1982. <br>
 BAILEY, Michael, Narrating Media History. New York 2009. <br>
 BATHGATE, Gordon, Radio Broadcasting: A History of the Airwaves, Yorkshire und Philadelphia 2020. <br>
+BOGNER, Gerhard, Entwicklung des UKW-Rundfunks. Teil 2: Zeitraum 1929 bis 1933, Folge 1, in: Funkschau 126 (1999). <br>
 DAYAN, Daniel/KATZ, Elihu, Media Events: The Live Broadcasting of History, Cambridge 1992. <br>
 DOUGLAS, Susan J. Listening In: Radio and the American Imagination, 2013. <br>
 ERB, Ernst, Radios von Gestern, Luzern 2020. <br>
@@ -121,3 +124,12 @@ Scannell, Paddy, Television and the Meaning of “Live”: An Enquiry into the H
 Van Es, Karin. The Future of Live, Cambridge und Malden 2016.<br>
 Van Es, Karin/ Keilbach, Judith, ‘Keeping Up the Live: Recorded Television as Live Experience’, in: VIEW Journal of European Television History and Culture 7/13 (2018), S. 60-68.<br>
 
+**Photos** 
+
+<img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/f5daeb6a-b986-4796-8411-377bc5bb0096">
+<img width="226" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/78d7d3f8-6732-4fd0-8c87-61557756b94a">
+Vorder- und Hinterseite des Telefunken 340 W, in: Telefunken 340 W (Katzenkopf), in: Wumpus Welt der Radios, URL: https://www.welt-der-alten-radios.de/ausstellung-roehrenradios-1-232.html (Stand: 01.11.2023). 
+
+
+<img width="327" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/d517bf06-742b-4827-a881-ae3fec3880cd"> 
+Fotos des restaurierten Telefunken 340 W (Collection Albert Wolter).
