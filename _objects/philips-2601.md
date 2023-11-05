@@ -146,6 +146,14 @@ https://digital.hagley.org/AVDJOPN2014_philips-italia-bw
 19. Excerpt of the general Philips catalogue from 1931, received from Albert Wolter
 [SKM_C224e23060512170.pdf](https://github.com/C2DH/maison-du-son/files/13256816/SKM_C224e23060512170.pdf)
 
+20. Publicity picture of a woman with a Philips 2511, https://www.vintageradio.nl/radio's/philips_2511_engels.htm 
+![publicity picture of a woman with a 2511](https://github.com/C2DH/maison-du-son/assets/146642433/18902a16-1c6f-4f19-a600-21c5200e8fc2)
+
+21. Schematic of the Philips 2601, https://www.radiomuseum.org/r/philips_2601_3.html
+![2601_1487399](https://github.com/C2DH/maison-du-son/assets/146642433/9bb4de50-6a44-49d5-93ca-5f10fffcfd11)
+![2601_1487400](https://github.com/C2DH/maison-du-son/assets/146642433/eb6e32d9-82d1-414d-be41-b2a295be16d4)
+
+
 ---
 Literature:
 ---
