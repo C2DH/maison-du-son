@@ -156,6 +156,7 @@ User Manual of the Philips Philetta 223 (B2D23A) found via: https://elektrotanya
 Asset link: assets/images/philips_philetta_223_b2d23a_sm.pdf
 
 
+
 **Audio sources**
 
 Sounds of brown Bakelite Philetta B2D23A: https://www.youtube.com/watch?v=nQEuYHIcCfs
