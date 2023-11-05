@@ -72,28 +72,31 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 [35] Radio Programm für Sonntag, in: Luxemburger Wort (10.10.1931), S. 8. <br>
 [36] Mitteilung des Telefunken-Service (Anm. 1), S. 3. <br>
 
-**Advertisements** <b>
+***Literature***
 
-<img width="211" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/521321e4-8897-4c2b-ab6b-29839ec356fa"> <b>
-Telefunken Werbung, in: Journal de Genève (4.12.1931), S. 8.<b>
+CZITROM, Daniel J., Media and the American Mind: from Morse to McLuhan, Chapel Hill 1982. <br>
+BAILEY, Michael, Narrating Media History. New York 2009. <br>
+BATHGATE, Gordon, Radio Broadcasting: A History of the Airwaves, Yorkshire und Philadelphia 2020. <br>
+BOGNER, Gerhard, Entwicklung des UKW-Rundfunks. Teil 2: Zeitraum 1929 bis 1933, Folge 1, in: Funkschau 126 (1999). <br>
+DAYAN, Daniel/KATZ, Elihu, Media Events: The Live Broadcasting of History, Cambridge 1992. <br>
+DOUGLAS, Susan J. Listening In: Radio and the American Imagination, 2013. <br>
+ERB, Ernst, Radios von Gestern, Luzern 2020. <br>
+ERB, Ernst, Radiokatalog (Band 1), Luzern 2022. <br>
+FALKENBERG, Karin. Radiohören. Zu einer Bewußtseinsgeschichte. 1933 bis 1950, Haßfurt und Nürnberg 2005.<br>
+FICKERS, Andreas, Design als ‘mediating Interface’. Zur Zeugen- und Zeichenhaftigkeit des Radioapparates, in: Berichte zur Wissenschaftsgeschichte 30/3 (2007), S. 199-213. <br>
+FRIEDEWALD, Michael, Telefunken und der Deutsche Schiffsfunk 1903-1914, in: Zeitschrift Für Unternehmensgeschichte / Journal of Business History 46/1 (2001), S. 27-57. <br>
+HILMES, Michele, Radio Voices: American Broadcasting, 1922-1952, Minneapolis und London 1997. <br>
+KLEJNOWSKI, Markus. ‘Innovative Radios der 1920er Jahre aus der Rundfunksammlung des TECHNOSEUM‘, in: KULTEC 2 (2022). <br>
+LENK, Carsten. Die Erscheinung des Rundfunks: Einführung und Nutzung eines neuen Mediums 1923 – 1932, Opladen 1997. <br>
+LERSCH, Edgar/ SCHANZE, Helmut, Die Idee des Radios. Von den Anfängen in Europa und den USA bis 1933, Konstanz 2004. <br>
+LOMMERS, Suzanne, Europe - On Air: Interwar Projects for Radio Broadcasting, Amsterdam 2012. <br>
+Russo, Alexander, Defensive Transcriptions: Radio Networks, Sound-on-Disc Recording, and the Meaning of Live Broadcasting, in: The Velvet Light Trap 54 (2004), S. 4-17. <br>
+Scannell, Paddy, Television and the Meaning of “Live”: An Enquiry into the Human Situation, Cambridge: Polity, 2014.<br>
+Van Es, Karin. The Future of Live, Cambridge und Malden 2016.<br>
+Van Es, Karin/ Keilbach, Judith, ‘Keeping Up the Live: Recorded Television as Live Experience’, in: VIEW Journal of European Television History and Culture 7/13 (2018), S. 60-68. <br>
 
+***List of sources***
 
-<img width="219" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/9b2d09dd-78bc-4f03-bbbb-c1c309c54277"> <b>
-Telefunken Werbung, in: L’Express (13.11.1931), S. 2.<b>
-
-
-<img width="201" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/4c9ba0af-9e17-436e-8554-95e8edef125e"> <b>
-Telefunken Werbung, in: Luxemburger Wort (10.10.1931), S. 12.<b>
-
-
-<img width="273" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/e6bb97a7-b32d-48ea-87ef-d24e9374470d"> <b>
-Telefunken Werbung, in: Journal de Genève (27.10.1931), S.6.<b>
-
-
-<img width="279" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/41ba0b9f-7bad-4595-85e0-01992b2ed028">
-Telefunken Werbung, in: Freiburger Nachrichten (17.12.1931), S.6.<b>
-
-**List of sources**
 • Das Schaufenster. Einzel-berichte über käufliche Radiogeräte und Lautsprecher, in: Funkschau 45 (08.11.1931), S. 356-360. <br>
 • Der Architekt hat das Wort, in: Funkschau 45 (08.11.1931), S. 354-356.<br>
 • Die Telefunken-Mehrkreis-Empfänger, Dr. Nr. 709, A. 831. M. AP. M. <br>
@@ -121,35 +124,42 @@ Telefunken Werbung, in: Freiburger Nachrichten (17.12.1931), S.6.<b>
 • Telefunken Werbung, in: Luxemburger Wort (26.11.1931), S. 8. <br>
 • Telefunken Werbung: in: Neue Zürcher Zeitung (28.11.1931), S. 3. <br>
 
-**Literature**
+***Advertisements*** 
 
-CZITROM, Daniel J., Media and the American Mind: from Morse to McLuhan, Chapel Hill 1982. <br>
-BAILEY, Michael, Narrating Media History. New York 2009. <br>
-BATHGATE, Gordon, Radio Broadcasting: A History of the Airwaves, Yorkshire und Philadelphia 2020. <br>
-BOGNER, Gerhard, Entwicklung des UKW-Rundfunks. Teil 2: Zeitraum 1929 bis 1933, Folge 1, in: Funkschau 126 (1999). <br>
-DAYAN, Daniel/KATZ, Elihu, Media Events: The Live Broadcasting of History, Cambridge 1992. <br>
-DOUGLAS, Susan J. Listening In: Radio and the American Imagination, 2013. <br>
-ERB, Ernst, Radios von Gestern, Luzern 2020. <br>
-ERB, Ernst, Radiokatalog (Band 1), Luzern 2022. <br>
-FALKENBERG, Karin. Radiohören. Zu einer Bewußtseinsgeschichte. 1933 bis 1950, Haßfurt und Nürnberg 2005.<br>
-FICKERS, Andreas, Design als ‘mediating Interface’. Zur Zeugen- und Zeichenhaftigkeit des Radioapparates, in: Berichte zur Wissenschaftsgeschichte 30/3 (2007), S. 199-213. <br>
-FRIEDEWALD, Michael, Telefunken und der Deutsche Schiffsfunk 1903-1914, in: Zeitschrift Für Unternehmensgeschichte / Journal of Business History 46/1 (2001), S. 27-57. <br>
-HILMES, Michele, Radio Voices: American Broadcasting, 1922-1952, Minneapolis und London 1997. <br>
-KLEJNOWSKI, Markus. ‘Innovative Radios der 1920er Jahre aus der Rundfunksammlung des TECHNOSEUM‘, in: KULTEC 2 (2022). <br>
-LENK, Carsten. Die Erscheinung des Rundfunks: Einführung und Nutzung eines neuen Mediums 1923 – 1932, Opladen 1997. <br>
-LERSCH, Edgar/ SCHANZE, Helmut, Die Idee des Radios. Von den Anfängen in Europa und den USA bis 1933, Konstanz 2004. <br>
-LOMMERS, Suzanne, Europe - On Air: Interwar Projects for Radio Broadcasting, Amsterdam 2012. <br>
-Russo, Alexander, Defensive Transcriptions: Radio Networks, Sound-on-Disc Recording, and the Meaning of Live Broadcasting, in: The Velvet Light Trap 54 (2004), S. 4-17. <br>
-Scannell, Paddy, Television and the Meaning of “Live”: An Enquiry into the Human Situation, Cambridge: Polity, 2014.<br>
-Van Es, Karin. The Future of Live, Cambridge und Malden 2016.<br>
-Van Es, Karin/ Keilbach, Judith, ‘Keeping Up the Live: Recorded Television as Live Experience’, in: VIEW Journal of European Television History and Culture 7/13 (2018), S. 60-68.<br>
+<img width="211" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/521321e4-8897-4c2b-ab6b-29839ec356fa">
 
-**Photos** 
+Telefunken Werbung, in: Journal de Genève (4.12.1931), S. 8.<b>
+
+
+<img width="219" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/9b2d09dd-78bc-4f03-bbbb-c1c309c54277"> <b>
+
+Telefunken Werbung, in: L’Express (13.11.1931), S. 2.<b>
+
+
+<img width="201" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/4c9ba0af-9e17-436e-8554-95e8edef125e"> <b>
+
+Telefunken Werbung, in: Luxemburger Wort (10.10.1931), S. 12.<b>
+
+
+<img width="273" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/e6bb97a7-b32d-48ea-87ef-d24e9374470d"> <b>
+
+Telefunken Werbung, in: Journal de Genève (27.10.1931), S.6.<b>
+
+
+<img width="279" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/41ba0b9f-7bad-4595-85e0-01992b2ed028">
+
+Telefunken Werbung, in: Freiburger Nachrichten (17.12.1931), S.6.<b>
+
+
+***Photos*** 
 
 <img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/f5daeb6a-b986-4796-8411-377bc5bb0096">
-<img width="226" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/78d7d3f8-6732-4fd0-8c87-61557756b94a">
-Vorder- und Hinterseite des Telefunken 340 W, in: Telefunken 340 W (Katzenkopf), in: Wumpus Welt der Radios, URL: https://www.welt-der-alten-radios.de/ausstellung-roehrenradios-1-232.html (Stand: 01.11.2023). 
+<img width="226" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/78d7d3f8-6732-4fd0-8c87-61557756b94a"> <br>
+
+Vorder- und Hinterseite des Telefunken 340 W, in: Telefunken 340 W (Katzenkopf), in: Wumpus Welt der Radios, URL: https://www.welt-der-alten-radios.de/ausstellung-roehrenradios-1-232.html (Stand: 01.11.2023). <br>
 
 
-<img width="327" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/d517bf06-742b-4827-a881-ae3fec3880cd"> 
-Fotos des restaurierten Telefunken 340 W (Collection Albert Wolter).
+<img width="327" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/d517bf06-742b-4827-a881-ae3fec3880cd"> <br>
+
+Fotos des restaurierten Telefunken 340 W (Collection Albert Wolter).<br>
+
