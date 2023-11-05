@@ -72,8 +72,28 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 [35] Radio Programm für Sonntag, in: Luxemburger Wort (10.10.1931), S. 8. <br>
 [36] Mitteilung des Telefunken-Service (Anm. 1), S. 3. <br>
 
+**Advertisements** <b>
 
-**Sources**
+<img width="211" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/521321e4-8897-4c2b-ab6b-29839ec356fa"> <b>
+Telefunken Werbung, in: Journal de Genève (4.12.1931), S. 8.<b>
+
+
+<img width="219" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/9b2d09dd-78bc-4f03-bbbb-c1c309c54277"> <b>
+Telefunken Werbung, in: L’Express (13.11.1931), S. 2.<b>
+
+
+<img width="201" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/4c9ba0af-9e17-436e-8554-95e8edef125e"> <b>
+Telefunken Werbung, in: Luxemburger Wort (10.10.1931), S. 12.<b>
+
+
+<img width="273" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/e6bb97a7-b32d-48ea-87ef-d24e9374470d"> <b>
+Telefunken Werbung, in: Journal de Genève (27.10.1931), S.6.<b>
+
+
+<img width="279" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/41ba0b9f-7bad-4595-85e0-01992b2ed028">
+Telefunken Werbung, in: Freiburger Nachrichten (17.12.1931), S.6.<b>
+
+**List of sources**
 • Das Schaufenster. Einzel-berichte über käufliche Radiogeräte und Lautsprecher, in: Funkschau 45 (08.11.1931), S. 356-360. <br>
 • Der Architekt hat das Wort, in: Funkschau 45 (08.11.1931), S. 354-356.<br>
 • Die Telefunken-Mehrkreis-Empfänger, Dr. Nr. 709, A. 831. M. AP. M. <br>
@@ -91,7 +111,7 @@ URL: https://www.technikmuseum.findbuch.net/php/main.php#4949492e3220696e7465726
 • Telefunken Werbung, in: Freiburger Nachrichten (29.10.1931), S. 6. <br>
 • Telefunken Werbung, in: Freiburger Nachrichten (06.11.1931), S. 6. <br>
 • Telefunken Werbung, in: Freiburger Nachrichten (17.11.1931), S. 6. <br>
-• Telefunken Werbung, in: Freiburger Nachrichten (17.12.1931). <br>
+• Telefunken Werbung, in: Freiburger Nachrichten (17.12.1931), S. 6.<br>
 • Telefunken Werbung, in: Journal de Genève (27.10.1931), S. 6. <br> 
 • Telefunken Werbung, in: Journal de Genève (4.12.1931), S. 8. <br>
 • Telefunken Werbung, in: L’Express (13.11.1931), S. 2. <br>
