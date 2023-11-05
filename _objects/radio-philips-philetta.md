@@ -109,7 +109,7 @@ Oeyenhausen, Wilhelm von, 30 Jahre „Philips-Philetta“- Rundfunkgeräteserie 
 -   	This book dedicates 90 pages to the Philetta and would therefore be highly recommendable. The book is available in some German libraries.
 
   **Sources**
---
+---
 
 Albert Wolter’s personal accounts.
 
