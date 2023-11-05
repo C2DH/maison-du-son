@@ -171,5 +171,6 @@ Sounds of ivory Philetta B2D13A: https://www.youtube.com/watch?v=eItyhwzZUyk
 
 
 Oral history: interview with an owner of a Philetta. Mp3 file.
+Assets link: https://github.com/C2DH/maison-du-son/blob/master/assets/images/Interview%20Philetta%20JM%20Resch.m4a 
 
 
