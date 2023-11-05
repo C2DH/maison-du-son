@@ -108,8 +108,9 @@ A number of books could be relevant but were unfortunately not available. These 
 Oeyenhausen, Wilhelm von, 30 Jahre „Philips-Philetta“- Rundfunkgeräteserie 1940-1970 (Idstein: Walz, 2001).
 -   	This book dedicates 90 pages to the Philetta and would therefore be highly recommendable. The book is available in some German libraries.
 
-  **Sources**
----
+**Sources**
+--
+
 
 Albert Wolter’s personal accounts.
 
