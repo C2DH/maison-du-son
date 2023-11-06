@@ -125,6 +125,19 @@ Van Es, Karin/ Keilbach, Judith, ‘Keeping Up the Live: Recorded Television as 
 • Telefunken Werbung, in: Luxemburger Wort (26.11.1931), S. 8. <br>
 • Telefunken Werbung: in: Neue Zürcher Zeitung (28.11.1931), S. 3. <br>
 
+***Photos*** 
+
+<img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/f5daeb6a-b986-4796-8411-377bc5bb0096">
+<img width="226" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/78d7d3f8-6732-4fd0-8c87-61557756b94a"> <br>
+
+Vorder- und Hinterseite des Telefunken 340 W, in: Telefunken 340 W (Katzenkopf), in: Wumpus Welt der Radios, URL: https://www.welt-der-alten-radios.de/ausstellung-roehrenradios-1-232.html (Stand: 01.11.2023). <br>
+
+
+<img width="327" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/d517bf06-742b-4827-a881-ae3fec3880cd"> <br>
+
+Fotos des restaurierten Telefunken 340 W (Collection Albert Wolter).<br>
+
+
 ***Journal Advertisements*** 
 
 <img width="211" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/521321e4-8897-4c2b-ab6b-29839ec356fa">
@@ -152,17 +165,6 @@ Telefunken Werbung, in: Journal de Genève (27.10.1931), S.6.<b>
 Telefunken Werbung, in: Freiburger Nachrichten (17.12.1931), S.6.<b>
 
 
-***Photos*** 
-
-<img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/f5daeb6a-b986-4796-8411-377bc5bb0096">
-<img width="226" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/78d7d3f8-6732-4fd0-8c87-61557756b94a"> <br>
-
-Vorder- und Hinterseite des Telefunken 340 W, in: Telefunken 340 W (Katzenkopf), in: Wumpus Welt der Radios, URL: https://www.welt-der-alten-radios.de/ausstellung-roehrenradios-1-232.html (Stand: 01.11.2023). <br>
-
-
-<img width="327" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/d517bf06-742b-4827-a881-ae3fec3880cd"> <br>
-
-Fotos des restaurierten Telefunken 340 W (Collection Albert Wolter).<br>
 
 ***Manuals and Advertisements***
 
@@ -208,4 +210,5 @@ Volkstümliche Netzempfänge auf der Berliner Funkaustellung, in: Funkschau 37 (
 
 
 <img width="176" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/43016a59-ff19-491b-8569-41fef7e812ab">
+
 Radioteile werden gepreßt. Pressmaterial, ein wichtiger Baustein der Radioindustrie, in: Funkschau 42 (18.10.1931), S. 331. 
