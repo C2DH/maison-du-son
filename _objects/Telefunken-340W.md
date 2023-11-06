@@ -219,16 +219,10 @@ Radioteile werden gepreßt. Pressmaterial, ein wichtiger Baustein der Radioindus
 
 <img width="331" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/78947685-8014-4218-a011-1c27a8fdb728">
 
-Dieses Bild ist wahrscheinlich eine Werbung produziert von Telefunken. Da ich das Bild nur auf Pinterest gefunden habe, habe ich einen Kommentar hinterlassen, um nach dem Urheberrecht und dem Archiv aus dem es stammen könnte zu fragen.
+Dieses Bild ist wahrscheinlich eine Werbung produziert von Telefunken. Da ich das Bild nur auf Pinterest gefunden habe, habe ich einen Kommentar hinterlassen, um nach dem Urheberrecht und dem Archiv aus dem es stammen könnte zu fragen.<br>
 
 
-telefunken katzenkopf 340w, in: YouTube, URL: https://www.youtube.com/watch?v=IbF5TmwO-qY (Stand: 28.10.2023). 
 
-Telefunken 340W ‘Katzenkopf, Baujahr 1931 im Betrieb, in: YouTube, URL: https://www.youtube.com/watch?v=L_mMAF52Ws4&t=88s (Stand: 28.10.2023).
-
-Telefunken 340W ''Katzenkopf", in: YouTube, URL: https://www.youtube.com/watch?v=OkkqVdFtO6w (Stand: 28.10.2023). 
-
-Telefunken 340W, in: YouTube, URL: https://www.youtube.com/watch?v=pg3C6VuCuVU (Stand: 28.10.2023). 
 
 ## Audio of the Telefunken 340W
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IbF5TmwO-qY?si=_F-Aa4mdrSX9BSgB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
