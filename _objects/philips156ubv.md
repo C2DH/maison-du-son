@@ -110,7 +110,7 @@ There are a lot more contemporary articles, which are not online. They are avail
 <figure><img width="500" height="400" src="/assets/images/Philips156UBVNew.JPG"><figcaption>The new version</figcaption></figure>
 
 <figure><img width="500" height="500" src="/assets/images/Philips156UBV_Box.JPG"><figcaption> </figcaption></figure>
-<figure><img width="500" height="500" src="/assets/images/Philips156UBV_Scar.JPG"><figcaption> </figcaption></figure>
+<figure><img width="600" height="500" src="/assets/images/Philips156UBV_Scar.JPG"><figcaption> </figcaption></figure>
 
 <figure><img width="500" height="500" src="/assets/images/Philips156UBV_Technical.png"><figcaption> </figcaption></figure>
 
