@@ -75,8 +75,10 @@ There are several other snippets of programmes that got played on the front on y
 
 ## Contemporary Pictures
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Cover-Wunschkonzert.png"><figcaption> </figcaption></figure>
-Title cover of the book for the ‘Request Show for the Wehrmacht’, 1940. The picture was used in: ROSS, Corey, Media and the Making of Modern Germany. Mass Communications, Society, and Politics from the Empire to the Reich, Oxford : Oxford University Press, 2008. The author indicates bpk Berlin as sources. I found the picture on their website for sale (https://www.bpk-bildagentur.de/shop)
+<figure><img width="500" height="600" src="/assets/images/Philips156UBV_Cover-Wunschkonzert.png"><figcaption> </figcaption></figure>
+Title cover of the book for the ‘Request Show for the Wehrmacht’, 1940. The picture was used in: ROSS, Corey, Media and the Making of Modern Germany. Mass Communications, Society, and Politics from the Empire to the Reich, Oxford : Oxford University Press, 2008. 
+The author indicates bpk Berlin as sources. I found the picture on their website for sale (https://www.bpk-bildagentur.de/shop)
+
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_SoldatensenderBelgrad(1941).jpg"><figcaption> </figcaption></figure>
 
