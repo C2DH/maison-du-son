@@ -92,23 +92,28 @@ Entschuldigung, aber wie lange reden wir nun schon miteinander? Ich denke ich ha
 
 **sources** <br>
 • Service Information of the Telefunken 4001 M9 Magnetophon (15 Pages), Language: German/English/Frensh/Spanish, <br>
+Form: Scan <br>
 Found on: https://archives.doctsf.com/documents/feuilleter_document.php?num_doc=111813&ref=78881 <br>
 Copyright: For the moment, unknown <br>
 <img src="/assets/images/TELEFUKEN M 4001 (3).pdf"> <br>
 <br>
 • Page of the Telefunken 4001 M9 Magnetophon in the Telefunken Report 1967-1968, Language German <br>
+Form: Scan <br>
 Found on: https://www.hifi-archiv.info/telefunken.html <br>
 Website could be usefull for several objects! <br>
 Copyright: For the moment, unknown <br>
 <img src="/assets/images/Telefunken 4001 Katalog.jpg"> <br>
 <br>
 • Price list of Telefunken Products in 1967 (Since the address is in Switzerland, prices might be in Swiss Fanks? This has to be checked), Language German <br>
+Form: Scan <br>
 Found on: https://www.hifi-archiv.info/telefunken.html <br>
 Copyright: For the moment, unknown <br>
 <img src="/assets/images/Telefunken Preisliste.jpeg">
-<img src="/assets/images/Telefunken Preisliste 02.jpeg">
-
-
+<img src="/assets/images/Telefunken Preisliste 02.jpeg"> <br>
+<br>
+• The Technikmuseum Berlin possesses large parts of the archival material of the AEG-Telefunken company (pictures/documents/films/ etc.). To what extend these archives are useful is not known at the moment. I contacted the archival department, but there has not been an answer yet. I will update this entry once I get an answer. 
+Link to the archive: https://technikmuseum.berlin/sammlung/historisches-archiv/ <br>
+Proof for the communication: 
 
 
 
