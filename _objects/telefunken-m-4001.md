@@ -114,6 +114,6 @@ Copyright: For the moment, unknown <br>
 • The Technikmuseum Berlin possesses large parts of the archival material of the AEG-Telefunken company (pictures/documents/films/ etc.). To what extend these archives are useful is not known at the moment. I contacted the archival department, but there has not been an answer yet. I will update this entry once I get an answer. 
 Link to the archive: https://technikmuseum.berlin/sammlung/historisches-archiv/ <br>
 Proof for the communication: 
-
+<img src="/assets/images/ProofTechnikMuseum.png">
 
 
