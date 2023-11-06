@@ -67,6 +67,7 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 ## Sound Sources
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xeWupXK2-Ww?si=iVnTs7PlUtOgVFY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Soldatensender Belgrad (Soldiers Radio Belgrade, Yugoslavia, 1941), in: youtube.com, URL: https://www.youtube.com/watch?v=xeWupXK2-Ww&t=7 (last accessed: 03.11.2023).
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
@@ -75,6 +76,7 @@ There are several other snippets of programmes that got played on the front on y
 
 <figure><img width="400" height="300" src="/assets/images/Philips156UBV_DRA1.png"><figcaption> </figcaption></figure>
 <figure><img width="1300" height="300" src="/assets/images/Philips156UBV_DRA2.png"><figcaption> </figcaption></figure>
+These are two examples of sound sources in the DRA. I don't have access to these sources yet. 
 
 ## Contemporary Pictures
 
@@ -86,7 +88,7 @@ The author indicates bpk Berlin as sources. I found the picture on their website
 <figure><img width="500" height="600" src="/assets/images/Philips156UBV_SoldatensenderBelgrad(1941).jpg"><figcaption> </figcaption></figure>
 
 <figure><img width="500" height="700" src="/assets/images/Philips156UBV_BildSoldatensenderMail.png"><figcaption> </figcaption></figure>
-I found that picture only on pinterest, but there was no indication on the source of the picture, so I contacted the person on pinterest.
+I found that picture only on pinterest, but there was no indication on the source of the picture, so I contacted the person on pinterest, but I haven't got an answer yet.
 
 ## Contemporary Articles
 
@@ -99,7 +101,7 @@ Die Weihnachtsringsendung – eine Großleistung von Organisation und Technik, i
 Schwandt, Erich, Zehn Jahre nationalsozialistische Rundfunktechnik, in: Funkschau. Zeitschrift für Funktechniker 16/2 (1943), S. 17-18. (Link: http://www.radiomuseum.org/forumdata/users/5100/Funkschau_16jg_0243_1v1_v20.pdf)
 
 <figure><img width="500" height="500" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
-There are a lot more contemporary articles, which are not online. They are available in different archives, but I chose to contact the DRA, because they might have everything on one place. If not, other archives will be contacted.
+There are a lot more contemporary articles, which are not online. They are available in different archives, but I chose to contact the DRA, because they might have everything on one place. If not, other archives will be contacted. Currently, on the sound section of the DRA has answered my mail, but apparently an answer from the other sections (Text and Image) are coming.
 
 ## Pictures of the radio:
 
@@ -110,7 +112,7 @@ There are a lot more contemporary articles, which are not online. They are avail
 <figure><img width="500" height="500" src="/assets/images/Philips156UBV_Technical.png"><figcaption> </figcaption></figure>
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Schematics.png"><figcaption> </figcaption></figure>
-All of these pictures were taken by me. The documents are in possession of Albert Wolter
+All of these pictures were taken by me. The documents are in possession of Albert Wolter.
 
 ## Internet Resources:
 
