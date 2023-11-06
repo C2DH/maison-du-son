@@ -106,7 +106,7 @@ Copyright: For the moment, unknown <br>
 Found on: https://www.hifi-archiv.info/telefunken.html <br>
 Copyright: For the moment, unknown <br>
 <img src="/assets/images/Telefunken Preisliste.jpeg">
-<img src="/assets/images/Telefunken Preisliste (02).jpeg">
+<img src="/assets/images/Telefunken Preisliste 02.jpeg">
 
 
 
