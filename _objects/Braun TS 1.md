@@ -6,3 +6,4 @@ authors:
 date: 2023-10-13
 object_date: 1955-1957
 ---
+## Object Biography
