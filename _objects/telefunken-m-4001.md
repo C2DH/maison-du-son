@@ -98,8 +98,8 @@ Copyright: For the moment, unknown <br>
 <br>
 • Page of the Telefunken 4001 M9 Magnetophon in the Telefunken Report 1967-1968, Language German <br>
 Copyright: For the moment, unknown <br>
-
-
+<img src="/assets/images/Telefunken 4001 Katalog.jpg"> <br>
+<br>
 
 
 
