@@ -85,7 +85,7 @@ In 1908 Edison changed the wax cylinder format by doubling the groove density. T
 
 Source material
 
-<figure><img src="/assets/images/Edison standard image.png"><figcaption> </figcaption></figure>
+<figure><img src="/assets/images/Last model "A" version.png><figcaption> </figcaption></figure>
 
 
 A band records a wax cylinder.
