@@ -146,5 +146,61 @@ https://en.wikipedia.org/wiki/Around_the_World_(La_La_La_La_La)#:~:text=Backgrou
 -	Wikipedia-Autoren. (2003). VIVA Deutschland. de.wikipedia.org: https://de.wikipedia.org/wiki/VIVA_Deutschland. 
 -	Wikipedia-Autoren. (2006). Oops! . . . I Did It Again. de.wikipedia.org. https://de.wikipedia.org/wiki/Oops!_%E2%80%A6_I_Did_It_Again
 -	Wikipedia-Autoren. (2019). Hey! Baby. de.wikipedia.org. https://de.wikipedia.org/wiki/Hey!_Baby. 
--	ZIEGLER, F. E. U. W. (2022). Geschichte der Tonträger: Compact Disc. Planet Wissen. https://www.planet-wissen.de/kultur/musik/geschichte_der_tontraeger/pwiecompactdisc100.html#:~:text=Der%20Laserstrahl%20eines%20CD%20%2DPlayers,Reflexionen%20in%20elektrische%20Signale%20um. 
+-	ZIEGLER, F. E. U. W. (2022). Geschichte der Tonträger: Compact Disc. Planet Wissen. https://www.planet-wissen.de/kultur/musik/geschichte_der_tontraeger/pwiecompactdisc100.html#:~:text=Der%20Laserstrahl%20eines%20CD%20%2DPlayers,Reflexionen%20in%20elektrische%20Signale%20um.
+-	
 
+## Source Database
+**List of sources – Catalogue entry**
+
+-	RAQRAQXOX. (2013, 3. Februar). The Fresh Prince Of Bel Air Theme Song (Full) [Video]. YouTube. https://www.youtube.com/watch?v=1nCqRmx3Dnw. Between the seconds 39-41 the „American “ ghettoblaster can be seen.
+-	Philips Kataloge und Anleitungen. Katalog „Philips Magazine NL 1999“.  https://www.hifi-archiv.info/philips.html. 
+-	Philps Kataloge und Anleitungen. Katalog „Philips Magazine 1998 TV-Video-Audio“.  https://www.hifi-archiv.info/philips.html.  
+-	Funk- und Fernseharchiv. (2022, October 13). DeutschlandRadio Berlin - Nachrichten (Fragment vermutlich Mitte Oktober 2000) [Video]. YouTube. https://www.youtube.com/watch?v=G3A4f8L6EQ4. 
+-	Philips AZ 1040 Handbuch (Seite 44 von 54) | ManualsLib. (n.d.). https://www.manualslib.de/manual/449600/Philips-Az-1040.html?page=44#manual
+-	VintageElectro (13.06.2023). Philips AZ1045 CD Radio Cassette Player. Youtube. https://www.youtube.com/watch?app=desktop&v=DIKHjnhj6i0
+-	WOLTER, A. „Philips Ghettoblaster AZ1040/00“. Katalog 3, Privatarchiv. 
+-	Perth Show — the industry girds its loins for battle. (1986, July). The Australian Electronics, 1st birthday issue. https://www.worldradiohistory.com/AUSTRALIA/Australian-Electronics/AU-AEM-1986-07.pdf#search=%22ghettoblaster%20philips%22, page 17. 
+-	TV Wholesale. (1994, October). Television.  https://www.worldradiohistory.com/UK/Practical-Television/90s/Television-1994-10.pdf#search=%22ghettoblaster%20philips%22, page 889.
+
+*Audio sources:*
+-	The sound of the buttons (own recording): 
+
+
+
+
+*Image sources:*
+ 
+Personal radio (Philips CD Soundmachine AZ 382), used to play some hits of the Bravo-CD “The Hits 2000”
+ 
+Screenshot of a mail from the Philips customer service. As I have not found any information on when the first Ghettoblaster AZ1040/00 was first built, I contacted Philips. 
+ 
+The object of Albert Wolters collection. The Radio is in the 3rd catalog. 
+
+
+ 
+An advertisement for the Samsung ghetto blaster from 1994 from a British advertising newspaper. (Source: TV Wholesale. (1994, October). Television.  https://www.worldradiohistory.com/UK/Practical-Television/90s/Television-1994-10.pdf#search=%22ghettoblaster%20philips%22, page 889.)
+
+
+ 
+A description of the Philips Ghettoblaster from an Australian magazine from 1986. (Source: Perth Show — the industry girds its loins for battle. (1986, July). The Australian Electronics, 1st birthday issue. https://www.worldradiohistory.com/AUSTRALIA/Australian-Electronics/AU-AEM-1986-07.pdf#search=%22ghettoblaster%20philips%22, page 17.)
+
+
+
+## List of sources - thematic room (Radio Luxembourg – RTL) 
+
+A diverse number of photos from the beginnings of Radio Luxembourg are on this website:
+-	History of Radio Luxembourg and its English service | RadioLuxembourg. (n.d.). http://www.radioluxembourg.co.uk/?page_id=2
+
+“Radio Luxembourg: The Virtual Exhibition” supervised by Prof. Andreas Fickers; a selection of interesting sources for the museum room: 
+-	Storymaps 
+o	Camarlinghi, B. (2016). Radio Luxembourg and the other Radio Stations. H-EUROPE. https://h-europe.uni.lu/?page_id=3269
+-	Timeline
+o	The History of RTL – Timeline (2016). H-EUROPE. https://h-europe.uni.lu/?page_id=3284
+
+-	Oral history interviews
+o	Adao, K. and Correia, M. (2016). Interview: Benny Brown. H-EUROPE. https://h-europe.uni.lu/?page_id=5269 
+
+-	Posts: 
+o	Floener, N. (2016). From Military Fortress to Broadcasting Station: the Villa Louvigny. H-EUROPE. https://h-europe.uni.lu/?page_id=3499
+o	Tumelero, M. (2016). An Orchestra on the Radio – What for? H-EUROPE. https://h-europe.uni.lu/?page_id=3469
+![image](https://github.com/C2DH/maison-du-son/assets/145359036/214f23b5-ba26-44fd-aead-c515a969fc80)
