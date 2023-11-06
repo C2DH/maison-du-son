@@ -153,6 +153,12 @@ https://digital.hagley.org/AVDJOPN2014_philips-italia-bw
 ![2601_1487399](https://github.com/C2DH/maison-du-son/assets/146642433/9bb4de50-6a44-49d5-93ca-5f10fffcfd11)
 ![2601_1487400](https://github.com/C2DH/maison-du-son/assets/146642433/eb6e32d9-82d1-414d-be41-b2a295be16d4)
 
+22. Philips 2601 in 1931
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mwTkkJsq5mE?si=j0KtLBvsdoAqIScj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+23. Audio Philips 2511 in 1928
+https://www.vintageradio.nl/radio's/philips_2511_engels.htm
+
 
 ---
 Literature:
