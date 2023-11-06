@@ -2,7 +2,9 @@
 title: Telefunken 340W
 abstract: The radio, first produced in 1931 by Telefunken, was often referred to as a Katzenkopf due to the catlike shape of it's scale cover.
 authors: cathy-collard
+date: 2023-11-03 
 ---
+
 
 ## Der Telefunken 340 W - Eine Objektbiografie[1]
 
@@ -227,3 +229,23 @@ Telefunken 340W ‘Katzenkopf, Baujahr 1931 im Betrieb, in: YouTube, URL: https:
 Telefunken 340W ''Katzenkopf", in: YouTube, URL: https://www.youtube.com/watch?v=OkkqVdFtO6w (Stand: 28.10.2023). 
 
 Telefunken 340W, in: YouTube, URL: https://www.youtube.com/watch?v=pg3C6VuCuVU (Stand: 28.10.2023). 
+
+## Audio of the Telefunken 340W
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IbF5TmwO-qY?si=_F-Aa4mdrSX9BSgB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+telefunken katzenkopf 340w, in: YouTube, URL: https://www.youtube.com/watch?v=IbF5TmwO-qY (Stand: 01.11.2023). 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_mMAF52Ws4?si=V8BBUwhk9PCoMEQL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Telefunken 340W ‘Katzenkopf, Baujahr 1931 im Betrieb, in: YouTube, URL: https://www.youtube.com/watch?v=L_mMAF52Ws4&t=88s (Stand: 01.11.2023).
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OkkqVdFtO6w?si=gfzL5P0wHMK8avAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Telefunken 340W ''Katzenkopf", in: YouTube, URL: https://www.youtube.com/watch?v=OkkqVdFtO6w (Stand: 01.11.2023). 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pg3C6VuCuVU?si=4elqQA93_iaPDAUz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Telefunken 340W, in: YouTube, URL: https://www.youtube.com/watch?v=pg3C6VuCuVU (Stand: 01.11.2023). 
