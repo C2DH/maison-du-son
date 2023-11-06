@@ -94,12 +94,15 @@ Entschuldigung, aber wie lange reden wir nun schon miteinander? Ich denke ich ha
 • Service Information of the Telefunken 4001 M9 Magnetophon (15 Pages), Language: German/English/Frensh/Spanish, <br>
 Found on: https://archives.doctsf.com/documents/feuilleter_document.php?num_doc=111813&ref=78881 <br>
 Copyright: For the moment, unknown <br>
-<img src="/assets/images/TELEFUNKEN M 4001 (3).pdf"> <br>
+<img src="/assets/images/TELEFUKEN M 4001 (3).pdf"> <br>
 <br>
 • Page of the Telefunken 4001 M9 Magnetophon in the Telefunken Report 1967-1968, Language German <br>
+Found on: https://www.hifi-archiv.info/telefunken.html <br>
+Website could be usefull for several objects! <br>
 Copyright: For the moment, unknown <br>
 <img src="/assets/images/Telefunken 4001 Katalog.jpg"> <br>
 <br>
+•
 
 
 
