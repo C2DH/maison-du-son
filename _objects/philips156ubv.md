@@ -87,15 +87,15 @@ I found that picture only on pinterest, but there was no indication on the sourc
 
 ## Contemporary Articles
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Weihnachtsringsendung.png"><figcaption> </figcaption></figure>
+<figure><img width="500" height="500" src="/assets/images/Philips156UBV_Weihnachtsringsendung.png"><figcaption> </figcaption></figure>
 Die Weihnachtsringsendung – eine Großleistung von Organisation und Technik, in: Funkschau. Zeitrschrift für Funktechniker 14/2 (1941), S. 22. (Link: http://www.radiomuseum.org/forumdata/users/5100/Funkschau_14jg_0241_1v1_v30.pdf)
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_10Jahre_Rundfunk.png"><figcaption> </figcaption></figure>
+<figure><img width="500" height="500" src="/assets/images/Philips156UBV_10Jahre_Rundfunk.png"><figcaption> </figcaption></figure>
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_10JahreRundfunk2.png"><figcaption> </figcaption></figure>
+<figure><img width="500" height="500" src="/assets/images/Philips156UBV_10JahreRundfunk2.png"><figcaption> </figcaption></figure>
 Schwandt, Erich, Zehn Jahre nationalsozialistische Rundfunktechnik, in: Funkschau. Zeitschrift für Funktechniker 16/2 (1943), S. 17-18. (Link: http://www.radiomuseum.org/forumdata/users/5100/Funkschau_16jg_0243_1v1_v20.pdf)
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
+<figure><img width="500" height="500" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
 There are a lot more contemporary articles, which are not online. They are available in different archives, but I chose to contact the DRA, because they might have everything on one place. If not, other archives will be contacted.
 
 ## Pictures of the radio:
