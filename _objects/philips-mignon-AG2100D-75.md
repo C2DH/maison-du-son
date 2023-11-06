@@ -102,8 +102,42 @@ The sound of Vinyl (online), What is a 7-Inch Record?, online from: https://thes
 17.   The Mignon has only one interface button, which is the ejection button. Can be seen used, cf. Chorzów Music and Picture Art Gallery (online), Philips Mignon AG - 2100 D - 75 [Video], translation by authoourser, 7:20-7:22, online from: https://www.youtube.com/watch?v=waUmmlWnxWs.<br> </div>
 <br>
 
-##### **_Picture Annexe (Copyright Luca Uhrig, Courtesy of M. Albert Wolter):_**
+##### **_Picture Annexe (Copyright Luca Uhrig, Courtesy of M. Albert Wolter) and Sources:_**
 <img src="/assets/images/Mignon-Ex1.png">
 <img src="/assets/images/Mignon-Ex2.png">
 <img src="/assets/images/Mignon-Ex3.png">
 
+*"_Sources Annexe_** 
+BersoAntik (online), Винтажный проигрыватель пластинок, online from: https://bersoantik.com/media/_versions/11.2018/s-l1600_object_preview.jpg.
+Bliss Modern Antiques (online), PHILIPS Mignon “Plattenschlucker” 1957(!sic), online from: https://bliss-shop.ch/wp-content/uploads/2016/10/64ddb1a44bdeeaf8b85656dfcdc3b8a3-2.jpg.
+Brian Richmond (online), Bobby Darin - Mack the Knife ((Mono)) 1959 [Video], online under: https://youtu.be/_94p5UFiuNw?t=30 (Accessed 22.06.2023)
+Chorzów Music and Picture Art Gallery (online), Philips Mignon AG - 2100 D - 75 [Video], translation by author, online from: https://www.youtube.com/watch?v=waUmmlWnxWs.
+De Goya, F., (1820-1823), Saturn Devouring One of his Sons, [mural painting transferred to canvas], Museo del Prado, Madrid, Public Domain in Country of origin, Picture retrieved from: https://en.wikipedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg (Accessed 22.06.2023). 
+Deutsche Digitale Bibliothek (online), Philips AG 2102 A, online from: https://www.deutsche-digitale-bibliothek.de/item/RK4QI2RSSLRK4OV4ETNFSMFQOBFRLE4F.
+Fiol, M. (2022), Restauration d’un mange-disque Lansay Modèle Penny, in: Radiofil, 113 (Novembre-Décembre), P. 36-43, kindly provided by M. Albert Wolter.
+Philips Service (n.d.), Philips AG 2100 D / AG 9123 Manual, online from: https://www.vinylengine.com/library/philips/mignon-ag-2100d.shtml.
+Philips Service Documentaire (n.d.), Voor de Mignon Platenspeler AG2100, online from: https://elektrotanya.com/philips_ag2100_mignon_portable_turntable_lemezjatszo_1956_sm.zip/download.html.
+RadioWiki (online), Philips Mignon AG2100, online from: https://www.radiomuseum-bocket.de/wiki/index.php?title=Datei:Philips_ag2100_mignon_werbung_001.jpg.
+RocknRoll-Schallplatten-forum.de (online), Werbeplatte Mignon-Cocktail, Ad titled "Philips Klingende Kostbarkeiten", online from: https://www.rocknroll-schallplatten-forum.de/attachment_processor.php?mode=implement_file&id=2975
+RocknRoll-Schallplatten-forum.de (online), Werbeplatte Mignon-Cocktail, Ad titled "Mignon-Werbung 3 (Philips)", online from: https://www.rocknroll-schallplatten-forum.de/attachment_processor.php?mode=implement_file&id=27603
+True Reviews  (online), Philips mignon record player [Video], online from: https://youtu.be/Jc9vnOeIWZI?t=29 (Accessed 22.06.2023).
+Uhrig, L. (19.06.2023), Insertion & Ejection Sound [Cropped Sound file], Courtesy of M. Albert Wolter, online from: https://www.dropbox.com/s/z6ue0uk0eqanjqh/Soundscape%20of%20Modernity_MignonInUse.mp4?dl=0.
+Uhrig, L. (19.06.2023), Soundscape of Modernity_MignonInUse [Video], Courtesy of M. Albert Wolter, online from: https://www.dropbox.com/s/z6ue0uk0eqanjqh/Soundscape%20of%20Modernity_MignonInUse.mp4?dl=0.
+Welt.de (online), Warum die LP ein „Album“ genannt wird – und Singles ein so großes Loch haben, Mignon Ad titled: "Single-Plattenspieler für die junge Zielgruppe: Werbung aus dem Jahr 1957", Source not traceable, online from: https://img.welt.de/img/geschichte/mobile244854120/9007933847-coriginal-w780/Philipps-Plattenspieler-Werbung-1957-Philips-Record-Player.jpg
+
+
+Philips Mignon AG2100D Manual (Pfd: </a>https://github.com/C2DH/maison-du-son/blob/master/assets/images/ve_philips_mignon_ag_2100d_9123d_service_de.pdf)
+<img src="/assets/images/MignonManualP1.png">
+<img src="/assets/images/MignonManualP2.png">
+<img src="/assets/images/MignonManualP3.png">
+<img src="/assets/images/MignonManualP4.png">
+<img src="/assets/images/MignonManualP5.png">
+<img src="/assets/images/MignonManualP6.png">
+<img src="/assets/images/MignonManualP7.png">
+<img src="/assets/images/MignonManualP8.png">
+
+Other Ads:
+<img src="/assets/images/MignonAd3.jpg">
+<img src="/assets/images/MignonAd4.jpg">
+<img src="/assets/images/MignonAd5.jpg">
+<img src="/assets/images/MignonAd6.jpg">
