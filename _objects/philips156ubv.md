@@ -11,42 +11,9 @@ object_date: 1942
 cover:
   src: /assets/images/Philips156UBVPicture.png
 ---
-
 ## History 
 
 The Philips 156 UBV was produced since 1942 in the dutch Philips factories that were under german control. It was used by the Wehrmacht during World War II at the front, but not for military purposes, but to supply soldiers with news from home or entertainment. There were radio stations that were explicitly directed towards soldiers, the most known one is Radio Belgrad. With these radio stations and its entertainment the idea was to keep the spirits of the soldiers high.
-
-## Programmes at the front
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xeWupXK2-Ww?si=iVnTs7PlUtOgVFY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Soldatensender Belgrad (Soldiers Radio Belgrade, Yugoslavia, 1941), in: youtube.com, URL: https://www.youtube.com/watch?v=xeWupXK2-Ww&t=7 (last accessed: 03.11.2023).
-
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
-There are several other snippets on youtube (Ringsendungen, Konzerte für die Wehrmacht etc.). I contacted the Deutsches Rundfunkarchiv to get access to the full versions, they apparently have a big collection of material.
-
-## Contemporary Pictures
-
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Cover-Wunschkonzert.png"><figcaption> </figcaption></figure>
-Title cover of the book for the ‘Request Show for the Wehrmacht’, 1940. The picture was used in: ROSS, Corey, Media and the Making of Modern Germany. Mass Communications, Society, and Politics from the Empire to the Reich, Oxford : Oxford University Press, 2008. The author indicates bpk Berlin as sources. I found the picture on their website for sale (https://www.bpk-bildagentur.de/shop)
-
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_SoldatensenderBelgrad(1941).jpg"><figcaption> </figcaption></figure>
-
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_BildSoldatensenderMail.png"><figcaption> </figcaption></figure>
-I found that picture only on pinterest, but there was no indication on the source of the picture, so I contacted the person on pinterest.
-
-## Contemporary Articles
-
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Weihnachtsringsendung.png"><figcaption> </figcaption></figure>
-Die Weihnachtsringsendung – eine Großleistung von Organisation und Technik, in: Funkschau. Zeitrschrift für Funktechniker 14/2 (1941), S. 22. (Link: http://www.radiomuseum.org/forumdata/users/5100/Funkschau_14jg_0241_1v1_v30.pdf)
-
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_10Jahre_Rundfunk.png"><figcaption> </figcaption></figure>
-
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_10JahreRundfunk2.png"><figcaption> </figcaption></figure>
-Schwandt, Erich, Zehn Jahre nationalsozialistische Rundfunktechnik, in: Funkschau. Zeitschrift für Funktechniker 16/2 (1943), S. 17-18. (Link: http://www.radiomuseum.org/forumdata/users/5100/Funkschau_16jg_0243_1v1_v20.pdf)
-
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
-There are a lot more contemporary articles, which are not online. They are available in different archives, but I chose to contact the DRA, because they might have everything on one place. If not, other archives will be contacted.
-
 
 ## Object Biography 
 
@@ -97,6 +64,37 @@ In the last few days, many radios left the warehouse. There seems to be a great 
 **One day later:**
 Where do I begin, dear diary? Last night was extremely eventful. It all started when I was taken away from the storage facility. I was firmly convinced that the store owner had finally had enough of me and wanted to make room for a radio with a higher chance of being sold. I could not even blame him for this, I would probably have done the same. I had accepted my fate; I was put down on a table and fell asleep. To my surprise, I woke up. I was standing in front of a windowpane and couldn't believe my eyes when I looked into the reflection. The ugly grey box turned into a dark brown radio with new buttons. I looked like a radio meant to be used in the living room. Furthermore, my circuitry was converted to common types of tubes, and a power cable was attached. Through all the excitement about my appearance, I had not even noticed which window it was at all that I was looking at myself in. It was the shop window.
 
+## Programmes at the front
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xeWupXK2-Ww?si=iVnTs7PlUtOgVFY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Soldatensender Belgrad (Soldiers Radio Belgrade, Yugoslavia, 1941), in: youtube.com, URL: https://www.youtube.com/watch?v=xeWupXK2-Ww&t=7 (last accessed: 03.11.2023).
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
+There are several other snippets on youtube (Ringsendungen, Konzerte für die Wehrmacht etc.). I contacted the Deutsches Rundfunkarchiv to get access to the full versions, they apparently have a big collection of material.
+
+## Contemporary Pictures
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Cover-Wunschkonzert.png"><figcaption> </figcaption></figure>
+Title cover of the book for the ‘Request Show for the Wehrmacht’, 1940. The picture was used in: ROSS, Corey, Media and the Making of Modern Germany. Mass Communications, Society, and Politics from the Empire to the Reich, Oxford : Oxford University Press, 2008. The author indicates bpk Berlin as sources. I found the picture on their website for sale (https://www.bpk-bildagentur.de/shop)
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_SoldatensenderBelgrad(1941).jpg"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_BildSoldatensenderMail.png"><figcaption> </figcaption></figure>
+I found that picture only on pinterest, but there was no indication on the source of the picture, so I contacted the person on pinterest.
+
+## Contemporary Articles
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Weihnachtsringsendung.png"><figcaption> </figcaption></figure>
+Die Weihnachtsringsendung – eine Großleistung von Organisation und Technik, in: Funkschau. Zeitrschrift für Funktechniker 14/2 (1941), S. 22. (Link: http://www.radiomuseum.org/forumdata/users/5100/Funkschau_14jg_0241_1v1_v30.pdf)
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_10Jahre_Rundfunk.png"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_10JahreRundfunk2.png"><figcaption> </figcaption></figure>
+Schwandt, Erich, Zehn Jahre nationalsozialistische Rundfunktechnik, in: Funkschau. Zeitschrift für Funktechniker 16/2 (1943), S. 17-18. (Link: http://www.radiomuseum.org/forumdata/users/5100/Funkschau_16jg_0243_1v1_v20.pdf)
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
+There are a lot more contemporary articles, which are not online. They are available in different archives, but I chose to contact the DRA, because they might have everything on one place. If not, other archives will be contacted.
+
 ## Pictures of the radio:
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBVPicture.png"><figcaption>The old version</figcaption></figure>
@@ -119,7 +117,6 @@ All of these pictures were taken by me. The documents are in possession of Alber
 ‘Philips-Empfänger : Typenschlüssel der Betriebsarten Versorgungsarten Betriebsspannungen‘, _gfgf.org_, [Link](https://www.gfgf.org/Forum/index.php?t=msg&th=3013&start=0&).
 
 ‘Philips 156 UBV‘, _doctsf.com_, [Link](https://www.doctsf.com/156-ubv/f11076).
-
 
 ## Bibliography:
 
