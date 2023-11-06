@@ -68,8 +68,6 @@ s.a., 'TR82 Manual',_pasttimesradios_ s.d., [Link](http://www.pasttimesradio.co.
 MarkAmsterdam, 'BUSH Portable Radio Brochure (GB 1962)_3', _flickriver_, 2012, [Link](https://www.flickr.com/photos/29533980@N05/6970626679/).© BUSH Portable Radio Brochure by courtesy of Mark Meijster, Amsterdam, The Netherlands
 
 
-
-
 ## Bibliography
 
 Crisell Andrew. An Introductory History of British Broadcasting. 2nd ed. London: Routledge; 2002.
