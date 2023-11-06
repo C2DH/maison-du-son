@@ -91,7 +91,10 @@ Entschuldigung, aber wie lange reden wir nun schon miteinander? Ich denke ich ha
 •	TELEFUNKEN, Telefunken History, in: telefunken.com, URL: https://telefunken.com/company/?anchor=history (Gesehen: 21.06.2023). <br>
 
 **sources** <br>
-
+• Service Information of the Telefunken 4001 M9 Magnetophon (15 Pages), Language: German/English/Frensh/Spanish, <br>
+Found on: https://archives.doctsf.com/documents/feuilleter_document.php?num_doc=111813&ref=78881 <br>
+Copyright: For the moment, unknown
+<img src="/assets/images/TELEFUNKEN M 4001 (3).pdf">
 
 
 
