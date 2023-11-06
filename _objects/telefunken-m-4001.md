@@ -111,9 +111,11 @@ Copyright: For the moment, unknown <br>
 <img src="/assets/images/Telefunken Preisliste.jpeg">
 <img src="/assets/images/Telefunken Preisliste 02.jpeg"> <br>
 <br>
-• The Technikmuseum Berlin possesses large parts of the archival material of the AEG-Telefunken company (pictures/documents/films/ etc.). To what extend these archives are useful is not known at the moment. I contacted the archival department, but there has not been an answer yet. I will update this entry once I get an answer. 
+• The Deutsches Technikmuseum Berlin possesses large parts of the archival material of the AEG-Telefunken company (pictures/documents/films/ etc.). To what extend these archives are useful is not known at the moment. I contacted the archival department, but there has not been an answer yet. I will update this entry once I get an answer. 
 Link to the archive: https://technikmuseum.berlin/sammlung/historisches-archiv/ <br>
 Proof for the communication: 
-<img src="/assets/images/ProofTechnikMuseum.png">
-
+<img src="/assets/images/ProofTechnikMuseum.png"> <br>
+<br>
+• The website Phonographia.com offers ads of the first phonographer producing companies. They are extremly important in the context of the context of sound reproduction and fidelity/high fidelity. Unfortunately, the formate of the website does not allow a proper use of the advertisments. Therefore I contacted the owner of the site and inquired about better scans, etc. There been no answer until now.  I will update this entry once I get an answer. 
+Link to the website: https://phonographia.com/Factola/CatherOP.htm
 
