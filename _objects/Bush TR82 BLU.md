@@ -87,9 +87,7 @@ Smith Norman. Transistor Radios 1954-1968. Schiffer Pub 1998.
 
 BBC, A History of the world – Objet: Bush Radio TR82C: https://www.bbc.co.uk/ahistoryoftheworld/objects/AlewaV2BRPiNbthQKrFIUw
 
-Science Museum Group Collection. Bush Radio Limited 1932 - 1986. Nationality: British. based: Shepherd's Bush, Hammersmith and Fulham, London, Greater London, England, United Kingdom. Online:
-
-https://collection.sciencemuseumgroup.org.uk/people/cp64758/rank-bush-murphy-group
+Science Museum Group Collection. Bush Radio Limited 1932 - 1986. Nationality: British. based: Shepherd's Bush, Hammersmith and Fulham, London, Greater London, England, United Kingdom. Online:https://collection.sciencemuseumgroup.org.uk/people/cp64758/rank-bush-murphy-group
 
 https://www.modip.ac.uk/artefact/aibdc-008682
 
