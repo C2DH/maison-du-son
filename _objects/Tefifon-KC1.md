@@ -51,3 +51,13 @@ Tefifon in: Museum of Obsolete Media; URL: https://obsoletemedia.org/tefifon/
 
 Tefifon Picnic Werbung; URL: https://www.hupse.eu/radio/images/tefifrau.jpg
 
+## Audiovisual files
+
+Comparing the Tefifon and the LP, URL: https://www.youtube.com/watch?v=NOkd87mvnmo
+
+Tefi 4 Stunden Band, URL: https://archive.org/details/tks_2237-die_grosse_tefi_schlager_revue_wir_tanzen_bis_zum_morgen?webamp=default
+
+Tefifon KC1 mit Kurzband, URL: https://www.youtube.com/watch?v=FoCymJHQkh4
+
+Vintage Electronics: The Tefifon, URL: https://www.youtube.com/watch?v=nBNTAmLRmUg
+
