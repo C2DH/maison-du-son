@@ -92,7 +92,7 @@ Die Weihnachtsringsendung – eine Großleistung von Organisation und Technik, i
 
 <figure><img width="500" height="500" src="/assets/images/Philips156UBV_10Jahre_Rundfunk.png"><figcaption> </figcaption></figure>
 
-<figure><img width="500" height="500" src="/assets/images/Philips156UBV_10JahreRundfunk2.png"><figcaption> </figcaption></figure>
+<figure><img width="400" height="500" src="/assets/images/Philips156UBV_10JahreRundfunk2.png"><figcaption> </figcaption></figure>
 Schwandt, Erich, Zehn Jahre nationalsozialistische Rundfunktechnik, in: Funkschau. Zeitschrift für Funktechniker 16/2 (1943), S. 17-18. (Link: http://www.radiomuseum.org/forumdata/users/5100/Funkschau_16jg_0243_1v1_v20.pdf)
 
 <figure><img width="500" height="500" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
