@@ -70,7 +70,8 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 Soldatensender Belgrad (Soldiers Radio Belgrade, Yugoslavia, 1941), in: youtube.com, URL: https://www.youtube.com/watch?v=xeWupXK2-Ww&t=7 (last accessed: 03.11.2023).
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Mail_DeutschesRundFunkArchiv.png"><figcaption> </figcaption></figure>
-There are several other snippets on youtube (Ringsendungen, Konzerte für die Wehrmacht etc.). I contacted the Deutsches Rundfunkarchiv to get access to the full versions, they apparently have a big collection of material.
+
+There are several other snippets of programmes that got played on the front on youtube (Ringsendungen, Konzerte für die Wehrmacht etc.), but they are often not complete or not in an original state. Therefore, I contacted the Deutsches Rundfunkarchiv to get access to the full and original versions, because they have a big collection of material from that time.
 
 ## Contemporary Pictures
 
