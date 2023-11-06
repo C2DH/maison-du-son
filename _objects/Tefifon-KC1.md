@@ -35,4 +35,4 @@ KNIBBS, Kate, ‘A look at the Tefifon, Germany’s doomed 1950’s Music Player
 WALZ, Rüdiger, „Von ‚Zwerg‘ bis wuchtig und schwer.“ In: Funkgeschichte 246, August/September 2019
 
 WENZ, John, ‘This was Germany’s Half-Tape Half-Vinyl Music format that never took off’ in: Popular Mechanics, April 8th ,2015; URL: https://www.popularmechanics.com/technology/audio/a14977/tefifon-germany-audio-format/
-![image](https://github.com/C2DH/maison-du-son/assets/146710965/aaa4e88d-2159-4abb-81b7-d44b6e850795)
+
