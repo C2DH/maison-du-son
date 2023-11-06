@@ -90,6 +90,10 @@ Entschuldigung, aber wie lange reden wir nun schon miteinander? Ich denke ich ha
 •	STERN, Jonathan, The Audible Past. Cultural Origins of Sound Reproduction, Durham 2003. <br>
 •	TELEFUNKEN, Telefunken History, in: telefunken.com, URL: https://telefunken.com/company/?anchor=history (Gesehen: 21.06.2023). <br>
 
+**sources** <br>
+
+
+
 
 
 
