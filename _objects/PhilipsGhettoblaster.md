@@ -114,16 +114,19 @@ Ich bin gespannt, was ich noch alles erleben werde und wie alt ich noch werde.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M0rqPM4YTOI?si=MX7_7qdz7Ukp0_4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Similar radio:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DIKHjnhj6i0?si=U2edhKQLTtufBprx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 ## Sources: 
 -	RAQRAQXOX. (2013, 3. Februar). The Fresh Prince Of Bel Air Theme Song (Full) [Video]. YouTube. https://www.youtube.com/watch?v=1nCqRmx3Dnw. In Sekunde 39-41 ist der Ghettoblaster zu sehen.
 -	Philips Kataloge und Anleitungen. Katalog „Philips Magazine NL 1999“.  https://www.hifi-archiv.info/philips.html. 
 -	Philps Kataloge und Anleitungen. Katalog „Philips Magazine 1998 TV-Video-Audio“.  https://www.hifi-archiv.info/philips.html.  
--	Ndr. (2023, 27. Januar). Kinderhörspiel: "Zwei Ameisen reisen nach Australien" https://www.ndr.de/nachrichten/info/Kinderhoerspiel-Zwei-Ameisen-reisen-nach-Australien,audio655096.html
 -	Funk- und Fernseharchiv. (2022, October 13). DeutschlandRadio Berlin - Nachrichten (Fragment vermutlich Mitte Oktober 2000) [Video]. YouTube. https://www.youtube.com/watch?v=G3A4f8L6EQ4. 
 -	Philips AZ 1040 Handbuch (Seite 44 von 54) | ManualsLib. (n.d.). https://www.manualslib.de/manual/449600/Philips-Az-1040.html?page=44#manual
--	WOLTER, A. „Philips Ghettoblaster AZ1040/00“. Katalog 3, Privatarchiv. 
+-	WOLTER, A. „Philips Ghettoblaster AZ1040/00“. Katalog 3, Privatarchiv.
+-	VintageElectro (13.06.2023). Philips AZ1045 CD Radio Cassette Player. Youtube. https://www.youtube.com/watch?app=desktop&v=DIKHjnhj6i0 
 
 
 
@@ -137,6 +140,7 @@ Ich bin gespannt, was ich noch alles erleben werde und wie alt ich noch werde.*
 https://en.wikipedia.org/wiki/Around_the_World_(La_La_La_La_La)#:~:text=Background%20and%20release,%22Around%20the%20World%20(La%20La%20La%20La%20La)%22,entirely%20based%20on%20%22Pesnka%22. 
 -	Philognosie GbR. (2012, 27. Juni). Nero: Gebrannte Musik CDs knistern / haben Aussetzer – Philognosie.  Philognosie. https://www.philognosie.net/computer/nero-gebrannte-musik-cds-knistern-haben-aussetzer?utm_content=cmp-true. 
 -	RATHGEB, T. & BEHRENS, P. (2018). Jim Studie 2018. Basisuntersuchung zum Medienumgang 12- bis 19-Jähriger. In MPFS - Medienpädagogischer Forschungsverbund Südwest. Medienpädagogischer Forschungsverbund Südwest.
+-	De Latour, É. (2001). Du ghetto au voyage clandestin : la métaphore héroïque. Autrepart, 19, 155-176. https://doi-org.proxy.bnl.lu/10.3917/autr.019.0155
 -	Teufel. (2023). Der Ghettoblaster: Rückkehr einer Legende. Teufel Blog. https://blog.teufel.de/derghettoblasterrueckkehr-einer-legende/. 
 -	Wikipedia contributors. (2023). Around the World (La La La La La). Wikipedia.
 -	Wikipedia-Autoren. (2003). VIVA Deutschland. de.wikipedia.org: https://de.wikipedia.org/wiki/VIVA_Deutschland. 
