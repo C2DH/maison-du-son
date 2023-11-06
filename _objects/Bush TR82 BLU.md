@@ -76,7 +76,7 @@ Crisell Andrew. An Introductory History of British Broadcasting. 2nd ed. London:
 
 Farndon John. Inventions  : A Children’s Encyclopedia. Dorling Kindersley Limited, 2018.
 
-FESNEAU, Elvina , Le poste à transistors à la conquête de la France. La radio nomade (1954-1970), Paris, Éd. INA, coll. Médias Histoire, 2011.
+Fesneau Elvina. Le poste à transistors à la conquête de la France: La radio nomade (1954-1970), Paris, Éd. INA Histoire, 2011.
 
 Ford Boris. The Cambridge Cultural History of Britain. 9 Modern Britain. Cambridge University Press 1992.
 
