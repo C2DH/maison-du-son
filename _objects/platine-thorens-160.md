@@ -109,3 +109,23 @@ Boston, 2016.
 Ashgate, Farnham, 2010.
 - WINTERS Paul, Vinyl Records and Analog Culture in the Digital Age: Pressing
 Matters, Lanham, Lexington Books, 2016.
+
+---
+Sources
+---
+- https://www.thorens.com/de/
+-  https://www.theanalogdept.com/thorens_history.htm 
+- Audio-acoustique.fr
+- http://audio.mezei.fr/pages/ThorensTD160.html
+- https://www.hifi-archiv.info/Thorens/Thorens-TD-160-flyer/
+On what the Platine sounds like: 
+-	https://www.youtube.com/watch?v=K6eAkSYewVI
+-	https://www.youtube.com/watch?v=aOJOuxc7eO4
+-	https://www.youtube.com/watch?v=23OXmVNIJ8I
+The Vinyl “crackle” : 
+-	https://www.youtube.com/watch?v=ENr5NQ-Q5aM
+The restauration of a Thorens TD160 : 
+-	https://www.youtube.com/watch?v=CcaawhNDokI
+-	https://www.youtube.com/watch?v=bkqbJmwYTss
+
+
