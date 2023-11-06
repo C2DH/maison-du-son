@@ -64,7 +64,7 @@ In the last few days, many radios left the warehouse. There seems to be a great 
 **One day later:**
 Where do I begin, dear diary? Last night was extremely eventful. It all started when I was taken away from the storage facility. I was firmly convinced that the store owner had finally had enough of me and wanted to make room for a radio with a higher chance of being sold. I could not even blame him for this, I would probably have done the same. I had accepted my fate; I was put down on a table and fell asleep. To my surprise, I woke up. I was standing in front of a windowpane and couldn't believe my eyes when I looked into the reflection. The ugly grey box turned into a dark brown radio with new buttons. I looked like a radio meant to be used in the living room. Furthermore, my circuitry was converted to common types of tubes, and a power cable was attached. Through all the excitement about my appearance, I had not even noticed which window it was at all that I was looking at myself in. It was the shop window.
 
-## Programmes at the front
+## Sound Sources
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xeWupXK2-Ww?si=iVnTs7PlUtOgVFY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Soldatensender Belgrad (Soldiers Radio Belgrade, Yugoslavia, 1941), in: youtube.com, URL: https://www.youtube.com/watch?v=xeWupXK2-Ww&t=7 (last accessed: 03.11.2023).
