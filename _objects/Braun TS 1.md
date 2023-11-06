@@ -22,6 +22,8 @@ But there is one question that sill remains. What makes the TS – 1, as well as
 The Braun TS – 1 is the technical result of decades of research within the science of radios and broadcasting, but also the beginning of a new, open-minded view on objects and their daily interaction with their owners. BRAUNs interesting approach of creating a team of experts from different educational backgrounds to bring forth not a technical product, not an art product, but a product that is pleasant to look at, is pleasant to exhibit in your comfortable home and fulfils the task of a radio. The TS – 1 was more than just a radio. It proved that the simple task of a radio isn’t only dependent on its technical mechanism, but also how it was presented and how it was displayed before the eyes of its potential buyer. With that, it became more than a radio: It became a part of the homes of many families, and their memories. 
 
 ## Images
+![japanisches ts 1 modell](https://github.com/C2DH/maison-du-son/assets/146737743/dfde3428-fe83-468d-b45b-e0c30e7782da)
+
 
 ## Literature
 -	Deutsches Hifi-Museum. http://www.hifimuseum.de/braun-historie-1.html.
