@@ -82,7 +82,7 @@ The author indicates bpk Berlin as sources. I found the picture on their website
 
 <figure><img width="500" height="600" src="/assets/images/Philips156UBV_SoldatensenderBelgrad(1941).jpg"><figcaption> </figcaption></figure>
 
-<figure><img width="550" height="700" src="/assets/images/Philips156UBV_BildSoldatensenderMail.png"><figcaption> </figcaption></figure>
+<figure><img width="500" height="700" src="/assets/images/Philips156UBV_BildSoldatensenderMail.png"><figcaption> </figcaption></figure>
 I found that picture only on pinterest, but there was no indication on the source of the picture, so I contacted the person on pinterest.
 
 ## Contemporary Articles
