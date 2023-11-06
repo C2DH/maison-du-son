@@ -158,8 +158,11 @@ https://en.wikipedia.org/wiki/Around_the_World_(La_La_La_La_La)#:~:text=Backgrou
 --	Funk- und Fernseharchiv. (2022, October 13). DeutschlandRadio Berlin - Nachrichten (Fragment vermutlich Mitte Oktober 2000) [Video]. YouTube. https://www.youtube.com/watch?v=G3A4f8L6EQ4. 
 --	Philips AZ 1040 Handbuch (Seite 44 von 54) | ManualsLib. (n.d.). https://www.manualslib.de/manual/449600/Philips-Az-1040.html?page=44#manual
 --	VintageElectro (13.06.2023). Philips AZ1045 CD Radio Cassette Player. Youtube. https://www.youtube.com/watch?app=desktop&v=DIKHjnhj6i0
+
 --	WOLTER, A. „Philips Ghettoblaster AZ1040/00“. Katalog 3, Privatarchiv. 
+
 --	Perth Show — the industry girds its loins for battle. (1986, July). The Australian Electronics, 1st birthday issue. https://www.worldradiohistory.com/AUSTRALIA/Australian-Electronics/AU-AEM-1986-07.pdf#search=%22ghettoblaster%20philips%22, page 17. 
+
 --	TV Wholesale. (1994, October). Television.  https://www.worldradiohistory.com/UK/Practical-Television/90s/Television-1994-10.pdf#search=%22ghettoblaster%20philips%22, page 889.
 
 *Audio sources:*
@@ -167,12 +170,15 @@ https://en.wikipedia.org/wiki/Around_the_World_(La_La_La_La_La)#:~:text=Backgrou
 
 
 *Image sources:*
+
  <img width="229" alt="image" src="https://github.com/C2DH/maison-du-son/assets/145359036/4048016f-6839-4c08-8b6a-b1ed4a5e73bd">
 
 Personal radio (Philips CD Soundmachine AZ 382), used to play some hits of the Bravo-CD “The Hits 2000”
+
  <img width="317" alt="image" src="https://github.com/C2DH/maison-du-son/assets/145359036/8a657978-8619-43d8-bbfa-d8fb8801cf4d">
 
 Screenshot of a mail from the Philips customer service. As I have not found any information on when the first Ghettoblaster AZ1040/00 was first built, I contacted Philips. 
+
  <img width="405" alt="image" src="https://github.com/C2DH/maison-du-son/assets/145359036/d382dd75-11be-48e1-9714-1bd48373904d">
 
 The object of Albert Wolters collection. The Radio is in the 3rd catalog. 
@@ -190,21 +196,25 @@ A description of the Philips Ghettoblaster from an Australian magazine from 1986
 ## List of sources - thematic room (Radio Luxembourg – RTL) 
 
 A diverse number of photos from the beginnings of Radio Luxembourg are on this website:
--	History of Radio Luxembourg and its English service | RadioLuxembourg. (n.d.). http://www.radioluxembourg.co.uk/?page_id=2
 
-“Radio Luxembourg: The Virtual Exhibition” supervised by Prof. Andreas Fickers; a selection of interesting sources for the museum room: 
--	Storymaps
+--	History of Radio Luxembourg and its English service | RadioLuxembourg. (n.d.). http://www.radioluxembourg.co.uk/?page_id=2
+  
+
+This virtual exhibition has a lot of useful sources: 
+
+-- “Radio Luxembourg: The Virtual Exhibition” supervised by Prof. Andreas Fickers; a selection of interesting sources for the museum room: 
+-	*Storymaps*
 
 o	Camarlinghi, B. (2016). Radio Luxembourg and the other Radio Stations. H-EUROPE. https://h-europe.uni.lu/?page_id=3269
--	Timeline
+-	*Timeline*
 
 o	The History of RTL – Timeline (2016). H-EUROPE. https://h-europe.uni.lu/?page_id=3284
 
--	Oral history interviews
+-	*Oral history interviews*
   
 o	Adao, K. and Correia, M. (2016). Interview: Benny Brown. H-EUROPE. https://h-europe.uni.lu/?page_id=5269 
 
--	Posts:
+-	*Posts:*
   
 o	Floener, N. (2016). From Military Fortress to Broadcasting Station: the Villa Louvigny. H-EUROPE. https://h-europe.uni.lu/?page_id=3499
 
