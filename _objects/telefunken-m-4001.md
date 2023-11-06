@@ -102,7 +102,9 @@ Website could be usefull for several objects! <br>
 Copyright: For the moment, unknown <br>
 <img src="/assets/images/Telefunken 4001 Katalog.jpg"> <br>
 <br>
-•
+• Price list of Telefunken Products in 1967 (Since the address is in Switzerland, prices might be in Swiss Fanks? This has to be checked), Language German <br>
+Found on: https://www.hifi-archiv.info/telefunken.html <br>
+Copyright: For the moment, unknown <br>
 
 
 
