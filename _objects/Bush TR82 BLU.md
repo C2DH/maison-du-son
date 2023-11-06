@@ -53,6 +53,8 @@ href="https://commons.wikimedia.org/wiki/File:Bush_TR82_Halogen_Highlight.JPG"><
 
 ## Sources
 
+Ounsted John, ‘The Perennial Bush’, Bulletin of the British Vintage Wireless Society Volume 20, Number 6 (December 1995), p.100.[Link](https://www.bvws.org.uk/publications/bulletins/pdf/BVWS_Bulletin_20_6.pdf).
+
 Rank Bush Murhpy LTD. Radio & Television manufacturing, 1961. Online [Link](https://www.youtube.com/watch?v=W0CGYjV1dBo).
 
 TR82 Adverstisement 1961. [Link](https://youtube.com/clip/Ugkx1nUoBz1GvTJAKddFSqY9KZ9qjC2nbB1x?feature=shared).
@@ -74,9 +76,17 @@ Crisell Andrew. An Introductory History of British Broadcasting. 2nd ed. London:
 
 Farndon John. Inventions  : A Children’s Encyclopedia. Dorling Kindersley Limited, 2018.
 
+FESNEAU, Elvina , Le poste à transistors à la conquête de la France. La radio nomade (1954-1970), Paris, Éd. INA, coll. Médias Histoire, 2011.
+
 Ford Boris. The Cambridge Cultural History of Britain. 9 Modern Britain. Cambridge University Press 1992.
 
-Karen Tom and Richard Askwith. Toymaker : The Autobiography of the Man Whose Designs Shaped Our Childhoods, 2021. 
+Handy R Erbe M Antonier A. Made in Japan : Transistor Radios of the 1950s and 1960s. San Francisco: Chronicle Books; 1993.
+
+Harris J Hyde S Smith G Whitworth art gallery (Manchester GB). 1966 And All That : Design and the Consumer in Britain 1960-1969 : Whitworth Art Gallery [Manchester] 3 October - 6 December [1986]. London: Trefoil Design Library; 1986.
+
+Karen Tom and Richard Askwith. Toymaker : The Autobiography of the Man Whose Designs Shaped Our Childhoods, 2021.
+
+s.a., ‘Über die 1932 gegründete ‘Bush Radio Co.’, RADIORAMA Nr°72, s.d. [Link](https://www.gfgf.org/files/digenio-theme/content/radiorama/pdf/Radiorama_72.pdf).
 
 Schiffer Biran. The Portable Radio in American Life. Tucson: University of Arizona Press; 1992
 
