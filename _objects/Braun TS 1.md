@@ -23,6 +23,26 @@ The Braun TS – 1 is the technical result of decades of research within the sci
 
 ## Images
 ![japanisches ts 1 modell](https://github.com/C2DH/maison-du-son/assets/146737743/dfde3428-fe83-468d-b45b-e0c30e7782da)
+![ts 1 von hinten mit deckel](https://github.com/C2DH/maison-du-son/assets/146737743/01556964-cd39-4551-9bd2-4567592c0ed0)
+![ts innenseit oben  Die antenne](https://github.com/C2DH/maison-du-son/assets/146737743/b0ab3412-a55d-44df-a7ba-108626aa183e)
+![ts von hinten ohne deckel](https://github.com/C2DH/maison-du-son/assets/146737743/14dfb573-8f88-4887-82ee-5ad718b5f642)
+![3 radios](https://github.com/C2DH/maison-du-son/assets/146737743/832f1d84-5e35-46eb-87e0-686901dbfb24)
+![braun r 22](https://github.com/C2DH/maison-du-son/assets/146737743/79a917ab-c2a9-46cb-a489-2a8919863c1d)
+![braun hm 1](https://github.com/C2DH/maison-du-son/assets/146737743/a2c7d8e5-db86-4668-9c58-d297b230ec9f)
+![braun pk g 4](https://github.com/C2DH/maison-du-son/assets/146737743/ee41952a-93bd-44dd-86fb-0db54a3ca8d0)
+![Braun pk 1](https://github.com/C2DH/maison-du-son/assets/146737743/f2a25196-5c3f-4c47-b037-7818a6766797)
+![Braun G 11](https://github.com/C2DH/maison-du-son/assets/146737743/8720621a-044d-4a87-a3b0-6646cc5d27b3)
+![Braun TS G](https://github.com/C2DH/maison-du-son/assets/146737743/55184e35-3a75-418b-8b20-c7cba18f97bb)
+![brau radio 1953](https://github.com/C2DH/maison-du-son/assets/146737743/d4559ce1-46cd-44f9-bbd7-d8acb3be2f28)
+![braun radio 1951](https://github.com/C2DH/maison-du-son/assets/146737743/db2bd796-faa3-457d-903b-d3c15d13adac)
+![Braun Radio der 50er](https://github.com/C2DH/maison-du-son/assets/146737743/80179358-cb8d-4417-a75f-5a9944d653b5)
+![Braun logo](https://github.com/C2DH/maison-du-son/assets/146737743/15803b8d-c4df-4453-8032-8c3a5edea3bb)
+![1921-Max-Braun](https://github.com/C2DH/maison-du-son/assets/146737743/4e27b454-2f1d-417f-9be6-fcd34257c05a)
+
+
+
+
+
 
 
 ## Literature
