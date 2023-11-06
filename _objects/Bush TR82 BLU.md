@@ -63,7 +63,7 @@ s.a., ‘Antique Radio TR82/97‘, _Radiomuseum_, s.d., [Link](https://www.radio
 
 s.a., 'Bush TR82: “BE THE GIRL WITH THE BUSH', s.d.,[Link](https://modular4kc.com/2010/12/22/be-the-girl-with-the-bush/).
 
-s.a., 'TR82 Manual',_pasttimesradios_ s.d., [Link](http://www.pasttimesradio.co.uk/scrapbook/tr82-manual.pdf).
+s.a., 'TR82 Manual', _pasttimesradios_ s.d., [Link](http://www.pasttimesradio.co.uk/scrapbook/tr82-manual.pdf).
 
 MarkAmsterdam, 'BUSH Portable Radio Brochure (GB 1962)_3', _flickriver_, 2012, [Link](https://www.flickr.com/photos/29533980@N05/6970626679/).© BUSH Portable Radio Brochure by courtesy of Mark Meijster, Amsterdam, The Netherlands
 
