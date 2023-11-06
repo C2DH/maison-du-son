@@ -109,7 +109,7 @@ There are a lot more contemporary articles, which are not online. They are avail
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Schematics.png"><figcaption> </figcaption></figure>
 All of these pictures were taken by me. The documents are in possession of Albert Wolter
 
-## Sources:
+## Internet Resources:
 
 ‘156 UBV‘, _Radiomuseum.org_, [Link](https://www.radiomuseum.org/r/philips_156ubv_156_ubv.html#).
 
