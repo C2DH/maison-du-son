@@ -121,7 +121,6 @@ Copyright: Deutsches Technik Museum <br>
 <img src="/assets/images/TelefunkenBild2.jpg">
 <img src="/assets/images/TelefunkenBild3.jpg">
 <img src="/assets/images/TelefunkenBild4.jpg">
-
 <br>
 • The website Phonographia.com offers ads of the first phonographer producing companies. They are extremly important in the context of the context of sound reproduction and fidelity/high fidelity. Unfortunately, the formate of the website does not allow a proper use of the advertisments. Therefore I contacted the owner of the site and inquired about better scans, etc. There been no answer until now.  I will update this entry once I get an answer. 
 Link to the website: https://phonographia.com/Factola/CatherOP.htm <br>
