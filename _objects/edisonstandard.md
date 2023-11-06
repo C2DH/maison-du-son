@@ -85,8 +85,7 @@ In 1908 Edison changed the wax cylinder format by doubling the groove density. T
 
 Source material
 
-<img src=/assets/images/Last model "A" version.png>
-
+<figure><img src="/assets/images/"><figcaption> </figcaption></figure>
 
 A band records a wax cylinder.
 The Red Hook Ramblers recording a wax cylinder at The Edison National Historic site. - YouTube
