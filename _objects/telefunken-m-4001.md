@@ -109,7 +109,7 @@ Form: Scan <br>
 Found on: https://www.hifi-archiv.info/telefunken.html <br>
 Copyright: For the moment, unknown <br>
 <img src="/assets/Telefunken Preisliste.jpeg">
-<img src="/assets/images/Telefunken Preisliste 02.jpeg"> <br>
+<img src="/assets/Telefunken Preisliste 02.jpeg"> <br>
 <br>
 • The Deutsches Technikmuseum Berlin possesses large parts of the archival material of the AEG-Telefunken company (pictures/documents/films/ etc.). To what extend these archives are useful is not known at the moment. I contacted the archival department, but there has not been an answer yet. I will update this entry once I get an answer. 
 Link to the archive: https://technikmuseum.berlin/sammlung/historisches-archiv/ <br>
