@@ -191,3 +191,21 @@ Telefunken Mehrkreis-Empfänger mit Auto-Skala, Dr Nr. 609/C, 10. 31. E. JPPM, i
 
 Netzanschluss-Gerät, Telefunken, Imprimerie P. Jonas Luxemburg.
 
+
+<img width="287" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/0b63a7e4-9bcc-4025-85a7-2415ec67dc24">
+<img width="282" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/8cb78bf2-a16e-49a5-838f-98f6a1e010ca">
+<img width="149" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/351ebae6-53c7-4a96-bf5e-face122907a5">
+
+
+Das Schaufenster. Einzel-berichte über käufliche Radiogeräte und Lautsprecher, in: Funkschau 45 (08.11.1931), S. 356-360. <br>
+Der Architekt hat das Wort, in: Funkschau 45 (08.11.1931), S. 354-356.<br>
+
+
+<img width="454" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/d002397f-beff-454d-8994-3bc757f68366">
+<img width="232" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/3df1fa20-f652-494c-b320-903de430c44e">
+
+Volkstümliche Netzempfänge auf der Berliner Funkaustellung, in: Funkschau 37 (13.09.1931), S. 290-293. <br>
+
+
+<img width="176" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/43016a59-ff19-491b-8569-41fef7e812ab">
+Radioteile werden gepreßt. Pressmaterial, ein wichtiger Baustein der Radioindustrie, in: Funkschau 42 (18.10.1931), S. 331. 
