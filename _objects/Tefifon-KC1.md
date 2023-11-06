@@ -36,3 +36,18 @@ WALZ, Rüdiger, „Von ‚Zwerg‘ bis wuchtig und schwer.“ In: Funkgeschichte
 
 WENZ, John, ‘This was Germany’s Half-Tape Half-Vinyl Music format that never took off’ in: Popular Mechanics, April 8th ,2015; URL: https://www.popularmechanics.com/technology/audio/a14977/tefifon-germany-audio-format/
 
+## Sources 
+Alles über Tefifon; URL: https://radiostube-varel.jimdofree.com/tefifon/
+
+Das Tefifon Schallbandgerät KC1;  URL: https://www.bandmaschinenseite.de/weitere-interessante-ger%C3%A4te/tefifon/
+
+Heimatmuseum Westminster: Rundfunktechnik von gestern und heute; URL: http://www.heimatmuseum-wemmetsweiler.de/Rundfunktechnik_von_gestern_und_heute.pdf
+
+Radiofunkgrube; URL: http://www.radiofundgrube.de/details_geraete_tefifon_kc1ra.php
+
+Stromlaufplan vom Verstärker für KC1 mit Rundfunkteil:  URL: https://www.nvhr.nl/gfgf/schema.asp?Merk=Tefi&Zoeken=exact&isSubmitted=yes
+
+Tefifon in: Museum of Obsolete Media; URL: https://obsoletemedia.org/tefifon/
+
+Tefifon Picnic Werbung; URL: https://www.hupse.eu/radio/images/tefifrau.jpg
+
