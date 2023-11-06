@@ -118,13 +118,19 @@ Sources
 - Audio-acoustique.fr
 - http://audio.mezei.fr/pages/ThorensTD160.html
 - https://www.hifi-archiv.info/Thorens/Thorens-TD-160-flyer/
+
 On what the Platine sounds like: 
+
 -	https://www.youtube.com/watch?v=K6eAkSYewVI
 -	https://www.youtube.com/watch?v=aOJOuxc7eO4
 -	https://www.youtube.com/watch?v=23OXmVNIJ8I
-The Vinyl “crackle” : 
+  
+The Vinyl “crackle” :
+
 -	https://www.youtube.com/watch?v=ENr5NQ-Q5aM
+  
 The restauration of a Thorens TD160 : 
+
 -	https://www.youtube.com/watch?v=CcaawhNDokI
 -	https://www.youtube.com/watch?v=bkqbJmwYTss
 
