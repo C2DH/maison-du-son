@@ -129,4 +129,14 @@ Link to the website: https://phonographia.com/Factola/CatherOP.htm <br>
 Form: Scan <br>
 Date: May 1953 <br>
 Copyright: For the moment, unknown <br>
-<img src="/assets/images/Telefunken - Festschrift zum 50Jahrigen Jubileum.pdf"> 
+<img src="/assets/images/Telefunken - Festschrift zum 50Jahrigen Jubileum.pdf">  <br>
+<br>
+• Title: The record changer <br>
+Creator: Grauer, Bill, 1922-1963 <br>
+Date: Jan 1955-Dec 1957 <br>
+Language: English <br>
+Archive: The Wisconsin Center for Film and Theater Research <br>
+Page 8 offers an advert using the concept of high fidelity <br>
+ A PDF of the whole book will be uploaded on Poseidon as soon as possible <br>
+ <br>
+ •
