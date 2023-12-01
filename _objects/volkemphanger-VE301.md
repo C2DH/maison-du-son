@@ -107,7 +107,7 @@ I am sure one day I’ll be in a showcase too !
 
 ![image](https://github.com/C2DH/maison-du-son/assets/146073524/52decd30-8687-4eaf-9f54-a7b7c2356dad)
 Images sources : 
-1.	Photo of Körting VE 301, from Albert Walter’s collection 
+1.	Photo of Körting VE 301, from Albert Wolter’s collection 
 2.	https://archive.org/details/koertingradiodasprogrammderreife193435einweitererschrittzurvollko2mmenheit
 3.	"German, buy the people's receiver!": Poster advertising for the Jedermann radio. Photo: Deutsches Rundfunkmuseum Berlin, www.drm-berlin.de
 4.	 Image Archive Prussian Cultural Heritage, 
