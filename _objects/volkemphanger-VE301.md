@@ -130,7 +130,7 @@ Mendelssohn : from 0:00 to 0:23 https://www.youtube.com/watch?v=sUm41WqTix8
 
 
 Bibliography : 
--	ANDERSON, Benedict, Imagined Communities, 1983
+-	ANDERSON, Benedict, Imagined Communities, London, Verso, 1983
 -	BERGMEIER, H., et. al., “Hitler's Airwaves: The Inside Story of Nazi Radio Broadcasting and Propaganda Swing”, The American Historical Review, Vol. 104, No. 1 (Feb., 1999), pp. 268-269.
 -	BESSIRE, Lucas, et. al., Radio Fields : Anthropology and wireless sound in the 21st century, chapiter 12 “Radio in the (i)Home : changing experiences of domestic audio technologies in Britain”, pp. 233-249 on the importance of stillness, (2012)
 -	MARSH, Allison, “Inside the Third Reich’s Radio Joseph Goebbels commissioned a stylish, mass-producible radio to channel Nazi propaganda into German homes”, Spectrum, march 2021,  https://spectrum-ieee-org.proxy.bnl.lu/inside-the-third-reichs-radio
