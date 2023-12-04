@@ -1,5 +1,5 @@
 ---
-title: Volkemphänger VE 301 
+title: Cross border echoes of the Resistance
 abstract: Created by Otto Griessing in the company Seibt, upon Goebbels’ demand, this radio was presented to the public for the first time in August 1933.  
 authors: 
   - emily-griffin
