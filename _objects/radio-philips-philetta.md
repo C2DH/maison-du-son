@@ -81,7 +81,7 @@ Fig. 3: The first Philetta, produced in 1941, also called “Kommisbrot”. Sour
 
 Fig. 4: Inspiration or copy? The Grundig 85 modeled after the successful Philetta. Source: https://www.radiomuseum.org/r/grundig_majestic_85usa.html# 
 
-assets/images/Grundig 85_usa.jpeg
+Asset link: assets/images/Grundig 85_usa.jpeg
 
 
 Fig. 5: The Philetta B2D13A by night showing off its soft glow. Source: https://www.welt-der-alten-radios.de/h--p-philetta-radios-454.html  
