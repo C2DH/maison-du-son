@@ -144,6 +144,7 @@ Funkschau 1959/ Heft 21, p. 521, URL: https://worldradiohistory.com/INTERNATIONA
 -   	Reviews like Funk-Technik or Funkschau could be highly relevant to the research on specific radio models. Funktechnik for instance appeared twice a month from 1946 to 1986 in Western Germany and discusses radio-, audio-, hifi-and television technology, but is unfortunately not fully available online. Funkschau is a German publication for technically interested radio listeners and electronics hobbyists as well and a large part of its collection is freely available on Internet Archive (https://archive.org/details/hifi-archiv-funkschau )
   
 Philips Philetta BD 273 U, in : Deutsche Digitale Bibliothek URL : https://www.deutsche-digitale-bibliothek.de/item/DFJSY2K2F5S7FAWHET3QA3KFIUCYEJNG (accessed 20.6.2023)
+https://github.com/C2DH/maison-du-son/blob/master/assets/images/Philetta%20Technoseum.jpeg
 
 Philips BD273U "Philetta" Bakelite Radio (1957), Phil’s Old Radio, in: Antique Radio, URL: https://antiqueradio.org/phil05.htm (accessed 19.6.2023)
 
