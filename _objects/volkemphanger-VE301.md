@@ -1,5 +1,5 @@
 ---
-title: Cross border echoes of the Resistance
+title: Volkemphanger VE301
 abstract: Created by Otto Griessing in the company Seibt, upon Goebbels’ demand, this radio was presented to the public for the first time in August 1933.  
 authors: 
   - emily-griffin
@@ -10,7 +10,7 @@ Because of the cheap price of the radio, other smaller companies went bankrupt b
 Goebbels, aware of the limit of the VE in terms of propaganda tool and its potential to go beyond the borders, issued death threats to those listening to foreign channels (especially German language BBC programs whose objectives were to get their message across the border an into German household through the radio, breaching the propaganda bubble created by the Nazi party). The nazis attempted radio jamming without much success. Foreign stations could be received after dark with an external antenna, particularly as stations such as the BBC increased their transmission power over the course of the war.
 According to war correspondent Howard K. Smith, the nazi authorities issued a little orange cardboard disk with a hole to make sure the radio frequencies were the nazi one and that the radio had not been tampered with to get foreign stations, which goes to show how difficult it was to ensure the radio didn’t allow the population to go beyond its borders in terms of access to content.
 
-Volksemphänger, a short play
+Cross border echoes of the Resistance, a short play
 ---
 Characters in order of appearance : 
 
