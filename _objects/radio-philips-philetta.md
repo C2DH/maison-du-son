@@ -158,6 +158,7 @@ Philips Philetta 213, in : Viel Radio, URL: https://www.viehl-radio.de/homeda/ph
 Radios der Philips Philetta-Serie, in: Wumpus Welt der Radios, URL: https://www.welt-der-alten-radios.de/h--p-philetta-radios-454.html (accessed 18.6.2023)
 
 RKF 454 2021: Tischradio Philips Philetta 283 (1958), in: Freilichtmuseum Roscheider Hof, URL: https://rlp.museum-digital.de/object/74907  (accessed 20.6.2023)
+https://github.com/C2DH/maison-du-son/blob/master/assets/images/tischradio-philips-philetta-283-1958-74907.jpeg 
 
 User Manual of the Philips Philetta B2D13A. URL: https://www.radiomuseum-bocket.de/wiki/images/pdf/Philips/PhilipsPhiletta_213_B2D13A_2018.pdf
 Assets Link: https://github.com/C2DH/maison-du-son/blob/master/assets/images/PhilipsPhiletta_213_B2D13A_user%20manual.pdf 
