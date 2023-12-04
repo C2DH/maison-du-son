@@ -29,6 +29,9 @@ Our looks have changed significantly over time though, making it difficult to sa
 
 Fig. 3 The first Philetta, produced in 1941, also called “Kommisbrot”.
 
+
+![image](https://github.com/C2DH/maison-du-son/assets/146004906/dfa0c979-562f-418f-bb23-521fe52903d4)
+
 Fig. 4 Inspiration or copy? The Grundig 85 modeled after the successful Philetta.
 
 To me, I am clearly the model that emerged to be the classic and the centerpiece of the series. I mean, have you looked at me? My design is unmistakable and unique. A true classic. Other brands thought so too, so they continued to copy the Philetta, like the Grundig 85, the AEG 3054WU, or the Telefunken Gevotte 55. Anyway, where was I? Ah yes, me being the most famous Philetta-style. Although I was a little pricier than my predecessors, costing 219 DM, that did not really constitute any issues considering the economic boom of the 50s and 60s allowed more people to afford a radio like me. I mean, I was great for everyone. I was built compactly thanks to high-quality small band filters (“Miniaturbandfilter”) specifically manufactured for me. This made me the perfect second radio for any home. I was known to be a beginner-level radio and was not only bought by young families, such as my owners, but also as a gift for confirmations for instance. I was even very common in hospitals and hotels. I loved to enchant people with my sounds, high-quality technology, and pretty lights. My receivers are so sensitive and selective that I could receive anything. Since I could also run in different networks, I was also liked by sailors and nicknamed “Seemannsradio”.[3] Have you ever seen a radio as practical and versatile as me? I doubt it.
