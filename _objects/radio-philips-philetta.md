@@ -29,6 +29,7 @@ Our looks have changed significantly over time though, making it difficult to sa
 
 Fig. 3 The first Philetta, produced in 1941, also called “Kommisbrot”.
 
+Fig. 4 Inspiration or copy? The Grundig 85 modeled after the successful Philetta.
 
 To me, I am clearly the model that emerged to be the classic and the centerpiece of the series. I mean, have you looked at me? My design is unmistakable and unique. A true classic. Other brands thought so too, so they continued to copy the Philetta, like the Grundig 85, the AEG 3054WU, or the Telefunken Gevotte 55. Anyway, where was I? Ah yes, me being the most famous Philetta-style. Although I was a little pricier than my predecessors, costing 219 DM, that did not really constitute any issues considering the economic boom of the 50s and 60s allowed more people to afford a radio like me. I mean, I was great for everyone. I was built compactly thanks to high-quality small band filters (“Miniaturbandfilter”) specifically manufactured for me. This made me the perfect second radio for any home. I was known to be a beginner-level radio and was not only bought by young families, such as my owners, but also as a gift for confirmations for instance. I was even very common in hospitals and hotels. I loved to enchant people with my sounds, high-quality technology, and pretty lights. My receivers are so sensitive and selective that I could receive anything. Since I could also run in different networks, I was also liked by sailors and nicknamed “Seemannsradio”.[3] Have you ever seen a radio as practical and versatile as me? I doubt it.
 
@@ -40,7 +41,7 @@ Oh, the fun we used to have together. I used to be so central to their daily lif
 
 ![image](https://github.com/C2DH/maison-du-son/assets/146004906/2e5335ba-4b74-46ec-92eb-10715cbd468a)
 
-Fig. 4. The Philetta's soft glow.
+Fig. 5. The Philetta's soft glow.
 
 I love to reminisce about those times. Thanks to my durability, we spent almost 20 years together. But all good things come to an end at some point. Even though the Philetta series is the longest-built series of a European manufacturer, my personal technology became outdated. Transistor radio took over in 1967 when the last tube radio was released. Transistor technology allowed the production of smaller and more portable devices, such as the Philetta 22RB292 from 1970, which significantly shrunk in size and therefore also changed in design. Additionally, television gained a hand making me more and more redundant. Eventually, I was retired. Now my resting place is in the attic, where I’m collecting dust and waiting for a restoration.
 
@@ -75,7 +76,12 @@ Fig. 2: Inside of the 213. Source : https://www.radiomuseum-bocket.de/wiki/index
 
 Fig. 3: The first Philetta, produced in 1941, also called “Kommisbrot”. Source: http://www.marts-dampfradio.de/images/Philips/philetta.htm
 
-Fig. 4: The Philetta B2D13A by night showing off its soft glow. Source: https://www.welt-der-alten-radios.de/h--p-philetta-radios-454.html  
+Fig. 4: Inspiration or copy? The Grundig 85 modeled after the successful Philetta. Source: https://www.radiomuseum.org/r/grundig_majestic_85usa.html# 
+
+assets/images/Grundig 85_usa.jpeg
+
+
+Fig. 5: The Philetta B2D13A by night showing off its soft glow. Source: https://www.welt-der-alten-radios.de/h--p-philetta-radios-454.html  
 
 **Bibliography**
 --
