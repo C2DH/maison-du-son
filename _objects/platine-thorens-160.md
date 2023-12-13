@@ -1,4 +1,4 @@
----
+![image](https://github.com/C2DH/maison-du-son/assets/146736998/821a977f-a884-4972-9dbf-2ec556284f4d)---
 title: The Platine Thorens 160
 abstract: The Platine Thorens 160 is one of most iconic object of the 70s, and still is considered to be a masterpiece of sound-engineering.
 authors:
@@ -113,7 +113,17 @@ Matters, Lanham, Lexington Books, 2016.
 ---
 Sources
 ---
-https://www.hifi-archiv.info/Thorens/Thorens-TD-160-flyer/Thorens%20TD-160%20flyer%20(1).jpg
+![image](https://www.hifi-archiv.info/Thorens/Thorens-TD-160-flyer/Thorens%20TD-160%20flyer%20(1).jpg)
+![image](https://www.hifi-archiv.info/Thorens/Thorens-TD-160-flyer/Thorens%20TD-160%20flyer%20(3).jpg![Uploading image.png…])
+![image](https://www.hifi-archiv.info/Thorens/Thorens-TD-160-flyer/Thorens%20TD-160%20flyer%20(4).jpg) 
+![image](https://www.theanalogdept.com/images/spp6-pics/HFA_arts/HFA%20Aug80%20p1.JPG![image](https://github.com/C2DH/maison-du-son/assets/146736998/c744e9df-9f45-4ae8-990d-49ec7fdd3d5b)
+![image](https://www.theanalogdept.com/images/spp6-pics/HFA_arts/HFA%20Aug80%20p2.JPG)
+![image](https://www.theanalogdept.com/images/spp6-pics/HFA_arts/HFA%20Nov80%20p1.JPG)
+![image](https://www.theanalogdept.com/images/spp6-pics/HFA_arts/HFA%20Nov80%20p2.JPG)
+![image](https://www.theanalogdept.com/images/spp6-pics/HFA_arts/HFAMar82%20p1.JPG)
+![image](https://www.theanalogdept.com/images/spp6-pics/HFA_arts/HFA%20Mar82%20p2.JPG)
+![image](https://www.theanalogdept.com/images/spp6-pics/HFA_arts/HFA%20Mar82%20p3.JPG) 
+
 
 
 On what the Platine sounds like: 
