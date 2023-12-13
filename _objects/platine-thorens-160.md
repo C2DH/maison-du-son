@@ -1,5 +1,4 @@
-![image](https://github.com/C2DH/maison-du-son/assets/146736998/821a977f-a884-4972-9dbf-2ec556284f4d)---
-title: The Platine Thorens 160
+--- title: The Platine Thorens 160
 abstract: The Platine Thorens 160 is one of most iconic object of the 70s, and still is considered to be a masterpiece of sound-engineering.
 authors:
   - celia-hamissi
@@ -123,7 +122,7 @@ Sources
 ![image](https://www.theanalogdept.com/images/spp6-pics/HFA_arts/HFAMar82%20p1.JPG)
 ![image](https://www.theanalogdept.com/images/spp6-pics/HFA_arts/HFA%20Mar82%20p2.JPG)
 ![image](https://www.theanalogdept.com/images/spp6-pics/HFA_arts/HFA%20Mar82%20p3.JPG) 
-
+![image](https://github.com/C2DH/maison-du-son/assets/146736998/821a977f-a884-4972-9dbf-2ec556284f4d)
 
 
 On what the Platine sounds like: 
