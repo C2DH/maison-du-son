@@ -113,11 +113,8 @@ Matters, Lanham, Lexington Books, 2016.
 ---
 Sources
 ---
-- https://www.thorens.com/de/
--  https://www.theanalogdept.com/thorens_history.htm 
-- Audio-acoustique.fr
-- http://audio.mezei.fr/pages/ThorensTD160.html
-- https://www.hifi-archiv.info/Thorens/Thorens-TD-160-flyer/
+https://www.hifi-archiv.info/Thorens/Thorens-TD-160-flyer/Thorens%20TD-160%20flyer%20(1).jpg
+
 
 On what the Platine sounds like: 
 
