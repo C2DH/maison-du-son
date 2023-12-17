@@ -68,7 +68,7 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="/assets/images/1.Philips156UBV_Empfang einer Abordnung der Besatzung des Lloydampfers Bremen in Berlin.png"><figcaption> </figcaption></figure>
 
-<figure><img width="500" height="400" src="assets/images/2-Philips156.png"><figcaption> </figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/2-Philips156.jpg"><figcaption> </figcaption></figure>
 
 <figure><img width="500" height="400" src="assets/images/2-Philips156.png"><figcaption> </figcaption></figure>
 
