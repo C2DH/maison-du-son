@@ -228,6 +228,9 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 53.Philips156UBVNew7
 <figure><img width="500" height="400" src="/assets/images/53.Philips156UBVNew7.JPG"><figcaption> </figcaption></figure>
 
+## Documents of the Philips 156 UBV:
+
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_ScreenDocuments.png"><figcaption> </figcaption></figure>
 
 ## Internet Resources:
 
