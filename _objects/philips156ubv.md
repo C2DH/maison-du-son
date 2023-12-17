@@ -197,6 +197,21 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="/assets/images/46.Philips156UBVOld8.JPG"><figcaption> </figcaption></figure>
 
+## Pictures of the new version of the radio:
+
+<figure><img width="500" height="400" src="/assets/images/47.Philips156UBVNew1.JPG"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/48.Philips156UBVNew2.JPG"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/49.Philips156UBVNew3.JPG"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/50.Philips156UBVNew4.JPG"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/51.Philips156UBVNew5.JPG"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/52.Philips156UBVNew6.JPG"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/53.Philips156UBVNew7.JPG"><figcaption> </figcaption></figure>
 
 
 ## Internet Resources:
