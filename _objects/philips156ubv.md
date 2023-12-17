@@ -72,6 +72,8 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="/assets/images/3.Philips156UBV_Wunschkonzert2.png"><figcaption> </figcaption></figure>
 
+<figure><img width="500" height="400" src="/assets/images/4.Philips156UBV_Wunschkonzert3.png"><figcaption> </figcaption></figure>
+
 
 ## Contemporary Pictures
 
