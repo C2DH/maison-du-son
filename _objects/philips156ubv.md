@@ -74,6 +74,8 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="assets/images/39.Philips156UBVOld1.JPG"><figcaption> </figcaption></figure>
 
+<figure><img width="500" height="500" src="/assets/images/Philips156UBV1.png"><figcaption> </figcaption></figure>
+
 There are several other snippets of programmes that got played on the front on youtube (Ringsendungen, Konzerte für die Wehrmacht etc.), but they are often not complete or not in an original state. Therefore, I contacted the Deutsches Rundfunkarchiv to get access to the full and original versions, because they have a big collection of material from that time.
 
 <figure><img width="400" height="300" src="/assets/images/Philips156UBV_DRA1.png"><figcaption> </figcaption></figure>
