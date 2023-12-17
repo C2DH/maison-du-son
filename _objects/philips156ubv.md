@@ -304,6 +304,10 @@ And so ends the diary of the Philips 156 UBV. Behind the unspectacular appearanc
 
 ## Internet Resources:
 
+‘Philips 156 UBV‘, _radiomuseum-bocket.de_, [Link](https://www.radiomuseum-bocket.de/wiki/index.php?title=Philips_156UBV).
+
+‘Philips 156 ubv schematic‘, _audioservicemanuals.com_, [Link](https://www.audioservicemanuals.com/p/philips/philips-156/13367916-philips-156-ubv-schematic).
+
 ‘156 UBV‘, _Radiomuseum.org_, [Link](https://www.radiomuseum.org/r/philips_156ubv_156_ubv.html#).
 
 ‘156 UBV‘, _Radiomuseum.org_, [Link](https://www.radiomuseum.org/r/philips_156ubv156_ub.html).
