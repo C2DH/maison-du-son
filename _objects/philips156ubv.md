@@ -94,6 +94,8 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="/assets/images/14.Philips156UBV_ChristmasGreetingsForSoldiers.png"><figcaption> </figcaption></figure>
 
+<figure><img width="500" height="400" src="/assets/images/15.Philips156UBV_ProgrammeToConnectHomeAndFront.png"><figcaption> </figcaption></figure>
+
 
 
 ## Contemporary Pictures
