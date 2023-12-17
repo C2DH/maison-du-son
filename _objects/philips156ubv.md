@@ -183,16 +183,21 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="/assets/images/39.Philips156UBVOld1.JPG"><figcaption> </figcaption></figure>
 
-<figure><img width="500" height="500" src="/assets/images/Philips156UBV_Box.JPG"><figcaption> </figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/40.Philips156UBVOld2.JPG"><figcaption> </figcaption></figure>
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBVNew.JPG"><figcaption>The new version</figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/41.Philips156UBVOld3.JPG"><figcaption> </figcaption></figure>
 
-<figure><img width="600" height="500" src="/assets/images/Philips156UBV_Scar.JPG"><figcaption> </figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/42.Philips156UBVOld4.JPG"><figcaption> </figcaption></figure>
 
-<figure><img width="500" height="500" src="/assets/images/Philips156UBV_Technical.png"><figcaption> </figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/43.Philips156UBVOld5.JPG"><figcaption> </figcaption></figure>
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Schematics.png"><figcaption> </figcaption></figure>
-All of these pictures were taken by me. The documents are in possession of Albert Wolter.
+<figure><img width="500" height="400" src="/assets/images/44.Philips156UBVOld6.JPG"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/45.Philips156UBVOld7.JPG"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/46.Philips156UBVOld8.JPG"><figcaption> </figcaption></figure>
+
+
 
 ## Internet Resources:
 
