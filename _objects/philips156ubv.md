@@ -68,13 +68,9 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="/assets/images/1.Philips156UBV_Empfang einer Abordnung der Besatzung des Lloydampfers Bremen in Berlin.png"><figcaption> </figcaption></figure>
 
-<figure><img width="500" height="500" src="/assets/images/Philips156UBV1.png"><figcaption> </figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/2.Philips156UBV_Ausschnitt aus dem Wunschkonzert für die Wehrmacht (1).png"><figcaption> </figcaption></figure>
 
-There are several other snippets of programmes that got played on the front on youtube (Ringsendungen, Konzerte für die Wehrmacht etc.), but they are often not complete or not in an original state. Therefore, I contacted the Deutsches Rundfunkarchiv to get access to the full and original versions, because they have a big collection of material from that time.
-
-<figure><img width="400" height="300" src="/assets/images/Philips156UBV_DRA1.png"><figcaption> </figcaption></figure>
-<figure><img width="1300" height="300" src="/assets/images/Philips156UBV_DRA2.png"><figcaption> </figcaption></figure>
-These are two examples of sound sources in the DRA. I don't have access to these sources yet. 
+ 
 
 ## Contemporary Pictures
 
