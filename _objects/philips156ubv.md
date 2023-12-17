@@ -242,7 +242,7 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 56.Philips156UBV_Zehn Jahre nationalsozialistische Rundfunktechnik (Whole PDF on Atlas)
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Screen10Jahre.png"><figcaption> </figcaption></figure>
 
-57.Philips156UBV_MailPictureAndTexts_DeutschesRundfunkArchiv (There are magazines in the Deutsches Rundfunkarchiv)
+57.Philips156UBV_MailPictureAndTexts_DeutschesRundfunkArchiv (There are TV-Programmes in the Deutsches Rundfunkarchiv)
 <figure><img width="500" height="400" src="/assets/images/57.Philips156UBV_MailPictureAndTexts_DeutschesRundfunkArchiv.png"><figcaption> </figcaption></figure>
 
 ## Internet Resources:
