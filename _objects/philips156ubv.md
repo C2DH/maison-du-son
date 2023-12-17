@@ -71,7 +71,12 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 <figure><img width="500" height="400" src="/assets/images/2.Philips156UBV_Ausschnitt aus dem Wunschkonzert für die Wehrmacht (1).png"><figcaption> </figcaption></figure>
 
 <figure><img width="500" height="400" src="/assets/images/3.Philips156UBV_Ausschnitt aus dem Wunschkonzert für die Wehrmacht2.png"><figcaption> </figcaption></figure>
+
+<figure><img width="600" height="500" src="/assets/images/4.Philips156UBV_Wunschkonzert für die Wehrmacht (1).png"><figcaption> </figcaption></figure>
  
+<figure><img width="500" height="500" src="/assets/images/5.Philips156UBV_Wunschkonzert für die Wehrmacht (2).png"><figcaption> </figcaption></figure>
+
+<figure><img width="600" height="500" src="/assets/images/6.Philips156UBV_Rundfunkansprache von Joseph Goebbels zum 50. Wunschkonzert für die Wehrmacht.png"><figcaption> </figcaption></figure>
 
 ## Contemporary Pictures
 
