@@ -66,13 +66,7 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 ## Sound Sources in the Archives of the Deutsches Rundfunkarchiv
 
-<figure><img width="500" height="400" src="assets/images/1.Philips156UBV_Empfang einer Abordnung der Besatzung des Lloydampfers Bremen in Berlin.png"><figcaption> </figcaption></figure>
-
-<figure><img width="500" height="400" src="assets/images/1.Philips156UBV_Empfang_einer_Abordnung_der_Besatzung_des_Lloydampfers_Bremen_in_Berlin.png"><figcaption> </figcaption></figure>
-
-<figure><img width="500" height="400" src="assets/images/10.Philips156UBV_Spende des NSFK für das Wunschkonzert der Wehrmacht.png"><figcaption> </figcaption></figure>
-
-<figure><img width="500" height="400" src="assets/images/39.Philips156UBVOld1.JPG"><figcaption> </figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/1.Philips156UBV_Empfang einer Abordnung der Besatzung des Lloydampfers Bremen in Berlin.png"><figcaption> </figcaption></figure>
 
 <figure><img width="500" height="500" src="/assets/images/Philips156UBV1.png"><figcaption> </figcaption></figure>
 
