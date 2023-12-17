@@ -179,9 +179,10 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 
 
-## Pictures of the radio:
+## Pictures of the old version of the radio:
 
-<figure><img width="500" height="400" src="/assets/images/Philips156UBVPicture.png"><figcaption>The old version</figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/assets/images/39.Philips156UBVOld1.JPG"><figcaption>The old version</figcaption></figure>
+
 <figure><img width="500" height="500" src="/assets/images/Philips156UBV_Box.JPG"><figcaption> </figcaption></figure>
 
 <figure><img width="500" height="400" src="/assets/images/Philips156UBVNew.JPG"><figcaption>The new version</figcaption></figure>
