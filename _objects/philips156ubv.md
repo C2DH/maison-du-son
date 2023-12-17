@@ -167,7 +167,14 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 ## Contemporary Pictures
 
+36.Philips156UBV_Soldiers at the front 
 <figure><img width="500" height="400" src="/assets/images/36.Philips156UBV_Soldiers at the Front.png"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/37.Philips156UBV_Wunschkonzert Flyer.png"><figcaption> </figcaption></figure>
+
+<figure><img width="500" height="400" src="/assets/images/38.Philips156UBV_Soldatensender Belgrad.jpg.png"><figcaption> </figcaption></figure>
+
+
 
 
 ## Pictures of the radio:
