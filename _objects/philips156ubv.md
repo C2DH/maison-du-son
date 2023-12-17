@@ -112,6 +112,8 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="/assets/images/23.Philips156UBV_ChristmasProgramme.png"><figcaption> </figcaption></figure>
 
+<figure><img width="500" height="400" src="/assets/images/24.Philips156UBV_ExperienceInEducationalCentre.png"><figcaption> </figcaption></figure>
+
 
 
 ## Contemporary Pictures
