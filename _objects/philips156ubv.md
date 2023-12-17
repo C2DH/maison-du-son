@@ -165,7 +165,7 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 35. ‘Wunschkonzert für die Wehrmacht‘, _archive.org_, [Link](https://archive.org/details/lp_wunschkonzert-fur-die-wehrmacht_various-unknown-artist/disc1/01.01.+Des+Großen+Kurfürsten+Reitermarsch%3B+In+Einer+Nacht+Im+Mai%3B+Das+Kann+Doch+Einen+Seemann+Nicht+Erschüttern%3B+Conference%3B+Das+Lachende+Saxophon%3B+Couplet%3B+Schlafe+Mein+Prinzchen%2C+Schlaf'+Ein%3B+Gute+Nacht+Mutter%3B+Heimat+Deine+Stern...mp3).
 
 
-## Contemporary Articles
+## Contemporary Pictures
 
 <figure><img width="500" height="500" src="/assets/images/Philips156UBV_Weihnachtsringsendung.png"><figcaption> </figcaption></figure>
 Die Weihnachtsringsendung – eine Großleistung von Organisation und Technik, in: Funkschau. Zeitrschrift für Funktechniker 14/2 (1941), S. 22. (Link: http://www.radiomuseum.org/forumdata/users/5100/Funkschau_14jg_0241_1v1_v30.pdf)
