@@ -233,6 +233,14 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 54.Philips156UBV_Documents (Whole PDF on Atlas)
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_ScreenDocuments.png"><figcaption> </figcaption></figure>
 
+## Contemporary Articles:
+
+55.Philips156UBV_Die Weihnachtsringsendung - eine Großleistung von Organisation und Technik (Whole PDF on Atlas)
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_ScreenWeihnachtsringsendung.png"><figcaption> </figcaption></figure>
+
+56.Philips156UBV_Zehn Jahre nationalsozialistische Rundfunktechnik
+<figure><img width="500" height="400" src="/assets/images/Philips156UBV_Screen10Jahre.png"><figcaption> </figcaption></figure>
+
 ## Internet Resources:
 
 ‘156 UBV‘, _Radiomuseum.org_, [Link](https://www.radiomuseum.org/r/philips_156ubv_156_ubv.html#).
