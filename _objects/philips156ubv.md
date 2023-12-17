@@ -142,9 +142,28 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 ## Online Audio Sources
 
-25.‘Lale Andersen - Lili Marlene‘, _Youtube.com_, [Link](https://www.youtube.com/watch?v=YjXC4N1HXf0).
+25. ‘Lale Andersen - Lili Marlene‘, _Youtube.com_, [Link](https://www.youtube.com/watch?v=YjXC4N1HXf0).
 
-26.‘26.Amerikanischer Soldatensender 1212 (1)‘, _archive.org_, [Link](https://archive.org/details/19450327AmerikanischerSoldatensender1212AmerikanischerTarnsenderAbEnde19443m29s).
+26. ‘Amerikanischer Soldatensender 1212 (1)‘, _archive.org_, [Link](https://archive.org/details/19450327AmerikanischerSoldatensender1212AmerikanischerTarnsenderAbEnde19443m29s).
+    
+27. ‘Amerikanischer Soldatensender 1212 (2)‘, _archive.org_, [Link](https://archive.org/details/19450406SendungDesAmerikanischenSoldatensenders12122m49s).
+
+28. ‘Last Wehrmacht Report‘, _Youtube.com_, [Link](https://www.youtube.com/watch?v=2kS4PZlF_BM).
+
+29. ‘Third Reich Broadcasting Jingle‘, _Youtube.com_, [Link](https://www.youtube.com/watch?v=AnMsF-dzgAY).
+
+30. ‘Soldatensender Belgrad (1)‘, _archive.org_, [Link](https://archive.org/details/SoldatensenderBelgrad).
+
+31. ‘Soldatensender Belgrad (2)‘, _Youtube.com_, [Link](https://www.youtube.com/watch?v=4Yk18y7v-KM).
+
+32. ‘Amerikanischer Soldatensender 1212 (3)‘, _swr.de_, [Link](https://www.swr.de/swr2/wissen/archivradio/us-soldatensender-1212-fuer-frieden-jetzt-100.html).
+
+33. ‘Wehrmacht Songs and Marches‘, _archive.org_, [Link](https://archive.org/details/lp_wehrmacht-songs-and-marches-of-the-german_various/disc1/01.03.+Gegen+Briten+Und+Franzosen.mp3).
+
+34. ‘Weihnachtsringsendung 1942‘, _Youtube.com_, [Link](https://www.youtube.com/watch?v=91ruylm9rAM).
+
+35. ‘Wunschkonzert für die Wehrmacht‘, _archive.org_, [Link](https://archive.org/details/lp_wunschkonzert-fur-die-wehrmacht_various-unknown-artist/disc1/01.01.+Des+Großen+Kurfürsten+Reitermarsch%3B+In+Einer+Nacht+Im+Mai%3B+Das+Kann+Doch+Einen+Seemann+Nicht+Erschüttern%3B+Conference%3B+Das+Lachende+Saxophon%3B+Couplet%3B+Schlafe+Mein+Prinzchen%2C+Schlaf'+Ein%3B+Gute+Nacht+Mutter%3B+Heimat+Deine+Stern...mp3).
+
 
 ## Contemporary Articles
 
