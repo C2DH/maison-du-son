@@ -181,36 +181,51 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 ## Pictures of the old version of the radio:
 
+39.Philips156UBVOld1
 <figure><img width="500" height="400" src="/assets/images/39.Philips156UBVOld1.JPG"><figcaption> </figcaption></figure>
 
+40.Philips156UBVOld2
 <figure><img width="500" height="400" src="/assets/images/40.Philips156UBVOld2.JPG"><figcaption> </figcaption></figure>
 
+41.Philips156UBVOld3
 <figure><img width="500" height="400" src="/assets/images/41.Philips156UBVOld3.JPG"><figcaption> </figcaption></figure>
 
+42.Philips156UBVOld4
 <figure><img width="500" height="400" src="/assets/images/42.Philips156UBVOld4.JPG"><figcaption> </figcaption></figure>
 
+43.Philips156UBVOld5
 <figure><img width="500" height="400" src="/assets/images/43.Philips156UBVOld5.JPG"><figcaption> </figcaption></figure>
 
+44.Philips156UBVOld6
 <figure><img width="500" height="400" src="/assets/images/44.Philips156UBVOld6.JPG"><figcaption> </figcaption></figure>
 
+45.Philips156UBVOld7
 <figure><img width="500" height="400" src="/assets/images/45.Philips156UBVOld7.JPG"><figcaption> </figcaption></figure>
 
+46.Philips156UBVOld8
 <figure><img width="500" height="400" src="/assets/images/46.Philips156UBVOld8.JPG"><figcaption> </figcaption></figure>
 
 ## Pictures of the new version of the radio:
 
+47.Philips156UBVNew1
 <figure><img width="500" height="400" src="/assets/images/47.Philips156UBVNew1.JPG"><figcaption> </figcaption></figure>
 
+48.Philips156UBVNew2
 <figure><img width="500" height="400" src="/assets/images/48.Philips156UBVNew2.JPG"><figcaption> </figcaption></figure>
 
+49.Philips156UBVNew3
 <figure><img width="500" height="400" src="/assets/images/49.Philips156UBVNew3.JPG"><figcaption> </figcaption></figure>
 
+50.Philips156UBVNew4
 <figure><img width="500" height="400" src="/assets/images/50.Philips156UBVNew4.JPG"><figcaption> </figcaption></figure>
 
+51.Philips156UBVNew5
 <figure><img width="500" height="400" src="/assets/images/51.Philips156UBVNew5.JPG"><figcaption> </figcaption></figure>
 
+52.Philips156UBVNew6
 <figure><img width="500" height="400" src="/assets/images/52.Philips156UBVNew6.JPG"><figcaption> </figcaption></figure>
 
+53.Philips156UBVNew7
 <figure><img width="500" height="400" src="/assets/images/53.Philips156UBVNew7.JPG"><figcaption> </figcaption></figure>
 
 
