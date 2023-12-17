@@ -69,50 +69,73 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 1.Philips156UBV_Empfang einer Abordnung der Besatzung des Lloydampfers Bremen in Berlin
 <figure><img width="500" height="400" src="/assets/images/1.Philips156UBV_Empfang einer Abordnung der Besatzung des Lloydampfers Bremen in Berlin.png"><figcaption> </figcaption></figure>
 
+2.Philips156UBV_Wunschkonzert1
 <figure><img width="500" height="400" src="/assets/images/2.Philips156UBV_Wunschkonzert1.png"><figcaption> </figcaption></figure>
 
+3.Philips156UBV_Wunschkonzert2
 <figure><img width="500" height="400" src="/assets/images/3.Philips156UBV_Wunschkonzert2.png"><figcaption> </figcaption></figure>
 
+4.Philips156UBV_Wunschkonzert3
 <figure><img width="500" height="400" src="/assets/images/4.Philips156UBV_Wunschkonzert3.png"><figcaption> </figcaption></figure>
 
+5.Philips156UBV_Wunschkonzert4
 <figure><img width="500" height="400" src="/assets/images/5.Philips156UBV_Wunschkonzert4.png"><figcaption> </figcaption></figure>
 
+6.Philips156UBV_SpeechGoebbels
 <figure><img width="500" height="400" src="/assets/images/6.Philips156UBV_SpeechGoebbels.png"><figcaption> </figcaption></figure>
 
+7.Philips156UBV_Wunschkonzert5
 <figure><img width="500" height="400" src="/assets/images/7.Philips156UBV_Wunschkonzert5.png"><figcaption> </figcaption></figure>
 
+8.Philips156UBV_EntertainmentSoldier
 <figure><img width="500" height="400" src="/assets/images/8.Philips156UBV_EntertainmentSoldier.png"><figcaption> </figcaption></figure>
 
+9.Philips156UBV_Wunschkonzert5
 <figure><img width="500" height="400" src="/assets/images/9.Philips156UBV_Wunschkonzert5.png"><figcaption> </figcaption></figure>
 
+10.Philips156UBV_CharityForWunschkonzert
 <figure><img width="500" height="400" src="/assets/images/10.Philips156UBV_CharityForWunschkonzert.png"><figcaption> </figcaption></figure>
 
+11.Philips156UBV_ChristmasSpeech
 <figure><img width="500" height="400" src="/assets/images/11.Philips156UBV_ChristmasSpeech.png"><figcaption> </figcaption></figure>
 
+12.Philips156UBV_ChristmasSpeechGoebbels
 <figure><img width="500" height="400" src="/assets/images/12.Philips156UBV_ChristmasSpeechGoebbels.png"><figcaption> </figcaption></figure>
 
+13.Philips156UBV_AnniversaryProgramme
 <figure><img width="500" height="400" src="/assets/images/13.Philips156UBV_AnniversaryProgramme.png"><figcaption> </figcaption></figure>
 
+14.Philips156UBV_ChristmasGreetingsForSoldiers
 <figure><img width="500" height="400" src="/assets/images/14.Philips156UBV_ChristmasGreetingsForSoldiers.png"><figcaption> </figcaption></figure>
 
+15.Philips156UBV_ProgrammeToConnectHomeAndFront
 <figure><img width="500" height="400" src="/assets/images/15.Philips156UBV_ProgrammeToConnectHomeAndFront.png"><figcaption> </figcaption></figure>
 
+16.Philips156UBV_ProgrammeForFrontMoselLand
 <figure><img width="500" height="400" src="/assets/images/16.Philips156UBV_ProgrammeForFrontMoselLand.png"><figcaption> </figcaption></figure>
 
+17.Philips156UBV_SketchForSoldiers
 <figure><img width="500" height="400" src="/assets/images/17.Philips156UBV_SketchForSoldiers.png"><figcaption> </figcaption></figure>
 
+18.Philips156UBV_EntertainmentSoldier2
 <figure><img width="500" height="400" src="/assets/images/18.Philips156UBV_EntertainmentSoldier2.png"><figcaption> </figcaption></figure>
 
+19.Philips156UBV_PK-ReportOnFronterholungsheim
 <figure><img width="500" height="400" src="/assets/images/19.Philips156UBV_PK-ReportOnFronterholungsheim.png"><figcaption> </figcaption></figure>
 
+20.Philips156UBV_Weihnachtsringsendung
 <figure><img width="500" height="400" src="/assets/images/20.Philips156UBV_Weihnachtsringsendung.png"><figcaption> </figcaption></figure>
 
+21.Philips156UBV_ComradeshipServiceGroßdeutscherRundfunk
 <figure><img width="500" height="400" src="/assets/images/21.Philips156UBV_ComradeshipServiceGroßdeutscherRundfunk.png"><figcaption> </figcaption></figure>
 
+22.Philips156UBV_PublicEventUkraine
 <figure><img width="500" height="400" src="/assets/images/22.Philips156UBV_PublicEventUkraine.png"><figcaption> </figcaption></figure>
 
+23.Philips156UBV_ChristmasProgramme
 <figure><img width="500" height="400" src="/assets/images/23.Philips156UBV_ChristmasProgramme.png"><figcaption> </figcaption></figure>
 
+24.Philips156UBV_ExperienceInEducationalCentre
 <figure><img width="500" height="400" src="/assets/images/24.Philips156UBV_ExperienceInEducationalCentre.png"><figcaption> </figcaption></figure>
 
 
