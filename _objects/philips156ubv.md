@@ -140,17 +140,11 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 
 
-## Contemporary Pictures
+## Online Audio Sources
 
-<figure><img width="500" height="600" src="/assets/images/Philips156UBV_Cover-Wunschkonzert.png"><figcaption> </figcaption></figure>
-Title cover of the book for the ‘Request Show for the Wehrmacht’, 1940. The picture was used in: ROSS, Corey, Media and the Making of Modern Germany. Mass Communications, Society, and Politics from the Empire to the Reich, Oxford : Oxford University Press, 2008. 
-The author indicates bpk Berlin as sources. I found the picture on their website for sale (https://www.bpk-bildagentur.de/shop)
+25.‘Lale Andersen - Lili Marlene‘, _Youtube.com_, [Link](https://www.youtube.com/watch?v=YjXC4N1HXf0).
 
-
-<figure><img width="500" height="600" src="/assets/images/Philips156UBV_SoldatensenderBelgrad(1941).jpg"><figcaption> </figcaption></figure>
-
-<figure><img width="500" height="700" src="/assets/images/Philips156UBV_BildSoldatensenderMail.png"><figcaption> </figcaption></figure>
-I found that picture only on pinterest, but there was no indication on the source of the picture, so I contacted the person on pinterest, but I haven't got an answer yet.
+26.‘26.Amerikanischer Soldatensender 1212 (1)‘, _archive.org_, [Link](https://archive.org/details/19450327AmerikanischerSoldatensender1212AmerikanischerTarnsenderAbEnde19443m29s).
 
 ## Contemporary Articles
 
