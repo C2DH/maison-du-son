@@ -98,6 +98,8 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="/assets/images/16.Philips156UBV_ProgrammeForFrontMoselLand.png"><figcaption> </figcaption></figure>
 
+<figure><img width="500" height="400" src="/assets/images/17.Philips156UBV_SketchForSoldiers.png"><figcaption> </figcaption></figure>
+
 
 
 ## Contemporary Pictures
