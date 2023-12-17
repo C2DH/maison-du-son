@@ -172,7 +172,7 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 <figure><img width="500" height="400" src="/assets/images/37.Philips156UBV_Wunschkonzert Flyer.png"><figcaption> </figcaption></figure>
 
-<figure><img width="500" height="400" src="/assets/images/38.Philips156UBV_Soldatensender Belgrad.jpg.png"><figcaption> </figcaption></figure>
+<figure><img width="500" height="400" src="/assets/images/38.Philips156UBV_SoldatensenderBelgrad.jpg"><figcaption> </figcaption></figure>
 
 
 
