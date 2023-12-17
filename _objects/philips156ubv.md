@@ -176,7 +176,8 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 38.Philips156UBV_SoldatensenderBelgrad
 <figure><img width="500" height="400" src="/assets/images/38.Philips156UBV_SoldatensenderBelgrad.jpg"><figcaption> </figcaption></figure>
 
-
+57.Philips156UBV_MailPictureAndTexts_DeutschesRundfunkArchiv (There are no pictures in the Deutsches Rundfunkarchiv)
+<figure><img width="500" height="400" src="/assets/images/57.Philips156UBV_MailPictureAndTexts_DeutschesRundfunkArchiv.png"><figcaption> </figcaption></figure>
 
 
 ## Pictures of the old version of the radio:
@@ -238,8 +239,11 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 55.Philips156UBV_Die Weihnachtsringsendung - eine Großleistung von Organisation und Technik (Whole PDF on Atlas)
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_ScreenWeihnachtsringsendung.png"><figcaption> </figcaption></figure>
 
-56.Philips156UBV_Zehn Jahre nationalsozialistische Rundfunktechnik
+56.Philips156UBV_Zehn Jahre nationalsozialistische Rundfunktechnik (Whole PDF on Atlas)
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_Screen10Jahre.png"><figcaption> </figcaption></figure>
+
+57.Philips156UBV_MailPictureAndTexts_DeutschesRundfunkArchiv (There are magazines in the Deutsches Rundfunkarchiv)
+<figure><img width="500" height="400" src="/assets/images/57.Philips156UBV_MailPictureAndTexts_DeutschesRundfunkArchiv.png"><figcaption> </figcaption></figure>
 
 ## Internet Resources:
 
