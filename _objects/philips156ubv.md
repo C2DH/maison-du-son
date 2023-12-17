@@ -230,6 +230,7 @@ Where do I begin, dear diary? Last night was extremely eventful. It all started 
 
 ## Documents of the Philips 156 UBV:
 
+54.Philips156UBV_Documents (Whole PDF on Atlas)
 <figure><img width="500" height="400" src="/assets/images/Philips156UBV_ScreenDocuments.png"><figcaption> </figcaption></figure>
 
 ## Internet Resources:
