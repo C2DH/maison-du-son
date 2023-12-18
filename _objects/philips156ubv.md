@@ -346,6 +346,8 @@ RIEGLER, Thomas, Meilensteine des Rundfunks. Daten und Fakten zur Entwicklung de
 
 ROSS, Corey, Media and the Making of Modern Germany. Mass Communications, Society, and Politics from the Empire to the Reich, Oxford : Oxford University Press, 2008.
 
+SCHRADE, Dominik, "Singt alle mit uns gemeinsam in dieser Minute". Sound als Politik in der Weihnachtsringsendung 1942, in: GETHMANN, Daniel/STAUFF, Markus (ed.), Politiken der Medien, Zürich/Berlin : diaphanes, 2005, p. 267-285.
+
 THOMPSON, Willie, Imagined Communities. Signs and Symbols, Identities and Nations, in: THOMPSON, Willie (ed.), Work, Sex and Power. The Forces that Shaped our History, London : Pluto Press, 2015, p. 145-163.
 
 VESELY, Alois/KORÁN, Frantisek, Wireless for Wehrmacht. German Radio Equipment in World War II, Prague : RAK, 1999. (Musée nationale d’histoire militaire, not borrowable). 
