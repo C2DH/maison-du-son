@@ -7,8 +7,12 @@ authors:
 
 
 
-# Interview with the Platine Thorens 160 
-***Bonjour et bienvenue dans notre interview, avant des questions un peu plus techniques, qui est Wolter pour vous ?***
+# Une interview avec une platine des années 1970 : entre nostalgie et mélodies 
+
+***Pour vous présenter cet objet venant d’un autre temps, nous avons décidé pour les besoins de cette interview de personnifier la platine Thorens. Ainsi, elle peut parfois sembler bien érudite…
+(Son d’un vinyle que l’on met sur la platine ainsi que son son distinctif ‘crackle’)***
+
+***Bonjour et bienvenue dans notre interview, avant des questions un peu plus techniques, qui est Albert Wolter pour vous ?***
 
 Wolter m’a rencontré en Allemagne dans un magasin spécialisé, un an après que j’ai été mis en vente par la marque qui m’a créée, Thorens.
 
@@ -62,16 +66,17 @@ La nostalgie[^8] *(rires, ndlr.)* C’est un concept intéressant n’est-ce pas
 
 ***On ne peut pas expliquer ce retour simplement par la nostalgie d’une période ou d’une époque, non ?***
 
-On peut expliquer cette résurgence par plusieurs facteurs ; la volonté de certains artistes de conservé le format, le rôle de certains vendeurs indépendants ou non qui continuent de les vendre à la moindre sortie majeure. C’est le professeur associé en musique et industries créatives, Richard Osborne qui pose dans son livre la question sur le ‘revival’ du vinyle en écrivant dans son introduction cette problématique ; pourquoi n’avons-nous pas lâcher les vinyles ?[^11] Revenons à la question principale ; les tourne-disques et les vinyles font partie d’un imaginaire collectif ; on représente matériellement une époque avec des musiques sorties initialement sur vinyles qui font partie des classiques de la culture populaire comme les Beatles ou Abba.
+On peut expliquer cette résurgence par plusieurs facteurs ; la volonté de certains artistes de conservé le format  comme Taylor Swift, le rôle de certains vendeurs indépendants ou non qui continuent de les vendre à la moindre sortie majeure. C’est le professeur associé en musique et industries créatives, Richard Osborne qui pose dans son livre la question sur le ‘revival’ du vinyle en écrivant dans son introduction cette problématique ; pourquoi n’avons-nous pas lâcher les vinyles ?[^11] Revenons à la question principale ; les tourne-disques et les vinyles font partie d’un imaginaire collectif ou Imagined community[^12] ; on représente matériellement une époque avec des musiques sorties initialement sur vinyles qui font partie des classiques de la culture populaire comme les Beatles ou Abba.
 
 [^11]:  Osborne Richard, Vinyl: A History of the Analog Record, Ashgate, Farnham, 2012 in his introduction « Why is it that we can’t let go of the vinyl record? »
+[^12]:  Theory of Benedict Anderson who theorized that media creates an imagined community.
 
 ***Écouter un vinyle c’est aussi tout un processus n’est-ce pas ? Il faut plusieurs étapes, il faut aussi avoir du temps à consacrer à l’écoute...***
 
-C’est vrai ! Pensez aux étapes qu’il faut accomplir pour écouter un vinyle ; il faut sortir le vinyle, allumer le tourne-disque, déposer le vinyle, bouger le bras du tourne-disque pour le déposer au début. Contrairement au streaming, on ne peut pas passer aisément d’une chanson à une autre cela veut donc dire qu’on dédie du temps à écouter activement un morceau de musique alors que le streaming est vu plus comme la soundtrack de la vie de celui qui écoute, un moyen d’accompagner la vie. L’historien Mark Katz parle du streaming comme d’une « stérilité froide »[^12] comparée aux tourne-disques. Richard Osborne, dans son livre, explique le concept du groove en disant notamment que la force du vinyle (et par extension d’un tourne-disque) c’est de rendre la musique visible et accessible. J’adore le mot groove ! Il veut dire tellement de choses ; par exemple, c’est aussi un état dans la musique un peu magique qui est indéfinissable. Marc Sabatella[^13] a écrit que le groove était quelque chose de propre à chacun et totalement subjectif et donc une expérience vraiment personnelle de la musique et de sa perception. J’imagine que c’est ce que ressent celui qui m’écoute jouer de la musique.
+C’est vrai ! Pensez aux étapes qu’il faut accomplir pour écouter un vinyle ; il faut sortir le vinyle, allumer le tourne-disque, déposer le vinyle, bouger le bras du tourne-disque pour le déposer au début. Contrairement au streaming, on ne peut pas passer aisément d’une chanson à une autre cela veut donc dire qu’on dédie du temps à écouter activement un morceau de musique alors que le streaming est vu plus comme la soundtrack de la vie de celui qui écoute, un moyen d’accompagner la vie. L’historien Mark Katz parle du streaming comme d’une « stérilité froide »[^13] comparée aux tourne-disques. Richard Osborne, dans son livre, explique le concept du groove en disant notamment que la force du vinyle (et par extension d’un tourne-disque) c’est de rendre la musique visible et accessible. J’adore le mot groove ! Il veut dire tellement de choses ; par exemple, c’est aussi un état dans la musique un peu magique qui est indéfinissable. Marc Sabatella[^14] a écrit que le groove était quelque chose de propre à chacun et totalement subjectif et donc une expérience vraiment personnelle de la musique et de sa perception. J’imagine que c’est ce que ressent celui qui m’écoute jouer de la musique.
 
-[^12]: Katz Mark, Groove Music : The Art and Culture of the Hip-Hop DJ, Oxford, Oxford University Press, 2012
-[^13]: Marc Sabatella in his article « Establishing The Groove », 2008.
+[^13]: Katz Mark, Groove Music : The Art and Culture of the Hip-Hop DJ, Oxford, Oxford University Press, 2012
+[^14]: Marc Sabatella in his article « Establishing The Groove », 2008.
 
 ***Qu’est-ce que vous préférez par rapport à votre... Fonction ?***
 
