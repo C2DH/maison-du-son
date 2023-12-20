@@ -166,12 +166,15 @@ User Manual of the Philips Philetta 203U. URL:https://nvhrbiblio.nl/schema/Phili
 Asset link: assets/Source 19 Manual Philips_203U.pdf
 
 User Manual of the Philips Philetta B2D03A. URL: https://nvhrbiblio.nl/schema/Philips_B2D03A.pdf
-Asset link: 
+
+Asset link: assets/Source 19 Manual Philips_B2D03A.pdf
 
 User Manual of the Philips Philetta B2D13A. URL: https://www.radiomuseum-bocket.de/wiki/images/pdf/Philips/PhilipsPhiletta_213_B2D13A_2018.pdf
+
 Assets Link: https://github.com/C2DH/maison-du-son/blob/master/assets/images/PhilipsPhiletta_213_B2D13A_user%20manual.pdf 
 
 User Manual of the Philips Philetta 223 (B2D23A) found via: https://elektrotanya.com/cgi-bin/download2.cgi?dk=kjl9wcrq6eaq55wktb9bvm5svicfn8jm1cmm2sj5bqvkohsu&fid=331523&file=philips_philetta_223_b2d23a_sm.pdf
+
 Asset link: assets/images/philips_philetta_223_b2d23a_sm.pdf
 
 
