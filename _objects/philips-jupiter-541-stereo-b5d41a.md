@@ -94,28 +94,27 @@ After spending the day together, Colossus and Jupiter say their goodbyes as it i
 
 Photographs from Albert Wolter's collection: The Philips Jupiter 514 Stereo B5D41A
 
-<img width="399" alt="Bildschirmfoto 2023-04-24 um 15 50 07 Kopie" src="https://github.com/C2DH/maison-du-son/assets/106602384/3ce39197-61fa-45a0-86bb-45869a13aa0d">
+<img width="399" alt="The Philips Jupiter 514 Stereo B5D41A - Wolter Photo 1" src="https://github.com/C2DH/maison-du-son/assets/106602384/d50ccaf2-cbcf-4926-aeb8-5fcd6c38ab87">
 
-<img width="695" alt="Screenshot 2023-10-30 at 14 00 31" src="https://github.com/C2DH/maison-du-son/assets/106602384/b41812f9-64d3-4b10-a58c-50da3df6ce60">
+<img width="695" alt="The Philips Jupiter 514 Stereo B5D41A - Wolter Photo 2" src="https://github.com/C2DH/maison-du-son/assets/106602384/6c25ad15-d833-46c0-9ce8-d8b59c98f7ad">
 
 The Philips Jupiter 514 Stereo B5D41A: Photographs by Christelle Timis
 
 ![Philips Jupiter 541 Stereo B5D41A radio 1](https://github.com/C2DH/maison-du-son/assets/106602384/a566bf84-a3ad-46a7-b74d-33c85e42bb3e)
 
-![Philips Jupiter 541 Stereo B5D41A radio 2](https://github.com/C2DH/maison-du-son/assets/106602384/e8335e64-d1bb-45e9-b030-c72aed4a1d4c)
+![Philips Jupiter 541 Stereo B5D41A radio 2](https://github.com/C2DH/maison-du-son/assets/106602384/0c255e8c-12b2-4c60-b958-04e57d673e90)
 
-![Philips Jupiter 541 Stereo B5D41A radio 3](https://github.com/C2DH/maison-du-son/assets/106602384/a8b71374-e48d-481e-bd63-f3010403c58f)
+![Philips Jupiter 541 Stereo B5D41A radio 3](https://github.com/C2DH/maison-du-son/assets/106602384/11e4b4aa-8ee3-434b-ae45-7f96e2c6a78d)
 
-![Philips Jupiter 541 Stereo B5D41A radio 4](https://github.com/C2DH/maison-du-son/assets/106602384/238fcb74-ea43-497e-a7ee-17741f41e710)
+![Philips Jupiter 541 Stereo B5D41A radio 4](https://github.com/C2DH/maison-du-son/assets/106602384/cbad7036-6a8e-4dc1-99f5-1aeb9bbbf744)
 
-![Philips Jupiter 541 Stereo B5D41A radio 5](https://github.com/C2DH/maison-du-son/assets/106602384/d1817d5f-115b-42cc-8f74-19dd5b6e0679)
+![Philips Jupiter 541 Stereo B5D41A radio 5](https://github.com/C2DH/maison-du-son/assets/106602384/ca96e96b-2f86-4254-a026-9a11e40a2099)
 
-![Philips Jupiter 541 Stereo B5D41A radio 6](https://github.com/C2DH/maison-du-son/assets/106602384/6a0f16c2-88dd-40c3-b2e4-29575d2b2982)
+![Philips Jupiter 541 Stereo B5D41A radio 6](https://github.com/C2DH/maison-du-son/assets/106602384/a80cd9b9-ac27-49a5-86f2-457c222f209c)
 
-![Philips Jupiter 541 Stereo B5D41A radio 7](https://github.com/C2DH/maison-du-son/assets/106602384/b0537711-7ebd-4b57-96ba-9ae4fbac1d92)
+![Philips Jupiter 541 Stereo B5D41A radio 7](https://github.com/C2DH/maison-du-son/assets/106602384/e4bf9d2b-ab78-417c-b334-0ce6db759776)
 
-![Philips Jupiter 541 Stereo B5D41A radio 8](https://github.com/C2DH/maison-du-son/assets/106602384/d65b72f4-7c45-47c6-918e-07a37b1e3cc5)
-
+![Philips Jupiter 541 Stereo B5D41A radio 8](https://github.com/C2DH/maison-du-son/assets/106602384/3b52a39c-4ead-4ef9-86ec-5439c4cc579a)
 
 Photograph of Röhrenradio Philips "Jupiter 541 Stereo" - Freilichtmuseum Roscheider Hof, Germany - CC0. 
 
@@ -153,12 +152,6 @@ Pdf. documents on the Philips Rundfunk Stereophonie from Albert Wolter's collect
 [philips03.pdf](https://github.com/C2DH/maison-du-son/files/13257695/philips03.pdf)
 
 [philips04.pdf](https://github.com/C2DH/maison-du-son/files/13257696/philips04.pdf)
-
-**N.B.**
-
-In order to ensure more source material, I sent a request to the Philips Company Archives. I am still waiting to hear back from them.
-
-<img width="916" alt="Screenshot 2023-11-04 at 22 02 24" src="https://github.com/C2DH/maison-du-son/assets/106602384/17a6f917-0cb0-41c9-b528-2a1d417c13eb">
 
 ---
 **Sources**
