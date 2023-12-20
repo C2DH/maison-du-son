@@ -129,7 +129,7 @@ Link to the website: https://phonographia.com/Factola/CatherOP.htm <br>
 Form: Scan <br>
 Date: May 1953 <br>
 Copyright: For the moment, unknown <br>
-<img src="/assets/images/assets/Telefunkenfestschriftjpg>  <br>
+<img src="/assets/images/assets/Telefunkenfestschrift.jpg>  <br>
 <br>
 • Title: The record changer <br>
 Creator: Grauer, Bill, 1922-1963 <br>
