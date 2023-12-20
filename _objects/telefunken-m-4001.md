@@ -139,4 +139,4 @@ Archive: The Wisconsin Center for Film and Theater Research <br>
 Page 8 offers an advert using the concept of high fidelity <br>
  A PDF of the whole book will be uploaded on Poseidon as soon as possible <br>
  <br>
- • <img src="assets/14Schlottert_Rock'N'RollBoy_InternetArchive.mp3.mp3>
+ • 
