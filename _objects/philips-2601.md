@@ -81,7 +81,21 @@ Sources (second submission):
 3. Philips 2511 - interior ![nr 3](https://github.com/C2DH/maison-du-son/assets/146642433/1444b192-63a3-4519-833d-779f3e9f5e1f)
 4. Philips 2511 - with loudspeaker ![nr 4](https://github.com/C2DH/maison-du-son/assets/146642433/09ce3f4a-0d48-4a3d-a3f3-8c4cf8b5a89c)
 5. Philips 2511 - close view on company logo ![nr 5](https://github.com/C2DH/maison-du-son/assets/146642433/29b260bb-347e-4d20-bab0-b85419cd13ca)
-6. Philips 2511 - broadcast 
+6. Philips 2511 - broadcast (video to be found in Poseidon)
+7. Philips 2601 - frontal view ![nr 7](https://github.com/C2DH/maison-du-son/assets/146642433/c9dfd3df-dfdd-4189-93b3-804210716388)
+8. Philips 2601 - loudspeaker with logo ![nr 8](https://github.com/C2DH/maison-du-son/assets/146642433/20747018-931d-4fdd-bf3b-f08673ba536e)
+9. Philips 2601 - close view of buttons ![nr 9](https://github.com/C2DH/maison-du-son/assets/146642433/97400ed9-3a81-4b85-83ef-16f428eb20e3)
+10. Philips 2601 - back ![nr 10](https://github.com/C2DH/maison-du-son/assets/146642433/92fb9097-3797-44ed-9564-c90eed9c698d)
+11. Philips 2601 - interior ![nr 11](https://github.com/C2DH/maison-du-son/assets/146642433/c47e7aac-05eb-4ea2-9e00-da45255cc8b7)
+12. Philips 2601 - interior close up view (1) ![nr 12](https://github.com/C2DH/maison-du-son/assets/146642433/222a60ef-4f51-4e4d-b858-9fb2ceb04ee4)
+13. Philips 2601 - interior close up view (2) ![nr 13](https://github.com/C2DH/maison-du-son/assets/146642433/16e61b64-0043-4765-a1a9-33d65b9fe312)
+
+
+
+
+ 
+
+
 
 
 
