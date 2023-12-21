@@ -160,6 +160,10 @@ www.europeana.eu/item/192/item_S7ZRH25LXBY6MBQENZAXJACZFWVPJI64. (Accessed June 
 
 “Röhrenradio Philips "Jupiter 541 Stereo"”. museum-digital:rheinland-pfalz, URL: rlp.museum-digital.de/object/34475. (Accessed June 21st, 2023)  
 
+Timis, Christelle. “Photos Philips Jupiter 541 Stereo B5D41A radio.” 12 Dec. 2023.
+
+Timis, Christelle. “Videos Philips Jupiter 541 Stereo B5D41A radio.” 12 Dec. 2023.
+
 Wolter, Albert. “Philips Jupiter 541 Stereo”. Private Archives.
 
 ---
