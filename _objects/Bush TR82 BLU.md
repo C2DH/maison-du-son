@@ -140,8 +140,7 @@ _End..._
 
 19. Interior view TR82 BLU loudspeaker	richardsradio.co.uk, [Link](http://www.richardsradios.co.uk/Images/tr82b2.jpg)	© Unclear / richardsradio.co.uk
 
-20. Best of British : the Bush TR82C Mk.2 transistor radio. A classic 7-transistor set from the early 1960's, September 2013, Vintage Radio, By Ian Batty	Website	Vintage Radio / By Ian Batty	[Link](http://messui.polygonal-moogle.com/valves/SC201309.pdf)	© Unclear Vintage Radio/ Ian Batty![image](https://github.com/C2DH/maison-du-son/assets/146736627/8210b615-983d-4733-835f-1c867e5b7267)
-
+20. Best of British : the Bush TR82C Mk.2 transistor radio. A classic 7-transistor set from the early 1960's, September 2013, Vintage Radio, By Ian Batty	Website	Vintage Radio / By Ian Batty	[Link](http://messui.polygonal-moogle.com/valves/SC201309.pdf)	© Unclear Vintage Radio/ Ian Batty
 
 
 ## Bibliography
