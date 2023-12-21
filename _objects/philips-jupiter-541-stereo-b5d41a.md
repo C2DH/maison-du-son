@@ -64,7 +64,7 @@ Jupiter starts playing a song recording, leaving Colossus speechless of the powe
 “Wow, there are so many more questions that remain, but I feel like I have to bid you goodbye soon. Soon, visitors will enter my space to enjoy a spectacle.“ 
 “Yeah, I better get going. It was a pleasure to meet you, dear friend.” 
 “Thank you, Jupiter. It was fun exploring all these concepts with you and seeing how much things will change in the future. I can’t believe that the way I amplify and reproduce soundscapes is still known 2000 years from now.” 
-“I know it all seems crazy, the proof is right here, though! Take care, Colossus!” 
+“I know it all seems crazy; the proof is right here, though! Take care, Colossus!” 
 Colossus and Jupiter say their goodbyes as it is time for Jupiter to continue his journey to a new destination. It will remain an unforgettable experience for both, and after learning so much about sound, Colossus’ perception of hearing is changed forever. During the time travel back home, Jupiter breaks and gets lost. Fifty-five years later, a radio collector acquires him at an auction and restores the radio. After some modification, Jupiter can even be connected to an iPad, playing various music and videos. What a full-circle moment.   
 
 ---
