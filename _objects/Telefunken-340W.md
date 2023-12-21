@@ -8,15 +8,6 @@ date: 2023-11-03
 
 ## Der Telefunken 340 W - Eine Objektbiografie[1]
 
-<img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/f5daeb6a-b986-4796-8411-377bc5bb0096">
-<img width="226" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/78d7d3f8-6732-4fd0-8c87-61557756b94a"> <br>
-
-Vorder- und Hinterseite des Telefunken 340 W, in: Telefunken 340 W (Katzenkopf), in: Wumpus Welt der Radios, URL: https://www.welt-der-alten-radios.de/ausstellung-roehrenradios-1-232.html (Stand: 01.11.2023). <br>
-
-
-<img width="327" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/d517bf06-742b-4827-a881-ae3fec3880cd"> <br>
-
-Fotos des restaurierten Telefunken 340 W (Collection Albert Wolter).<br>
 
 
 ## Journal Advertisements
@@ -123,10 +114,16 @@ Telefunken 340W ''Katzenkopf", in: YouTube, URL: https://www.youtube.com/watch?v
 Telefunken 340W, in: YouTube, URL: https://www.youtube.com/watch?v=pg3C6VuCuVU (Stand: 01.11.2023). 
 
 ## Sources second draft
-![image]
-![image](https://github.com/C2DH/maison-du-son/blob/master/assets/Collard_1_Funkschau%20(Nr.45%201931)_Das%20Schaufenster_Radiomuseum_pdf.pdf)
+
+<img width="287" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/0b63a7e4-9bcc-4025-85a7-2415ec67dc24">
+<img width="282" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/8cb78bf2-a16e-49a5-838f-98f6a1e010ca">
+<img width="149" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/351ebae6-53c7-4a96-bf5e-face122907a5"> <br>
 Collard_1_Funkschau (Nr.45 1931)_Das Schaufenster_Radiomuseum_pdf <br>
 
+
+
+<img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/6723a84b-2544-497d-b411-e37eca3bbc02">
+<img width="227" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/466efdee-e4c6-4e67-a670-933404879026"> <br>
 Collard_2_Funkschau (Nr.45 1931)_Der Architekt hat das Wort_Radiomuseum_pdf <br>
 
 
@@ -144,7 +141,6 @@ Collard_4_L'Express (08.11.1933)_Enchères publiques _Impresso_png <br>
 <img width="294" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/2a89da6c-ec9d-4b04-91a3-7ee0ffdd252b">
 <img width="135" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/c3237091-fe06-439a-a761-fc4fe72fc91a">
 <img width="273" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/3b43cfa0-1ba0-4b6d-b15b-31b9a6d77866"> <br>
-
 Collard_5_Kurze Gebrauchs- und Bedienungsanleitung. Telefunken 340W mit Auto-Skala_Collection Albert Wolter_pdf <br>
 
 
@@ -166,22 +162,23 @@ Collard_9_Telefunken Mehrkreis-Empfänger mit Auto-Skala_Technikmuseum_pdf <br>
 <img width="226" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/78d7d3f8-6732-4fd0-8c87-61557756b94a"> <br>
 Collard_10_Telefunken 340 W (Katzenkopf)_Wumpus Welt der Radios.pdf <br>
 
+<img width="202" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/fd347783-7996-473b-8bc0-e04d06527a32"> <br>
+Collard_13_LW (10.10.1931)_Radio Programm_eLuxemburgensia_png <br>
 
-Collard_11_Telefunken: 340W mit Auto-Skala. Gebrauchs- und Bedienungsanleitung_Technikmuseum
+<img width="343" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/4e09e288-2d52-484e-8cfb-16169dc47aa9"> <br>
+Collard_14_ET (10.10.1931)_Radio-Apparate aller Marken_eLuxemburgensia_pdf <br>
 
-Collard_12_Funkschau (Nr. 37 1931)_Volkstümliche Netzempfänge_Radiomuseum_pdf
-
-Collard_13_LW (10.10.1931)_Radio Programm_eLuxemburgensia_png
-
-Collard_14_ET (10.10.1931)_Radio-Apparate aller Marken_eLuxemburgensia_pdf
-
+<img width="182" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/3d581e76-8cc5-4556-ae1b-502089171d5c"> <br>
 Collard_15_FN (22.10.1931)_Telefunken Werbung_Impresso_png
 
+<img width="182" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/3d581e76-8cc5-4556-ae1b-502089171d5c"> <br>
 Collard_16_FN (29.10.1931)_Telefunken Werbung_Impresso_png
 
+<img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/f1a6e3cd-016e-485d-b75a-a13da9a73392"> <br>
 Collard_17_FN (06.11.1931)_Telefunken Werbung_Impresso_png
 
-Collard_18_FN (17.11.1931)_Telefunken Werbung_Impresso_png
+<img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/f1a6e3cd-016e-485d-b75a-a13da9a73392"> <br>
+Collard_18_FN (17.11.1931)_Telefunken Werbung_Impresso_png <br>
 
 Collard_19_FN (03.12.1931)_Telefunken Werbung_Impresso_png
 
