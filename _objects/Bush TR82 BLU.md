@@ -18,11 +18,6 @@ https://collection.sciencemuseumgroup.org.uk/people/cp64758/rank-bush-murphy-gro
 [^2]: Farndon, John. Inventions  : A Children’s Encyclopedia. Dorling Kindersley Limited, 2018, p.153
 [^3]: Karen Tom and Richard Askwith. Toymaker : The Autobiography of the Man Whose Designs Shaped Our Childhoods, 2021, p.56
 
-
-## Do you want to hear the sound of this radio?
-
-<div style="padding:88.31% 0 0 0;position:relative;background:black"><iframe src="https://www.youtube.com/watch?v=97Lw7doepKg" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DigitalLandscape - test - Aug 10 2023"></iframe></div><script src="https://www.youtube.com/watch?v=97Lw7doepKg"></script>
-
 ## Be the Girl with the Bush
 
 The slogan "Be the Girl with Bush" was an iconic Bush Radio advertising campaign to promote their TR82 model. It was used in the 1960s to specifically target a young, female audience. The slogan aimed to associate the product, the TR82 radio, with a modern lifestyle and the freedom of the times. The use of the word “Girl” in the slogan was intended to create a connection with the young women of the time, inviting them to identify with the product and make it an integral part of their daily lives. By associating the product with a sense of individuality and modernity, the slogan aimed to position the TR82 radio as an essential accessory for the trendy youth of the time. It was a clever marketing campaign that capitalized on the trends and aspirations for emancipation of the youth of the 1960s[^4]. 
