@@ -3,12 +3,9 @@ title: The Philips 2601
 abstract: "The Philips 2601, a combination between radio and piece of furniture, is a product of the radio domestication process."
 authors:
   - hannah-schmit
---- 
-
-main content
 
 ---
-Object biography Philips 2601
+Object biography Philips 2511 & 2601
 ---
 
 2601: “Hello. My name is Philips 2601 and this is my biography. I am a radio and a piece of furniture in one! I was built by the Philips company in Eindhoven, in the Netherlands, in 1931 or 1933. I don’t really know when exactly I was built, because nobody could find a date on one of my parts. But according to the gentleman in whose collection I live for the moment, I was definitely built in 1931 or 1933.”
@@ -77,8 +74,11 @@ Wow that was great. Now that we’ve talked a lot about our appearances, we can 
 “Bye!” 
 
 ---
-Sources (first submission):
+Sources (second submission):
 ---
+1. Philips 2511 - frontal view ![nr 1](https://github.com/C2DH/maison-du-son/assets/146642433/3464c258-2cba-49ac-9270-a9f16af24f58)
+
+
 
 1. Picture of the Philips 2511 with Master Singer loudspeaker
 ![900409-11-30, Radio 2511 and Meesterzanger (Master Singer) loudspeaker, 1929](https://github.com/C2DH/maison-du-son/assets/146642433/54fe008f-c92b-4b73-a03a-ace283c4f8f5)
