@@ -32,7 +32,7 @@ Da jedes Telefunken 340W Gerät individuell nach Anschluss im Haus geeichtet[33]
 
 Das Telefunken 340W blieb einige Jahre im Gebrauch der Familie, bevor es 1939 durch das Telefunken D 750 GWK ersetzt wurde. Danach dauerte es mehrere Jahrzehnte, bis es in die Hände eines Radioenthusiasten im Süden des Großherzogtums fiel.
 
-2.	Endnoten
+2.	Endnoten:<br> 
 [1] Mitteilung des Telefunken-Service. Das neue Telefunken-Programm 1931-1932, Luxemburg, S. 1-4. <br> 
 [2] Die Trennschärfe ist die “Fähigkeit, einen ganz bestimmten Sender zu empfangen unter Auschluß aller anderen”. In: JUNGFER, H./ ΚÖPKE, Η., Messungen an Rundfunkempfängern: Empfindlichkeit, Trennschärfe und Wiedergabegute, in: Technisches Messen, 61-72 (1936), S. 282-285, hier S. 282 <br> 
 [3] Abstimmkreise dienen dazu “Frequenzen aus dem breiten Spektrum der Radiowellen herauszufiltern”. In: Kapazitive Abstimmkreise, in: Electricity-Magnetism, URL: https://www.electricity-magnetism.org/de/kapazitive-abstimmkreise/ (Stand: 20.12.2023). <br> 
@@ -97,7 +97,7 @@ VAN ES, Karin. The Future of Live, Cambridge und Malden 2016.<br>
 VAN ES, Karin/ KEILBACH, Judith, ‘Keeping Up the Live: Recorded Television as Live Experience’, in: VIEW Journal of European Television History and Culture 7/13 (2018), S. 60-68. <br>
 
 
-5.	Zeitungsartikel, Manuelle, Broschüren und andere Quellen:<br> 
+5.	Zeitungsartikel, Manuelle, Broschüren und andere Quellen: <br> 
 1.     Das Schaufenster. Einzel-berichte über käufliche Radiogeräte und Lautsprecher, in: Funkschau 45 (08.11.1931), S. 356-360. <br> 
 2.     Der Architekt hat das Wort, in: Funkschau 45 (08.11.1931), S. 354-356.<br> 
 3.     Die Telefunken-Mehrkreis-Empfänger, Dr. Nr. 709, A. 831. M. AP. M. <br> 
@@ -113,7 +113,7 @@ VAN ES, Karin/ KEILBACH, Judith, ‘Keeping Up the Live: Recorded Television as 
 13.  Radio Programm für Sonntag, in: Luxemburger Wort (10.10.1931), S. 8. <br> 
 14.  Radio-Apparate aller Marken, in: Escher Tageblatt. Le Journal d’Esch (10.10.1931), S. 8. <br> 
  
-5.	Telefunken Werbungen:
+5.	Telefunken Werbungen: <br> 
 15.  Telefunken Werbung, in: Freiburger Nachrichten (22.10.1931), S. 6. <br> 
 16.  Telefunken Werbung, in: Freiburger Nachrichten (29.10.1931), S. 6. <br> 
 17.  Telefunken Werbung, in: Freiburger Nachrichten (06.11.1931), S. 6. <br> 
@@ -131,11 +131,11 @@ VAN ES, Karin/ KEILBACH, Judith, ‘Keeping Up the Live: Recorded Television as 
 29.  Telefunken Werbung, in: Luxemburger Wort (26.11.1931), S. 8. <br> 
 30.  Telefunken Werbung: in: Neue Zürcher Zeitung (28.11.1931), S. 3. <br> 
 
-6.	Fotomaterial <br> 
+6.	Fotomaterial: <br> 
 
 31. Restauration «Katzenkopf» AW 2014
 
-5. Audiomaterial
+5. Audiomaterial: <br> 
 32. telefunken katzenkopf 340w, in: YouTube, URL: https://www.youtube.com/watch?v=IbF5TmwO-qY (Stand: 21.12.2023). 
  
 33. Telefunken 340W ‘Katzenkopf, Baujahr 1931 im Betrieb, in: YouTube, URL: https://www.youtube.com/watch?v=L_mMAF52Ws4&t=88s (Stand: 21.12.2023).
@@ -144,7 +144,7 @@ VAN ES, Karin/ KEILBACH, Judith, ‘Keeping Up the Live: Recorded Television as 
 34. Telefunken 340W, in: YouTube, URL: https://www.youtube.com/watch?v=pg3C6VuCuVU (Stand: 21.12.2023). 
 
 
-7.	Figures mentioned:
+7.	Figures mentioned: <br> 
  
 <img width="184" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/8392402a-d02e-4048-b886-ca35049ddc98">
 
@@ -169,7 +169,7 @@ Telefunken Werbung, in: L’Express (13.11.1931), S. 2.
 
 
 
-## Sources 
+## Sources <br> 
 
 <img width="287" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/0b63a7e4-9bcc-4025-85a7-2415ec67dc24">
 <img width="282" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/8cb78bf2-a16e-49a5-838f-98f6a1e010ca">
