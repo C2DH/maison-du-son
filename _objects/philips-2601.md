@@ -110,10 +110,10 @@ The website contains an email-address to ask about the copyright.
 https://digital.hagley.org/AVDJOPN2014_philips-italia-bw
 ![italian ad](https://github.com/C2DH/maison-du-son/assets/146642433/7d6d68b8-0fb1-4488-a22a-4467e8fbe903)
 
-23. Dutch advertisement "The newest, best, and most beautiful Dutch radio receiver", 11 October 1930, p. 3, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601
+23. Dutch advertisement "The newest, best, and most beautiful Dutch radio receiver", Overveluwsch Weekblad/Harderwijker Courant, 11 October 1930, p. 3, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601
 ![dutch ad](https://github.com/C2DH/maison-du-son/assets/146642433/33ece32b-b52c-4033-afe3-1a4e5647797e)
 
-24. Dutch advertisement "Philips Radio op den top der techniek", 18 October 1930, p. 4, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4 
+24. Dutch advertisement "Philips Radio op den top der techniek", Schilder's nieuws-en advertentieblad, 18 October 1930, p. 4, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4 
 ![other dutch ad](https://github.com/C2DH/maison-du-son/assets/146642433/d007b6b2-62e7-4809-b28f-d125c1324138)
 
 25. Dutch advertisement "Geeft het allerbeste Philips Radio", Utrechtsch Nieuwsblad, 24 November 1930, p. 12, https://www.archieven.nl/en/search?mivast=0&mizig=304&miadt=0&miview=ldt&milang=en&mizk_alle=Philips+2601&mistart=4
