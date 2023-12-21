@@ -93,25 +93,6 @@ Dieses Bild ist wahrscheinlich eine Werbung produziert von Telefunken. Da ich da
 
 
 
-## Audio of the Telefunken 340W
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IbF5TmwO-qY?si=_F-Aa4mdrSX9BSgB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-telefunken katzenkopf 340w, in: YouTube, URL: https://www.youtube.com/watch?v=IbF5TmwO-qY (Stand: 01.11.2023). 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L_mMAF52Ws4?si=V8BBUwhk9PCoMEQL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Telefunken 340W ‘Katzenkopf, Baujahr 1931 im Betrieb, in: YouTube, URL: https://www.youtube.com/watch?v=L_mMAF52Ws4&t=88s (Stand: 01.11.2023).
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OkkqVdFtO6w?si=gfzL5P0wHMK8avAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Telefunken 340W ''Katzenkopf", in: YouTube, URL: https://www.youtube.com/watch?v=OkkqVdFtO6w (Stand: 01.11.2023). 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pg3C6VuCuVU?si=4elqQA93_iaPDAUz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Telefunken 340W, in: YouTube, URL: https://www.youtube.com/watch?v=pg3C6VuCuVU (Stand: 01.11.2023). 
 
 ## Sources second draft
 
@@ -120,12 +101,9 @@ Telefunken 340W, in: YouTube, URL: https://www.youtube.com/watch?v=pg3C6VuCuVU (
 <img width="149" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/351ebae6-53c7-4a96-bf5e-face122907a5"> <br>
 Collard_1_Funkschau (Nr.45 1931)_Das Schaufenster_Radiomuseum_pdf <br>
 
-
-
 <img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/6723a84b-2544-497d-b411-e37eca3bbc02">
 <img width="227" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/466efdee-e4c6-4e67-a670-933404879026"> <br>
 Collard_2_Funkschau (Nr.45 1931)_Der Architekt hat das Wort_Radiomuseum_pdf <br>
-
 
 <img width="272" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/23aaddcd-c069-44ad-8bc7-0ad4ba7fc30a">
 <img width="274" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/fe6d2831-6dc4-4362-b073-70867fbe02d4">
@@ -136,14 +114,11 @@ Collard_3_Die Telefunken-Mehrkreis-Empfänger_Collection Albert Wolter_pdf <br>
 ![image](https://github.com/C2DH/maison-du-son/blob/master/assets/Collard_4_L'Express%20(08.11.1933)_Enchères%20publiques%20_Impresso_png.png) <br>
 Collard_4_L'Express (08.11.1933)_Enchères publiques _Impresso_png <br>
 
-
 <img width="193" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/e9526344-f56d-4127-b0a6-5cb530ad8e83">
 <img width="294" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/2a89da6c-ec9d-4b04-91a3-7ee0ffdd252b">
 <img width="135" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/c3237091-fe06-439a-a761-fc4fe72fc91a">
 <img width="273" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/3b43cfa0-1ba0-4b6d-b15b-31b9a6d77866"> <br>
 Collard_5_Kurze Gebrauchs- und Bedienungsanleitung. Telefunken 340W mit Auto-Skala_Collection Albert Wolter_pdf <br>
-
-
 
 <img width="308" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/a4ab64bf-d9a3-42cd-8a78-e29b404c8b40">
 <img width="304" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/82c3b010-f369-4fbc-a7ad-0d9fb303b2c2"> <br>
@@ -180,28 +155,60 @@ Collard_17_FN (06.11.1931)_Telefunken Werbung_Impresso_png
 <img width="218" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/f1a6e3cd-016e-485d-b75a-a13da9a73392"> <br>
 Collard_18_FN (17.11.1931)_Telefunken Werbung_Impresso_png <br>
 
-Collard_19_FN (03.12.1931)_Telefunken Werbung_Impresso_png
+<img width="262" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/e18dd5d3-d4c0-4be3-972c-13d0e468fc82"> <br>
+Collard_19_FN (03.12.1931)_Telefunken Werbung_Impresso_png  <br>
 
-Collard_20_FN (17.12.1931)_Telefunken Werbung_Impresso_png
+<img width="279" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/213acc0b-335f-4d32-820a-c7a2db69f314"> <br>
+Collard_20_FN (17.12.1931)_Telefunken Werbung_Impresso_png <br>
 
-Collard_21_JG (20.10.1931)_Telefunken Werbung_Impresso_png
+<img width="206" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/3cc559a3-cc65-40bd-942e-97cd215b08a0"> <br>
+Collard_21_JG (20.10.1931)_Telefunken Werbung_Impresso_png <br>
 
-Collard_22_JG (27.10.1931)_Telefunken Werbung_Impresso_png
+<img width="206" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/3cc559a3-cc65-40bd-942e-97cd215b08a0"> <br>
+Collard_22_JG (27.10.1931)_Telefunken Werbung_Impresso_png <br>
 
-Collard_23_JG (10.11.1931)_Telefunken Werbung_Impresso_png
+<img width="249" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/ace4e6ba-b3ce-4bb5-b114-3cf9567a3988"> <br>
+Collard_23_JG (10.11.1931)_Telefunken Werbung_Impresso_png <br>
 
-Collard_24_JG (04.12.1931)_Telefunken Werbung_Impresso_pdf
+<img width="211" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/fde89b3e-3d2c-48fa-bb54-aa76f43b6d2a"> <br>
+Collard_24_JG (04.12.1931)_Telefunken Werbung_Impresso_pdf <br>
 
-Collard_25_JG (18.12.1931)_Telefunken Werbung_Impresso_png
+<img width="211" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/fde89b3e-3d2c-48fa-bb54-aa76f43b6d2a"> <br>
+Collard_25_JG (18.12.1931)_Telefunken Werbung_Impresso_png <br>
 
-Collard_26_L'Express (06.11.1931)_Telefunken Werbung_Impresso_pdf
+<img width="276" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/ac8de8d5-59d0-48ce-b167-2cce6d196860"> <br>
+Collard_26_L'Express (06.11.1931)_Telefunken Werbung_Impresso_pdf <br>
 
-Collard_27_L'Express (13.11.1931)_Telefunken Werbung_Impresso_pdf
+<img width="276" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/ac8de8d5-59d0-48ce-b167-2cce6d196860"> <br>
+Collard_27_L'Express (13.11.1931)_Telefunken Werbung_Impresso_pdf <br>
 
-Collard_28_LW (10.10.1931)_Telefunken Werbung_eLuxemburgensia_pdf
+<img width="201" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/9418d593-9a9e-4150-a923-06017d60d3bd">
+Collard_28_LW (10.10.1931)_Telefunken Werbung_eLuxemburgensia_pdf <br>
 
-Collard_29_LW (26.11.1931)_Telefunken Werbung_eLuxemburgensia_pdf
+<img width="201" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/4882db95-8955-426b-89ba-a6ee5b60150d"
+Collard_29_LW (26.11.1931)_Telefunken Werbung_eLuxemburgensia_pdf <br>
 
-Collard_30_NZZ (28.11.1931)_Telefunken Werbung_Impresso_pdf
+<img width="264" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/57504581-0816-4d47-ba27-cc036bccd53c"> <br>
+Collard_30_NZZ (28.11.1931)_Telefunken Werbung_Impresso_pdf <br> 
 
-Collard_31_Restauration «Katzenkopf» AW 2014_pdf
+
+<img width="221" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/de94eda1-d34b-4640-bb06-320398de3cbd">
+<img width="223" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/bbd9d4ff-a874-4795-a470-e39c1fdc10d6">
+<img width="232" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/e81db9dc-5b8f-4811-87d1-aaa918ed5170">
+<img width="279" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/3373a64a-3fad-4aa7-bc29-edb42a25d607"> <br> 
+Collard_31_Restauration «Katzenkopf» AW 2014_pdf <br> 
+
+## Audio of the Telefunken 340W
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IbF5TmwO-qY?si=_F-Aa4mdrSX9BSgB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+telefunken katzenkopf 340w, in: YouTube, URL: https://www.youtube.com/watch?v=IbF5TmwO-qY (Stand: 01.11.2023). 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_mMAF52Ws4?si=V8BBUwhk9PCoMEQL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Telefunken 340W ‘Katzenkopf, Baujahr 1931 im Betrieb, in: YouTube, URL: https://www.youtube.com/watch?v=L_mMAF52Ws4&t=88s (Stand: 01.11.2023).
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pg3C6VuCuVU?si=4elqQA93_iaPDAUz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Telefunken 340W, in: YouTube, URL: https://www.youtube.com/watch?v=pg3C6VuCuVU (Stand: 01.11.2023). 
