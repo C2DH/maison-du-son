@@ -48,7 +48,7 @@ href="https://commons.wikimedia.org/wiki/File:Bush_TR82_Halogen_Highlight.JPG"><
 
 England, Brighton - December 22, 1994 
  
-_As Christmas approached, Lily was on vacation with her grandmother Alice. She turned around the living room table and looked at the photos on the walls. One caught her eye: her grandmother, on the beach, with a strange handbag - or was it a small suitcase, or rather a lunchbox? Curious, Lily called out to her grandmother: 
+_As Christmas approached, Lily was on vacation with her grandmother Alice. She turned around the living room table and looked at the photos on the walls. One caught her eye: her grandmother, on the beach, with a strange handbag - or was it a small suitcase, or rather a lunchbox? Curious, Lily called out to her grandmother:_ 
 - "Grandma! Come and see. 
 - Coming, dear... What's going on? 
 - Is that you in that photo? And what's with the bag?
@@ -65,7 +65,9 @@ Lily and Alice went up to the attic and searched for the Bush TR82 radio. After 
 - I'll be right up. Ha, the TR82! Try turning it on, there's a button on top. 
 - It doesn't work. 
 - Wait, turn up the volume... Ha, here we go. You can turn this dial to change stations.
-[Radio sound TR82]: <div style="padding:88.31% 0 0 0;position:relative;background:black"><iframe src="https://www.youtube.com/watch?v=97Lw7doepKg" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DigitalLandscape - test - Aug 10 2023"></iframe></div><script src="https://www.youtube.com/watch?v=97Lw7doepKg"></script>
+
+#### [Click here] ([https://www.youtube.com/watch?v=97Lw7doepKg]) if you want to hear the sound of the TR82
+
 - It's amazing to think of the impact a simple object can have on the way people experience their freedom. 
 - Indeed, my dear. The objects we use daily can have a huge influence on our perception of freedom and independence. The TR82 is a fine example. 
 - And this notion of portability must have changed the way people consume music and media in general. 
@@ -79,7 +81,7 @@ Lily and Alice went up to the attic and searched for the Bush TR82 radio. After 
  
 England, London - December 18, 2018 
  
-_Lily had left Brighton at the age of 18 to pursue a career in London. As she wandered the streets of London in search of a Christmas present for her grandmother, a familiar-looking object caught her eye in a second-hand store. It looked like a handbag, or a small suitcase, or even the lunchbox Lily carried in her purse. Lily couldn't believe her eyes: it was the same TR82 radio that belonged to her grandmother. Without much thought, Lily entered the store. 
+_Lily had left Brighton at the age of 18 to pursue a career in London. As she wandered the streets of London in search of a Christmas present for her grandmother, a familiar-looking object caught her eye in a second-hand store. It looked like a handbag, or a small suitcase, or even the lunchbox Lily carried in her purse. Lily couldn't believe her eyes: it was the same TR82 radio that belonged to her grandmother. Without much thought, Lily entered the store._
 - Good afternoon, sir. I saw a Bush radio in your window. May I see it? 
 - Of course, here it is. I see you're familiar with the brand. 
 - Yes, my grandmother had one. It's how she met my grandfather in 1959. 
@@ -91,33 +93,60 @@ _Lily had left Brighton at the age of 18 to pursue a career in London. As she wa
 All these differences can be explained by the place of production of each radio: the original TR82 was produced in England, the TR82BLU was produced in China. 
 This new one comes with a certificate of authenticity certifying that it is an authentic replica of the classic Bush TR82 portable radio. However, a comparison of the reproduction and the original shows that this is a rather ambitious claim! The TR82BLU is very popular, but with the general public rather than vintage radio enthusiasts. 
 - Thank you very much for your explanation! Can you also tell me something about the sound of the radio? 
--As a sound is worth a thousand words, I'd like to give it a whirl and let you listen to its sound: [TR82BLU radio sound]: <div style="padding:88.31% 0 0 0;position:relative;background:black"><iframe src="[https://www.youtube.com/watch?v=K_MnXuA6WCs]" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DigitalLandscape - test - Aug 10 2023"></iframe></div><script src="https://www.youtube.com/watch?v=K_MnXuA6WCs"></script>
+-As a sound is worth a thousand words, I'd like to give it a whirl and let you listen to its sound
+
+ #### [Click here] ([https://www.youtube.com/watch?v=K_MnXuA6WCs]) if you want to hear the sound of the TR82BLU
+ 
 - Indeed, if I remember correctly, the sound of the original TR82 was better. But I don't understand why such a low-quality replica of the original was produced.
 - The explanation is quite simple. When TR82 came out in the late '50s and early '60s, the war had ended not so long ago, the country was starting to live again, young people and especially women were breaking free. It was a time of revolutionary mores and sexual liberation. Radio TR82 is a symbol of this movement. It enabled young people to listen outside their homes to programs made just for them. I remember, for example, that a version of the original TR82 had a station for Radio Luxembourg: it was a radio station that broadcast from Luxembourg to England. It broadcast music but also had programs in English for young people, encouraging them to be independent and think for themselves.
 This liberating dimension of radio no longer existed in 2002, when society no longer needed radios to think for themselves: TV and soon the Internet would take over. In 2002, Bush was aware of how successful the original TR82 had been when it came out, and how iconic this model was because of its design. So, they brought it out again, because they knew that vintage fans would buy it not only to listen to, but also to decorate their homes. The public would therefore be buying the radio for an entirely different reason than they had in the past. Bush therefore decided to produce a model very similar in design, but with less quality and therefore less cost to produce, because what people were looking for was more design than quality. 
 - I really wouldn't have thought of it. Thank you very much for your explanations... Despite everything you've told me, I still think I'm going to buy this TR82BLU radio. It has quite a story to tell, and I'm sure my grandmother will love hearing it. My grandfather told heŕ the story of the TR82 in 1959, and I'll tell her the story of the TR82BLU in 2018."
-_End...
+_End..._
 
 ### Sources and bibliography used for the Catalogue assignment
 
-
 ## Sources
 
-Ounsted John, ‘The Perennial Bush’, Bulletin of the British Vintage Wireless Society Volume 20, Number 6 (December 1995), p.100.[Link](https://www.bvws.org.uk/publications/bulletins/pdf/BVWS_Bulletin_20_6.pdf).
+1. RANK BUSH MUPRHY LTD. Radio & Television manufacturing, 1963, 24/12/2020	Uk	Matt's Shack / RANK BUSH MUPRHY LTD, 	Matt's Shack. © Unclear / Matt's Shack [Link](https://www.youtube.com/watch?v=W0CGYjV1dBo)
 
-Rank Bush Murhpy LTD. Radio & Television manufacturing, 1961. Online [Link](https://www.youtube.com/watch?v=W0CGYjV1dBo).
+2. Transistor Portable BUSH TR82. Operating Instructions and guarantee	13/09/1963	London	BUSH Radio/ TWP Services Ltd., pasttimesradio.co.uk, © Unclear/ pasttimesradio.co.uk	[Link](http://www.pasttimesradio.co.uk/scrapbook/tr82-manual.pdf)	© Unclear/ pasttimesradio.co.uk
 
-TR82 Adverstisement 1961. [Link](https://youtube.com/clip/Ugkx1nUoBz1GvTJAKddFSqY9KZ9qjC2nbB1x?feature=shared).
+3. BUSH Portable Radio Brochure (GB 1962)	1962/ 10/03/2012	Unknow	BUSH Radio/ Mark Amsterdam, flickr.com, [Link](https://www.flickr.com/photos/29533980@N05/6824502536/in/photostream/)	© BUSH Portable Radio Brochure by courtesy of Mark Meijster, Amsterdam, The Netherlands
 
-s.a., ‘TR82C‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/bush_tr82ctr_82.html). 
+4. Be the Girl with the Bush Transistor Portable	1959	London	BUSH Radio,	modular4kc.com, [Link](https://modular4kc.com/2010/12/22/be-the-girl-with-the-bush/)	© Unclear/ modular4kc.com
 
-s.a., ‘Antique Radio TR82/97‘, _Radiomuseum_, s.d., [Link](https://www.radiomuseum.org/r/bush_antique_radio_tr8297.html#google_vignette).
+5. Bush Radio TR82	20/09/2007, Unknow, tech.co.uk staff, techradar.com	[Link](https://www.techradar.com/reviews/audio-visual/hi-fi-and-audio/radio-tuners/bush-tr82-101387/review)	© Unknow / techradar.com
 
-s.a., 'Bush TR82: “BE THE GIRL WITH THE BUSH', s.d.,[Link](https://modular4kc.com/2010/12/22/be-the-girl-with-the-bush/).
+6. Bush Radio TR82 BLU Sound demo, 24/09/2011, Unknow, 2323jimmy23, [Link](https://www.youtube.com/watch?v=K_MnXuA6WCs)	© Creative Commons Attribution License (reuse permitted)
 
-s.a., 'TR82 Manual', _pasttimesradios_ s.d., [Link](http://www.pasttimesradio.co.uk/scrapbook/tr82-manual.pdf).
+7. 2002 Bush TR82BLU Special Edition, 18/05/2023, Unknow, howie51uk	[Link](https://www.youtube.com/watch?v=97Lw7doepKg)	© Unclear / howie51uk
 
-MarkAmsterdam, 'BUSH Portable Radio Brochure (GB 1962)_3', _flickriver_, 2012, [Link](https://www.flickr.com/photos/29533980@N05/6970626679/).© BUSH Portable Radio Brochure by courtesy of Mark Meijster, Amsterdam, The Netherlands
+8. Object Biography of the Bush Radio TR82 and TR82 BLU, 23/06/2023, Luxembourg, Benjamin Juchem (In collaboration with Deborah Juchem and Eva Canzerini)	© Benjamin Juchem
+
+9. Bush Traditional Radio Receiver Special Edition The Queen Golden Jubilee, 2002	20/06/2023, Luxembourg, © Benjamin Juchem
+
+10. Certificate of Authenticity TR82 / 97	1997-2006, Unknow, Paul Stenning, vintage-radio.com	[Link](https://www.vintage-radio.com/reviews/tr82-97-radio.html)	© 1997 - 2006 Paul Stenning
+
+11. Bush Radio TR82C, 13/01/2010, London, Plymouth City Museum, [Link](https://www.bbc.co.uk/staticarchive/7aca9382033d80f131fc38561e342374f6f51d6c)	© Plymouth City Museum & Art Gallery
+
+12. Manual TR82 BLU, 20/06/2023, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
+
+13. TR82 BLU Dial	21/06/2023,Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
+
+14. TR82 BLU Cover Manual, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
+
+15. TR82 Cover Manual, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
+
+16. TR82 BLU Box, 24/06/2023, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem 
+
+17. TR82 BLU Front (plastic-wrapped), 24/06/2023, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem 
+
+18. Interior view TR82 BLU, richardsradio.co.uk,  [Link](http://www.richardsradios.co.uk/Images/tr82b3.jpg)	© Unclear / richardsradio.co.uk
+
+19. Interior view TR82 BLU loudspeaker	richardsradio.co.uk, [Link](http://www.richardsradios.co.uk/Images/tr82b2.jpg)	© Unclear / richardsradio.co.uk
+
+20. Best of British : the Bush TR82C Mk.2 transistor radio. A classic 7-transistor set from the early 1960's, September 2013, Vintage Radio, By Ian Batty	Website	Vintage Radio / By Ian Batty	[Link](http://messui.polygonal-moogle.com/valves/SC201309.pdf)	© Unclear Vintage Radio/ Ian Batty![image](https://github.com/C2DH/maison-du-son/assets/146736627/8210b615-983d-4733-835f-1c867e5b7267)
+
 
 
 ## Bibliography
