@@ -77,6 +77,14 @@ Wow that was great. Now that we’ve talked a lot about our appearances, we can 
 Sources (second submission):
 ---
 1. Philips 2511 - frontal view ![nr 1](https://github.com/C2DH/maison-du-son/assets/146642433/3464c258-2cba-49ac-9270-a9f16af24f58)
+2. Philips 2511 - side view ![nr 2](https://github.com/C2DH/maison-du-son/assets/146642433/578a11a0-4aeb-4713-a9ac-217a71d3bce3)
+3. Philips 2511 - interior ![nr 3](https://github.com/C2DH/maison-du-son/assets/146642433/1444b192-63a3-4519-833d-779f3e9f5e1f)
+4. Philips 2511 - with loudspeaker ![nr 4](https://github.com/C2DH/maison-du-son/assets/146642433/09ce3f4a-0d48-4a3d-a3f3-8c4cf8b5a89c)
+5. Philips 2511 - close view on company logo ![nr 5](https://github.com/C2DH/maison-du-son/assets/146642433/29b260bb-347e-4d20-bab0-b85419cd13ca)
+6. Philips 2511 - broadcast 
+
+
+
 
 
 
