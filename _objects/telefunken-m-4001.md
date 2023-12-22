@@ -136,7 +136,9 @@ Date: Jan 1955-Dec 1957 <br>
 Language: English <br>
 Archive: The Wisconsin Center for Film and Theater Research <br>
 Page 8 offers an advert using the concept of high fidelity <br>
- A PDF of the whole book will be uploaded on Poseidon as soon as possible <br>
+ A PDF of the whole book was uploaded on Poseidon  <br>
+<img src="/assets/images/Telefunkenfestschrift.jpg"> <br>
+ <img src="/assets/RecordChanger.PNG"> <br>
  <br>
  •  Title: The Antique Phonograph Monthly
  •  Title: Telefunken Report 1968-1969 <br>
