@@ -121,8 +121,28 @@ Copyright: Deutsches Technik Museum <br>
 <img src="/assets/images/TelefunkenBild3.jpg">
 <img src="/assets/images/TelefunkenBild4.jpg">
 <br>
-• The website Phonographia.com offers ads of the first phonographer producing companies. They are extremly important in the context of the context of sound reproduction and fidelity/high fidelity. Unfortunately, the formate of the website does not allow a proper use of the advertisments. Therefore I contacted the owner of the site and inquired about better scans, etc. There been no answer until now.  I will update this entry once I get an answer. 
+• The website Phonographia.com offers ads of the first phonographer producing companies. They are extremly important in the context of the context of sound reproduction and fidelity/high fidelity. Unfortunately, the formate of the website does not allow a proper use of the advertisments. I got a reply by the owner of the webiste, which is the following:
+Hello Pol,<br>
+Thanks for taking a look at Phonographia.com.<br>
+I call it my scrapbook of phonograph ephemera and popular culture connections with the phonograph. <br>
+I have been a collector for over 50 years and wrote a phonograph and popular culture book  40 years ago (unpublished).  Many of the themes and examples on my website come from that book and my own collection. <br>
+The Berliner Gramophone Company preceded the Victor Talking Machine Company and my gallery of PhonoAds from 1900 – 1905 therefore may be of interest as it includes mostly ads from the three major American Phonograph companies at the turn of the century:  Edison, Columbia, and Victor.<br>
+The PhonoAds from 1905-1910 likewise have mostly Edison, Columbia, and Victor ads.<br>
+Most of my paper ephemera are from USA magazine ads and phonograph dealer brochures. <br>
+Archive.org, the HathiTrust, and Ebay have also been good resources for magazine ads.  Trade magazines The Edison Phonograph Monthly and The Talking Machine World have been excellent primary resources for the Phonograph industry and its dealers from 1903 - 1928. <br>
+If you are looking for source materials related to recorded sound and phonographs I have a webpage titled Resources, Societies, Archives, and Recordings which has links to some of my favorite phonograph related websites.<br>
+Hope this helps.<br>
+Best,<br>
+Doug Boilesen<br>
+
+
+
 Link to the website: https://phonographia.com/Factola/CatherOP.htm <br>
+Here are some important advertisments from the website phonographia.com
+<img src="
+<img src="/assets/images/TelefunkenBild2.jpg">
+<img src="/assets/images/TelefunkenBild3.jpg">
+<img src="/assets/images/TelefunkenBild4.jpg">
 <br>
 • Festschrift zum 50 jährigen Jubiläum der Telefunken Gesellschaft für Drahtlose Telegraphie, Language: German,<br>
 Form: Scan <br>
