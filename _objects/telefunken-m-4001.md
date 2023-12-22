@@ -137,10 +137,10 @@ Doug Boilesen<br>
 
 Link to the website: https://phonographia.com/Factola/CatherOP.htm <br>
 Here are some important advertisments from the website phonographia.com
-<img src="assets/marygarden-1911 ad v1.jpg">
+<img src="/assets/marygarden-1911 ad v1.jpg">
 <img src="/assets/Victrola-Farrar et al Sep1919 LHJ.jpg">
-<img src="//assets/1908 Oct10 Farrar Which 375.jpg">
-<img src="/assets/images/TelefunkenBild4.jpg">
+<img src="/assets/1908 Oct10 Farrar Which 375.jpg">
+<img src="/assets/Schumann-Heink-1910-Everybodys.jpg">
 <br>
 • Festschrift zum 50 jährigen Jubiläum der Telefunken Gesellschaft für Drahtlose Telegraphie, Language: German,<br>
 Form: Scan <br>
