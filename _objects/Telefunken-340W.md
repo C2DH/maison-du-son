@@ -8,7 +8,7 @@ date: 2023-11-03
 ## Miau! Die zwei Facetten des Katzenkopfs<br> 
 ## Zwischen Technik und Dekoration<br> 
 
-Der Telefunken 340 W - Eine Objektbiografie<br> 
+**1. Der Telefunken 340 W - Eine Objektbiografie**
 
 *Die folgende Objektbiografie erzählt die Geschichte des Radios Telefunken 340 W, das ab 1931 von der deutschen Firma Telefunken produziert wurde. Die Objektbiografie orientiert sich am Vorbild der Radiosammlung von Albert Wolter. Sie wird sich nicht mit dem konkreten Radio aus dessen Katalog befassen, sondern sich auf das Telefunken 340W als Radio im Allgemeinen konzentrieren. Als konzeptionelle Grundlage wird diese Objektbiografie Katrin van Es Arbeit über Liveness übernehmen. Liveness kann als Konstruktion aus Technologien, Institutionen und Nutzern – eine „constellations of liveness“ (Van Es, S. 5-14) – verstanden werden. Die vorliegende Objektbiografie ist von van Es dreifacher Konstellation inspiriert und konzentriert sich hauptsächlich auf zwei dieser Perspektiven. Sie wird die Geschichte des Telefunken 340W mit der technischen Perspektive verbinden, indem sie sich auf die technischen Aspekte des Objekts selbst konzentriert. Die Perspektive der Nutzer wird in einem zweiten Teil wiedergegeben, um auch den sozialen Aspekt eines Objektes zu behandeln. Während sich die erste Perspektive auf die Details der Produktion des Radios konzentriert („behind the object”), übernimmt die zweite Perspektive an dem Zeitpunkt, an dem das Radio bereits auf dem Markt ist („in front of the object”). Beide Perspektiven ereigneten sich im Jahr 1931, als das Radio Telefunken 340W auf den Markt kam.*
 
@@ -32,7 +32,7 @@ Da jedes Telefunken 340W Gerät individuell nach Anschluss im Haus geeichtet[33]
 
 Das Telefunken 340W blieb einige Jahre im Gebrauch der Familie, bevor es 1939 durch das Telefunken D 750 GWK ersetzt wurde. Danach dauerte es mehrere Jahrzehnte, bis es in die Hände eines Radioenthusiasten im Süden des Großherzogtums fiel.
 
-2.	Endnoten:<br> 
+**2.	Endnoten:** <br> 
 [1] Mitteilung des Telefunken-Service. Das neue Telefunken-Programm 1931-1932, Luxemburg, S. 1-4. <br> 
 [2] Die Trennschärfe ist die “Fähigkeit, einen ganz bestimmten Sender zu empfangen unter Auschluß aller anderen”. In: JUNGFER, H./ ΚÖPKE, Η., Messungen an Rundfunkempfängern: Empfindlichkeit, Trennschärfe und Wiedergabegute, in: Technisches Messen, 61-72 (1936), S. 282-285, hier S. 282 <br> 
 [3] Abstimmkreise dienen dazu “Frequenzen aus dem breiten Spektrum der Radiowellen herauszufiltern”. In: Kapazitive Abstimmkreise, in: Electricity-Magnetism, URL: https://www.electricity-magnetism.org/de/kapazitive-abstimmkreise/ (Stand: 20.12.2023). <br> 
@@ -72,7 +72,8 @@ Das Deutsche Technikmuseum Berlin scheint über sehr interessante Archive zur Fi
 [37] Radio Programm für Sonntag, in: Luxemburger Wort (10.10.1931), S. 8. <br> 
 [38] Mitteilung des Telefunken-Service (Anm. 1), S. 3. <br> 
 
-3.	Literatur
+**3.	Literatur<br>**
+
 CZITROM, Daniel J., Media and the American Mind: from Morse to McLuhan, Chapel Hill 1982. <br> 
 BAILEY, Michael, Narrating Media History. New York 2009. <br> 
 BATHGATE, Gordon, Radio Broadcasting: A History of the Airwaves, Yorkshire und Philadelphia 2020. <br> 
@@ -97,7 +98,8 @@ VAN ES, Karin. The Future of Live, Cambridge und Malden 2016.<br>
 VAN ES, Karin/ KEILBACH, Judith, ‘Keeping Up the Live: Recorded Television as Live Experience’, in: VIEW Journal of European Television History and Culture 7/13 (2018), S. 60-68. <br>
 
 
-5.	Zeitungsartikel, Manuelle, Broschüren und andere Quellen: <br> 
+**4.	Zeitungsartikel, Manuelle, Broschüren und andere Quellen:** <br>
+   
 1.     Das Schaufenster. Einzel-berichte über käufliche Radiogeräte und Lautsprecher, in: Funkschau 45 (08.11.1931), S. 356-360. <br> 
 2.     Der Architekt hat das Wort, in: Funkschau 45 (08.11.1931), S. 354-356.<br> 
 3.     Die Telefunken-Mehrkreis-Empfänger, Dr. Nr. 709, A. 831. M. AP. M. <br> 
@@ -113,7 +115,7 @@ VAN ES, Karin/ KEILBACH, Judith, ‘Keeping Up the Live: Recorded Television as 
 13.  Radio Programm für Sonntag, in: Luxemburger Wort (10.10.1931), S. 8. <br> 
 14.  Radio-Apparate aller Marken, in: Escher Tageblatt. Le Journal d’Esch (10.10.1931), S. 8. <br> 
  
-5.	Telefunken Werbungen: <br> 
+**5.	Telefunken Werbungen:** <br> 
 15.  Telefunken Werbung, in: Freiburger Nachrichten (22.10.1931), S. 6. <br> 
 16.  Telefunken Werbung, in: Freiburger Nachrichten (29.10.1931), S. 6. <br> 
 17.  Telefunken Werbung, in: Freiburger Nachrichten (06.11.1931), S. 6. <br> 
@@ -131,7 +133,7 @@ VAN ES, Karin/ KEILBACH, Judith, ‘Keeping Up the Live: Recorded Television as 
 29.  Telefunken Werbung, in: Luxemburger Wort (26.11.1931), S. 8. <br> 
 30.  Telefunken Werbung: in: Neue Zürcher Zeitung (28.11.1931), S. 3. <br> 
 
-6.	Fotomaterial: <br> 
+**6.	Fotomaterial:** <br> 
 
 31. Restauration «Katzenkopf» AW 2014
 
@@ -144,7 +146,7 @@ VAN ES, Karin/ KEILBACH, Judith, ‘Keeping Up the Live: Recorded Television as 
 34. Telefunken 340W, in: YouTube, URL: https://www.youtube.com/watch?v=pg3C6VuCuVU (Stand: 21.12.2023). 
 
 
-7.	Figures mentioned: <br> 
+**7. Figuren im Text:** <br> 
  
 <img width="184" alt="image" src="https://github.com/C2DH/maison-du-son/assets/146708684/8392402a-d02e-4048-b886-ca35049ddc98">
 
