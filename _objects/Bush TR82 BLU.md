@@ -102,47 +102,62 @@ _End..._
 
 ## Sources
 
-1. RANK BUSH MUPRHY LTD. Radio & Television manufacturing, 1963, 24/12/2020	Uk	Matt's Shack / RANK BUSH MUPRHY LTD, 	Matt's Shack. © Unclear / Matt's Shack [Link](https://www.youtube.com/watch?v=W0CGYjV1dBo)
+RANK BUSH MUPRHY LTD. Radio & Television manufacturing, 1963, 24/12/2020	Uk	Matt's Shack / RANK BUSH MUPRHY LTD, 	Matt's Shack. © Unclear / Matt's Shack [Link](https://www.youtube.com/watch?v=W0CGYjV1dBo)
 
-2. Transistor Portable BUSH TR82. Operating Instructions and guarantee	13/09/1963	London	BUSH Radio/ TWP Services Ltd., pasttimesradio.co.uk, © Unclear/ pasttimesradio.co.uk	[Link](http://www.pasttimesradio.co.uk/scrapbook/tr82-manual.pdf)	© Unclear/ pasttimesradio.co.uk
-https://github.com/C2DH/maison-du-son/blob/master/assets/images/2.%20Transistor%20Portable%20BUSH%20TR82.%20Operating%20Instructions%20and%20guarantee%2C%2013%3A09%3A1963.%20London%20.pdf
+Transistor Portable BUSH TR82. Operating Instructions and guarantee	13/09/1963	London	BUSH Radio/ TWP Services Ltd., pasttimesradio.co.uk, © Unclear/ pasttimesradio.co.uk	[Link](http://www.pasttimesradio.co.uk/scrapbook/tr82-manual.pdf)	© Unclear/ pasttimesradio.co.uk
+
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/2.%20Transistor%20Portable%20BUSH%20TR82.%20Operating%20Instructions%20and%20guarantee%2C%2013%3A09%3A1963.%20London%20.pdf)
+
+BUSH Portable Radio Brochure (GB 1962)	1962/ 10/03/2012	Unknow	BUSH Radio/ Mark Amsterdam, flickr.com, [Link](https://www.flickr.com/photos/29533980@N05/6824502536/in/photostream/)	© BUSH Portable Radio Brochure by courtesy of Mark Meijster, Amsterdam, The Netherlands
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/3.%20BUSH%20Portable%20Radio%20Brochure%20(GB%201962)%2C%20%20.png)
+
+Be the Girl with the Bush Transistor Portable	1959	London	BUSH Radio,	modular4kc.com, [Link](https://modular4kc.com/2010/12/22/be-the-girl-with-the-bush/)	© Unclear/ modular4kc.com
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/4.%20Be%20the%20Girl%20with%20the%20Bush%20Transistor%20Portable.jpg)
+
+Bush Radio TR82	20/09/2007, Unknow, tech.co.uk staff, techradar.com	[Link](https://www.techradar.com/reviews/audio-visual/hi-fi-and-audio/radio-tuners/bush-tr82-101387/review)	© Unknow / techradar.com
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/5.%20Bush%20Radio%20TR82%20.tiff)
+
+Bush Radio TR82 BLU Sound demo, 24/09/2011, Unknow, 2323jimmy23, [Link](https://www.youtube.com/watch?v=K_MnXuA6WCs)	© Creative Commons Attribution License (reuse permitted)
+
+2002 Bush TR82BLU Special Edition, 18/05/2023, Unknow, howie51uk	[Link](https://www.youtube.com/watch?v=97Lw7doepKg)	© Unclear / howie51uk
+
+Object Biography of the Bush Radio TR82 and TR82 BLU, 23/06/2023, Luxembourg, Benjamin Juchem (In collaboration with Deborah Juchem and Eva Canzerini)	© Benjamin Juchem
+
+Bush Traditional Radio Receiver Special Edition The Queen Golden Jubilee, 2002	20/06/2023, Luxembourg, © Benjamin Juchem
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/9.%20Bush%20Traditional%20Radio%20Receiver%20Special%20Edition%20The%20Queen%20Golden%20Jubilee%202002.png)
 
 
-4. BUSH Portable Radio Brochure (GB 1962)	1962/ 10/03/2012	Unknow	BUSH Radio/ Mark Amsterdam, flickr.com, [Link](https://www.flickr.com/photos/29533980@N05/6824502536/in/photostream/)	© BUSH Portable Radio Brochure by courtesy of Mark Meijster, Amsterdam, The Netherlands
+Certificate of Authenticity TR82 / 97	1997-2006, Unknow, Paul Stenning, vintage-radio.com	[Link](https://www.vintage-radio.com/reviews/tr82-97-radio.html)	© 1997 - 2006 Paul Stenning
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/10.%20Certificate%20of%20Authenticity%20TR82%20%3A%2097%20.jpg)
 
-5. Be the Girl with the Bush Transistor Portable	1959	London	BUSH Radio,	modular4kc.com, [Link](https://modular4kc.com/2010/12/22/be-the-girl-with-the-bush/)	© Unclear/ modular4kc.com
+18. Bush Radio TR82C, 13/01/2010, London, Plymouth City Museum, [Link](https://www.bbc.co.uk/staticarchive/7aca9382033d80f131fc38561e342374f6f51d6c)	© Plymouth City Museum & Art Gallery
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/11.%20Bush%20Radio%20TR82C.jpeg)
 
-6. Bush Radio TR82	20/09/2007, Unknow, tech.co.uk staff, techradar.com	[Link](https://www.techradar.com/reviews/audio-visual/hi-fi-and-audio/radio-tuners/bush-tr82-101387/review)	© Unknow / techradar.com
+Manual TR82 BLU, 20/06/2023, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/12.%20Manual%20TR82BLU.png)
 
-7. Bush Radio TR82 BLU Sound demo, 24/09/2011, Unknow, 2323jimmy23, [Link](https://www.youtube.com/watch?v=K_MnXuA6WCs)	© Creative Commons Attribution License (reuse permitted)
+TR82 BLU Dial	21/06/2023,Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/13.%20TR82%20BLU%20dial.png)
 
-8. 2002 Bush TR82BLU Special Edition, 18/05/2023, Unknow, howie51uk	[Link](https://www.youtube.com/watch?v=97Lw7doepKg)	© Unclear / howie51uk
+TR82 BLU Cover Manual, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/14.%20TR82%20BLU%20Cover%20Manual.png)
 
-9. Object Biography of the Bush Radio TR82 and TR82 BLU, 23/06/2023, Luxembourg, Benjamin Juchem (In collaboration with Deborah Juchem and Eva Canzerini)	© Benjamin Juchem
+TR82 Cover Manual, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/15.%20Cover%20Manual%20TR82.png)
 
-10. Bush Traditional Radio Receiver Special Edition The Queen Golden Jubilee, 2002	20/06/2023, Luxembourg, © Benjamin Juchem
+TR82 BLU Box, 24/06/2023, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem 
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/16.%20TR82%20BLU%20Box.png)
 
-11. Certificate of Authenticity TR82 / 97	1997-2006, Unknow, Paul Stenning, vintage-radio.com	[Link](https://www.vintage-radio.com/reviews/tr82-97-radio.html)	© 1997 - 2006 Paul Stenning
+TR82 BLU Front (plastic-wrapped), 24/06/2023, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem 
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/17.%20TR82%20BLU%20Front%20(plastic-wrapped).png)
 
-12. Bush Radio TR82C, 13/01/2010, London, Plymouth City Museum, [Link](https://www.bbc.co.uk/staticarchive/7aca9382033d80f131fc38561e342374f6f51d6c)	© Plymouth City Museum & Art Gallery
+Interior view TR82 BLU, richardsradio.co.uk,  [Link](http://www.richardsradios.co.uk/Images/tr82b3.jpg)	© Unclear / richardsradio.co.uk
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/18.%20Interior%20view%20TR82%20BLU.jpg)
 
-13. Manual TR82 BLU, 20/06/2023, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
+Interior view TR82 BLU loudspeaker	richardsradio.co.uk, [Link](http://www.richardsradios.co.uk/Images/tr82b2.jpg)	© Unclear / richardsradio.co.uk
+![Image Alt Text](https://github.com/C2DH/maison-du-son/blob/master/assets/images/19.%20Interior%20view%20TR82%20BLU%20loudspeaker.jpg)
 
-14. TR82 BLU Dial	21/06/2023,Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
-
-15. TR82 BLU Cover Manual, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
-
-16. TR82 Cover Manual, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem
-
-17. TR82 BLU Box, 24/06/2023, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem 
-
-18. TR82 BLU Front (plastic-wrapped), 24/06/2023, Luxembourg, Benjamin Juchem, Albert Wolter Collection	© Benjamin Juchem 
-
-19. Interior view TR82 BLU, richardsradio.co.uk,  [Link](http://www.richardsradios.co.uk/Images/tr82b3.jpg)	© Unclear / richardsradio.co.uk
-
-20. Interior view TR82 BLU loudspeaker	richardsradio.co.uk, [Link](http://www.richardsradios.co.uk/Images/tr82b2.jpg)	© Unclear / richardsradio.co.uk
-
-21. Best of British : the Bush TR82C Mk.2 transistor radio. A classic 7-transistor set from the early 1960's, September 2013, Vintage Radio, By Ian Batty	Website	Vintage Radio / By Ian Batty	[Link](http://messui.polygonal-moogle.com/valves/SC201309.pdf)	© Unclear Vintage Radio/ Ian Batty
+Best of British : the Bush TR82C Mk.2 transistor radio. A classic 7-transistor set from the early 1960's, September 2013, Vintage Radio, By Ian Batty	Website	Vintage Radio / By Ian Batty	[Link](http://messui.polygonal-moogle.com/valves/SC201309.pdf)	© Unclear Vintage Radio/ Ian Batty
 
 
 ## Bibliography
