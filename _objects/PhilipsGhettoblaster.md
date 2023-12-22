@@ -17,44 +17,63 @@ Mein Name ist Tommy Schmit, bin 16 Jahre lang und lebe in einem kleinen Dorf in 
 
 **21. Juni 2000**
 An diesem sonnigen Tag besuchen wir unsere Nachbarn. Ich habe eigentlich keine Lust, denn mit meinen 16 Jahren bin ich mit anderen Dingen beschäftigt. Heute lese ich die neue Ausgabe der Bravo. In dieser Ausgabe gibt es leider nur ein Poster der Kelly Family; ich hätte mich über ein Eminem Poster gefreut. 
+
   <img width="236" alt="image" src="https://github.com/C2DH/maison-du-son/assets/145359036/a5a47b36-2ce6-4828-8506-026c00a28b83">
 
 Plötzlich höre ich laute Musik, das Lied „Around the World“ von ATC ist zu hören. Dieses Lied ist seit Mai in den Charts und ein echter Ohrwurm.  Aber woher kam die Musik? Da ich so neugierig bin, überwinde ich mich dann doch rüberzugehen. Ich traue meinen Augen nicht! Die Müllers haben einen neuen, tragbaren CD-Spieler von Philips, mit dem sie im Garten Musik hören können. 
-*Alle sind begeistert von mir, aber eigentlich bin ich gerade überhitzt, mir gefällt dieses „Around the World“-Lied überhaupt nicht und ich möchte lieber wieder in den Schrank zurück.*  
+
+*Alle sind begeistert von mir, aber eigentlich bin ich gerade überhitzt, mir gefällt dieses „Around the World“-Lied überhaupt nicht und ich möchte lieber wieder in den Schrank zurück.*
+
 Zuhause haben wir nur einen Fernseher. Dort schaue ich mir immer die Musikvideos auf Viva an.  Schon lange wünsche ich mir ein Gerät, mit dem ich meine Lieblingsmusik hören kann. In dem Musikvideo „The Fresh Prince of Bel Air“ sehe ich bei Sekunde 40 immer den Ghettoblaster.  
+
 <img width="454" alt="image" src="https://github.com/C2DH/maison-du-son/assets/145359036/3f21d1a0-f840-4c4d-a97d-07faafd22f46">
 
-Video-Link: https://www.youtube.com/watch?v=1nCqRmx3Dnw
+
 Ich finde, mit einem Ghettoblaster wirkt man sofort cooler, so richtig amerikanisch wie im Musikvideo zu sehen.  Der Name Ghettoblaster kommt auch aus Amerika und solch ein Gerät soll richtig Lärm machen.  Ich habe mehrmals mitbekommen, dass dieser in amerikanischen Ghettos, also in städtischen, urbanen Gebieten, von Jugendlichen, die Hip-Hop mögen, benutzt wird, daher auch sein Name.  Ich wünsche mir den für meinen Geburtstag, vielleicht kauft Vater ihn mir. 
 
 **30. Juni 2000**
+
 *Ich habe zwar kein richtiges Zeitgefühl, aber ich finde, dass ich schon ganz schön lange hier stehe. Ich bin das letzte Radio in der Regalreihe und ich hoffe, dass mich bald jemand kauft. Ich wurde vor einigen Monaten hergestellt und dann in das Fachgeschäft für Haushaltsgeräte von Herrn Bräuer gebracht. Meine ältesten Brüder wurden bereits 1995 in den Niederlanden hergestellt.  Ich bin eines von vielen, doch eigentlich will ich nur jemanden mit meinen vielfältigen Funktionen glücklich machen. Ich kann nicht nur über 30 Radiosender abspielen, sondern man kann auch eine CD abspielen lassen, Kassetten hören, den Bass mit der DBB-Taste (Dynamic Bass Boost) einstellen und Kopfhörer an mich anschließen.  Ich funktioniere ganz normal mit Kabel am Stromnetz, aber noch praktischer ist, dass man Batterien einstecken und das Radio ohne Kabel mitnehmen kann – egal ob in den Garten oder mit zu Freunden in den Park. Man braucht nur Radioempfang, wenn man Radio hören möchte. Für FM, also die Frequenzmodulation, bei der Radiowellen die Tonhöhe ändern, um Töne und Musik zu übertragen, muss man die Teleskopantenne ausziehen.  Mit meinen vielen Tasten kann man beispielsweise Musik zurückspulen lassen, aufnehmen oder Titel einer CD überspringen . Ich bin also sehr vielfältig! Wieso kauft denn niemand mich?*
+
 Endlich habe ich es geschafft, meinen Vater zu überreden, mir vielleicht den Ghettoblaster zu kaufen. Er hat es mir aber noch nicht versprochen, ich muss bis zu meinem Geburtstag warten, um Gewissheit zu haben. Ich freue mich schon darauf, meinen Freunden meine neue Errungenschaft zu zeigen und damit der Coolste in der Klasse zu sein.  
 
 **02. Juli 2000**
+
 *Mir ist langweilig. Ich würde so gerne Musik spielen lassen, genau wie das Ausstellungsmodell von Philips AZ 1209  im Eingang von Bräuers Laden. Naja, wenigstens stehe ich jetzt ganz vorne in der ersten Reihe und werde hoffentlich bald gekauft.* 
+
 Tommys Vater: Ich möchte Tommy zu seinem Geburtstag eine Freude machen, daher gehe ich zu Herrn Bräuer und erkläre ihm, dass ich den Ghettoblaster für meinen Sohn suche. 
 Herr Bräuer zeigt mir ein Radio mit CD-Player inbegriffen, den Ghettoblaster AZ 1040/00 von Philips.
+
+
  <img width="270" alt="image" src="https://github.com/C2DH/maison-du-son/assets/145359036/08bfed23-34d4-422f-9a61-22bb95bcf346">
 
 © Morgane Denozi, Foto aufgenommen am 12.12.2023, Radio aus Albert Wolters Kollektion
 
-Das wird Tommy sicher gefallen, er wollte ja einen Ghettoblaster!  Und ich kann auch meinen Nutzen daraus ziehen und Radio hören. Unser Radio ist letztes Jahr kaputtgegangen und seither habe ich mir nur noch die Nachrichten im Fernsehen angesehen. Dieses Radio von Philips kostet 230 DM / . Da wir Anfang des Monats sind und ich gerade mein Gehalt von 3300 DM bekommen habe, ist der Preis in Ordnung.  Wir gehören der Mittelschicht an und können uns somit nicht jeden Monat solch ein Spaß erlauben. Solch ein Radio hält man aber jahrelang, also wird das kein Problem sein. Für meine Frau dient es sicherlich als Nebenmedium während des Entspannens oder dem Yoga, den sie gerne auf dem Dachboden macht. Ach, ich denke, jedes Familienmitglied wird diese Errungenschaft toll finden! Schließlich soll sich das Radio in unseren Familienalltag integrieren. 
+Das wird Tommy sicher gefallen, er wollte ja einen Ghettoblaster!  Und ich kann auch meinen Nutzen daraus ziehen und Radio hören. Unser Radio ist letztes Jahr kaputtgegangen und seither habe ich mir nur noch die Nachrichten im Fernsehen angesehen. Dieses Radio von Philips kostet 230 DM. Da wir Anfang des Monats sind und ich gerade mein Gehalt von 3300 DM bekommen habe, ist der Preis in Ordnung.  Wir gehören der Mittelschicht an und können uns somit nicht jeden Monat solch ein Spaß erlauben. Solch ein Radio hält man aber jahrelang, also wird das kein Problem sein. Für meine Frau dient es sicherlich als Nebenmedium während des Entspannens oder dem Yoga, den sie gerne auf dem Dachboden macht. Ach, ich denke, jedes Familienmitglied wird diese Errungenschaft toll finden! Schließlich soll sich das Radio in unseren Familienalltag integrieren. 
 
 **28. August 2000**
 Endlich Geburtstag! Ich werde heute 17 und freue mich schon auf Mutters Kuchen und vor allem auf meine Geschenke. Vielleicht bekomme ich ja ein Nokia 3210?  Ich wäre schon mit einer gebrannten CD zufrieden, nur leider habe ich keinen CD-Player. 
+
 *Nun stehe ich hier eingepackt. Ziemlich stickig in diesem Geschenkpapier, hoffe ich, dass ich bald wieder herausgeholt werde und endlich meinen Zweck erfüllen kann - nämlich Töne von mir zu geben.*
+
 Der Kuchen war echt lecker. Jetzt kann ich endlich meine Geschenke auspacken. Die große Kiste sieht schonmal vielversprechend aus. Vielleicht eine PlayStation, die erste Sony Konsole?  Nein! Es ist ein ganz normales Radio. Ich darf mir meine Enttäuschung nicht anmerken lassen. Zwar ist es ein Ghettoblaster, aber nicht der, den ich wollte. Oh man, mein Vater hat mich falsch verstanden. Ich wollte einen großen Ghettoblaster, wie die coolen Jungs in Amerika. Vater und Mutter schauen mich begeistert an, meine 8-jährige Schwester versteht nicht so recht, was wir mit diesem Gerät anfangen sollen. Naja, wenigstens kann ich jetzt meine Musik und CDs hören, genau wie die Familie Müller. Ich freue mich trotzdem über meinen Ghettoblaster von Philips. 
+
 *Endlich werde ich aus diesem grauen Karton herausgenommen. Oh Hilfe, ich gehöre einem Teenager! Welche Musik ich mir wohl jetzt anhören muss?*
+
 Wie toll, Mutter und Vater haben mir auch eine CD dazu geschenkt! Vaters Kumpel hat diese gebrannt und es sind sicher viele tolle Songs aus den Charts drauf. Ich drücke erstmal alle Tasten, so ein modernes Radio hatte ich noch nie!  Meine neue CD wird sofort getestet; ich lasse das Lied „Hey Baby“  von DJ Ötzi spielen. Meine Eltern mögen DJ Ötzi und das Lied macht Partystimmung. Auch wenn ich jetzt keinen Ghettoblaster wie im Musikvideo vom „Prince of Bel Air“ habe, bin ich trotzdem zufrieden. Ich probiere gleich alle Funktionen aus. Vor allem mit der CD-Player-Funktion kann ich viel anfangen. Ich stelle mein Radio in mein Zimmer, schließlich gehört es mir, oder?
+
 *Ich wurde nun in einem Raum platziert, ich sehe grüne Wände und Poster von Eminem und Michael Jackson. Die anderen Bands und Sänger kenne ich noch nicht. Ich bin gespannt, für welche Musik ich jetzt gebraucht werde und wie ich Tommys Identität prägen werde. Eigentlich würde ich gerne nach draußen sehen, in den schönen Garten. Aber mein Blick auf das Bücherregal ist auch toll. Ob Tommy noch viele Bücher lesen wird, wenn er mich jetzt öfters benutzt?*
 
 
 **04. September 2000**
 Ich habe seit längerem einen Schwarm. Sie heißt Anna und geht in meine Klasse. Momentan sind Sommerferien, aber ich habe sie zu mir eingeladen, damit sie mein neues Radio ausprobieren kann. Ich weiß, dass sie zu Hause alles mit ihren drei Geschwistern und ihren Eltern teilen muss und ein eigenes Radio nicht infrage kommt. Ich bin aber der Meinung, dass ein Radio eine Möglichkeit ist, neue Freunde zu finden.  Schließlich hören wir gemeinsam Musik und kommen uns so vielleicht näher. Ihre Lieblingssängerin ist Britney Spears. Zum Glück hat mir mein Freund Hans eine CD mit dem Song „Oops!...I Did It Again“ von Britney Spears gebrannt.   
+
 *Es fällt mir etwas schwer, diese gebrannte CD zu lesen… ich gebe mein Bestes! Diese piepsige Stimme von Britney Spears muss aber nicht sein! Naja, ich helfe Tommy dabei, Anna zu beeindrucken und somit einen Teil seiner Jugend zu sein und seine Identität zu formen.*
+
 Anna ist endlich da! Hoffentlich gefällt ihr mein Ghettoblaster. Der Name des Radios klingt schon beeindruckend, finde ich. Ich hoffe, dass die CD funktioniert, denn manchmal knistert sie im CD-Player. Hans kann zwar CDs brennen, aber manchmal brennt er zu schnell und dann gibt es Brennfehler.  Hoffentlich blamiert mein Radio mich nicht. 
+
 *Puh… was eine Verantwortung! Ich muss nun mit meinem Laserstrahl die CD von innen nach außen abtasten. „Beim Auslesen der Pitstruktur wird der Laserstrahl von den Vertiefungen und den glatten Stellen verschieden reflektiert. Eine lichtempfindliche Fotodiode formt diese Reflexionen in elektrische Signale um.“ Ich schaffe das!*
+
 Es funktioniert! Dabei klingt der Ton überraschend gut. Anna ist beeindruckt und wird bestimmt ihren Freundinnen von meinem Radio erzählen!
 
 
@@ -74,9 +93,10 @@ mehr, was der Moderator gesagt hat.
 
 
 **Ein Jahr später:**
+
 *Tommy benutzt mich immer noch regelmäßig und ich merke, dass er durch mich neue Freunde gewonnen hat. Er benutzt mich auch des Öfteren, wenn es ihm nicht gut geht. Anna hat nämlich jetzt einen Schwarm aus der Parallelklasse und Tommy hört Musik, um sich abzulenken. Ich denke, ich werde ihn noch durch schwierige, aber auch gute Zeiten begleiten. Ich bin glücklich, ein Teil dieser Familie zu sein und vor allem, Tommy zu gehören. Ich diene als Konzept der Identitätsbildung, das heißt, ich forme seine Identität und helfe ihm, verschiedene Ziele zu erreichen. Es ist bekannt, dass Musik die Identität eines Menschen formt, und ich bin froh, ein Medium dafür zu sein.  Ein weiteres Konzept sind die Musik und die Medien. Durch mich lernt Tommy die aktuellsten und beliebtesten Hits dieser Zeit kennen. Auch muss ich auf das Konzept der technologischen Entwicklung aufmerksam machen. Ich bin ein neuer tragbarer CD-Spieler mit Radio, habe Kopfhöreranschluss und man muss mich nicht zwingend an den Strom schließen. Wenn das kein Fortschritt ist! Ich bin gespannt, was ich noch alles erleben werde und wie alt ich noch werde.*
 
-![image](https://github.com/C2DH/maison-du-son/assets/145359036/d5c333e3-234a-4817-979d-52e32a11ffeb)
+
 
 
 
