@@ -4,7 +4,7 @@ abstract: "The Ghettoblaster from Philips is a portable radio from the 1995s."
 authors:
   - morgane-denozi
     
-date: 2023-10-12
+date: 2023-12-21
 ---
 ## Object Biography
 
