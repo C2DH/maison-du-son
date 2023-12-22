@@ -71,8 +71,8 @@ Entschuldigung, aber wie lange reden wir nun schon miteinander? Ich denke ich ha
 (26) Vgl.: STERN, The Audible Past, S.217; 282. <br>
 (27) Vgl.: STERN, The Audible Past, S.217; 275. <br>
 
-## Catalogue Entry ## <br>
-## Hi-Fi, Schlachtschiffe und die Kompaktkassette ## <br>
+## Catalogue Entry## <br>
+## Hi-Fi, Schlachtschiffe und die Kompaktkassette## <br>
 **Die zahlreichen Seelen des Telefunken 4001 Transistors** <br>
 
 Mein Name ist Telefunken 4001 M9 Transistor. (Bild des Objekts hier einfügen/Abbildung 3) Ich bin ein Casetten-Tonbandgerät oder auch System Compact-Cassette für Mono-Aufnahme und -Wiedergabe. Als ich in den 68er-69er hergestellt wurde, war der Markt für Heimtonbandgeräte schon am Stagnieren. Beliebt bin ich nun nur noch bei den Sammlern und den Sound-Amateuren. Trotzdem werde ich ihnen nun etwas über mich erzählen, um das Interesse an mir vielleicht wieder zu entfachen. Als Casetten-Tonbandgerät gehe ich Hand in Hand mit einer Zweispulen-Cassette, welche eine Bandbreite von 3,81mm besitzt. Handelt es sich dabei um eine C60 Cassette kann eine Aufnahmezeit von 2x30 Minuten erreicht werden. Eine C90 Cassette kann dabei sogar eine Spielzeit von 2x45 Minuten erreichen. Die Umspulzeit einer C60 dauert 75 Sekunden. Die Cassette wurde von dem Niederländer Lou Ottens im Jahre 1963 für die Firma Philips erfunden. Eine Revolution der Musikindustrie. Die Tonqualität der Cassette ließ zwar zu wünschen übrig, aber das Tolle war die Mobilität, welche sie mit sich brachte. Musik kam aus dem Haus und wurde in die ganze Welt mitgenommen. Zurück von der Cassette zu mir, es gibt noch genügend über mein Innenleben, das ich ihnen erzählen will. Ich besitze einen Frequenzumfang von 80 bis 1.000 Hz (innerhalb von 6 Dezibel). Energie kann ich aus vier Quellen beziehen. Für gute Aufnahmen steht mir natürlich ein TD 4 Mikrofon von Telefunken zur Seite. Aber nun genug von mir geredet! Wissen sie eigentlich wie eine elektro-magnetische Tonaufzeichnung funktioniert? Nein? Ich stelle es ihnen mal schematisch vor, dazu gebe ich ihnen mal die Erklärung des Handbook of Recording Engineering, dann verstehen sie es vielleicht. <br>
