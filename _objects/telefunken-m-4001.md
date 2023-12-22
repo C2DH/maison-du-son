@@ -111,10 +111,9 @@ Copyright: For the moment, unknown <br>
 <img src="/assets/Telefunken Preisliste.jpeg">
 <img src="/assets/Telefunken Preisliste 02.jpeg"> <br>
 <br>
-• The Deutsches Technikmuseum Berlin possesses large parts of the archival material of the AEG-Telefunken company (pictures/documents/films/ etc.). To what extend these archives are useful is not known at the moment. I contacted the archival department, but there has not been an answer yet. I will update this entry once I get an answer. 
+• The Deutsches Technikmuseum Berlin possesses large parts of the archival material of the AEG-Telefunken company (pictures/documents/films/ etc.). They don't own sources on the Telefunken M4001, but they are still important for the history of the Telefunken company.
 Link to the archive: https://technikmuseum.berlin/sammlung/historisches-archiv/ <br>
-Proof for the communication: 
-<img src="/assets/ProofTechnikMuseum.png"> <br>
+
 Here are some pictures of the object <br>
 Copyright: Deutsches Technik Museum <br>
 <img src="/assets/images/TelefunkenBild1.jpg">
@@ -139,7 +138,12 @@ Archive: The Wisconsin Center for Film and Theater Research <br>
 Page 8 offers an advert using the concept of high fidelity <br>
  A PDF of the whole book will be uploaded on Poseidon as soon as possible <br>
  <br>
- • 
+ •  Title: The Antique Phonograph Monthly
+ •  Title: Telefunken Report 1968-1969 <br>
+ Creator: Telefunken <br>
+ Date: 1968-1969 <br>
+ Language: German <br>
+ Catalogue with the newest items from Telefunken <br>
  <img src="/assets/06ASchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg">
  <img src="/assets/06BSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg">
  <img src="/assets/06CSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg">
@@ -157,4 +161,9 @@ Page 8 offers an advert using the concept of high fidelity <br>
 <img src="/assets/06OSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg">
 <img src="/assets/06PSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg">
 <img src="/assets/06QSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg">
-<img src="/assets/06RSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg">
+<img src="/assets/06RSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg"> <br>
+
+ •  Title: Soundfiles <br>
+ On the poseidon server are several sound sources of children using a sound recorder with a cassette (like the Telefunken 4001) to have fun and play with sound. Interesting sources for reconstructing how children of the past used sound recording. <br>
+ For the final submission in January, I try to get recordings from cassettes played on Albert Wolters Telefunken 4001, if possible with cassettes with Luxembourgich children's music.
+
