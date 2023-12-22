@@ -116,22 +116,22 @@ VAN ES, Karin/ KEILBACH, Judith, ‘Keeping Up the Live: Recorded Television as 
 14.  Radio-Apparate aller Marken, in: Escher Tageblatt. Le Journal d’Esch (10.10.1931), S. 8. <br> 
  
 **5.	Telefunken Werbungen:** <br> 
-15.  Telefunken Werbung, in: Freiburger Nachrichten (22.10.1931), S. 6. <br> 
-16.  Telefunken Werbung, in: Freiburger Nachrichten (29.10.1931), S. 6. <br> 
-17.  Telefunken Werbung, in: Freiburger Nachrichten (06.11.1931), S. 6. <br> 
-18.  Telefunken Werbung, in: Freiburger Nachrichten (17.11.1931), S. 6. <br> 
-19.  Telefunken Werbung, in: Freiburger Nachrichten (03.12.1931), S. 6. <br> 
-20.  Telefunken Werbung, in: Freiburger Nachrichten (17.12.1931), S. 6. <br> 
-21.  Telefunken Werbung, in: Journal de Genève (20.10.1931), S. 6. <br> 
-22.  Telefunken Werbung, in: Journal de Genève (27.10.1931), S. 6. <br> 
-23.  Telefunken Werbung, in: Journal de Genève (10.11.1931), S. 6.<br> 
-24.  Telefunken Werbung, in: Journal de Genève (04.12.1931), S. 8. <br> 
-25.  Telefunken Werbung, in: Journal de Genève (18.12.1931), S. 10. <br> 
-26.  Telefunken Werbung, in: L’Express (06.11.1931), S. 5. <br> 
-27.  Telefunken Werbung, in: L’Express (13.11.1931), S. 2. <br> 
-28.  Telefunken Werbung, in: Luxemburger Wort (10.10.1931), S. 12. <br> 
-29.  Telefunken Werbung, in: Luxemburger Wort (26.11.1931), S. 8. <br> 
-30.  Telefunken Werbung: in: Neue Zürcher Zeitung (28.11.1931), S. 3. <br> 
+15. 15. Telefunken Werbung, in: Freiburger Nachrichten (22.10.1931), S. 6. <br> 
+16. 16. Telefunken Werbung, in: Freiburger Nachrichten (29.10.1931), S. 6. <br> 
+17. 17. Telefunken Werbung, in: Freiburger Nachrichten (06.11.1931), S. 6. <br> 
+18. 18. Telefunken Werbung, in: Freiburger Nachrichten (17.11.1931), S. 6. <br> 
+19. 19. Telefunken Werbung, in: Freiburger Nachrichten (03.12.1931), S. 6. <br> 
+20. 20. Telefunken Werbung, in: Freiburger Nachrichten (17.12.1931), S. 6. <br> 
+21. 21. Telefunken Werbung, in: Journal de Genève (20.10.1931), S. 6. <br> 
+22. 22. Telefunken Werbung, in: Journal de Genève (27.10.1931), S. 6. <br> 
+23. 23. Telefunken Werbung, in: Journal de Genève (10.11.1931), S. 6.<br> 
+24. 24. Telefunken Werbung, in: Journal de Genève (04.12.1931), S. 8. <br> 
+25. 25. Telefunken Werbung, in: Journal de Genève (18.12.1931), S. 10. <br> 
+26. 26. Telefunken Werbung, in: L’Express (06.11.1931), S. 5. <br> 
+27. 27. Telefunken Werbung, in: L’Express (13.11.1931), S. 2. <br> 
+28. 28. Telefunken Werbung, in: Luxemburger Wort (10.10.1931), S. 12. <br> 
+29. 29. Telefunken Werbung, in: Luxemburger Wort (26.11.1931), S. 8. <br> 
+30. 30. Telefunken Werbung: in: Neue Zürcher Zeitung (28.11.1931), S. 3. <br> 
 
 **6.	Fotomaterial:** <br> 
 
