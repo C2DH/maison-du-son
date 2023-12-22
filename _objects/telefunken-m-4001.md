@@ -140,5 +140,6 @@ Page 8 offers an advert using the concept of high fidelity <br>
  A PDF of the whole book will be uploaded on Poseidon as soon as possible <br>
  <br>
  • 
- <img src="/assets/06ASchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg>
- <img src="/assets/06BSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg>
+ <img src="/assets/06ASchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg">
+ <img src="/assets/06BSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg">
+ <img src="/assets/06CSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg">
