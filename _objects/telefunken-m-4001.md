@@ -140,7 +140,7 @@ Doug Boilesen<br>
 Link to the website: https://phonographia.com/Factola/CatherOP.htm <br>
 Here are some important advertisments from the website phonographia.com
 <img src="assets/marygarden-1911 ad v1.jpg
-<img src="/assets/images/TelefunkenBild2.jpg">
+<img src="/assets/Victrola-Farrar et al Sep1919 LHJ.jpg">
 <img src="/assets/images/TelefunkenBild3.jpg">
 <img src="/assets/images/TelefunkenBild4.jpg">
 <br>
@@ -157,7 +157,6 @@ Language: English <br>
 Archive: The Wisconsin Center for Film and Theater Research <br>
 Page 8 offers an advert using the concept of high fidelity <br>
  A PDF of the whole book was uploaded on Poseidon  <br>
-<img src="/assets/images/Telefunkenfestschrift.jpg"> <br>
  <img src="/assets/RecordChanger.PNG"> <br>
  <br>
  •  Title: The Antique Phonograph Monthly
