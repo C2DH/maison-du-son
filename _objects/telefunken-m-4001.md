@@ -139,7 +139,7 @@ Doug Boilesen<br>
 
 Link to the website: https://phonographia.com/Factola/CatherOP.htm <br>
 Here are some important advertisments from the website phonographia.com
-<img src="
+<img src="assets/marygarden-1911 ad v1.jpg
 <img src="/assets/images/TelefunkenBild2.jpg">
 <img src="/assets/images/TelefunkenBild3.jpg">
 <img src="/assets/images/TelefunkenBild4.jpg">
