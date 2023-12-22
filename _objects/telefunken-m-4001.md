@@ -184,7 +184,7 @@ Page 8 offers an advert using the concept of high fidelity <br>
 
  •  Title: Magnetophon KL 35 Advertisment <br>
  While this ad is from another Telefunken Magnetophon, it is itnresting how they visualized sound recording as a cocktail
- <img src="/assets/06RSchlottert_TelefunkenReport196869_Deutsches Technikmuseum..jpg.jpg"> <br>
+ <img src="/assets/MagnetophonCocktail.jpg"> <br>
  •  Title: Soundfiles <br>
  On the poseidon server are several sound sources of children using a sound recorder with a cassette (like the Telefunken 4001) to have fun and play with sound. Interesting sources for reconstructing how children of the past used sound recording. <br>
  For the final submission in January, I try to get recordings from cassettes played on Albert Wolters Telefunken 4001, if possible with cassettes with Luxembourgich children's music.
