@@ -121,7 +121,7 @@ Copyright: Deutsches Technik Museum <br>
 <img src="/assets/images/TelefunkenBild3.jpg">
 <img src="/assets/images/TelefunkenBild4.jpg">
 <br>
-• The website Phonographia.com offers ads of the first phonographer producing companies. They are extremly important in the context of the context of sound reproduction and fidelity/high fidelity. Unfortunately, the formate of the website does not allow a proper use of the advertisments. I got a reply by the owner of the webiste, which is the following:
+• The website Phonographia.com offers ads of the first phonographer producing companies. They are extremly important in the context of the context of sound reproduction and fidelity/high fidelity. Unfortunately, the formate of the website does not allow a proper use of the advertisments. I got a reply by the owner of the webiste, which is the following: <br>
 Hello Pol,<br>
 Thanks for taking a look at Phonographia.com.<br>
 I call it my scrapbook of phonograph ephemera and popular culture connections with the phonograph. <br>
@@ -135,13 +135,11 @@ Hope this helps.<br>
 Best,<br>
 Doug Boilesen<br>
 
-
-
 Link to the website: https://phonographia.com/Factola/CatherOP.htm <br>
 Here are some important advertisments from the website phonographia.com
-<img src="assets/marygarden-1911 ad v1.jpg
+<img src="assets/marygarden-1911 ad v1.jpg">
 <img src="/assets/Victrola-Farrar et al Sep1919 LHJ.jpg">
-<img src="/assets/images/TelefunkenBild3.jpg">
+<img src="//assets/1908 Oct10 Farrar Which 375.jpg">
 <img src="/assets/images/TelefunkenBild4.jpg">
 <br>
 • Festschrift zum 50 jährigen Jubiläum der Telefunken Gesellschaft für Drahtlose Telegraphie, Language: German,<br>
