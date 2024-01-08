@@ -13,16 +13,6 @@ Chers visiteurs, voici l'histoire de la radio Grundig 3045W/3D racontée par la 
 **Grundig 3045W/3D :**
 
 Bonjour mes chers supporters. Je suis la meilleure actrice que vous ayez vue et écoutée. Vous êtes sûrement curieux par mon histoire. Je vais vous la raconter : Le tout a commencé avec ma formation [^2] dans mon agence [^3], l’agence Grundig, fondée par Max Grundig né vers 1908 en Allemagne et malheureusement décédé en 1989. Dans les années 1930, M. Grundig avait ouvert une boutique de radios et vendait des produits liés aux sons. Après la Deuxième Guerre mondiale, le patron s’est déplacé à Fürth où il a créé sa propre usine produisant des pièces pour radios[^4], puisque de nombreuses radios devaient être réparées.[^5] Son logo est un trèfle à trois feuilles, tout comme le blason de la ville Fürth.[^6] Le but M. Grundig était de créer des radios pour tout le monde, peu importe la classe sociale ou le revenu de la famille.[^7] Bien sûr, tout le monde méritait d’écouter ma belle voix, fufufu. En 1952, peu avant ma formation, M. Grundig avait créé une des premières télévisions.[^8] C’est ce machin-là avec des images qui tuent la créativité et l’imagination et qui ne permettent pas de créer des mondes fictifs.[^9] J’ai entendu que les affaires ne se sont pas bien passées par la suite, puisque plusieurs usines ont dû fermer.[^10] Le patron aurait dû continuer avec mes fabrications. C’est moi qui ,e trouve ici devant vous, et pas ces boites à images. C’est sa perte. Mwahaha.
-[^1]: Albert Wolter, Grundig 3045 W/3D 1954, catalogue 1, numéro 18
-[^2]: Formation= production.
-[^3]: Agence= entreprise.
-[^4]: Archives, L. A. Times, ‘Max Grundig; Radio, Television Pioneer’, Los Angeles Times, 1989 <https://www.latimes.com/archives/la-xpm-1989-12-15-mn-128-story.html> [accessed 20 June 2023]
-[^5]: ‘Die Unternehmenshistorie von Grundig’ <https://www.grundig.com/de-de/ueber-grundig/unternehmen/unternehmensgeschichte> [accessed 20 June 2023]
-[^6]:   Denuziere, Maurice, ‘MAX GRUNDIG ET SON EMPIRE ÉLECTRONIQUE : UN LOUP DANS LE TRÈFLE’, Le Monde.fr, 14 October 1970 <https://www.lemonde.fr/archives/article/1970/10/14/max-grundig-et-son-empire-electronique-un-loup-dans-le-trefle_2660222_1819218.html> [accessed 20 June 2023]
-[^7]: ‘Tonbandmuseum - Sie Sind Im Bereich: Grundig Biografie 5b’ 
-[^8]: Archives, L. A. Times, ‘Max Grundig; Radio, Television Pioneer’
-[^9]: Michelsen, Morten, ‘Radio Imaginaries: Music, Space and Broadcasting in the 1950s’, in The Oxford Handbook of Sound and Imagination (New York: Oxford University Press, 2019), i, 377–400, p. 377.
-[^10]: Archives, L. A. Times, ‘Max Grundig; Radio, Television Pioneer’
 
 Après ma formation, je suis apparue dans des catalogues qui décrivaient mes compétences d’actrice, afin de donner envie aux clients de me procurer.[^11] En voici un exemple qui montre toute ma splendeur: ![image](https://github.com/C2DH/maison-du-son/assets/145685621/7c689266-1003-4590-b0a0-7e206486806c)[^12] Maintenant que j’évoque mes compétences, je vais vous expliquer ce dont je suis capable. Je suis née le 20 octobre 1954.[^13] Je suis un appareil à sept lampes.[^14] Je possède un clavier à six touches, deux boutons et un cadran rectangulaire. Je suis faite à partir de bois et je possède trois haut-parleurs.[^15] En 1954, monsieur Grundig a commencé à produire des radios avec un « 3-D-Klang »[^16], celui que je possède. Pour créer l’effet 3-dimensionnel, les fabricants m’ont mis des haut-parleurs de chaque côté. Ceci sert aux sons élevés.[^17] Pour que les auditeurs sachent que je possède ce système, je détiens un bijou en laiton[^18] où il y a inscrit 3D Klang sur mon tissu acoustique en bas à gauche.
 
@@ -42,6 +32,16 @@ En parlant de meurtre, je suis presque décédée par manque d’intérêt, huff
 
 Dorénavant, je me retrouve devant vous pour vous raconter mon histoire. Prenez le temps de m’admirer, surtout que maintenant, ma formation n’est plus proposée. Ne prêtez pas attention aux autres actrices qui me ressemblent. Qu’elles sont ridicules ! Elles veulent juste me copier. Voilà, maintenant, vous savez tout de mon excellente vie et de mon parcours. Bien sûr, vous ne savez pas tout, car une dame a toujours ses secrets. À présent, n’oubliez pas de me prendre en photo et rendre les autres vieilles radios vertes de jalousie, mwahahaha.
 
+[^1]: Albert Wolter, Grundig 3045 W/3D 1954, catalogue 1, numéro 18
+[^2]: Formation= production.
+[^3]: Agence= entreprise.
+[^4]: Archives, L. A. Times, ‘Max Grundig; Radio, Television Pioneer’, Los Angeles Times, 1989 <https://www.latimes.com/archives/la-xpm-1989-12-15-mn-128-story.html> [accessed 20 June 2023]
+[^5]: ‘Die Unternehmenshistorie von Grundig’ <https://www.grundig.com/de-de/ueber-grundig/unternehmen/unternehmensgeschichte> [accessed 20 June 2023]
+[^6]:   Denuziere, Maurice, ‘MAX GRUNDIG ET SON EMPIRE ÉLECTRONIQUE : UN LOUP DANS LE TRÈFLE’, Le Monde.fr, 14 October 1970 <https://www.lemonde.fr/archives/article/1970/10/14/max-grundig-et-son-empire-electronique-un-loup-dans-le-trefle_2660222_1819218.html> [accessed 20 June 2023]
+[^7]: ‘Tonbandmuseum - Sie Sind Im Bereich: Grundig Biografie 5b’ 
+[^8]: Archives, L. A. Times, ‘Max Grundig; Radio, Television Pioneer’
+[^9]: Michelsen, Morten, ‘Radio Imaginaries: Music, Space and Broadcasting in the 1950s’, in The Oxford Handbook of Sound and Imagination (New York: Oxford University Press, 2019), i, 377–400, p. 377.
+[^10]: Archives, L. A. Times, ‘Max Grundig; Radio, Television Pioneer’
 [^11]: ‘Magnetbandmuseum - Sie Sind Im Bereich: Die “Grundig Revue”’ <http://www.magnetbandmuseum.info/grundig-revue.html> [accessed 20 June 2023]
 [^12]: Image tirée de : ‘Grundig 3D-Revue 1955’ <https://www.hifi-archiv.info/Grundig/1955-Revue/> [accessed 19 June 2023], p. 7.
 [^13]: Albert Wolter, Grundig 3045 W/3D 1954, catalogue 1, numéro 18.
