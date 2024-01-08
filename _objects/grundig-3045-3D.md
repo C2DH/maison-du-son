@@ -4,7 +4,7 @@ abstract: "Radio created by Grundig in 1954."
 authors:
   - Alice-PR
 ---
-![image](https://github.com/C2DH/maison-du-son/assets/145685621/7181f3ab-4b23-49fc-997c-0c0bce81ee10) [^1]
+![image](https://github.com/C2DH/maison-du-son/assets/145685621/7181f3ab-4b23-49fc-997c-0c0bce81ee10)  [^1]
 
 **Voix off :**
 
@@ -12,7 +12,7 @@ Chers visiteurs, voici l'histoire de la radio Grundig 3045W/3D racontée par la 
 
 **Grundig 3045W/3D :**
 
-Bonjour mes chers supporters. Je suis la meilleure actrice que vous ayez vue et écoutée. Vous êtes sûrement curieux par mon histoire. Je vais vous la raconter : Le tout a commencé avec ma formation[^2] dans mon agence[^3], l’agence Grundig, fondée par Max Grundig né vers 1908 en Allemagne et malheureusement décédé en 1989. Dans les années 1930, M. Grundig avait ouvert une boutique de radios et vendait des produits liés aux sons. Après la Deuxième Guerre mondiale, le patron s’est déplacé à Fürth où il a créé sa propre usine produisant des pièces pour radios[^4], puisque de nombreuses radios devaient être réparées.[^5] Son logo est un trèfle à trois feuilles, tout comme le blason de la ville Fürth.[^6] Le but M. Grundig était de créer des radios pour tout le monde, peu importe la classe sociale ou le revenu de la famille.[^7] Bien sûr, tout le monde méritait d’écouter ma belle voix, fufufu. En 1952, peu avant ma formation, M. Grundig avait créé une des premières télévisions.[^8] C’est ce machin-là avec des images qui tuent la créativité et l’imagination et qui ne permettent pas de créer des mondes fictifs.[^9] J’ai entendu que les affaires ne se sont pas bien passées par la suite, puisque plusieurs usines ont dû fermer.[^10] Le patron aurait dû continuer avec mes fabrications. C’est moi qui ,e trouve ici devant vous, et pas ces boites à images. C’est sa perte. Mwahaha.
+Bonjour mes chers supporters. Je suis la meilleure actrice que vous ayez vue et écoutée. Vous êtes sûrement curieux par mon histoire. Je vais vous la raconter : Le tout a commencé avec ma formation [^2] dans mon agence [^3], l’agence Grundig, fondée par Max Grundig né vers 1908 en Allemagne et malheureusement décédé en 1989. Dans les années 1930, M. Grundig avait ouvert une boutique de radios et vendait des produits liés aux sons. Après la Deuxième Guerre mondiale, le patron s’est déplacé à Fürth où il a créé sa propre usine produisant des pièces pour radios[^4], puisque de nombreuses radios devaient être réparées.[^5] Son logo est un trèfle à trois feuilles, tout comme le blason de la ville Fürth.[^6] Le but M. Grundig était de créer des radios pour tout le monde, peu importe la classe sociale ou le revenu de la famille.[^7] Bien sûr, tout le monde méritait d’écouter ma belle voix, fufufu. En 1952, peu avant ma formation, M. Grundig avait créé une des premières télévisions.[^8] C’est ce machin-là avec des images qui tuent la créativité et l’imagination et qui ne permettent pas de créer des mondes fictifs.[^9] J’ai entendu que les affaires ne se sont pas bien passées par la suite, puisque plusieurs usines ont dû fermer.[^10] Le patron aurait dû continuer avec mes fabrications. C’est moi qui ,e trouve ici devant vous, et pas ces boites à images. C’est sa perte. Mwahaha.
 [^1]: Albert Wolter, Grundig 3045 W/3D 1954, catalogue 1, numéro 18
 [^2]: Formation= production.
 [^3]: Agence= entreprise.
