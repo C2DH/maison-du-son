@@ -50,6 +50,10 @@ Oh, the fun we used to have together. I used to be so central to their daily lif
 
 Fig. 5. The Philetta's soft glow.
 
+James Last's dance songs:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uu1wPFdCmcY?si=HExLl7kOhftIeToS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I love to reminisce about those times. Thanks to my durability, we spent almost 20 years together. But all good things come to an end at some point. Even though the Philetta series is the longest-built series of a European manufacturer, my personal technology became outdated. Transistor radio took over in 1967 when the last tube radio was released. Transistor technology allowed the production of smaller and more portable devices, such as the Philetta 22RB292 from 1970, which significantly shrunk in size and therefore also changed in design. Additionally, television gained a hand making me more and more redundant. Eventually, I was retired. Now my resting place is in the attic, where I’m collecting dust and waiting for a restoration.[11]
 
 
@@ -191,6 +195,10 @@ Asset link: assets/images/philips_philetta_223_b2d23a_sm.pdf
 
 **Audio sources**
 
+“Love and Kisses” by James Last: https://youtu.be/uu1wPFdCmcY?si=pWFtuLW7rpftFsDV 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uu1wPFdCmcY?si=HExLl7kOhftIeToS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Sounds of brown Bakelite Philetta B2D23A: https://www.youtube.com/watch?v=nQEuYHIcCfs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nQEuYHIcCfs?si=xgvinmBZMhjh1NZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
@@ -204,6 +212,9 @@ Sounds of ivory Philetta B2D13A: https://www.youtube.com/watch?v=eItyhwzZUyk
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eItyhwzZUyk?si=2aImMHNwtyoGVE1J&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 --
+
+“Swinging Creeper”, “Die Grossen Acht“ Intro sound. Mp3 file. 
+
 
 Oral history: interview with an owner of a Philetta. Mp3 file.
 Assets link: https://github.com/C2DH/maison-du-son/blob/master/assets/images/Interview%20Philetta%20JM%20Resch.m4a 
