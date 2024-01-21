@@ -54,6 +54,7 @@ James Last's dance songs:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uu1wPFdCmcY?si=HExLl7kOhftIeToS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 I love to reminisce about those times. Thanks to my durability, we spent almost 20 years together. But all good things come to an end at some point. Even though the Philetta series is the longest-built series of a European manufacturer, my personal technology became outdated. Transistor radio took over in 1967 when the last tube radio was released. Transistor technology allowed the production of smaller and more portable devices, such as the Philetta 22RB292 from 1970, which significantly shrunk in size and therefore also changed in design. Additionally, television gained a hand making me more and more redundant. Eventually, I was retired. Now my resting place is in the attic, where I’m collecting dust and waiting for a restoration.[11]
 
 
@@ -116,11 +117,15 @@ ETZ: Elektrotechnische Zeitschrift: Ausg. A.. (Deutschland: VDE-Verlag, 1949), U
 
 Hilmes, Michele. Radio Voices: American Broadcasting, 1922-1952. (U of Minnesota Press, 1997).
 
+Ilse Obrig oder: Die Erfindung der Kinderstunde und des Sandmännchens, report in: Das waren noch Zeiten!, URL:  http://www.das-waren-noch-zeiten.de/forum/index.php?page=Thread&postID=5276 (accessed 17.01.24)
+
 Lee, David, Hundert Jahre Radio: Ein techniklastiger Rückblick ‘Hundert Jahre Radio: Ein techniklastiger Rückblick’, Galaxus, 2018 <https://www.galaxus.de/de/page/hundert-jahre-radio-ein-techniklastiger-rueckblick-8895> [accessed 20 June 2023]
 
 Loubere, Philip, A History of Communication Technology (New York: Routledge, 2021) https://doi.org/10.4324/9780429265723 
 
 Philetta der 50er Jahre ist zurück: Philips präsentiert das Original Radio’, Philips, URL: https://www.philips.de/a-w/about/news/archive/standard/news/consumerlifestyle/20120828_Philips_praesentiert_das_OriginalRadio.html [accessed 20 June 2023]
+
+RTL Radio Luxemburg Chronik, 1957 bis heute, in : https://www.radiojournal.de/luxi/rtlradio-chronik/1957/1957-2.htm (accessed 21.01.2024).
 
 Scannell, Paddy, Television and the Meaning of “Live”: An Enquiry into the Human Situation. (N.p.: Polity, 2014).
 
