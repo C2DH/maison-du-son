@@ -66,9 +66,9 @@ I love to reminisce about those times. Thanks to my durability, we spent almost 
 
 [2] Ibid., p. 3-5.
 
-[3] Ibid, p. 4.
+[3] Ilse Obrig oder: Die Erfindung der Kinderstunde und des Sandmännchens, report in: Das waren noch Zeiten!, URL:  http://www.das-waren-noch-zeiten.de/forum/index.php?page=Thread&postID=5276 (accessed 17.01.24) 
 
-[4] Ilse Obrig oder: Die Erfindung der Kinderstunde und des Sandmännchens, report in: Das waren noch Zeiten!, URL:  http://www.das-waren-noch-zeiten.de/forum/index.php?page=Thread&postID=5276 (accessed 17.01.24)
+[4] Ibid, p. 4.
 
 [5] RTL Radio Luxemburg Chronik, 1957 bis heute, in : https://www.radiojournal.de/luxi/rtlradio-chronik/1957/1957-2.htm (accessed 21.01.2024).
 
