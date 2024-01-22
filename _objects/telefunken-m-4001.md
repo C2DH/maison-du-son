@@ -83,7 +83,7 @@ Ich bin ein Casetten-Tonbandgerät oder auch System Compact-Cassette für Mono-A
 Aber nun genug von mir geredet! Wissen sie eigentlich, wie eine elektro-magnetische Tonaufzeichnung funktioniert? Nein? Ich stelle es ihnen mal schematisch vor, dazu gebe ich ihnen mal die Erklärung des Handbook of Recording Engineering, dann verstehen sie es vielleicht. <br>
 “As shown, the system is in playback mode, and erase and record functions are disabled. When the machine is put into record mode, both erase and record switches are engaged. The erase head then removes any remnant signal on the tape, and a new signal is laid down by the record head. The AC bias oscillator feeding the erase and record heads produces a signal in the range of 100 kHz or higher. A relatively small amount of bias current flows through the record head along with the audio signal to be recorded.” (3)  (QR Code um Abbildung 1 zu zeigen) <br>
 <img src="/assets/images/Basic Elements of Tape recorder.png"> <br>
-Ich hoffe, dass sie dadurch ein einfaches Wissen über die Magnetische Tonaufzeichnung gewinnen konnten. <br>
+Ich hoffe, dass sie dadurch ein einfaches Wissen über die Magnetische Tonaufzeichnung gewinnen konnten. 
  
 **Die historische Seele** 
  
