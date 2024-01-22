@@ -148,6 +148,10 @@ Assets link: https://github.com/C2DH/maison-du-son/blob/master/assets/images/Adv
 Advertisement in L‘Impartial, 21.12.1956, p. 4. URL: https://impresso-project.ch/app/issue/IMP-1956-12-21-a/view?sq=CgIYAgoYEAIYByABKhBwaGlsaXBzIHBoaWxldHRh&p=4&articleId=i0045
 Assets link: https://github.com/C2DH/maison-du-son/blob/5c0962bf8ab8b58b4cbea4dde1837098acf79e9a/assets/images/Advertisement%20in%20L%E2%80%98Impartial%2C%2021.12.1956%2C%20p.%204.png 
 
+Advertisement of Radio-Luxemburg’s hit show “Die groen Acht”, in: BrandHistory.com. URL: https://brand-history.com/rtl-group/rtl-group-rtl/rtl-radio-luxemburg-die-frohlichen-wellen-radio-luxemburg-die-grossen-acht-sujet-frank-elstner-zweiter-privater-fernsehveranstalter-der-bu 
+Assets link:
+
+
 Der Radiobote.
 Der Radiobote is a reference publication published 6 times a year. Over 28 pages this publication lists useful information regarding historic radios and targets collectors. This might be relevant for further information on the Philetta. It is however only available when ordered from the publisher. URL:  https://www.sammeln.at/sammlerliteratur/der-radiobote--5009.html
 
