@@ -149,7 +149,7 @@ Advertisement in L‘Impartial, 21.12.1956, p. 4. URL: https://impresso-project.
 Assets link: https://github.com/C2DH/maison-du-son/blob/5c0962bf8ab8b58b4cbea4dde1837098acf79e9a/assets/images/Advertisement%20in%20L%E2%80%98Impartial%2C%2021.12.1956%2C%20p.%204.png 
 
 Advertisement of Radio-Luxemburg’s hit show “Die groen Acht”, in: BrandHistory.com. URL: https://brand-history.com/rtl-group/rtl-group-rtl/rtl-radio-luxemburg-die-frohlichen-wellen-radio-luxemburg-die-grossen-acht-sujet-frank-elstner-zweiter-privater-fernsehveranstalter-der-bu 
-Assets link:
+Assets link:https://github.com/C2DH/maison-du-son/blob/master/assets/Source%2023%20-%20Ad%20die%20grossen%20Acht%20Radio%20Luxemburg.jpeg
 
 
 Der Radiobote.
