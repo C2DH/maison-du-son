@@ -1,7 +1,6 @@
 ---
 title: Bush TR82 BLU
-abstract: "This object biography delves into the rich history of the Bush TR82 transistor radio, a British electronics gem from the 1950s. It explores how Bush, a company established in the 1930s, ventured into radio production, unveiling the TR82 in 1959. This portable radio quickly gained popularity among teenagers for its iconic design. The narrative also recounts an endearing intergenerational connection as Lily's grandmother, Alice, shares her personal experience with the TR82 and how it played a role in her life. It highlights the iconic "Be the Girl with Bush" advertising campaign, symbolizing freedom and modernity.
-It also explores the evolution of the TR82 series, leading to the creation of the TR82BLU in 2002, blending classic design with modern features. Ultimately, it emphasizes the cultural significance of these radios as symbols of liberation and individuality in their respective eras, leaving an enduring mark on the history of radio and societal norms." 
+abstract: "This object biography delves into the rich history of the Bush TR82 transistor radio, a British electronics gem from the 1950s." 
 authors:
  - benjamin-juchem
 date: 2023-10-03
